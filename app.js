@@ -86,6 +86,7 @@ function renderGrid() {
 
 const modal = document.getElementById("card-modal");
 let modalOpen = false;
+let closingFromHistory = false;
 
 function openModal(card) {
   const p = card.price || {};
@@ -124,13 +125,21 @@ function openModal(card) {
 
 function closeModal() {
   if (!modalOpen) return;
-  modal.close();
   modalOpen = false;
-  if (history.state && history.state.modal) history.back();
+  closingFromHistory = true; // we own the history pop
+  modal.close();
+  history.back();
 }
 
 modal.addEventListener("close", () => {
   modalOpen = false;
+  if (closingFromHistory) {
+    closingFromHistory = false; // closeModal already called history.back()
+    return;
+  }
+  // closed by ESC / form cancel: we own the pop
+  closingFromHistory = true;
+  setTimeout(() => { closingFromHistory = false; }, 0);
   if (history.state && history.state.modal) history.back();
 });
 document.getElementById("modal-close").addEventListener("click", closeModal);
