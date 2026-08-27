@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow">
+<title>Pokémon Wishlist</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="site-header">
+  <h1>Pokémon Wishlist</h1>
+  <p class="meta" id="meta-line">loading…</p>
+  <p class="meta stock" id="stock-line"></p>
+</header>
+
+<main id="grid" class="grid" aria-label="Wishlist cards"></main>
+
+<footer class="site-footer">
+  <p>Prices are indicative market values (Cardmarket trend via pokemontcg.io · PriceCharting · e-pick retail), not offers.</p>
+  <p>Stock: <a href="https://store.e-pick.xyz/" rel="noopener">store.e-pick.xyz</a> — <span id="footer-stock">checking live…</span></p>
+</footer>
+
+<dialog id="card-modal" aria-modal="true">
+  <article class="modal-body" id="modal-body"><!-- filled by JS --></article>
+  <button class="modal-close" id="modal-close" aria-label="Close">×</button>
+</dialog>
+
+<script src="app.js"></script>
+</body>
+</html>
