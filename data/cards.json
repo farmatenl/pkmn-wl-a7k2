@@ -829,5 +829,335 @@
   "epick": {
    "matched": false
   }
+ },
+ {
+  "id": "20260606-WA0018",
+  "image": "images/IMG-20260606-WA0018.jpg",
+  "name": "Tinkatuff",
+  "set": "Paldea Evolved",
+  "number": "217",
+  "language": "English",
+  "priority": "high",
+  "price": {
+   "trend": 13.09,
+   "trendLabel": "Cardmarket 7-day average",
+   "currency": "EUR",
+   "source": "cardmarket-tcggo",
+   "asOf": "2026-08-27"
+  },
+  "epick": {
+   "matched": false
+  }
+ },
+ {
+  "id": "20260606-WA0020",
+  "image": "images/IMG-20260606-WA0020.jpg",
+  "name": "Iono",
+  "set": "Paldea Evolved",
+  "number": "269",
+  "language": "English",
+  "priority": "high",
+  "price": {
+   "trend": 27.0,
+   "trendLabel": "Cardmarket 7-day average",
+   "currency": "EUR",
+   "source": "cardmarket-tcggo",
+   "asOf": "2026-08-27"
+  },
+  "epick": {
+   "matched": false
+  }
+ },
+ {
+  "id": "20260606-WA0021",
+  "image": "images/IMG-20260606-WA0021.jpg",
+  "name": "Tinkaton ex",
+  "set": "Paldea Evolved",
+  "number": "262",
+  "language": "English",
+  "priority": "high",
+  "price": {
+   "trend": 32.48,
+   "trendLabel": "Cardmarket 7-day average",
+   "currency": "EUR",
+   "source": "cardmarket-tcggo",
+   "asOf": "2026-08-27"
+  },
+  "epick": {
+   "matched": false
+  }
+ },
+ {
+  "id": "20260606-WA0024",
+  "image": "images/IMG-20260606-WA0024.jpg",
+  "name": "Lillie's Clefairy ex",
+  "set": "Journey Together",
+  "number": "184",
+  "language": "English",
+  "priority": "high",
+  "price": {
+   "trend": 101.52,
+   "trendLabel": "Cardmarket 7-day average",
+   "currency": "EUR",
+   "source": "cardmarket-tcggo",
+   "asOf": "2026-08-27"
+  },
+  "epick": {
+   "matched": false
+  }
+ },
+ {
+  "id": "20260606-WA0033",
+  "image": "images/IMG-20260606-WA0033.jpg",
+  "name": "Pawmot",
+  "set": "Scarlet & Violet",
+  "number": "209",
+  "language": "English",
+  "priority": "high",
+  "price": {
+   "trend": 7.11,
+   "trendLabel": "Cardmarket 7-day average",
+   "currency": "EUR",
+   "source": "cardmarket-tcggo",
+   "asOf": "2026-08-27"
+  },
+  "epick": {
+   "matched": false
+  }
+ },
+ {
+  "id": "20260606-WA0035",
+  "image": "images/IMG-20260606-WA0035.jpg",
+  "name": "Deerling",
+  "set": "Black Bolt",
+  "number": "091",
+  "language": "English",
+  "priority": "high",
+  "price": {
+   "trend": 6.59,
+   "trendLabel": "Cardmarket 7-day average",
+   "currency": "EUR",
+   "source": "pokemontcg.io-fallback",
+   "asOf": "2026-08-27"
+  },
+  "epick": {
+   "matched": false
+  },
+  "notes": "Batch-2. Price via pokemontcg.io Cardmarket avg (TCGGO lookup failed)."
+ },
+ {
+  "id": "20260606-WA0038",
+  "image": "images/IMG-20260606-WA0038.jpg",
+  "name": "Froakie",
+  "set": "Chaos Rising",
+  "number": "088",
+  "language": "English",
+  "priority": "high",
+  "price": {
+   "trend": 7.99,
+   "trendLabel": "Cardmarket 7-day average",
+   "currency": "EUR",
+   "source": "cardmarket-tcggo",
+   "asOf": "2026-08-27"
+  },
+  "epick": {
+   "matched": false
+  }
+ },
+ {
+  "id": "20260606-WA0041",
+  "image": "images/IMG-20260606-WA0041.jpg",
+  "name": "Piplup",
+  "set": "Unified Minds",
+  "number": "239",
+  "language": "English",
+  "priority": "high",
+  "price": {
+   "trend": 61.91,
+   "trendLabel": "Cardmarket 7-day average",
+   "currency": "EUR",
+   "source": "pokemontcg.io-fallback",
+   "asOf": "2026-08-27"
+  },
+  "epick": {
+   "matched": false
+  },
+  "notes": "Batch-2. Price via pokemontcg.io Cardmarket avg (TCGGO lookup failed)."
+ },
+ {
+  "id": "20260606-WA0045",
+  "image": "images/IMG-20260606-WA0045.jpg",
+  "name": "Poke Kid",
+  "set": "Shining Fates",
+  "number": "070",
+  "language": "English",
+  "priority": "high",
+  "price": {
+   "trend": 8.03,
+   "trendLabel": "Cardmarket 7-day average",
+   "currency": "EUR",
+   "source": "cardmarket-tcggo",
+   "asOf": "2026-08-27"
+  },
+  "epick": {
+   "matched": false
+  }
+ },
+ {
+  "id": "20260606-WA0055",
+  "image": "images/IMG-20260606-WA0055.jpg",
+  "name": "Flareon-EX",
+  "set": "Generations",
+  "number": "RC29",
+  "language": "English",
+  "priority": "high",
+  "price": {
+   "trend": 54.0,
+   "trendLabel": "Cardmarket 7-day average",
+   "currency": "EUR",
+   "source": "pokemontcg.io-fallback",
+   "asOf": "2026-08-27"
+  },
+  "epick": {
+   "matched": false
+  },
+  "notes": "Batch-2. Price via pokemontcg.io Cardmarket avg (TCGGO lookup failed)."
+ },
+ {
+  "id": "20260606-WA0058",
+  "image": "images/IMG-20260606-WA0058.jpg",
+  "name": "Pikachu",
+  "set": "Generations",
+  "number": "RC23",
+  "language": "English",
+  "priority": "high",
+  "price": {
+   "trend": 0.83,
+   "trendLabel": "Cardmarket 7-day average",
+   "currency": "EUR",
+   "source": "pokemontcg.io-fallback",
+   "asOf": "2026-08-27"
+  },
+  "epick": {
+   "matched": false
+  },
+  "notes": "Batch-2. Price via pokemontcg.io Cardmarket avg (TCGGO lookup failed)."
+ },
+ {
+  "id": "20260606-WA0060",
+  "image": "images/IMG-20260606-WA0060.jpg",
+  "name": "Emolga",
+  "set": "Generations",
+  "number": "RC32",
+  "language": "English",
+  "priority": "high",
+  "price": {
+   "trend": 82.27,
+   "trendLabel": "Cardmarket 7-day average",
+   "currency": "EUR",
+   "source": "pokemontcg.io-fallback",
+   "asOf": "2026-08-27"
+  },
+  "epick": {
+   "matched": false
+  },
+  "notes": "Batch-2. Price via pokemontcg.io Cardmarket avg (TCGGO lookup failed)."
+ },
+ {
+  "id": "20260606-WA0065",
+  "image": "images/IMG-20260606-WA0065.jpg",
+  "name": "Bulbasaur",
+  "set": "Black Bolt",
+  "number": "013",
+  "language": "English",
+  "priority": "high",
+  "price": {
+   "trend": 0.02,
+   "trendLabel": "Cardmarket 7-day average",
+   "currency": "EUR",
+   "source": "pokemontcg.io-fallback",
+   "asOf": "2026-08-27"
+  },
+  "epick": {
+   "matched": false
+  },
+  "notes": "Batch-2. Price via pokemontcg.io Cardmarket avg (TCGGO lookup failed)."
+ },
+ {
+  "id": "20260629-WA0021",
+  "image": "images/IMG-20260629-WA0021.jpg",
+  "name": "Altaria",
+  "set": "Crown Zenith Galarian Gallery",
+  "number": "GG19",
+  "language": "English",
+  "priority": "high",
+  "price": {
+   "trend": 7.67,
+   "trendLabel": "Cardmarket 7-day average",
+   "currency": "EUR",
+   "source": "pokemontcg.io-fallback",
+   "asOf": "2026-08-27"
+  },
+  "epick": {
+   "matched": false
+  },
+  "notes": "Batch-2. Price via pokemontcg.io Cardmarket avg (TCGGO lookup failed)."
+ },
+ {
+  "id": "20260827-WA0028",
+  "image": "images/IMG-20260827-WA0028.jpg",
+  "name": "Wailord",
+  "set": "Journey Together",
+  "number": "162",
+  "language": "English",
+  "priority": "high",
+  "price": {
+   "trend": 14.12,
+   "trendLabel": "Cardmarket 7-day average",
+   "currency": "EUR",
+   "source": "cardmarket-tcggo",
+   "asOf": "2026-08-27"
+  },
+  "epick": {
+   "matched": false
+  }
+ },
+ {
+  "id": "20260827-WA0029",
+  "image": "images/IMG-20260827-WA0029.jpg",
+  "name": "Misty's Lapras",
+  "set": "Destined Rivals",
+  "number": "194",
+  "language": "English",
+  "priority": "high",
+  "price": {
+   "trend": 24.84,
+   "trendLabel": "Cardmarket 7-day average",
+   "currency": "EUR",
+   "source": "cardmarket-tcggo",
+   "asOf": "2026-08-27"
+  },
+  "epick": {
+   "matched": false
+  }
+ },
+ {
+  "id": "20260827-WA0030",
+  "image": "images/IMG-20260827-WA0030.jpg",
+  "name": "Applin",
+  "set": "Twilight Masquerade",
+  "number": "185",
+  "language": "English",
+  "priority": "high",
+  "price": {
+   "trend": 6.58,
+   "trendLabel": "Cardmarket 7-day average",
+   "currency": "EUR",
+   "source": "cardmarket-tcggo",
+   "asOf": "2026-08-27"
+  },
+  "epick": {
+   "matched": false
+  }
  }
 ]

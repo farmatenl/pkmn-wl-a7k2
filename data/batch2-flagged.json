@@ -1,38 +1,37 @@
 [
- {
-  "image": "images/IMG-20260606-WA0039.jpg",
-  "name": null
- },
- {
-  "image": "images/IMG-20260606-WA0042.jpg",
-  "name": null
- },
- {
-  "image": "images/IMG-20260606-WA0043.jpg",
-  "name": "Rufflet"
- },
- {
-  "image": "images/IMG-20260606-WA0046.jpg",
-  "name": "Mega Sableye & Tyranitar-GX"
- },
- {
-  "image": "images/IMG-20260606-WA0047.jpg",
-  "name": "Mega Sableye & Tyranitar-GX"
- },
- {
-  "image": "images/IMG-20260606-WA0051.jpg",
-  "name": "Flareon-EX"
- },
- {
-  "image": "images/IMG-20260606-WA0055.jpg",
-  "name": "Pikachu"
- },
- {
-  "image": "images/IMG-20260606-WA0058.jpg",
-  "name": "Swablu"
- },
- {
-  "image": "images/IMG-20260629-WA0020.jpg",
-  "name": null
- }
+  {
+    "image": "images/IMG-20260606-WA0039.jpg",
+    "guess": "Keldeo - Crown Zenith GG07",
+    "reason": "API kept failing (5xx); needs 1 manual lookup"
+  },
+  {
+    "image": "images/IMG-20260606-WA0042.jpg",
+    "guess": "Lillipup - set/number unknown",
+    "reason": "set+number unreadable in photo"
+  },
+  {
+    "image": "images/IMG-20260606-WA0043.jpg",
+    "guess": "Milcery - Surging Sparks 152/142?",
+    "reason": "matched price implausible; number read suspect"
+  },
+  {
+    "image": "images/IMG-20260606-WA0046.jpg",
+    "guess": "Mega Lopunny & Jigglypuff GX - rainbow",
+    "reason": "UNM 225/226 API matches a different card; printing unclear"
+  },
+  {
+    "image": "images/IMG-20260606-WA0047.jpg",
+    "guess": "Mega Lopunny & Jigglypuff GX - full art",
+    "reason": "same pair confusion as WA0046"
+  },
+  {
+    "image": "images/IMG-20260606-WA0051.jpg",
+    "guess": "Sylveon-EX - Generations RC",
+    "reason": "API number/name mismatch; needs manual check"
+  },
+  {
+    "image": "images/IMG-20260629-WA0020.jpg",
+    "guess": "Stufful - Twilight Masquerade 193/167",
+    "reason": "API kept failing (5xx); needs 1 manual lookup"
+  }
 ]
