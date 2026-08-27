@@ -60,10 +60,14 @@ for img in sorted(RAW):
     }
     if img == "IMG-20260606-WA0022.jpg":
         card.update({
-            "set": "Chinese 30th Anniversary (2025)",
-            "number": "040/107",
-            "price": None,  # manual Cardmarket lookup pending
-            "notes": "Chinese print; no pokemontcg.io data. Price filled manually from Cardmarket.",
+            "set": "Chinese Gem Pack Vol. 3 (2025)",
+            "number": "0407/07",
+            "rarity": "Art Rare",
+            "price": {"trend": 194.14, "avg7": None, "low": None, "currency": "EUR",
+                      "source": "pricecharting",
+                      "url": "https://www.pricecharting.com/game/pokemon-chinese-gem-pack-3/cubone-407",
+                      "asOf": ASOF},
+            "notes": "Simplified Chinese Art Rare; verified identical artwork to PC #407. Ungraded $226.09 converted at USD/EUR 0.85874 (2026-08-27). No Cardmarket listing found.",
         })
     elif img == "IMG-20260712-WA0013.jpg":
         card.update({
