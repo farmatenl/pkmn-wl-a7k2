@@ -1044,26 +1044,6 @@
   "notes": "Batch-2. Price via pokemontcg.io Cardmarket avg (TCGGO lookup failed)."
  },
  {
-  "id": "20260606-WA0060",
-  "image": "images/IMG-20260606-WA0060.jpg",
-  "name": "Emolga",
-  "set": "Generations",
-  "number": "RC32",
-  "language": "English",
-  "priority": "high",
-  "price": {
-   "trend": 82.27,
-   "trendLabel": "Cardmarket 7-day average",
-   "currency": "EUR",
-   "source": "pokemontcg.io-fallback",
-   "asOf": "2026-08-27"
-  },
-  "epick": {
-   "matched": false
-  },
-  "notes": "Batch-2. Price via pokemontcg.io Cardmarket avg (TCGGO lookup failed)."
- },
- {
   "id": "20260606-WA0065",
   "image": "images/IMG-20260606-WA0065.jpg",
   "name": "Bulbasaur",
@@ -1159,5 +1139,158 @@
   "epick": {
    "matched": false
   }
+ },
+ {
+  "id": "20260606-WA0039",
+  "image": "images/IMG-20260606-WA0039.jpg",
+  "name": "Keldeo",
+  "set": "Crown Zenith Galarian Gallery",
+  "number": "GG07",
+  "language": "English",
+  "priority": "high",
+  "price": {
+   "trend": 16.41,
+   "trendLabel": "Cardmarket 7-day average",
+   "currency": "EUR",
+   "source": "cardmarket-tcggo",
+   "asOf": "2026-08-27",
+   "lowNm": 15.0,
+   "lowNmLabel": "lowest offer, Near Mint (EU)"
+  },
+  "epick": {
+   "matched": false
+  },
+  "notes": "Batch-2."
+ },
+ {
+  "id": "20260606-WA0042",
+  "image": "images/IMG-20260606-WA0042.jpg",
+  "name": "Lillipup",
+  "set": "White Flare",
+  "number": "154",
+  "language": "English",
+  "priority": "high",
+  "price": {
+   "trend": 20.13,
+   "trendLabel": "Cardmarket 7-day average",
+   "currency": "EUR",
+   "source": "cardmarket-manual",
+   "asOf": "2026-08-27",
+   "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Lillipup-V2-WHT154"
+  },
+  "epick": {
+   "matched": false
+  },
+  "notes": "Batch-2. Price from Cardmarket product page (owner-verified)."
+ },
+ {
+  "id": "20260606-WA0043",
+  "image": "images/IMG-20260606-WA0043.jpg",
+  "name": "Milcery",
+  "set": "Stellar Crown",
+  "number": "152",
+  "language": "English",
+  "priority": "high",
+  "price": {
+   "trend": 7.48,
+   "trendLabel": "Cardmarket 7-day average",
+   "currency": "EUR",
+   "source": "cardmarket-manual",
+   "asOf": "2026-08-27",
+   "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stellar-Crown/Milcery-V2-SCR152"
+  },
+  "epick": {
+   "matched": false
+  },
+  "notes": "Batch-2. Price from Cardmarket product page (owner-verified)."
+ },
+ {
+  "id": "20260606-WA0046",
+  "image": "images/IMG-20260606-WA0046.jpg",
+  "name": "Mega Lopunny & Jigglypuff GX",
+  "set": "Cosmic Eclipse",
+  "number": "226",
+  "language": "English",
+  "priority": "high",
+  "price": {
+   "trend": 134.85,
+   "trendLabel": "Cardmarket 7-day average",
+   "currency": "EUR",
+   "source": "cardmarket-tcggo",
+   "asOf": "2026-08-27",
+   "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Cosmic-Eclipse/Mega-Lopunny-Jigglypuff-GX-V3-CEC226",
+   "lowNm": 270.0,
+   "lowNmLabel": "lowest offer, Near Mint (EU)"
+  },
+  "epick": {
+   "matched": false
+  },
+  "notes": "Batch-2. Rainbow secret; TCGGO 7d matches Cardmarket page exactly."
+ },
+ {
+  "id": "20260606-WA0047",
+  "image": "images/IMG-20260606-WA0047.jpg",
+  "name": "Mega Lopunny & Jigglypuff GX",
+  "set": "Cosmic Eclipse",
+  "number": "225",
+  "language": "English",
+  "priority": "high",
+  "price": {
+   "trend": 46.57,
+   "trendLabel": "Cardmarket 7-day average",
+   "currency": "EUR",
+   "source": "cardmarket-tcggo",
+   "asOf": "2026-08-27",
+   "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Cosmic-Eclipse/Mega-Lopunny-Jigglypuff-GX-V2-CEC225",
+   "lowNm": 32.0,
+   "lowNmLabel": "lowest offer, Near Mint (EU)"
+  },
+  "epick": {
+   "matched": false
+  },
+  "notes": "Batch-2. Full art."
+ },
+ {
+  "id": "20260606-WA0051",
+  "image": "images/IMG-20260606-WA0051.jpg",
+  "name": "Sylveon-EX",
+  "set": "Generations",
+  "number": "RC32",
+  "language": "English",
+  "priority": "high",
+  "price": {
+   "trend": 114.48,
+   "trendLabel": "Cardmarket 7-day average",
+   "currency": "EUR",
+   "source": "pricecharting",
+   "asOf": "2026-08-27",
+   "url": "https://www.pricecharting.com/game/pokemon-generations/sylveon-ex-rc32"
+  },
+  "epick": {
+   "matched": false
+  },
+  "notes": "Batch-2. Ungraded $133.36 converted at USD/EUR 0.85874 (2026-08-27)."
+ },
+ {
+  "id": "20260629-WA0020",
+  "image": "images/IMG-20260629-WA0020.jpg",
+  "name": "Stufful",
+  "set": "Mega Evolution",
+  "number": "154",
+  "language": "English",
+  "priority": "high",
+  "price": {
+   "trend": 4.12,
+   "trendLabel": "Cardmarket 7-day average",
+   "currency": "EUR",
+   "source": "cardmarket-tcggo",
+   "asOf": "2026-08-27",
+   "lowNm": 3.5,
+   "lowNmLabel": "lowest offer, Near Mint (EU)"
+  },
+  "epick": {
+   "matched": false
+  },
+  "notes": "Batch-2."
  }
 ]
