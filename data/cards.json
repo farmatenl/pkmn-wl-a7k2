@@ -42,7 +42,17 @@
    "asOf": "2026-08-27"
   },
   "epick": {
-   "matched": false
+   "matched": true,
+   "verifiedBy": "hermes",
+   "products": [
+    {
+     "url": "https://store.e-pick.xyz/products/shaymin-11",
+     "title": "Shaymin",
+     "price": "13.00",
+     "available": false,
+     "condition": "Near Mint"
+    }
+   ]
   }
  },
  {
@@ -65,7 +75,17 @@
    "asOf": "2026-08-27"
   },
   "epick": {
-   "matched": false
+   "matched": true,
+   "verifiedBy": "hermes",
+   "products": [
+    {
+     "url": "https://store.e-pick.xyz/products/lapras-18",
+     "title": "Lapras",
+     "price": "30.00",
+     "available": false,
+     "condition": "Near Mint"
+    }
+   ]
   }
  },
  {
@@ -157,7 +177,17 @@
    "asOf": "2026-08-27"
   },
   "epick": {
-   "matched": false
+   "matched": true,
+   "verifiedBy": "hermes",
+   "products": [
+    {
+     "url": "https://store.e-pick.xyz/products/psyduck-56",
+     "title": "Psyduck",
+     "price": "60.00",
+     "available": true,
+     "condition": "Near Mint"
+    }
+   ]
   }
  },
  {
@@ -193,17 +223,27 @@
   "number": "226/226",
   "rarity": "Illustration Rare",
   "price": {
-   "trend": null,
+   "trend": 81.0,
    "avg7": null,
    "low": null,
    "currency": "EUR",
-   "source": "cardmarket",
-   "url": null,
+   "source": "e-pick retail",
+   "url": "https://store.e-pick.xyz/products/psyduck-53",
    "asOf": "2026-08-27"
   },
-  "notes": "Set released Aug 2026; no Cardmarket price data yet. Re-check in a few weeks.",
+  "notes": "Set released Aug 2026; no Cardmarket market data yet. Price shown is e-pick retail (in stock there).",
   "epick": {
-   "matched": false
+   "matched": true,
+   "verifiedBy": "hermes",
+   "products": [
+    {
+     "url": "https://store.e-pick.xyz/products/psyduck-53",
+     "title": "Psyduck",
+     "price": "81.00",
+     "available": true,
+     "condition": "Near Mint"
+    }
+   ]
   }
  },
  {
@@ -226,7 +266,17 @@
    "asOf": "2026-08-27"
   },
   "epick": {
-   "matched": false
+   "matched": true,
+   "verifiedBy": "hermes",
+   "products": [
+    {
+     "url": "https://store.e-pick.xyz/products/mistys-psyduck-11",
+     "title": "Misty's Psyduck",
+     "price": "70.00",
+     "available": false,
+     "condition": "Near Mint"
+    }
+   ]
   }
  },
  {
@@ -249,7 +299,24 @@
    "asOf": "2026-08-27"
   },
   "epick": {
-   "matched": false
+   "matched": true,
+   "verifiedBy": "hermes",
+   "products": [
+    {
+     "url": "https://store.e-pick.xyz/products/pikachu-226",
+     "title": "Pikachu",
+     "price": "76.00",
+     "available": true,
+     "condition": "Good"
+    },
+    {
+     "url": "https://store.e-pick.xyz/products/pikachu-225",
+     "title": "Pikachu",
+     "price": "87.00",
+     "available": true,
+     "condition": "Excellent"
+    }
+   ]
   }
  },
  {
