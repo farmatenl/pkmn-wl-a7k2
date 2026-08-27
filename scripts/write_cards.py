@@ -25,7 +25,7 @@ PICKS = {
     "IMG-20260606-WA0031.jpg": "sv10-185",        # Shaymin Destined Rivals IR
     "IMG-20260606-WA0056.jpg": "swsh12pt5gg-GG05",# Lapras CZ GG
     "IMG-20260606-WA0063.jpg": "swsh10-161",      # Beedrill V Astral Radiance alt art
-    "IMG-20260608-WA0026.jpg": "swsh12pt5-14",    # Leafeon VSTAR CZ #14
+    "IMG-20260608-WA0026.jpg": "swsh12pt5gg-GG35",# Leafeon VSTAR CZ Galarian Gallery GG35 (fixed 2026-08-27; was mis-picked as 014)
     "IMG-20260626-WA0007.jpg": "sv6pt5-67",       # Horsea SFA IR
     "IMG-20260629-WA0019.jpg": "sv3pt5-175",      # Psyduck 151 IR
     "IMG-20260629-WA0025.jpg": "swsh9tg-TG02",    # Vaporeon Brilliant Stars TG
