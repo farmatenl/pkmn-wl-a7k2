@@ -1,0 +1,470 @@
+{
+ "resolved": {},
+ "candidates": {
+  "IMG-20260626-WA0007.jpg": [
+   {
+    "id": "sv6pt5-10",
+    "name": "Horsea",
+    "set": "Shrouded Fable",
+    "number": "10",
+    "rarity": "Common",
+    "cm_trend": 0.04,
+    "cm_avg7": 0.04,
+    "cm_low": 0.02,
+    "cm_url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-10",
+    "image": "https://images.pokemontcg.io/sv6pt5/10_hires.png"
+   },
+   {
+    "id": "sv6pt5-67",
+    "name": "Horsea",
+    "set": "Shrouded Fable",
+    "number": "67",
+    "rarity": "Illustration Rare",
+    "cm_trend": 16.56,
+    "cm_avg7": 17.0,
+    "cm_low": 8.0,
+    "cm_url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-67",
+    "image": "https://images.pokemontcg.io/sv6pt5/67_hires.png"
+   }
+  ],
+  "IMG-20260712-WA0013.jpg": [
+   {
+    "id": "me2pt5-226",
+    "name": "Psyduck",
+    "set": "Ascended Heroes",
+    "number": "226",
+    "rarity": "Illustration Rare",
+    "cm_trend": null,
+    "cm_avg7": null,
+    "cm_low": null,
+    "cm_url": null,
+    "image": "https://images.scrydex.com/pokemon/me2pt5-226/large"
+   }
+  ],
+  "IMG-20260712-WA0014.jpg": [
+   {
+    "id": "sv10-193",
+    "name": "Misty's Psyduck",
+    "set": "Destined Rivals",
+    "number": "193",
+    "rarity": "Illustration Rare",
+    "cm_trend": 38.11,
+    "cm_avg7": 42.24,
+    "cm_low": 27.5,
+    "cm_url": "https://prices.pokemontcg.io/cardmarket/sv10-193",
+    "image": "https://images.pokemontcg.io/sv10/193_hires.png"
+   }
+  ],
+  "IMG-20260719-WA0001.jpg": [
+   {
+    "id": "sv2-63",
+    "name": "Pikachu ex",
+    "set": "Paldea Evolved",
+    "number": "63",
+    "rarity": "Double Rare",
+    "cm_trend": 1.47,
+    "cm_avg7": 1.51,
+    "cm_low": 0.29,
+    "cm_url": "https://prices.pokemontcg.io/cardmarket/sv2-63",
+    "image": "https://images.pokemontcg.io/sv2/63_hires.png"
+   },
+   {
+    "id": "sv2-62",
+    "name": "Pikachu",
+    "set": "Paldea Evolved",
+    "number": "62",
+    "rarity": "Common",
+    "cm_trend": 0.03,
+    "cm_avg7": 0.03,
+    "cm_low": 0.02,
+    "cm_url": "https://prices.pokemontcg.io/cardmarket/sv2-62",
+    "image": "https://images.pokemontcg.io/sv2/62_hires.png"
+   }
+  ],
+  "IMG-20260719-WA0003.jpg": [
+   {
+    "id": "sv8-179",
+    "name": "Lisia's Appeal",
+    "set": "Surging Sparks",
+    "number": "179",
+    "rarity": "Uncommon",
+    "cm_trend": 0.05,
+    "cm_avg7": 0.05,
+    "cm_low": 0.02,
+    "cm_url": "https://prices.pokemontcg.io/cardmarket/sv8-179",
+    "image": "https://images.pokemontcg.io/sv8/179_hires.png"
+   },
+   {
+    "id": "sv8-234",
+    "name": "Lisia's Appeal",
+    "set": "Surging Sparks",
+    "number": "234",
+    "rarity": "Ultra Rare",
+    "cm_trend": 3.7,
+    "cm_avg7": 3.65,
+    "cm_low": 1.64,
+    "cm_url": "https://prices.pokemontcg.io/cardmarket/sv8-234",
+    "image": "https://images.pokemontcg.io/sv8/234_hires.png"
+   },
+   {
+    "id": "sv8-246",
+    "name": "Lisia's Appeal",
+    "set": "Surging Sparks",
+    "number": "246",
+    "rarity": "Special Illustration Rare",
+    "cm_trend": 29.48,
+    "cm_avg7": 30.76,
+    "cm_low": 18.95,
+    "cm_url": "https://prices.pokemontcg.io/cardmarket/sv8-246",
+    "image": "https://images.pokemontcg.io/sv8/246_hires.png"
+   }
+  ],
+  "IMG-20260719-WA0005.jpg": [
+   {
+    "id": "basep-18",
+    "name": "Team Rocket's Meowth",
+    "set": "Wizards Black Star Promos",
+    "number": "18",
+    "rarity": "Promo",
+    "cm_trend": 75.31,
+    "cm_avg7": 74.75,
+    "cm_low": 26.77,
+    "cm_url": "https://prices.pokemontcg.io/cardmarket/basep-18",
+    "image": "https://images.pokemontcg.io/basep/18_hires.png"
+   },
+   {
+    "id": "sv10-149",
+    "name": "Team Rocket's Meowth",
+    "set": "Destined Rivals",
+    "number": "149",
+    "rarity": "Common",
+    "cm_trend": 0.03,
+    "cm_avg7": 0.02,
+    "cm_low": 0.02,
+    "cm_url": "https://prices.pokemontcg.io/cardmarket/sv10-149",
+    "image": "https://images.pokemontcg.io/sv10/149_hires.png"
+   },
+   {
+    "id": "sv10-203",
+    "name": "Team Rocket's Meowth",
+    "set": "Destined Rivals",
+    "number": "203",
+    "rarity": "Illustration Rare",
+    "cm_trend": 22.32,
+    "cm_avg7": 22.48,
+    "cm_low": 14.0,
+    "cm_url": "https://prices.pokemontcg.io/cardmarket/sv10-203",
+    "image": "https://images.pokemontcg.io/sv10/203_hires.png"
+   },
+   {
+    "id": "me2pt5-161",
+    "name": "Team Rocket's Meowth",
+    "set": "Ascended Heroes",
+    "number": "161",
+    "rarity": "Common",
+    "cm_trend": null,
+    "cm_avg7": null,
+    "cm_low": null,
+    "cm_url": null,
+    "image": "https://images.scrydex.com/pokemon/me2pt5-161/large"
+   }
+  ],
+  "IMG-20260719-WA0007.jpg": [
+   {
+    "id": "rsv10pt5-96",
+    "name": "Tepig",
+    "set": "White Flare",
+    "number": "96",
+    "rarity": "Illustration Rare",
+    "cm_trend": 14.56,
+    "cm_avg7": 13.78,
+    "cm_low": 8.0,
+    "cm_url": "https://prices.pokemontcg.io/cardmarket/rsv10pt5-96",
+    "image": "https://images.pokemontcg.io/rsv10pt5/96_hires.png"
+   }
+  ],
+  "IMG-20260803-WA0007.jpg": [
+   {
+    "id": "svp-88",
+    "name": "Pikachu",
+    "set": "Scarlet & Violet Black Star Promos",
+    "number": "88",
+    "rarity": "Promo",
+    "cm_trend": 19.31,
+    "cm_avg7": 17.37,
+    "cm_low": 7.0,
+    "cm_url": "https://prices.pokemontcg.io/cardmarket/svp-88",
+    "image": "https://images.pokemontcg.io/svp/88_hires.png"
+   }
+  ],
+  "IMG-20260827-WA0017.jpg": [
+   {
+    "id": "rsv10pt5-165",
+    "name": "Whimsicott ex",
+    "set": "White Flare",
+    "number": "165",
+    "rarity": "Special Illustration Rare",
+    "cm_trend": 18.59,
+    "cm_avg7": 19.04,
+    "cm_low": 15.0,
+    "cm_url": "https://prices.pokemontcg.io/cardmarket/rsv10pt5-165",
+    "image": "https://images.pokemontcg.io/rsv10pt5/165_hires.png"
+   }
+  ],
+  "IMG-20260827-WA0020.jpg": [],
+  "IMG-20260606-WA0056.jpg": [
+   {
+    "id": "swsh12pt5gg-GG05",
+    "name": "Lapras",
+    "set": "Crown Zenith Galarian Gallery",
+    "number": "GG05",
+    "rarity": "Trainer Gallery Rare Holo",
+    "cm_trend": 24.81,
+    "cm_avg7": 25.77,
+    "cm_low": 6.49,
+    "cm_url": "https://prices.pokemontcg.io/cardmarket/swsh12pt5gg-GG05",
+    "image": "https://images.pokemontcg.io/swsh12pt5gg/GG05_hires.png"
+   }
+  ],
+  "IMG-20260606-WA0063.jpg": [
+   {
+    "id": "swsh10-1",
+    "name": "Beedrill V",
+    "set": "Astral Radiance",
+    "number": "1",
+    "rarity": "Rare Holo V",
+    "cm_trend": 1.07,
+    "cm_avg7": 1.06,
+    "cm_low": 0.1,
+    "cm_url": "https://prices.pokemontcg.io/cardmarket/swsh10-1",
+    "image": "https://images.pokemontcg.io/swsh10/1_hires.png"
+   },
+   {
+    "id": "swsh10-160",
+    "name": "Beedrill V",
+    "set": "Astral Radiance",
+    "number": "160",
+    "rarity": "Rare Ultra",
+    "cm_trend": 3.19,
+    "cm_avg7": 3.32,
+    "cm_low": 0.99,
+    "cm_url": "https://prices.pokemontcg.io/cardmarket/swsh10-160",
+    "image": "https://images.pokemontcg.io/swsh10/160_hires.png"
+   },
+   {
+    "id": "swsh10-161",
+    "name": "Beedrill V",
+    "set": "Astral Radiance",
+    "number": "161",
+    "rarity": "Rare Ultra",
+    "cm_trend": 32.43,
+    "cm_avg7": 35.22,
+    "cm_low": 17.0,
+    "cm_url": "https://prices.pokemontcg.io/cardmarket/swsh10-161",
+    "image": "https://images.pokemontcg.io/swsh10/161_hires.png"
+   }
+  ],
+  "IMG-20260608-WA0026.jpg": [
+   {
+    "id": "swshp-SWSH195",
+    "name": "Leafeon VSTAR",
+    "set": "SWSH Black Star Promos",
+    "number": "SWSH195",
+    "rarity": "Promo",
+    "cm_trend": 4.13,
+    "cm_avg7": 2.23,
+    "cm_low": 1.4,
+    "cm_url": "https://prices.pokemontcg.io/cardmarket/swshp-SWSH195",
+    "image": "https://images.pokemontcg.io/swshp/SWSH195_hires.png"
+   },
+   {
+    "id": "swsh12pt5-14",
+    "name": "Leafeon VSTAR",
+    "set": "Crown Zenith",
+    "number": "14",
+    "rarity": "Rare Holo VSTAR",
+    "cm_trend": 3.5,
+    "cm_avg7": 3.26,
+    "cm_low": 1.3,
+    "cm_url": "https://prices.pokemontcg.io/cardmarket/swsh12pt5-14",
+    "image": "https://images.pokemontcg.io/swsh12pt5/14_hires.png"
+   },
+   {
+    "id": "swsh12pt5gg-GG35",
+    "name": "Leafeon VSTAR",
+    "set": "Crown Zenith Galarian Gallery",
+    "number": "GG35",
+    "rarity": "Rare Holo VSTAR",
+    "cm_trend": 63.13,
+    "cm_avg7": 67.43,
+    "cm_low": 35.0,
+    "cm_url": "https://prices.pokemontcg.io/cardmarket/swsh12pt5gg-GG35",
+    "image": "https://images.pokemontcg.io/swsh12pt5gg/GG35_hires.png"
+   }
+  ],
+  "IMG-20260629-WA0019.jpg": [
+   {
+    "id": "sv3pt5-175",
+    "name": "Psyduck",
+    "set": "151",
+    "number": "175",
+    "rarity": "Illustration Rare",
+    "cm_trend": 23.66,
+    "cm_avg7": 27.08,
+    "cm_low": 16.0,
+    "cm_url": "https://prices.pokemontcg.io/cardmarket/sv3pt5-175",
+    "image": "https://images.pokemontcg.io/sv3pt5/175_hires.png"
+   }
+  ],
+  "IMG-20260629-WA0025.jpg": [
+   {
+    "id": "swsh9tg-TG02",
+    "name": "Vaporeon",
+    "set": "Brilliant Stars Trainer Gallery",
+    "number": "TG02",
+    "rarity": "Trainer Gallery Rare Holo",
+    "cm_trend": 22.73,
+    "cm_avg7": 21.82,
+    "cm_low": 9.5,
+    "cm_url": "https://prices.pokemontcg.io/cardmarket/swsh9tg-TG02",
+    "image": "https://images.pokemontcg.io/swsh9tg/TG02_hires.png"
+   }
+  ],
+  "IMG-20260719-WA0010.jpg": [
+   {
+    "id": "zsv10pt5-129",
+    "name": "Dwebble",
+    "set": "Black Bolt",
+    "number": "129",
+    "rarity": "Illustration Rare",
+    "cm_trend": 13.53,
+    "cm_avg7": 13.35,
+    "cm_low": 7.5,
+    "cm_url": "https://prices.pokemontcg.io/cardmarket/zsv10pt5-129",
+    "image": "https://images.pokemontcg.io/zsv10pt5/129_hires.png"
+   }
+  ],
+  "IMG-20260803-WA0012.jpg": [
+   {
+    "id": "sv6-187",
+    "name": "Chansey",
+    "set": "Twilight Masquerade",
+    "number": "187",
+    "rarity": "Illustration Rare",
+    "cm_trend": 25.58,
+    "cm_avg7": 27.09,
+    "cm_low": 7.97,
+    "cm_url": "https://prices.pokemontcg.io/cardmarket/sv6-187",
+    "image": "https://images.pokemontcg.io/sv6/187_hires.png"
+   }
+  ],
+  "IMG-20260827-WA0016.jpg": [
+   {
+    "id": "zsv10pt5-10",
+    "name": "Foongus",
+    "set": "Black Bolt",
+    "number": "10",
+    "rarity": "Common",
+    "cm_trend": 0.02,
+    "cm_avg7": 0.03,
+    "cm_low": 0.02,
+    "cm_url": "https://prices.pokemontcg.io/cardmarket/zsv10pt5-10",
+    "image": "https://images.pokemontcg.io/zsv10pt5/10_hires.png"
+   },
+   {
+    "id": "zsv10pt5-95",
+    "name": "Foongus",
+    "set": "Black Bolt",
+    "number": "95",
+    "rarity": "Illustration Rare",
+    "cm_trend": 6.75,
+    "cm_avg7": 6.71,
+    "cm_low": 4.0,
+    "cm_url": "https://prices.pokemontcg.io/cardmarket/zsv10pt5-95",
+    "image": "https://images.pokemontcg.io/zsv10pt5/95_hires.png"
+   }
+  ],
+  "IMG-20260827-WA0018.jpg": [
+   {
+    "id": "sv2-226",
+    "name": "Maushold",
+    "set": "Paldea Evolved",
+    "number": "226",
+    "rarity": "Illustration Rare",
+    "cm_trend": 25.41,
+    "cm_avg7": 26.04,
+    "cm_low": 11.95,
+    "cm_url": "https://prices.pokemontcg.io/cardmarket/sv2-226",
+    "image": "https://images.pokemontcg.io/sv2/226_hires.png"
+   }
+  ],
+  "IMG-20260827-WA0019.jpg": [
+   {
+    "id": "sm10-195",
+    "name": "Dedenne-GX",
+    "set": "Unbroken Bonds",
+    "number": "195",
+    "rarity": "Rare Ultra",
+    "cm_trend": 10.89,
+    "cm_avg7": 10.94,
+    "cm_low": 2.9,
+    "cm_url": "https://prices.pokemontcg.io/cardmarket/sm10-195",
+    "image": "https://images.pokemontcg.io/sm10/195_hires.png"
+   }
+  ],
+  "IMG-20260827-WA0021.jpg": [
+   {
+    "id": "xyp-XY113",
+    "name": "Manaphy",
+    "set": "XY Black Star Promos",
+    "number": "XY113",
+    "rarity": "Promo",
+    "cm_trend": 27.42,
+    "cm_avg7": 27.28,
+    "cm_low": 4.99,
+    "cm_url": "https://prices.pokemontcg.io/cardmarket/xyp-XY113",
+    "image": "https://images.pokemontcg.io/xyp/XY113_hires.png"
+   }
+  ],
+  "IMG-20260606-WA0031.jpg": [
+   {
+    "id": "sv10-185",
+    "name": "Shaymin",
+    "set": "Destined Rivals",
+    "number": "185",
+    "rarity": "Illustration Rare",
+    "cm_trend": 7.44,
+    "cm_avg7": 7.85,
+    "cm_low": 4.0,
+    "cm_url": "https://prices.pokemontcg.io/cardmarket/sv10-185",
+    "image": "https://images.pokemontcg.io/sv10/185_hires.png"
+   }
+  ],
+  "IMG-20260803-WA0004.jpg": [
+   {
+    "id": "sv4-206",
+    "name": "Morpeko",
+    "set": "Paradox Rift",
+    "number": "206",
+    "rarity": "Illustration Rare",
+    "cm_trend": 16.85,
+    "cm_avg7": 17.99,
+    "cm_low": 3.0,
+    "cm_url": "https://prices.pokemontcg.io/cardmarket/sv4-206",
+    "image": "https://images.pokemontcg.io/sv4/206_hires.png"
+   },
+   {
+    "id": "svp-206",
+    "name": "Marnie's Morpeko",
+    "set": "Scarlet & Violet Promos",
+    "number": "206",
+    "rarity": "Promo",
+    "cm_trend": 19.1,
+    "cm_avg7": 19.56,
+    "cm_low": 11.0,
+    "cm_url": "https://prices.pokemontcg.io/cardmarket/svp-206",
+    "image": "https://images.pokemontcg.io/svp/206_hires.png"
+   }
+  ]
+ }
+}

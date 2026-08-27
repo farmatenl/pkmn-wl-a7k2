@@ -1,0 +1,5919 @@
+{
+ "data": [
+  {
+   "id": "si1-1",
+   "name": "Mew",
+   "supertype": "Pok\u00e9mon",
+   "subtypes": [
+    "Basic"
+   ],
+   "hp": "30",
+   "types": [
+    "Psychic"
+   ],
+   "attacks": [
+    {
+     "name": "Rainbow Wave",
+     "cost": [
+      "Psychic"
+     ],
+     "convertedEnergyCost": 1,
+     "damage": "",
+     "text": "Choose a type of Energy other than Colorless attached to Mew. This attack does 20 damage to each of your opponent's Pok\u00e9mon of that type (including Benched Pok\u00e9mon). Don't apply Weakness and Resistance."
+    }
+   ],
+   "weaknesses": [
+    {
+     "type": "Psychic",
+     "value": "\u00d72"
+    }
+   ],
+   "set": {
+    "id": "si1",
+    "name": "Southern Islands",
+    "series": "Other",
+    "printedTotal": 18,
+    "total": 18,
+    "legalities": {
+     "unlimited": "Legal"
+    },
+    "releaseDate": "2001/07/31",
+    "updatedAt": "2019/01/28 16:44:00",
+    "images": {
+     "symbol": "https://images.pokemontcg.io/si1/symbol.png",
+     "logo": "https://images.pokemontcg.io/si1/logo.png"
+    }
+   },
+   "number": "1",
+   "artist": "Keiko Fukuyama",
+   "flavorText": "This Pok\u00e9mon's body is covered by fine hairs that can be seen only under a microscope.",
+   "nationalPokedexNumbers": [
+    151
+   ],
+   "legalities": {
+    "unlimited": "Legal"
+   },
+   "images": {
+    "small": "https://images.pokemontcg.io/si1/1.png",
+    "large": "https://images.pokemontcg.io/si1/1_hires.png"
+   },
+   "tcgplayer": {
+    "url": "https://prices.pokemontcg.io/tcgplayer/si1-1",
+    "updatedAt": "2026/08/27",
+    "prices": {
+     "reverseHolofoil": {
+      "low": 579.99,
+      "mid": 650.0,
+      "high": 665.0,
+      "market": 571.67,
+      "directLow": 579.99
+     }
+    }
+   },
+   "cardmarket": {
+    "url": "https://prices.pokemontcg.io/cardmarket/si1-1",
+    "updatedAt": "2026/07/01",
+    "prices": {
+     "averageSellPrice": 325.87,
+     "lowPrice": 199.99,
+     "trendPrice": 512.81,
+     "germanProLow": 0.0,
+     "suggestedPrice": 0.0,
+     "reverseHoloSell": 0.0,
+     "reverseHoloLow": 0.0,
+     "reverseHoloTrend": 72.02,
+     "lowPriceExPlus": 350.0,
+     "avg1": 300.0,
+     "avg7": 394.87,
+     "avg30": 309.39,
+     "reverseHoloAvg1": 30.0,
+     "reverseHoloAvg7": 64.85,
+     "reverseHoloAvg30": 41.17
+    }
+   }
+  },
+  {
+   "id": "pop4-4",
+   "name": "Mew",
+   "supertype": "Pok\u00e9mon",
+   "subtypes": [
+    "Basic"
+   ],
+   "hp": "70",
+   "types": [
+    "Psychic"
+   ],
+   "abilities": [
+    {
+     "name": "Reactive Barrier",
+     "text": "As long as Mew has any React Energy cards attached to it, prevent all effects, excluding damage, done to Mew by attacks from your opponent's Pok\u00e9mon.",
+     "type": "Pok\u00e9-Body"
+    }
+   ],
+   "attacks": [
+    {
+     "name": "Psyshock",
+     "cost": [
+      "Psychic",
+      "Colorless"
+     ],
+     "convertedEnergyCost": 2,
+     "damage": "20",
+     "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Paralyzed."
+    }
+   ],
+   "weaknesses": [
+    {
+     "type": "Psychic",
+     "value": "\u00d72"
+    }
+   ],
+   "retreatCost": [
+    "Colorless"
+   ],
+   "convertedRetreatCost": 1,
+   "set": {
+    "id": "pop4",
+    "name": "POP Series 4",
+    "series": "POP",
+    "printedTotal": 17,
+    "total": 17,
+    "legalities": {
+     "unlimited": "Legal"
+    },
+    "releaseDate": "2006/08/01",
+    "updatedAt": "2020/08/14 09:35:00",
+    "images": {
+     "symbol": "https://images.pokemontcg.io/pop4/symbol.png",
+     "logo": "https://images.pokemontcg.io/pop4/logo.png"
+    }
+   },
+   "number": "4",
+   "artist": "Nakaoka",
+   "rarity": "Rare",
+   "nationalPokedexNumbers": [
+    151
+   ],
+   "legalities": {
+    "unlimited": "Legal"
+   },
+   "images": {
+    "small": "https://images.pokemontcg.io/pop4/4.png",
+    "large": "https://images.pokemontcg.io/pop4/4_hires.png"
+   },
+   "tcgplayer": {
+    "url": "https://prices.pokemontcg.io/tcgplayer/pop4-4",
+    "updatedAt": "2026/08/27",
+    "prices": {
+     "normal": {
+      "low": 86.44,
+      "mid": 138.0,
+      "high": 809.3,
+      "market": 80.0,
+      "directLow": null
+     },
+     "holofoil": {
+      "low": 103.5,
+      "mid": 133.13,
+      "high": 817.4,
+      "market": 100.0,
+      "directLow": null
+     }
+    }
+   },
+   "cardmarket": {
+    "url": "https://prices.pokemontcg.io/cardmarket/pop4-4",
+    "updatedAt": "2026/07/01",
+    "prices": {
+     "averageSellPrice": 29.25,
+     "lowPrice": 11.99,
+     "trendPrice": 52.6,
+     "germanProLow": 0.0,
+     "suggestedPrice": 0.0,
+     "reverseHoloSell": 0.0,
+     "reverseHoloLow": 0.0,
+     "reverseHoloTrend": 20.43,
+     "lowPriceExPlus": 100.0,
+     "avg1": 13.99,
+     "avg7": 29.33,
+     "avg30": 46.27,
+     "reverseHoloAvg1": 17.95,
+     "reverseHoloAvg7": 24.54,
+     "reverseHoloAvg30": 13.24
+    }
+   }
+  },
+  {
+   "id": "pop5-3",
+   "name": "Mew \u03b4",
+   "supertype": "Pok\u00e9mon",
+   "subtypes": [
+    "Basic"
+   ],
+   "hp": "60",
+   "types": [
+    "Fire"
+   ],
+   "attacks": [
+    {
+     "name": "Copy",
+     "cost": [
+      "Colorless"
+     ],
+     "convertedEnergyCost": 1,
+     "damage": "",
+     "text": "Choose 1 of the Defending Pok\u00e9mon's attacks. Copy copies that attack. This attack does nothing if Mew doesn't have the Energy necessary to use that attack. (You must still do anything else required for that attack.) Mew performs that attack."
+    },
+    {
+     "name": "Extra Draw",
+     "cost": [
+      "Fire"
+     ],
+     "convertedEnergyCost": 1,
+     "damage": "",
+     "text": "If your opponent has any Pok\u00e9mon-ex in play, search your deck for up to 2 basic Energy cards and attach them to Mew. Shuffle your deck afterward."
+    }
+   ],
+   "weaknesses": [
+    {
+     "type": "Psychic",
+     "value": "\u00d72"
+    }
+   ],
+   "retreatCost": [
+    "Colorless"
+   ],
+   "convertedRetreatCost": 1,
+   "set": {
+    "id": "pop5",
+    "name": "POP Series 5",
+    "series": "POP",
+    "printedTotal": 17,
+    "total": 17,
+    "legalities": {
+     "unlimited": "Legal"
+    },
+    "releaseDate": "2007/03/01",
+    "updatedAt": "2020/08/14 09:35:00",
+    "images": {
+     "symbol": "https://images.pokemontcg.io/pop5/symbol.png",
+     "logo": "https://images.pokemontcg.io/pop5/logo.png"
+    }
+   },
+   "number": "3",
+   "artist": "Masakazu Fukuda",
+   "rarity": "Rare",
+   "nationalPokedexNumbers": [
+    151
+   ],
+   "legalities": {
+    "unlimited": "Legal"
+   },
+   "images": {
+    "small": "https://images.pokemontcg.io/pop5/3.png",
+    "large": "https://images.pokemontcg.io/pop5/3_hires.png"
+   },
+   "tcgplayer": {
+    "url": "https://prices.pokemontcg.io/tcgplayer/pop5-3",
+    "updatedAt": "2026/08/27",
+    "prices": {
+     "normal": {
+      "low": 249.99,
+      "mid": 362.5,
+      "high": 475.0,
+      "market": 149.59,
+      "directLow": null
+     },
+     "holofoil": {
+      "low": 299.99,
+      "mid": 429.99,
+      "high": 649.99,
+      "market": 456.53,
+      "directLow": null
+     }
+    }
+   },
+   "cardmarket": {
+    "url": "https://prices.pokemontcg.io/cardmarket/pop5-3",
+    "updatedAt": "2026/07/01",
+    "prices": {
+     "averageSellPrice": 524.98,
+     "lowPrice": 500.0,
+     "trendPrice": 882.47,
+     "germanProLow": 0.0,
+     "suggestedPrice": 0.0,
+     "reverseHoloSell": 0.0,
+     "reverseHoloLow": 0.0,
+     "reverseHoloTrend": 70.57,
+     "lowPriceExPlus": 899.0,
+     "avg1": 799.95,
+     "avg7": 1132.99,
+     "avg30": 484.9,
+     "reverseHoloAvg1": 55.0,
+     "reverseHoloAvg7": 53.56,
+     "reverseHoloAvg30": 43.21
+    }
+   }
+  },
+  {
+   "id": "ex12-10",
+   "name": "Mew",
+   "supertype": "Pok\u00e9mon",
+   "subtypes": [
+    "Basic"
+   ],
+   "hp": "70",
+   "types": [
+    "Psychic"
+   ],
+   "abilities": [
+    {
+     "name": "Type Change",
+     "text": "Once during your turn (before your attack), you may choose 1 of the Defending Pok\u00e9mon. Mew is the same type as that Pok\u00e9mon (all if that Pok\u00e9mon is more than 1 type) until the end of your turn. This power can't be used if Mew is affected by a Special Condition.",
+     "type": "Pok\u00e9-Power"
+    }
+   ],
+   "attacks": [
+    {
+     "name": "Link Blast",
+     "cost": [
+      "Psychic",
+      "Colorless"
+     ],
+     "convertedEnergyCost": 2,
+     "damage": "50",
+     "text": "If Mew and the Defending Pok\u00e9mon have a different amount of Energy attached to them, this attack's base damage is 20 instead of 50."
+    }
+   ],
+   "weaknesses": [
+    {
+     "type": "Psychic",
+     "value": "\u00d72"
+    }
+   ],
+   "retreatCost": [
+    "Colorless"
+   ],
+   "convertedRetreatCost": 1,
+   "set": {
+    "id": "ex12",
+    "name": "Legend Maker",
+    "series": "EX",
+    "printedTotal": 92,
+    "total": 93,
+    "legalities": {
+     "unlimited": "Legal"
+    },
+    "ptcgoCode": "LM",
+    "releaseDate": "2006/02/01",
+    "updatedAt": "2018/03/04 10:35:00",
+    "images": {
+     "symbol": "https://images.pokemontcg.io/ex12/symbol.png",
+     "logo": "https://images.pokemontcg.io/ex12/logo.png"
+    }
+   },
+   "number": "10",
+   "artist": "Kouki Saitou",
+   "rarity": "Rare Holo",
+   "nationalPokedexNumbers": [
+    151
+   ],
+   "legalities": {
+    "unlimited": "Legal"
+   },
+   "images": {
+    "small": "https://images.pokemontcg.io/ex12/10.png",
+    "large": "https://images.pokemontcg.io/ex12/10_hires.png"
+   },
+   "tcgplayer": {
+    "url": "https://prices.pokemontcg.io/tcgplayer/ex12-10",
+    "updatedAt": "2026/08/27",
+    "prices": {
+     "holofoil": {
+      "low": 199.93,
+      "mid": 999.86,
+      "high": 2359.98,
+      "market": 209.21,
+      "directLow": 999.86
+     },
+     "reverseHolofoil": {
+      "low": 169.99,
+      "mid": 985.0,
+      "high": 1800.0,
+      "market": 198.6,
+      "directLow": null
+     }
+    }
+   },
+   "cardmarket": {
+    "url": "https://prices.pokemontcg.io/cardmarket/ex12-10",
+    "updatedAt": "2026/07/01",
+    "prices": {
+     "averageSellPrice": 63.93,
+     "lowPrice": 12.0,
+     "trendPrice": 78.82,
+     "germanProLow": 0.0,
+     "suggestedPrice": 0.0,
+     "reverseHoloSell": 250.61,
+     "reverseHoloLow": 12.99,
+     "reverseHoloTrend": 268.37,
+     "lowPriceExPlus": 54.99,
+     "avg1": 10.0,
+     "avg7": 47.63,
+     "avg30": 106.48,
+     "reverseHoloAvg1": 1000.0,
+     "reverseHoloAvg7": 286.4,
+     "reverseHoloAvg30": 169.63
+    }
+   }
+  },
+  {
+   "id": "basep-8",
+   "name": "Mew",
+   "supertype": "Pok\u00e9mon",
+   "subtypes": [
+    "Basic"
+   ],
+   "level": "23",
+   "hp": "50",
+   "types": [
+    "Psychic"
+   ],
+   "attacks": [
+    {
+     "name": "Psywave",
+     "cost": [
+      "Psychic"
+     ],
+     "convertedEnergyCost": 1,
+     "damage": "10\u00d7",
+     "text": "Does 10 damage times the number of Energy cards attached to the Defending Pok\u00e9mon."
+    },
+    {
+     "name": "Devolution Beam",
+     "cost": [
+      "Psychic",
+      "Psychic"
+     ],
+     "convertedEnergyCost": 2,
+     "damage": "",
+     "text": "Choose an evolved Pok\u00e9mon (your own or your opponent's). Return the highest Stage Evolution card on that Pok\u00e9mon to its player's hand. That Pok\u00e9mon is no longer Asleep, Confused, Paralyzed, or Poisoned, or anything else that might be the result of an attack (just as if you had evolved it)."
+    }
+   ],
+   "weaknesses": [
+    {
+     "type": "Psychic",
+     "value": "\u00d72"
+    }
+   ],
+   "retreatCost": [
+    "Colorless"
+   ],
+   "convertedRetreatCost": 1,
+   "set": {
+    "id": "basep",
+    "name": "Wizards Black Star Promos",
+    "series": "Base",
+    "printedTotal": 53,
+    "total": 53,
+    "legalities": {
+     "unlimited": "Legal"
+    },
+    "ptcgoCode": "PR",
+    "releaseDate": "1999/07/01",
+    "updatedAt": "2020/08/14 09:35:00",
+    "images": {
+     "symbol": "https://images.pokemontcg.io/basep/symbol.png",
+     "logo": "https://images.pokemontcg.io/basep/logo.png"
+    }
+   },
+   "number": "8",
+   "artist": "Ken Sugimori",
+   "rarity": "Promo",
+   "flavorText": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
+   "nationalPokedexNumbers": [
+    151
+   ],
+   "legalities": {
+    "unlimited": "Legal"
+   },
+   "images": {
+    "small": "https://images.pokemontcg.io/basep/8.png",
+    "large": "https://images.pokemontcg.io/basep/8_hires.png"
+   },
+   "tcgplayer": {
+    "url": "https://prices.pokemontcg.io/tcgplayer/basep-8",
+    "updatedAt": "2026/08/27",
+    "prices": {
+     "normal": {
+      "low": 5.82,
+      "mid": 9.99,
+      "high": 9999.0,
+      "market": 9.89,
+      "directLow": 6.16
+     }
+    }
+   },
+   "cardmarket": {
+    "url": "https://prices.pokemontcg.io/cardmarket/basep-8",
+    "updatedAt": "2026/07/01",
+    "prices": {
+     "averageSellPrice": 8.73,
+     "lowPrice": 0.9,
+     "trendPrice": 13.24,
+     "germanProLow": 0.0,
+     "suggestedPrice": 0.0,
+     "reverseHoloSell": 0.0,
+     "reverseHoloLow": 0.0,
+     "reverseHoloTrend": 15.07,
+     "lowPriceExPlus": 4.8,
+     "avg1": 21.3,
+     "avg7": 9.35,
+     "avg30": 8.98,
+     "reverseHoloAvg1": 4.0,
+     "reverseHoloAvg7": 12.5,
+     "reverseHoloAvg30": 13.92
+    }
+   }
+  },
+  {
+   "id": "ru1-10",
+   "name": "Mew",
+   "supertype": "Pok\u00e9mon",
+   "subtypes": [
+    "Basic"
+   ],
+   "hp": "60",
+   "types": [
+    "Psychic"
+   ],
+   "attacks": [
+    {
+     "name": "Cut",
+     "cost": [
+      "Colorless",
+      "Colorless"
+     ],
+     "convertedEnergyCost": 2,
+     "damage": "30",
+     "text": ""
+    },
+    {
+     "name": "Will-o'-the-wisp",
+     "cost": [
+      "Psychic",
+      "Colorless",
+      "Colorless"
+     ],
+     "convertedEnergyCost": 3,
+     "damage": "60",
+     "text": ""
+    }
+   ],
+   "weaknesses": [
+    {
+     "type": "Psychic",
+     "value": "\u00d72"
+    }
+   ],
+   "set": {
+    "id": "ru1",
+    "name": "Pok\u00e9mon Rumble",
+    "series": "Other",
+    "printedTotal": 16,
+    "total": 16,
+    "legalities": {
+     "unlimited": "Legal"
+    },
+    "releaseDate": "2009/12/02",
+    "updatedAt": "2019/01/28 16:44:00",
+    "images": {
+     "symbol": "https://images.pokemontcg.io/ru1/symbol.png",
+     "logo": "https://images.pokemontcg.io/ru1/logo.png"
+    }
+   },
+   "number": "10",
+   "artist": "Pokemon Rumble",
+   "nationalPokedexNumbers": [
+    151
+   ],
+   "legalities": {
+    "unlimited": "Legal"
+   },
+   "images": {
+    "small": "https://images.pokemontcg.io/ru1/10.png",
+    "large": "https://images.pokemontcg.io/ru1/10_hires.png"
+   },
+   "tcgplayer": {
+    "url": "https://prices.pokemontcg.io/tcgplayer/ru1-10",
+    "updatedAt": "2026/08/27",
+    "prices": {
+     "normal": {
+      "low": 698.99,
+      "mid": 699.99,
+      "high": 799.99,
+      "market": 367.1,
+      "directLow": null
+     }
+    }
+   },
+   "cardmarket": {
+    "url": "https://prices.pokemontcg.io/cardmarket/ru1-10",
+    "updatedAt": "2026/07/01",
+    "prices": {
+     "averageSellPrice": 163.99,
+     "lowPrice": 100.0,
+     "trendPrice": 159.39,
+     "germanProLow": 0.0,
+     "suggestedPrice": 0.0,
+     "reverseHoloSell": 0.0,
+     "reverseHoloLow": 0.0,
+     "reverseHoloTrend": 11.55,
+     "lowPriceExPlus": 295.0,
+     "avg1": 191.66,
+     "avg7": 169.1,
+     "avg30": 154.49,
+     "reverseHoloAvg1": 7.5,
+     "reverseHoloAvg7": 8.24,
+     "reverseHoloAvg30": 8.24
+    }
+   }
+  },
+  {
+   "id": "basep-9",
+   "name": "Mew",
+   "supertype": "Pok\u00e9mon",
+   "subtypes": [
+    "Basic"
+   ],
+   "level": "51",
+   "hp": "50",
+   "types": [
+    "Psychic"
+   ],
+   "attacks": [
+    {
+     "name": "Psywave",
+     "cost": [
+      "Psychic"
+     ],
+     "convertedEnergyCost": 1,
+     "damage": "10\u00d7",
+     "text": "Does 10 damage times the number of Energy cards attached to the Defending Pok\u00e9mon."
+    },
+    {
+     "name": "Devolution Beam",
+     "cost": [
+      "Psychic",
+      "Psychic"
+     ],
+     "convertedEnergyCost": 2,
+     "damage": "",
+     "text": "Choose an evolved Pok\u00e9mon (your own or your opponent's). Return the highest Stage Evolution card on that Pok\u00e9mon to its player's hand. That Pok\u00e9mon is no longer Asleep, Confused, Paralyzed, or Poisoned, or anything else that might be the result of an attack (just as if you had evolved it)."
+    }
+   ],
+   "weaknesses": [
+    {
+     "type": "Psychic",
+     "value": "\u00d72"
+    }
+   ],
+   "retreatCost": [
+    "Colorless"
+   ],
+   "convertedRetreatCost": 1,
+   "set": {
+    "id": "basep",
+    "name": "Wizards Black Star Promos",
+    "series": "Base",
+    "printedTotal": 53,
+    "total": 53,
+    "legalities": {
+     "unlimited": "Legal"
+    },
+    "ptcgoCode": "PR",
+    "releaseDate": "1999/07/01",
+    "updatedAt": "2020/08/14 09:35:00",
+    "images": {
+     "symbol": "https://images.pokemontcg.io/basep/symbol.png",
+     "logo": "https://images.pokemontcg.io/basep/logo.png"
+    }
+   },
+   "number": "9",
+   "artist": "Ken Sugimori",
+   "rarity": "Promo",
+   "flavorText": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
+   "nationalPokedexNumbers": [
+    151
+   ],
+   "legalities": {
+    "unlimited": "Legal"
+   },
+   "images": {
+    "small": "https://images.pokemontcg.io/basep/9.png",
+    "large": "https://images.pokemontcg.io/basep/9_hires.png"
+   },
+   "tcgplayer": {
+    "url": "https://prices.pokemontcg.io/tcgplayer/basep-9",
+    "updatedAt": "2026/08/27",
+    "prices": {
+     "holofoil": {
+      "low": 89.99,
+      "mid": 140.75,
+      "high": 799.99,
+      "market": 145.64,
+      "directLow": 129.99
+     }
+    }
+   },
+   "cardmarket": {
+    "url": "https://prices.pokemontcg.io/cardmarket/basep-9",
+    "updatedAt": "2026/07/01",
+    "prices": {
+     "averageSellPrice": 57.35,
+     "lowPrice": 10.0,
+     "trendPrice": 62.4,
+     "germanProLow": 0.0,
+     "suggestedPrice": 0.0,
+     "reverseHoloSell": 0.0,
+     "reverseHoloLow": 0.0,
+     "reverseHoloTrend": 32.2,
+     "lowPriceExPlus": 40.0,
+     "avg1": 112.5,
+     "avg7": 73.89,
+     "avg30": 57.06,
+     "reverseHoloAvg1": 26.82,
+     "reverseHoloAvg7": 23.14,
+     "reverseHoloAvg30": 28.01
+    }
+   }
+  },
+  {
+   "id": "dp3-15",
+   "name": "Mew",
+   "supertype": "Pok\u00e9mon",
+   "subtypes": [
+    "Basic"
+   ],
+   "level": "40",
+   "hp": "60",
+   "types": [
+    "Psychic"
+   ],
+   "attacks": [
+    {
+     "name": "Psychic Balance",
+     "cost": [],
+     "convertedEnergyCost": 0,
+     "damage": "",
+     "text": "If you have less cards in your hand than your opponent, draw cards until you have the same number of cards as your opponent. (If you have more or the same number of cards in your hand as your opponent, this attack does nothing.)"
+    },
+    {
+     "name": "Re-creation",
+     "cost": [
+      "Psychic",
+      "Colorless",
+      "Colorless"
+     ],
+     "convertedEnergyCost": 3,
+     "damage": "",
+     "text": "Choose an attack on 1 of your opponent's Pok\u00e9mon in his or her discard pile. Re-creation copies that attack except for its Energy cost. (You must still do anything else required for that attack.) Mew performs that attack."
+    }
+   ],
+   "weaknesses": [
+    {
+     "type": "Psychic",
+     "value": "+20"
+    }
+   ],
+   "retreatCost": [
+    "Colorless"
+   ],
+   "convertedRetreatCost": 1,
+   "set": {
+    "id": "dp3",
+    "name": "Secret Wonders",
+    "series": "Diamond & Pearl",
+    "printedTotal": 132,
+    "total": 132,
+    "legalities": {
+     "unlimited": "Legal"
+    },
+    "ptcgoCode": "SW",
+    "releaseDate": "2007/11/01",
+    "updatedAt": "2018/03/04 10:35:00",
+    "images": {
+     "symbol": "https://images.pokemontcg.io/dp3/symbol.png",
+     "logo": "https://images.pokemontcg.io/dp3/logo.png"
+    }
+   },
+   "number": "15",
+   "artist": "Kagemaru Himeno",
+   "rarity": "Rare Holo",
+   "flavorText": "Because it can use all kinds of moves, many scientists believe MEW to be the ancestor of Pok\u00e9mon.",
+   "nationalPokedexNumbers": [
+    151
+   ],
+   "legalities": {
+    "unlimited": "Legal"
+   },
+   "images": {
+    "small": "https://images.pokemontcg.io/dp3/15.png",
+    "large": "https://images.pokemontcg.io/dp3/15_hires.png"
+   },
+   "tcgplayer": {
+    "url": "https://prices.pokemontcg.io/tcgplayer/dp3-15",
+    "updatedAt": "2026/08/27",
+    "prices": {
+     "holofoil": {
+      "low": 149.99,
+      "mid": 243.99,
+      "high": 1199.9,
+      "market": 192.03,
+      "directLow": null
+     },
+     "reverseHolofoil": {
+      "low": 80.38,
+      "mid": 105.0,
+      "high": 489.8,
+      "market": 98.37,
+      "directLow": null
+     }
+    }
+   },
+   "cardmarket": {
+    "url": "https://prices.pokemontcg.io/cardmarket/dp3-15",
+    "updatedAt": "2026/07/01",
+    "prices": {
+     "averageSellPrice": 34.21,
+     "lowPrice": 2.0,
+     "trendPrice": 22.53,
+     "germanProLow": 0.0,
+     "suggestedPrice": 0.0,
+     "reverseHoloSell": 24.25,
+     "reverseHoloLow": 5.0,
+     "reverseHoloTrend": 22.4,
+     "lowPriceExPlus": 12.99,
+     "avg1": 6.9,
+     "avg7": 19.13,
+     "avg30": 38.87,
+     "reverseHoloAvg1": 12.0,
+     "reverseHoloAvg7": 22.05,
+     "reverseHoloAvg30": 19.11
+    }
+   }
+  },
+  {
+   "id": "ecard1-19",
+   "name": "Mew",
+   "supertype": "Pok\u00e9mon",
+   "subtypes": [
+    "Basic"
+   ],
+   "hp": "50",
+   "types": [
+    "Psychic"
+   ],
+   "attacks": [
+    {
+     "name": "Super Psywave",
+     "cost": [
+      "Psychic",
+      "Colorless"
+     ],
+     "convertedEnergyCost": 2,
+     "damage": "",
+     "text": "Choose 1 of your opponent's Pok\u00e9mon. Count the number of Energy cards attached to that Pok\u00e9mon. Put that many damage counters on the Pok\u00e9mon."
+    }
+   ],
+   "weaknesses": [
+    {
+     "type": "Psychic",
+     "value": "\u00d72"
+    }
+   ],
+   "retreatCost": [
+    "Colorless"
+   ],
+   "convertedRetreatCost": 1,
+   "set": {
+    "id": "ecard1",
+    "name": "Expedition Base Set",
+    "series": "E-Card",
+    "printedTotal": 165,
+    "total": 165,
+    "legalities": {
+     "unlimited": "Legal"
+    },
+    "ptcgoCode": "EX",
+    "releaseDate": "2002/09/15",
+    "updatedAt": "2022/10/10 15:12:00",
+    "images": {
+     "symbol": "https://images.pokemontcg.io/ecard1/symbol.png",
+     "logo": "https://images.pokemontcg.io/ecard1/logo.png"
+    }
+   },
+   "number": "19",
+   "artist": "Hajime Kusajima",
+   "rarity": "Rare Holo",
+   "nationalPokedexNumbers": [
+    151
+   ],
+   "legalities": {
+    "unlimited": "Legal"
+   },
+   "images": {
+    "small": "https://images.pokemontcg.io/ecard1/19.png",
+    "large": "https://images.pokemontcg.io/ecard1/19_hires.png"
+   },
+   "tcgplayer": {
+    "url": "https://prices.pokemontcg.io/tcgplayer/ecard1-19",
+    "updatedAt": "2026/08/27",
+    "prices": {
+     "holofoil": {
+      "low": 549.0,
+      "mid": 2499.97,
+      "high": 3749.99,
+      "market": 440.0,
+      "directLow": null
+     },
+     "reverseHolofoil": {
+      "low": 208.11,
+      "mid": 2772.5,
+      "high": 4996.0,
+      "market": 216.5,
+      "directLow": 4499.99
+     }
+    }
+   },
+   "cardmarket": {
+    "url": "https://prices.pokemontcg.io/cardmarket/ecard1-19",
+    "updatedAt": "2026/07/01",
+    "prices": {
+     "averageSellPrice": 209.19,
+     "lowPrice": 20.0,
+     "trendPrice": 184.96,
+     "germanProLow": 0.0,
+     "suggestedPrice": 0.0,
+     "reverseHoloSell": 109.82,
+     "reverseHoloLow": 20.0,
+     "reverseHoloTrend": 116.27,
+     "lowPriceExPlus": 67.47,
+     "avg1": 307.0,
+     "avg7": 194.95,
+     "avg30": 236.95,
+     "reverseHoloAvg1": 190.0,
+     "reverseHoloAvg7": 116.41,
+     "reverseHoloAvg30": 86.44
+    }
+   }
+  },
+  {
+   "id": "xy10-29",
+   "name": "Mew",
+   "supertype": "Pok\u00e9mon",
+   "subtypes": [
+    "Basic"
+   ],
+   "hp": "50",
+   "types": [
+    "Psychic"
+   ],
+   "abilities": [
+    {
+     "name": "Memories of Dawn",
+     "text": "This Pok\u00e9mon can use the attacks of any of your Basic Pok\u00e9mon in play. (You still need the necessary Energy to use each attack.)",
+     "type": "Ability"
+    }
+   ],
+   "attacks": [
+    {
+     "name": "Encounter",
+     "cost": [
+      "Colorless"
+     ],
+     "convertedEnergyCost": 1,
+     "damage": "",
+     "text": "Search your deck for a Pok\u00e9mon, reveal it, and put it into your hand. Shuffle your deck afterward."
+    }
+   ],
+   "weaknesses": [
+    {
+     "type": "Psychic",
+     "value": "\u00d72"
+    }
+   ],
+   "set": {
+    "id": "xy10",
+    "name": "Fates Collide",
+    "series": "XY",
+    "printedTotal": 124,
+    "total": 129,
+    "legalities": {
+     "unlimited": "Legal",
+     "expanded": "Legal"
+    },
+    "ptcgoCode": "FCO",
+    "releaseDate": "2016/05/02",
+    "updatedAt": "2018/09/03 11:49:00",
+    "images": {
+     "symbol": "https://images.pokemontcg.io/xy10/symbol.png",
+     "logo": "https://images.pokemontcg.io/xy10/logo.png"
+    }
+   },
+   "number": "29",
+   "artist": "Mitsuhiro Arita",
+   "rarity": "Rare Holo",
+   "flavorText": "Its DNA is said to contain the genetic codes of all Pok\u00e9mon, so it can use all kinds of techniques.",
+   "nationalPokedexNumbers": [
+    151
+   ],
+   "legalities": {
+    "unlimited": "Legal",
+    "expanded": "Legal"
+   },
+   "images": {
+    "small": "https://images.pokemontcg.io/xy10/29.png",
+    "large": "https://images.pokemontcg.io/xy10/29_hires.png"
+   },
+   "tcgplayer": {
+    "url": "https://prices.pokemontcg.io/tcgplayer/xy10-29",
+    "updatedAt": "2026/08/27",
+    "prices": {
+     "holofoil": {
+      "low": 5.0,
+      "mid": 14.65,
+      "high": 104.69,
+      "market": 13.38,
+      "directLow": 17.79
+     },
+     "reverseHolofoil": {
+      "low": 8.69,
+      "mid": 19.99,
+      "high": 246.68,
+      "market": 17.73,
+      "directLow": 24.98
+     }
+    }
+   },
+   "cardmarket": {
+    "url": "https://prices.pokemontcg.io/cardmarket/xy10-29",
+    "updatedAt": "2026/03/11",
+    "prices": {
+     "averageSellPrice": 5.15,
+     "lowPrice": 1.0,
+     "trendPrice": 5.12,
+     "germanProLow": 0.0,
+     "suggestedPrice": 0.0,
+     "reverseHoloSell": 7.98,
+     "reverseHoloLow": 4.15,
+     "reverseHoloTrend": 6.42,
+     "lowPriceExPlus": 4.0,
+     "avg1": 4.0,
+     "avg7": 4.81,
+     "avg30": 5.23,
+     "reverseHoloAvg1": 7.99,
+     "reverseHoloAvg7": 6.49,
+     "reverseHoloAvg30": 6.67
+    }
+   }
+  },
+  {
+   "id": "sm115-32",
+   "name": "Mew",
+   "supertype": "Pok\u00e9mon",
+   "subtypes": [
+    "Basic"
+   ],
+   "hp": "80",
+   "types": [
+    "Psychic"
+   ],
+   "attacks": [
+    {
+     "name": "Psyshot",
+     "cost": [
+      "Psychic",
+      "Psychic"
+     ],
+     "convertedEnergyCost": 2,
+     "damage": "50",
+     "text": ""
+    }
+   ],
+   "weaknesses": [
+    {
+     "type": "Psychic",
+     "value": "\u00d72"
+    }
+   ],
+   "retreatCost": [
+    "Colorless"
+   ],
+   "convertedRetreatCost": 1,
+   "set": {
+    "id": "sm115",
+    "name": "Hidden Fates",
+    "series": "Sun & Moon",
+    "printedTotal": 68,
+    "total": 69,
+    "legalities": {
+     "unlimited": "Legal",
+     "expanded": "Legal"
+    },
+    "ptcgoCode": "HIF",
+    "releaseDate": "2019/08/23",
+    "updatedAt": "2021/09/01 05:37:00",
+    "images": {
+     "symbol": "https://images.pokemontcg.io/sm115/symbol.png",
+     "logo": "https://images.pokemontcg.io/sm115/logo.png"
+    }
+   },
+   "number": "32",
+   "artist": "Atsuko Nishida",
+   "rarity": "Rare",
+   "flavorText": "Because it can use all kinds of moves, many scientists believe Mew to be the ancestor of Pok\u00e9mon.",
+   "nationalPokedexNumbers": [
+    151
+   ],
+   "legalities": {
+    "unlimited": "Legal",
+    "expanded": "Legal"
+   },
+   "images": {
+    "small": "https://images.pokemontcg.io/sm115/32.png",
+    "large": "https://images.pokemontcg.io/sm115/32_hires.png"
+   },
+   "tcgplayer": {
+    "url": "https://prices.pokemontcg.io/tcgplayer/sm115-32",
+    "updatedAt": "2026/08/27",
+    "prices": {
+     "normal": {
+      "low": 2.5,
+      "mid": 3.5,
+      "high": 26.2,
+      "market": 3.51,
+      "directLow": 3.99
+     },
+     "reverseHolofoil": {
+      "low": 4.0,
+      "mid": 7.5,
+      "high": 96.94,
+      "market": 6.46,
+      "directLow": 6.71
+     }
+    }
+   },
+   "cardmarket": {
+    "url": "https://prices.pokemontcg.io/cardmarket/sm115-32",
+    "updatedAt": "2026/04/11",
+    "prices": {
+     "averageSellPrice": 3.12,
+     "lowPrice": 0.6,
+     "trendPrice": 2.92,
+     "germanProLow": 0.0,
+     "suggestedPrice": 0.0,
+     "reverseHoloSell": 0.0,
+     "reverseHoloLow": 0.0,
+     "reverseHoloTrend": 0.0,
+     "lowPriceExPlus": 0.99,
+     "avg1": 2.49,
+     "avg7": 2.6,
+     "avg30": 2.64,
+     "reverseHoloAvg1": 0.0,
+     "reverseHoloAvg7": 0.0,
+     "reverseHoloAvg30": 0.0
+    }
+   }
+  },
+  {
+   "id": "bw6-46",
+   "name": "Mew-EX",
+   "supertype": "Pok\u00e9mon",
+   "subtypes": [
+    "Basic",
+    "EX"
+   ],
+   "hp": "120",
+   "types": [
+    "Psychic"
+   ],
+   "rules": [
+    "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+   ],
+   "abilities": [
+    {
+     "name": "Versatile",
+     "text": "This Pok\u00e9mon can use the attacks of any Pok\u00e9mon in play (both yours and your opponent's). (You still need the necessary Energy to use each attack.)",
+     "type": "Ability"
+    }
+   ],
+   "attacks": [
+    {
+     "name": "Replace",
+     "cost": [
+      "Psychic"
+     ],
+     "convertedEnergyCost": 1,
+     "damage": "",
+     "text": "Move as many Energy attached to your Pok\u00e9mon to your other Pok\u00e9mon in any way you like."
+    }
+   ],
+   "weaknesses": [
+    {
+     "type": "Psychic",
+     "value": "\u00d72"
+    }
+   ],
+   "retreatCost": [
+    "Colorless"
+   ],
+   "convertedRetreatCost": 1,
+   "set": {
+    "id": "bw6",
+    "name": "Dragons Exalted",
+    "series": "Black & White",
+    "printedTotal": 124,
+    "total": 128,
+    "legalities": {
+     "unlimited": "Legal",
+     "expanded": "Legal"
+    },
+    "ptcgoCode": "DRX",
+    "releaseDate": "2012/08/15",
+    "updatedAt": "2018/03/04 10:35:00",
+    "images": {
+     "symbol": "https://images.pokemontcg.io/bw6/symbol.png",
+     "logo": "https://images.pokemontcg.io/bw6/logo.png"
+    }
+   },
+   "number": "46",
+   "artist": "Eske Yoshinob",
+   "rarity": "Rare Holo EX",
+   "nationalPokedexNumbers": [
+    151
+   ],
+   "legalities": {
+    "unlimited": "Legal",
+    "expanded": "Legal"
+   },
+   "images": {
+    "small": "https://images.pokemontcg.io/bw6/46.png",
+    "large": "https://images.pokemontcg.io/bw6/46_hires.png"
+   },
+   "tcgplayer": {
+    "url": "https://prices.pokemontcg.io/tcgplayer/bw6-46",
+    "updatedAt": "2026/08/27",
+    "prices": {
+     "holofoil": {
+      "low": 55.0,
+      "mid": 90.15,
+      "high": 459.8,
+      "market": 106.05,
+      "directLow": null
+     }
+    }
+   },
+   "cardmarket": {
+    "url": "https://prices.pokemontcg.io/cardmarket/bw6-46",
+    "updatedAt": "2026/02/19",
+    "prices": {
+     "averageSellPrice": 19.62,
+     "lowPrice": 3.0,
+     "trendPrice": 22.78,
+     "germanProLow": 0.0,
+     "suggestedPrice": 0.0,
+     "reverseHoloSell": 0.0,
+     "reverseHoloLow": 0.0,
+     "reverseHoloTrend": 12.78,
+     "lowPriceExPlus": 10.0,
+     "avg1": 18.49,
+     "avg7": 22.39,
+     "avg30": 18.18,
+     "reverseHoloAvg1": 7.49,
+     "reverseHoloAvg7": 14.05,
+     "reverseHoloAvg30": 11.44
+    }
+   }
+  },
+  {
+   "id": "np-40",
+   "name": "Mew",
+   "supertype": "Pok\u00e9mon",
+   "subtypes": [
+    "Basic"
+   ],
+   "hp": "50",
+   "types": [
+    "Psychic"
+   ],
+   "attacks": [
+    {
+     "name": "Psywave",
+     "cost": [
+      "Colorless"
+     ],
+     "convertedEnergyCost": 1,
+     "damage": "10\u00d7",
+     "text": "Does 10 damage times the amount of Energy attached to the Defending Pok\u00e9mon."
+    },
+    {
+     "name": "Devolution Beam",
+     "cost": [
+      "Psychic"
+     ],
+     "convertedEnergyCost": 1,
+     "damage": "",
+     "text": "Flip a coin. If heads, choose 1 of either player's Evolved Pok\u00e9mon, remove the highest stage Evolution card from that Pok\u00e9mon, and put it into that player's hand."
+    }
+   ],
+   "weaknesses": [
+    {
+     "type": "Psychic",
+     "value": "\u00d72"
+    }
+   ],
+   "retreatCost": [
+    "Colorless"
+   ],
+   "convertedRetreatCost": 1,
+   "set": {
+    "id": "np",
+    "name": "Nintendo Black Star Promos",
+    "series": "NP",
+    "printedTotal": 40,
+    "total": 40,
+    "legalities": {
+     "unlimited": "Legal"
+    },
+    "ptcgoCode": "PR-NP",
+    "releaseDate": "2003/10/01",
+    "updatedAt": "2020/05/01 16:06:00",
+    "images": {
+     "symbol": "https://images.pokemontcg.io/np/symbol.png",
+     "logo": "https://images.pokemontcg.io/np/logo.png"
+    }
+   },
+   "number": "40",
+   "artist": "Masakazu Fukuda",
+   "rarity": "Promo",
+   "nationalPokedexNumbers": [
+    151
+   ],
+   "legalities": {
+    "unlimited": "Legal"
+   },
+   "images": {
+    "small": "https://images.pokemontcg.io/np/40.png",
+    "large": "https://images.pokemontcg.io/np/40_hires.png"
+   },
+   "tcgplayer": {
+    "url": "https://prices.pokemontcg.io/tcgplayer/np-40",
+    "updatedAt": "2026/08/27",
+    "prices": {
+     "holofoil": {
+      "low": 205.98,
+      "mid": 547.98,
+      "high": 864.98,
+      "market": 113.04,
+      "directLow": 595.95
+     }
+    }
+   },
+   "cardmarket": {
+    "url": "https://prices.pokemontcg.io/cardmarket/np-40",
+    "updatedAt": "2026/06/27",
+    "prices": {
+     "averageSellPrice": 389.9,
+     "lowPrice": 300.0,
+     "trendPrice": 186.39,
+     "germanProLow": 0.0,
+     "suggestedPrice": 0.0,
+     "reverseHoloSell": 0.0,
+     "reverseHoloLow": 0.0,
+     "reverseHoloTrend": 26.56,
+     "lowPriceExPlus": 300.0,
+     "avg1": 449.45,
+     "avg7": 198.52,
+     "avg30": 107.43,
+     "reverseHoloAvg1": 24.99,
+     "reverseHoloAvg7": 25.16,
+     "reverseHoloAvg30": 23.18
+    }
+   }
+  },
+  {
+   "id": "sm35-40",
+   "name": "Shining Mew",
+   "supertype": "Pok\u00e9mon",
+   "subtypes": [
+    "Basic"
+   ],
+   "hp": "30",
+   "types": [
+    "Psychic"
+   ],
+   "attacks": [
+    {
+     "name": "Legendary Guidance",
+     "cost": [
+      "Psychic"
+     ],
+     "convertedEnergyCost": 1,
+     "damage": "",
+     "text": "Search your deck for up to 2 Energy cards and attach them to your Pok\u00e9mon in any way you like. Then, shuffle your deck."
+    },
+    {
+     "name": "Beam",
+     "cost": [
+      "Psychic"
+     ],
+     "convertedEnergyCost": 1,
+     "damage": "10",
+     "text": ""
+    }
+   ],
+   "weaknesses": [
+    {
+     "type": "Psychic",
+     "value": "\u00d72"
+    }
+   ],
+   "set": {
+    "id": "sm35",
+    "name": "Shining Legends",
+    "series": "Sun & Moon",
+    "printedTotal": 73,
+    "total": 81,
+    "legalities": {
+     "unlimited": "Legal",
+     "expanded": "Legal"
+    },
+    "ptcgoCode": "SLG",
+    "releaseDate": "2017/10/06",
+    "updatedAt": "2022/10/11 21:39:00",
+    "images": {
+     "symbol": "https://images.pokemontcg.io/sm35/symbol.png",
+     "logo": "https://images.pokemontcg.io/sm35/logo.png"
+    }
+   },
+   "number": "40",
+   "artist": "Sanosuke Sakuma",
+   "rarity": "Rare Shining",
+   "flavorText": "Because it can use all kinds of moves, many scientists believe Mew to be the ancestor of Pok\u00e9mon.",
+   "nationalPokedexNumbers": [
+    151
+   ],
+   "legalities": {
+    "unlimited": "Legal",
+    "expanded": "Legal"
+   },
+   "images": {
+    "small": "https://images.pokemontcg.io/sm35/40.png",
+    "large": "https://images.pokemontcg.io/sm35/40_hires.png"
+   },
+   "tcgplayer": {
+    "url": "https://prices.pokemontcg.io/tcgplayer/sm35-40",
+    "updatedAt": "2026/08/27",
+    "prices": {
+     "holofoil": {
+      "low": 119.99,
+      "mid": 200.0,
+      "high": 793.62,
+      "market": 179.5,
+      "directLow": 196.0
+     }
+    }
+   },
+   "cardmarket": {
+    "url": "https://prices.pokemontcg.io/cardmarket/sm35-40",
+    "updatedAt": "2026/02/24",
+    "prices": {
+     "averageSellPrice": 75.97,
+     "lowPrice": 23.5,
+     "trendPrice": 71.91,
+     "germanProLow": 0.0,
+     "suggestedPrice": 0.0,
+     "reverseHoloSell": 0.0,
+     "reverseHoloLow": 0.0,
+     "reverseHoloTrend": 58.36,
+     "lowPriceExPlus": 42.0,
+     "avg1": 40.0,
+     "avg7": 92.69,
+     "avg30": 74.64,
+     "reverseHoloAvg1": 74.95,
+     "reverseHoloAvg7": 63.51,
+     "reverseHoloAvg30": 78.4
+    }
+   }
+  },
+  {
+   "id": "basep-47",
+   "name": "Mew",
+   "supertype": "Pok\u00e9mon",
+   "subtypes": [
+    "Basic"
+   ],
+   "level": "8",
+   "hp": "40",
+   "types": [
+    "Psychic"
+   ],
+   "abilities": [
+    {
+     "name": "Neutral Shield",
+     "text": "Prevent all effects of attacks, including damage, done to Mew by Evolved Pok\u00e9mon. You can't use this power if Mew is Asleep, Confused, or Paralyzed.",
+     "type": "Pok\u00e9mon Power"
+    }
+   ],
+   "attacks": [
+    {
+     "name": "Psyshock",
+     "cost": [
+      "Psychic"
+     ],
+     "convertedEnergyCost": 1,
+     "damage": "10",
+     "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Confused."
+    }
+   ],
+   "weaknesses": [
+    {
+     "type": "Psychic",
+     "value": "\u00d72"
+    }
+   ],
+   "retreatCost": [
+    "Colorless"
+   ],
+   "convertedRetreatCost": 1,
+   "set": {
+    "id": "basep",
+    "name": "Wizards Black Star Promos",
+    "series": "Base",
+    "printedTotal": 53,
+    "total": 53,
+    "legalities": {
+     "unlimited": "Legal"
+    },
+    "ptcgoCode": "PR",
+    "releaseDate": "1999/07/01",
+    "updatedAt": "2020/08/14 09:35:00",
+    "images": {
+     "symbol": "https://images.pokemontcg.io/basep/symbol.png",
+     "logo": "https://images.pokemontcg.io/basep/logo.png"
+    }
+   },
+   "number": "47",
+   "artist": "Ken Sugimori",
+   "rarity": "Promo",
+   "flavorText": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
+   "nationalPokedexNumbers": [
+    151
+   ],
+   "legalities": {
+    "unlimited": "Legal"
+   },
+   "images": {
+    "small": "https://images.pokemontcg.io/basep/47.png",
+    "large": "https://images.pokemontcg.io/basep/47_hires.png"
+   },
+   "tcgplayer": {
+    "url": "https://prices.pokemontcg.io/tcgplayer/basep-47",
+    "updatedAt": "2026/08/27",
+    "prices": {
+     "normal": {
+      "low": 165.0,
+      "mid": 284.5,
+      "high": 9999.0,
+      "market": 149.27,
+      "directLow": 379.99
+     }
+    }
+   },
+   "cardmarket": {
+    "url": "https://prices.pokemontcg.io/cardmarket/basep-47",
+    "updatedAt": "2026/06/22",
+    "prices": {
+     "averageSellPrice": 115.12,
+     "lowPrice": 85.0,
+     "trendPrice": 114.47,
+     "germanProLow": 0.0,
+     "suggestedPrice": 0.0,
+     "reverseHoloSell": 0.0,
+     "reverseHoloLow": 0.0,
+     "reverseHoloTrend": 5.27,
+     "lowPriceExPlus": 120.0,
+     "avg1": 125.0,
+     "avg7": 110.87,
+     "avg30": 96.67,
+     "reverseHoloAvg1": 5.5,
+     "reverseHoloAvg7": 5.17,
+     "reverseHoloAvg30": 5.17
+    }
+   }
+  },
+  {
+   "id": "xy12-53",
+   "name": "Mew",
+   "supertype": "Pok\u00e9mon",
+   "subtypes": [
+    "Basic"
+   ],
+   "level": "8",
+   "hp": "40",
+   "types": [
+    "Psychic"
+   ],
+   "abilities": [
+    {
+     "name": "Neutral Shield",
+     "text": "Prevent all effects of attacks, including damage, done to this Pok\u00e9mon by your opponent's Evolution Pok\u00e9mon.",
+     "type": "Ability"
+    }
+   ],
+   "attacks": [
+    {
+     "name": "Psy Bolt",
+     "cost": [
+      "Psychic",
+      "Colorless"
+     ],
+     "convertedEnergyCost": 2,
+     "damage": "30",
+     "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed."
+    }
+   ],
+   "weaknesses": [
+    {
+     "type": "Psychic",
+     "value": "\u00d72"
+    }
+   ],
+   "retreatCost": [
+    "Colorless"
+   ],
+   "convertedRetreatCost": 1,
+   "set": {
+    "id": "xy12",
+    "name": "Evolutions",
+    "series": "XY",
+    "printedTotal": 108,
+    "total": 113,
+    "legalities": {
+     "unlimited": "Legal",
+     "expanded": "Legal"
+    },
+    "ptcgoCode": "EVO",
+    "releaseDate": "2016/11/02",
+    "updatedAt": "2020/09/25 10:09:00",
+    "images": {
+     "symbol": "https://images.pokemontcg.io/xy12/symbol.png",
+     "logo": "https://images.pokemontcg.io/xy12/logo.png"
+    }
+   },
+   "number": "53",
+   "artist": "Ken Sugimori",
+   "rarity": "Rare Holo",
+   "flavorText": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
+   "nationalPokedexNumbers": [
+    151
+   ],
+   "legalities": {
+    "unlimited": "Legal",
+    "expanded": "Legal"
+   },
+   "images": {
+    "small": "https://images.pokemontcg.io/xy12/53.png",
+    "large": "https://images.pokemontcg.io/xy12/53_hires.png"
+   },
+   "tcgplayer": {
+    "url": "https://prices.pokemontcg.io/tcgplayer/xy12-53",
+    "updatedAt": "2026/08/27",
+    "prices": {
+     "holofoil": {
+      "low": 19.25,
+      "mid": 38.29,
+      "high": 188.0,
+      "market": 33.14,
+      "directLow": 19.94
+     },
+     "reverseHolofoil": {
+      "low": 21.6,
+      "mid": 33.06,
+      "high": 900.07,
+      "market": 27.75,
+      "directLow": 27.74
+     }
+    }
+   },
+   "cardmarket": {
+    "url": "https://prices.pokemontcg.io/cardmarket/xy12-53",
+    "updatedAt": "2026/02/19",
+    "prices": {
+     "averageSellPrice": 77.5,
+     "lowPrice": 48.0,
+     "trendPrice": 51.66,
+     "germanProLow": 0.0,
+     "suggestedPrice": 0.0,
+     "reverseHoloSell": 0.0,
+     "reverseHoloLow": 0.0,
+     "reverseHoloTrend": 21.8,
+     "lowPriceExPlus": 50.0,
+     "avg1": 89.99,
+     "avg7": 68.43,
+     "avg30": 51.64,
+     "reverseHoloAvg1": 19.89,
+     "reverseHoloAvg7": 18.19,
+     "reverseHoloAvg30": 11.44
+    }
+   }
+  },
+  {
+   "id": "ecard1-55",
+   "name": "Mew",
+   "supertype": "Pok\u00e9mon",
+   "subtypes": [
+    "Basic"
+   ],
+   "hp": "50",
+   "types": [
+    "Psychic"
+   ],
+   "attacks": [
+    {
+     "name": "Super Psywave",
+     "cost": [
+      "Psychic",
+      "Colorless"
+     ],
+     "convertedEnergyCost": 2,
+     "damage": "",
+     "text": "Choose 1 of your opponent's Pok\u00e9mon. Count the number of Energy cards attached to that Pok\u00e9mon. Put that many damage counters on the Pok\u00e9mon."
+    }
+   ],
+   "weaknesses": [
+    {
+     "type": "Psychic",
+     "value": "\u00d72"
+    }
+   ],
+   "retreatCost": [
+    "Colorless"
+   ],
+   "convertedRetreatCost": 1,
+   "set": {
+    "id": "ecard1",
+    "name": "Expedition Base Set",
+    "series": "E-Card",
+    "printedTotal": 165,
+    "total": 165,
+    "legalities": {
+     "unlimited": "Legal"
+    },
+    "ptcgoCode": "EX",
+    "releaseDate": "2002/09/15",
+    "updatedAt": "2022/10/10 15:12:00",
+    "images": {
+     "symbol": "https://images.pokemontcg.io/ecard1/symbol.png",
+     "logo": "https://images.pokemontcg.io/ecard1/logo.png"
+    }
+   },
+   "number": "55",
+   "artist": "Hajime Kusajima",
+   "rarity": "Rare",
+   "nationalPokedexNumbers": [
+    151
+   ],
+   "legalities": {
+    "unlimited": "Legal"
+   },
+   "images": {
+    "small": "https://images.pokemontcg.io/ecard1/55.png",
+    "large": "https://images.pokemontcg.io/ecard1/55_hires.png"
+   },
+   "tcgplayer": {
+    "url": "https://prices.pokemontcg.io/tcgplayer/ecard1-55",
+    "updatedAt": "2026/08/27",
+    "prices": {
+     "normal": {
+      "low": 99.23,
+      "mid": 205.82,
+      "high": 796.72,
+      "market": 124.87,
+      "directLow": 299.99
+     },
+     "reverseHolofoil": {
+      "low": 150.0,
+      "mid": 182.0,
+      "high": 199.99,
+      "market": 133.68,
+      "directLow": null
+     }
+    }
+   },
+   "cardmarket": {
+    "url": "https://prices.pokemontcg.io/cardmarket/ecard1-55",
+    "updatedAt": "2026/06/21",
+    "prices": {
+     "averageSellPrice": 45.1,
+     "lowPrice": 5.0,
+     "trendPrice": 31.31,
+     "germanProLow": 0.0,
+     "suggestedPrice": 0.0,
+     "reverseHoloSell": 147.33,
+     "reverseHoloLow": 24.84,
+     "reverseHoloTrend": 77.77,
+     "lowPriceExPlus": 29.89,
+     "avg1": 9.9,
+     "avg7": 20.92,
+     "avg30": 39.0,
+     "reverseHoloAvg1": 150.0,
+     "reverseHoloAvg7": 123.4,
+     "reverseHoloAvg30": 76.32
+    }
+   }
+  },
+  {
+   "id": "swsh3-69",
+   "name": "Mew V",
+   "supertype": "Pok\u00e9mon",
+   "subtypes": [
+    "Basic",
+    "V"
+   ],
+   "hp": "180",
+   "types": [
+    "Psychic"
+   ],
+   "rules": [
+    "V rule: When your Pok\u00e9mon V is Knocked Out, your opponent takes 2 Prize cards."
+   ],
+   "attacks": [
+    {
+     "name": "X Ball",
+     "cost": [
+      "Psychic",
+      "Psychic"
+     ],
+     "convertedEnergyCost": 2,
+     "damage": "30\u00d7",
+     "text": "This attack does 30 damage for each Energy attached to both Active Pok\u00e9mon."
+    }
+   ],
+   "weaknesses": [
+    {
+     "type": "Darkness",
+     "value": "\u00d72"
+    }
+   ],
+   "resistances": [
+    {
+     "type": "Fighting",
+     "value": "-30"
+    }
+   ],
+   "set": {
+    "id": "swsh3",
+    "name": "Darkness Ablaze",
+    "series": "Sword & Shield",
+    "printedTotal": 189,
+    "total": 201,
+    "legalities": {
+     "unlimited": "Legal",
+     "expanded": "Legal"
+    },
+    "ptcgoCode": "DAA",
+    "releaseDate": "2020/08/14",
+    "updatedAt": "2020/10/25 13:45:00",
+    "images": {
+     "symbol": "https://images.pokemontcg.io/swsh3/symbol.png",
+     "logo": "https://images.pokemontcg.io/swsh3/logo.png"
+    }
+   },
+   "number": "69",
+   "artist": "PLANETA Mochizuki",
+   "rarity": "Rare Holo V",
+   "nationalPokedexNumbers": [
+    151
+   ],
+   "legalities": {
+    "unlimited": "Legal",
+    "expanded": "Legal"
+   },
+   "regulationMark": "D",
+   "images": {
+    "small": "https://images.pokemontcg.io/swsh3/69.png",
+    "large": "https://images.pokemontcg.io/swsh3/69_hires.png"
+   },
+   "tcgplayer": {
+    "url": "https://prices.pokemontcg.io/tcgplayer/swsh3-69",
+    "updatedAt": "2026/08/27",
+    "prices": {
+     "holofoil": {
+      "low": 4.99,
+      "mid": 6.99,
+      "high": 150.0,
+      "market": 6.25,
+      "directLow": 7.62
+     }
+    }
+   },
+   "cardmarket": {
+    "url": "https://prices.pokemontcg.io/cardmarket/swsh3-69",
+    "updatedAt": "2026/01/19",
+    "prices": {
+     "averageSellPrice": 3.5,
+     "lowPrice": 1.0,
+     "trendPrice": 3.35,
+     "germanProLow": 0.0,
+     "suggestedPrice": 0.0,
+     "reverseHoloSell": 0.0,
+     "reverseHoloLow": 0.0,
+     "reverseHoloTrend": 2.77,
+     "lowPriceExPlus": 2.2,
+     "avg1": 2.6,
+     "avg7": 3.12,
+     "avg30": 3.46,
+     "reverseHoloAvg1": 3.07,
+     "reverseHoloAvg7": 2.78,
+     "reverseHoloAvg30": 3.23
+    }
+   }
+  },
+  {
+   "id": "sm11-71",
+   "name": "Mewtwo & Mew-GX",
+   "supertype": "Pok\u00e9mon",
+   "subtypes": [
+    "Basic",
+    "TAG TEAM",
+    "GX"
+   ],
+   "hp": "270",
+   "types": [
+    "Psychic"
+   ],
+   "rules": [
+    "TAG TEAM rule: When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
+   ],
+   "abilities": [
+    {
+     "name": "Perfection",
+     "text": "This Pok\u00e9mon can use the attacks of any Pok\u00e9mon-GX or Pok\u00e9mon-EX on your Bench or in your discard pile. (You still need the necessary Energy to use each attack.)",
+     "type": "Ability"
+    }
+   ],
+   "attacks": [
+    {
+     "name": "Miraculous Duo-GX",
+     "cost": [
+      "Psychic",
+      "Psychic",
+      "Colorless"
+     ],
+     "convertedEnergyCost": 3,
+     "damage": "200",
+     "text": "If this Pok\u00e9mon has at least 1 extra Energy attached to it (in addition to this attack's cost), heal all damage from all of your Pok\u00e9mon. (You can't use more than 1 GX attack in a game.)"
+    }
+   ],
+   "weaknesses": [
+    {
+     "type": "Psychic",
+     "value": "\u00d72"
+    }
+   ],
+   "retreatCost": [
+    "Colorless",
+    "Colorless"
+   ],
+   "convertedRetreatCost": 2,
+   "set": {
+    "id": "sm11",
+    "name": "Unified Minds",
+    "series": "Sun & Moon",
+    "printedTotal": 236,
+    "total": 260,
+    "legalities": {
+     "unlimited": "Legal",
+     "expanded": "Legal"
+    },
+    "ptcgoCode": "UNM",
+    "releaseDate": "2019/08/02",
+    "updatedAt": "2021/09/01 05:37:00",
+    "images": {
+     "symbol": "https://images.pokemontcg.io/sm11/symbol.png",
+     "logo": "https://images.pokemontcg.io/sm11/logo.png"
+    }
+   },
+   "number": "71",
+   "artist": "Mitsuhiro Arita",
+   "rarity": "Rare Holo GX",
+   "nationalPokedexNumbers": [
+    150,
+    151
+   ],
+   "legalities": {
+    "unlimited": "Legal",
+    "expanded": "Legal"
+   },
+   "images": {
+    "small": "https://images.pokemontcg.io/sm11/71.png",
+    "large": "https://images.pokemontcg.io/sm11/71_hires.png"
+   },
+   "tcgplayer": {
+    "url": "https://prices.pokemontcg.io/tcgplayer/sm11-71",
+    "updatedAt": "2026/08/27",
+    "prices": {
+     "holofoil": {
+      "low": 100.01,
+      "mid": 147.68,
+      "high": 229.97,
+      "market": 124.68,
+      "directLow": 139.99
+     }
+    }
+   },
+   "cardmarket": {
+    "url": "https://prices.pokemontcg.io/cardmarket/sm11-71",
+    "updatedAt": "2026/02/01",
+    "prices": {
+     "averageSellPrice": 49.74,
+     "lowPrice": 13.9,
+     "trendPrice": 46.88,
+     "germanProLow": 0.0,
+     "suggestedPrice": 0.0,
+     "reverseHoloSell": 0.0,
+     "reverseHoloLow": 0.0,
+     "reverseHoloTrend": 22.62,
+     "lowPriceExPlus": 25.0,
+     "avg1": 85.0,
+     "avg7": 52.32,
+     "avg30": 55.57,
+     "reverseHoloAvg1": 26.66,
+     "reverseHoloAvg7": 25.31,
+     "reverseHoloAvg30": 21.47
+    }
+   }
+  },
+  {
+   "id": "ex12-88",
+   "name": "Mew ex",
+   "supertype": "Pok\u00e9mon",
+   "subtypes": [
+    "Basic",
+    "ex"
+   ],
+   "hp": "90",
+   "types": [
+    "Psychic"
+   ],
+   "rules": [
+    "When Pok\u00e9mon-ex has been Knocked Out, your opponent takes 2 Prize cards."
+   ],
+   "abilities": [
+    {
+     "name": "Versatile",
+     "text": "Mew ex can use the attacks of all Pok\u00e9mon in play as its own. (You still need the necessary Energy to use each attack.)",
+     "type": "Pok\u00e9-Body"
+    }
+   ],
+   "attacks": [
+    {
+     "name": "Power Move",
+     "cost": [
+      "Psychic",
+      "Colorless"
+     ],
+     "convertedEnergyCost": 2,
+     "damage": "",
+     "text": "Search your deck for an Energy card and attach it to Mew ex. Shuffle your deck afterward. Then, you may switch Mew ex with 1 of your Benched Pok\u00e9mon."
+    }
+   ],
+   "weaknesses": [
+    {
+     "type": "Psychic",
+     "value": "\u00d72"
+    }
+   ],
+   "retreatCost": [
+    "Colorless"
+   ],
+   "convertedRetreatCost": 1,
+   "set": {
+    "id": "ex12",
+    "name": "Legend Maker",
+    "series": "EX",
+    "printedTotal": 92,
+    "total": 93,
+    "legalities": {
+     "unlimited": "Legal"
+    },
+    "ptcgoCode": "LM",
+    "releaseDate": "2006/02/01",
+    "updatedAt": "2018/03/04 10:35:00",
+    "images": {
+     "symbol": "https://images.pokemontcg.io/ex12/symbol.png",
+     "logo": "https://images.pokemontcg.io/ex12/logo.png"
+    }
+   },
+   "number": "88",
+   "artist": "Ryo Ueda",
+   "rarity": "Rare Holo EX",
+   "nationalPokedexNumbers": [
+    151
+   ],
+   "legalities": {
+    "unlimited": "Legal"
+   },
+   "images": {
+    "small": "https://images.pokemontcg.io/ex12/88.png",
+    "large": "https://images.pokemontcg.io/ex12/88_hires.png"
+   },
+   "tcgplayer": {
+    "url": "https://prices.pokemontcg.io/tcgplayer/ex12-88",
+    "updatedAt": "2026/08/27",
+    "prices": {
+     "holofoil": {
+      "low": 999.69,
+      "mid": 2499.84,
+      "high": 3999.98,
+      "market": 1.38,
+      "directLow": null
+     }
+    }
+   },
+   "cardmarket": {
+    "url": "https://prices.pokemontcg.io/cardmarket/ex12-88",
+    "updatedAt": "2026/01/19",
+    "prices": {
+     "averageSellPrice": 112.24,
+     "lowPrice": 15.0,
+     "trendPrice": 42.48,
+     "germanProLow": 0.0,
+     "suggestedPrice": 0.0,
+     "reverseHoloSell": 0.0,
+     "reverseHoloLow": 0.0,
+     "reverseHoloTrend": 59.61,
+     "lowPriceExPlus": 19.99,
+     "avg1": 30.0,
+     "avg7": 70.15,
+     "avg30": 78.59,
+     "reverseHoloAvg1": 35.0,
+     "reverseHoloAvg7": 52.87,
+     "reverseHoloAvg30": 49.78
+    }
+   }
+  },
+  {
+   "id": "sm10-76",
+   "name": "Mew",
+   "supertype": "Pok\u00e9mon",
+   "subtypes": [
+    "Basic"
+   ],
+   "hp": "60",
+   "types": [
+    "Psychic"
+   ],
+   "abilities": [
+    {
+     "name": "Bench Barrier",
+     "text": "Prevent all damage done to your Benched Pok\u00e9mon by your opponent's attacks.",
+     "type": "Ability"
+    }
+   ],
+   "attacks": [
+    {
+     "name": "Psypower",
+     "cost": [
+      "Colorless"
+     ],
+     "convertedEnergyCost": 1,
+     "damage": "",
+     "text": "Put 3 damage counters on your opponent's Pok\u00e9mon in any way you like."
+    }
+   ],
+   "weaknesses": [
+    {
+     "type": "Psychic",
+     "value": "\u00d72"
+    }
+   ],
+   "retreatCost": [
+    "Colorless"
+   ],
+   "convertedRetreatCost": 1,
+   "set": {
+    "id": "sm10",
+    "name": "Unbroken Bonds",
+    "series": "Sun & Moon",
+    "printedTotal": 214,
+    "total": 234,
+    "legalities": {
+     "unlimited": "Legal",
+     "expanded": "Legal"
+    },
+    "ptcgoCode": "UNB",
+    "releaseDate": "2019/05/03",
+    "updatedAt": "2021/09/01 05:37:00",
+    "images": {
+     "symbol": "https://images.pokemontcg.io/sm10/symbol.png",
+     "logo": "https://images.pokemontcg.io/sm10/logo.png"
+    }
+   },
+   "number": "76",
+   "artist": "sui",
+   "rarity": "Rare Holo",
+   "flavorText": "Because it can use all kinds of moves, many scientists believe Mew to be the ancestor of Pok\u00e9mon.",
+   "nationalPokedexNumbers": [
+    151
+   ],
+   "legalities": {
+    "unlimited": "Legal",
+    "expanded": "Legal"
+   },
+   "images": {
+    "small": "https://images.pokemontcg.io/sm10/76.png",
+    "large": "https://images.pokemontcg.io/sm10/76_hires.png"
+   },
+   "tcgplayer": {
+    "url": "https://prices.pokemontcg.io/tcgplayer/sm10-76",
+    "updatedAt": "2026/08/27",
+    "prices": {
+     "reverseHolofoil": {
+      "low": 12.25,
+      "mid": 17.76,
+      "high": 146.41,
+      "market": 18.05,
+      "directLow": 146.41
+     },
+     "holofoil": {
+      "low": 11.25,
+      "mid": 30.84,
+      "high": 393.8,
+      "market": 21.21,
+      "directLow": 393.8
+     }
+    }
+   },
+   "cardmarket": {
+    "url": "https://prices.pokemontcg.io/cardmarket/sm10-76",
+    "updatedAt": "2026/01/19",
+    "prices": {
+     "averageSellPrice": 0.0,
+     "lowPrice": 0.0,
+     "trendPrice": 0.0,
+     "germanProLow": 0.0,
+     "suggestedPrice": 0.0,
+     "reverseHoloSell": 0.0,
+     "reverseHoloLow": 0.0,
+     "reverseHoloTrend": 0.0,
+     "lowPriceExPlus": 0.0,
+     "avg1": 0.0,
+     "avg7": 0.0,
+     "avg30": 0.0,
+     "reverseHoloAvg1": 0.0,
+     "reverseHoloAvg7": 0.0,
+     "reverseHoloAvg30": 0.0
+    }
+   }
+  },
+  {
+   "id": "hgss4-97",
+   "name": "Mew",
+   "supertype": "Pok\u00e9mon",
+   "subtypes": [
+    "Basic",
+    "Prime"
+   ],
+   "hp": "60",
+   "types": [
+    "Psychic"
+   ],
+   "abilities": [
+    {
+     "name": "Lost Link",
+     "text": "Mew can use the attacks of all Pok\u00e9mon in the Lost Zone (both yours and your opponent's). (You still need the necessary Energy to use each attack.)",
+     "type": "Pok\u00e9-Body"
+    }
+   ],
+   "attacks": [
+    {
+     "name": "See Off",
+     "cost": [
+      "Psychic"
+     ],
+     "convertedEnergyCost": 1,
+     "damage": "",
+     "text": "Search your deck for 1 Pok\u00e9mon and put it in the Lost Zone. Shuffle your deck afterward."
+    }
+   ],
+   "weaknesses": [
+    {
+     "type": "Psychic",
+     "value": "\u00d72"
+    }
+   ],
+   "set": {
+    "id": "hgss4",
+    "name": "HS\u2014Triumphant",
+    "series": "HeartGold & SoulSilver",
+    "printedTotal": 102,
+    "total": 103,
+    "legalities": {
+     "unlimited": "Legal"
+    },
+    "ptcgoCode": "TM",
+    "releaseDate": "2010/11/03",
+    "updatedAt": "2018/03/04 10:35:00",
+    "images": {
+     "symbol": "https://images.pokemontcg.io/hgss4/symbol.png",
+     "logo": "https://images.pokemontcg.io/hgss4/logo.png"
+    }
+   },
+   "number": "97",
+   "artist": "Hideaki Hakozaki",
+   "rarity": "Rare Prime",
+   "nationalPokedexNumbers": [
+    151
+   ],
+   "legalities": {
+    "unlimited": "Legal"
+   },
+   "images": {
+    "small": "https://images.pokemontcg.io/hgss4/97.png",
+    "large": "https://images.pokemontcg.io/hgss4/97_hires.png"
+   },
+   "tcgplayer": {
+    "url": "https://prices.pokemontcg.io/tcgplayer/hgss4-97",
+    "updatedAt": "2026/08/27",
+    "prices": {
+     "holofoil": {
+      "low": 439.99,
+      "mid": 500.0,
+      "high": 1999.0,
+      "market": 369.47,
+      "directLow": null
+     }
+    }
+   },
+   "cardmarket": {
+    "url": "https://prices.pokemontcg.io/cardmarket/hgss4-97",
+    "updatedAt": "2026/01/16",
+    "prices": {
+     "averageSellPrice": 71.54,
+     "lowPrice": 6.0,
+     "trendPrice": 68.72,
+     "germanProLow": 0.0,
+     "suggestedPrice": 0.0,
+     "reverseHoloSell": 0.0,
+     "reverseHoloLow": 0.0,
+     "reverseHoloTrend": 16.47,
+     "lowPriceExPlus": 28.0,
+     "avg1": 197.67,
+     "avg7": 69.92,
+     "avg30": 50.93,
+     "reverseHoloAvg1": 4.6,
+     "reverseHoloAvg7": 13.9,
+     "reverseHoloAvg30": 24.26
+    }
+   }
+  },
+  {
+   "id": "ex13-100",
+   "name": "Mew ex",
+   "supertype": "Pok\u00e9mon",
+   "subtypes": [
+    "Basic",
+    "ex"
+   ],
+   "hp": "90",
+   "types": [
+    "Psychic"
+   ],
+   "rules": [
+    "When Pok\u00e9mon-ex has been Knocked Out, your opponent takes 2 Prize cards."
+   ],
+   "abilities": [
+    {
+     "name": "Psychic Vision",
+     "text": "Once during your turn (before your attack), if Mew ex is on your Bench, you may look at your opponent's hand.",
+     "type": "Pok\u00e9-Power"
+    }
+   ],
+   "attacks": [
+    {
+     "name": "Super Psy Bolt",
+     "cost": [
+      "Colorless",
+      "Colorless"
+     ],
+     "convertedEnergyCost": 2,
+     "damage": "30",
+     "text": ""
+    },
+    {
+     "name": "Devo Crush",
+     "cost": [
+      "Psychic",
+      "Colorless",
+      "Colorless"
+     ],
+     "convertedEnergyCost": 3,
+     "damage": "50",
+     "text": "You may discard 2 Energy attached to Mew ex. If you do, you may remove the highest Stage Evolution card from the Defending Pok\u00e9mon and shuffle that card into your opponent's deck."
+    }
+   ],
+   "weaknesses": [
+    {
+     "type": "Psychic",
+     "value": "\u00d72"
+    }
+   ],
+   "retreatCost": [
+    "Colorless"
+   ],
+   "convertedRetreatCost": 1,
+   "set": {
+    "id": "ex13",
+    "name": "Holon Phantoms",
+    "series": "EX",
+    "printedTotal": 110,
+    "total": 111,
+    "legalities": {
+     "unlimited": "Legal"
+    },
+    "ptcgoCode": "HP",
+    "releaseDate": "2006/05/01",
+    "updatedAt": "2018/03/04 10:35:00",
+    "images": {
+     "symbol": "https://images.pokemontcg.io/ex13/symbol.png",
+     "logo": "https://images.pokemontcg.io/ex13/logo.png"
+    }
+   },
+   "number": "100",
+   "artist": "Ryo Ueda",
+   "rarity": "Rare Holo EX",
+   "nationalPokedexNumbers": [
+    151
+   ],
+   "legalities": {
+    "unlimited": "Legal"
+   },
+   "images": {
+    "small": "https://images.pokemontcg.io/ex13/100.png",
+    "large": "https://images.pokemontcg.io/ex13/100_hires.png"
+   },
+   "tcgplayer": {
+    "url": "https://prices.pokemontcg.io/tcgplayer/ex13-100",
+    "updatedAt": "2026/08/27",
+    "prices": {
+     "holofoil": {
+      "low": 110.99,
+      "mid": 120.22,
+      "high": 428.96,
+      "market": 525.31,
+      "directLow": null
+     }
+    }
+   },
+   "cardmarket": {
+    "url": "https://prices.pokemontcg.io/cardmarket/ex13-100",
+    "updatedAt": "2026/01/16",
+    "prices": {
+     "averageSellPrice": 75.39,
+     "lowPrice": 16.0,
+     "trendPrice": 129.32,
+     "germanProLow": 0.0,
+     "suggestedPrice": 0.0,
+     "reverseHoloSell": 0.0,
+     "reverseHoloLow": 0.0,
+     "reverseHoloTrend": 24.25,
+     "lowPriceExPlus": 100.0,
+     "avg1": 78.0,
+     "avg7": 66.11,
+     "avg30": 135.42,
+     "reverseHoloAvg1": 30.0,
+     "reverseHoloAvg7": 22.43,
+     "reverseHoloAvg30": 31.09
+    }
+   }
+  },
+  {
+   "id": "bwp-BW98",
+   "name": "Mew",
+   "supertype": "Pok\u00e9mon",
+   "subtypes": [
+    "Basic"
+   ],
+   "hp": "60",
+   "types": [
+    "Psychic"
+   ],
+   "abilities": [
+    {
+     "name": "Psyscan",
+     "text": "Once during your turn (before your attack), if this Pok\u00e9mon is your Active Pok\u00e9mon, you may have your opponent reveal his or her hand.",
+     "type": "Ability"
+    }
+   ],
+   "attacks": [
+    {
+     "name": "Psychic Exchange",
+     "cost": [
+      "Psychic"
+     ],
+     "convertedEnergyCost": 1,
+     "damage": "",
+     "text": "Shuffle your hand into your deck. Then, draw 6 cards."
+    }
+   ],
+   "weaknesses": [
+    {
+     "type": "Psychic",
+     "value": "\u00d72"
+    }
+   ],
+   "retreatCost": [
+    "Colorless"
+   ],
+   "convertedRetreatCost": 1,
+   "set": {
+    "id": "bwp",
+    "name": "BW Black Star Promos",
+    "series": "Black & White",
+    "printedTotal": 101,
+    "total": 101,
+    "legalities": {
+     "unlimited": "Legal",
+     "expanded": "Legal"
+    },
+    "ptcgoCode": "PR-BLW",
+    "releaseDate": "2011/03/01",
+    "updatedAt": "2020/08/14 09:35:00",
+    "images": {
+     "symbol": "https://images.pokemontcg.io/bwp/symbol.png",
+     "logo": "https://images.pokemontcg.io/bwp/logo.png"
+    }
+   },
+   "number": "BW98",
+   "artist": "Naoki Saito",
+   "rarity": "Promo",
+   "flavorText": "Because it can use all kinds of moves, many scientists believe Mew to be the ancestor of Pok\u00e9mon.",
+   "nationalPokedexNumbers": [
+    151
+   ],
+   "legalities": {
+    "unlimited": "Legal",
+    "expanded": "Legal"
+   },
+   "images": {
+    "small": "https://images.pokemontcg.io/bwp/BW98.png",
+    "large": "https://images.pokemontcg.io/bwp/BW98_hires.png"
+   },
+   "tcgplayer": {
+    "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW98",
+    "updatedAt": "2026/08/27",
+    "prices": {
+     "holofoil": {
+      "low": 379.99,
+      "mid": 439.99,
+      "high": 499.99,
+      "market": 300.0,
+      "directLow": null
+     }
+    }
+   },
+   "cardmarket": {
+    "url": "https://prices.pokemontcg.io/cardmarket/bwp-BW98",
+    "updatedAt": "2026/01/16",
+    "prices": {
+     "averageSellPrice": 62.45,
+     "lowPrice": 20.0,
+     "trendPrice": 57.0,
+     "germanProLow": 0.0,
+     "suggestedPrice": 0.0,
+     "reverseHoloSell": 0.0,
+     "reverseHoloLow": 0.0,
+     "reverseHoloTrend": 33.75,
+     "lowPriceExPlus": 79.99,
+     "avg1": 54.9,
+     "avg7": 58.21,
+     "avg30": 45.55,
+     "reverseHoloAvg1": 69.99,
+     "reverseHoloAvg7": 35.39,
+     "reverseHoloAvg30": 22.02
+    }
+   }
+  },
+  {
+   "id": "ex13-111",
+   "name": "Mew",
+   "supertype": "Pok\u00e9mon",
+   "subtypes": [
+    "Basic"
+   ],
+   "hp": "50",
+   "types": [
+    "Psychic"
+   ],
+   "attacks": [
+    {
+     "name": "Super Psywave",
+     "cost": [
+      "Psychic",
+      "Colorless"
+     ],
+     "convertedEnergyCost": 2,
+     "damage": "",
+     "text": "Choose 1 of your opponent's Pok\u00e9mon. Count the amount of Energy attached to that Pok\u00e9mon. Put that many damage counters on the Pok\u00e9mon."
+    }
+   ],
+   "weaknesses": [
+    {
+     "type": "Psychic",
+     "value": "\u00d72"
+    }
+   ],
+   "retreatCost": [
+    "Colorless"
+   ],
+   "convertedRetreatCost": 1,
+   "set": {
+    "id": "ex13",
+    "name": "Holon Phantoms",
+    "series": "EX",
+    "printedTotal": 110,
+    "total": 111,
+    "legalities": {
+     "unlimited": "Legal"
+    },
+    "ptcgoCode": "HP",
+    "releaseDate": "2006/05/01",
+    "updatedAt": "2018/03/04 10:35:00",
+    "images": {
+     "symbol": "https://images.pokemontcg.io/ex13/symbol.png",
+     "logo": "https://images.pokemontcg.io/ex13/logo.png"
+    }
+   },
+   "number": "111",
+   "artist": "Ken Sugimori",
+   "rarity": "Rare Secret",
+   "nationalPokedexNumbers": [
+    151
+   ],
+   "legalities": {
+    "unlimited": "Legal"
+   },
+   "images": {
+    "small": "https://images.pokemontcg.io/ex13/111.png",
+    "large": "https://images.pokemontcg.io/ex13/111_hires.png"
+   },
+   "tcgplayer": {
+    "url": "https://prices.pokemontcg.io/tcgplayer/ex13-111",
+    "updatedAt": "2026/08/27",
+    "prices": {
+     "holofoil": {
+      "low": 179.42,
+      "mid": 190.65,
+      "high": 201.87,
+      "market": 335.54,
+      "directLow": null
+     }
+    }
+   },
+   "cardmarket": {
+    "url": "https://prices.pokemontcg.io/cardmarket/ex13-111",
+    "updatedAt": "2026/01/16",
+    "prices": {
+     "averageSellPrice": 75.58,
+     "lowPrice": 4.0,
+     "trendPrice": 40.26,
+     "germanProLow": 0.0,
+     "suggestedPrice": 0.0,
+     "reverseHoloSell": 0.0,
+     "reverseHoloLow": 25.0,
+     "reverseHoloTrend": 58.93,
+     "lowPriceExPlus": 13.0,
+     "avg1": 30.0,
+     "avg7": 49.06,
+     "avg30": 47.6,
+     "reverseHoloAvg1": 300.0,
+     "reverseHoloAvg7": 59.91,
+     "reverseHoloAvg30": 25.24
+    }
+   }
+  },
+  {
+   "id": "ex15-101",
+   "name": "Mew \u2605 \u03b4",
+   "supertype": "Pok\u00e9mon",
+   "subtypes": [
+    "Basic",
+    "Star"
+   ],
+   "hp": "70",
+   "types": [
+    "Water"
+   ],
+   "rules": [
+    "You can't have more than 1 Pok\u00e9mon Star in your deck."
+   ],
+   "attacks": [
+    {
+     "name": "Mimicry",
+     "cost": [
+      "Colorless"
+     ],
+     "convertedEnergyCost": 1,
+     "damage": "",
+     "text": "Choose an attack on 1 of your opponent's Pok\u00e9mon in play. Mimicry copies that attack. This attack does nothing if Mew Star doesn't have the Energy necessary to use that attack. (You must still do anything else required for that attack.) Mew Star performs that attack."
+    },
+    {
+     "name": "Rainbow Wave",
+     "cost": [
+      "Water"
+     ],
+     "convertedEnergyCost": 1,
+     "damage": "",
+     "text": "Choose 1 basic Energy card attached to Mew Star. This attack does 20 damage to each of your opponent's Pok\u00e9mon that is the same type as the basic Energy card that you chose. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+    }
+   ],
+   "weaknesses": [
+    {
+     "type": "Psychic",
+     "value": "\u00d72"
+    }
+   ],
+   "retreatCost": [
+    "Colorless"
+   ],
+   "convertedRetreatCost": 1,
+   "set": {
+    "id": "ex15",
+    "name": "Dragon Frontiers",
+    "series": "EX",
+    "printedTotal": 101,
+    "total": 101,
+    "legalities": {
+     "unlimited": "Legal"
+    },
+    "ptcgoCode": "DF",
+    "releaseDate": "2006/11/01",
+    "updatedAt": "2020/08/14 09:35:00",
+    "images": {
+     "symbol": "https://images.pokemontcg.io/ex15/symbol.png",
+     "logo": "https://images.pokemontcg.io/ex15/logo.png"
+    }
+   },
+   "number": "101",
+   "artist": "Masakazu Fukuda",
+   "rarity": "Rare Holo Star",
+   "nationalPokedexNumbers": [
+    151
+   ],
+   "legalities": {
+    "unlimited": "Legal"
+   },
+   "images": {
+    "small": "https://images.pokemontcg.io/ex15/101.png",
+    "large": "https://images.pokemontcg.io/ex15/101_hires.png"
+   },
+   "tcgplayer": {
+    "url": "https://prices.pokemontcg.io/tcgplayer/ex15-101",
+    "updatedAt": "2026/08/04",
+    "prices": {
+     "holofoil": {
+      "low": 2250.0,
+      "mid": 2250.0,
+      "high": 2250.0,
+      "market": 3500.0,
+      "directLow": null
+     }
+    }
+   },
+   "cardmarket": {
+    "url": "https://prices.pokemontcg.io/cardmarket/ex15-101",
+    "updatedAt": "2026/01/16",
+    "prices": {
+     "averageSellPrice": 473.33,
+     "lowPrice": 275.0,
+     "trendPrice": 633.76,
+     "germanProLow": 0.0,
+     "suggestedPrice": 0.0,
+     "reverseHoloSell": 0.0,
+     "reverseHoloLow": 350.0,
+     "reverseHoloTrend": 392.85,
+     "lowPriceExPlus": 430.0,
+     "avg1": 750.0,
+     "avg7": 692.86,
+     "avg30": 1045.36,
+     "reverseHoloAvg1": 350.0,
+     "reverseHoloAvg7": 289.29,
+     "reverseHoloAvg30": 208.04
+    }
+   }
+  },
+  {
+   "id": "xyp-XY110",
+   "name": "Mew",
+   "supertype": "Pok\u00e9mon",
+   "subtypes": [
+    "Basic"
+   ],
+   "hp": "70",
+   "types": [
+    "Psychic"
+   ],
+   "attacks": [
+    {
+     "name": "Clairvoyance",
+     "cost": [
+      "Colorless"
+     ],
+     "convertedEnergyCost": 1,
+     "damage": "",
+     "text": "Your opponent reveals his or her hand."
+    },
+    {
+     "name": "Psychic",
+     "cost": [
+      "Psychic",
+      "Colorless",
+      "Colorless"
+     ],
+     "convertedEnergyCost": 3,
+     "damage": "40+",
+     "text": "This attack does 10 more damage for each Energy attached to your opponent's Active Pok\u00e9mon."
+    }
+   ],
+   "weaknesses": [
+    {
+     "type": "Psychic",
+     "value": "\u00d72"
+    }
+   ],
+   "retreatCost": [
+    "Colorless"
+   ],
+   "convertedRetreatCost": 1,
+   "set": {
+    "id": "xyp",
+    "name": "XY Black Star Promos",
+    "series": "XY",
+    "printedTotal": 211,
+    "total": 216,
+    "legalities": {
+     "unlimited": "Legal",
+     "expanded": "Legal"
+    },
+    "ptcgoCode": "PR-XY",
+    "releaseDate": "2013/10/12",
+    "updatedAt": "2020/08/14 09:35:00",
+    "images": {
+     "symbol": "https://images.pokemontcg.io/xyp/symbol.png",
+     "logo": "https://images.pokemontcg.io/xyp/logo.png"
+    }
+   },
+   "number": "XY110",
+   "artist": "Kouki Saitou",
+   "rarity": "Promo",
+   "flavorText": "Its DNA is said to contain the genetic codes of all Pok\u00e9mon, so it can use all kinds of techniques.",
+   "nationalPokedexNumbers": [
+    151
+   ],
+   "legalities": {
+    "unlimited": "Legal",
+    "expanded": "Legal"
+   },
+   "images": {
+    "small": "https://images.pokemontcg.io/xyp/XY110.png",
+    "large": "https://images.pokemontcg.io/xyp/XY110_hires.png"
+   },
+   "tcgplayer": {
+    "url": "https://prices.pokemontcg.io/tcgplayer/xyp-XY110",
+    "updatedAt": "2026/08/27",
+    "prices": {
+     "holofoil": {
+      "low": 82.49,
+      "mid": 135.19,
+      "high": 299.95,
+      "market": 138.35,
+      "directLow": 141.45
+     }
+    }
+   },
+   "cardmarket": {
+    "url": "https://prices.pokemontcg.io/cardmarket/xyp-XY110",
+    "updatedAt": "2025/12/07",
+    "prices": {
+     "averageSellPrice": 53.12,
+     "lowPrice": 35.0,
+     "trendPrice": 91.07,
+     "germanProLow": 0.0,
+     "suggestedPrice": 0.0,
+     "reverseHoloSell": 0.0,
+     "reverseHoloLow": 0.0,
+     "reverseHoloTrend": 18.68,
+     "lowPriceExPlus": 50.0,
+     "avg1": 124.0,
+     "avg7": 53.12,
+     "avg30": 53.19,
+     "reverseHoloAvg1": 5.0,
+     "reverseHoloAvg7": 15.37,
+     "reverseHoloAvg30": 14.81
+    }
+   }
+  },
+  {
+   "id": "bw6-120",
+   "name": "Mew-EX",
+   "supertype": "Pok\u00e9mon",
+   "subtypes": [
+    "Basic",
+    "EX"
+   ],
+   "hp": "120",
+   "types": [
+    "Psychic"
+   ],
+   "rules": [
+    "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+   ],
+   "abilities": [
+    {
+     "name": "Versatile",
+     "text": "This Pok\u00e9mon can use the attacks of any Pok\u00e9mon in play (both yours and your opponent's). (You still need the necessary Energy to use each attack.)",
+     "type": "Ability"
+    }
+   ],
+   "attacks": [
+    {
+     "name": "Replace",
+     "cost": [
+      "Psychic"
+     ],
+     "convertedEnergyCost": 1,
+     "damage": "",
+     "text": "Move as many Energy attached to your Pok\u00e9mon to your other Pok\u00e9mon in any way you like."
+    }
+   ],
+   "weaknesses": [
+    {
+     "type": "Psychic",
+     "value": "\u00d72"
+    }
+   ],
+   "retreatCost": [
+    "Colorless"
+   ],
+   "convertedRetreatCost": 1,
+   "set": {
+    "id": "bw6",
+    "name": "Dragons Exalted",
+    "series": "Black & White",
+    "printedTotal": 124,
+    "total": 128,
+    "legalities": {
+     "unlimited": "Legal",
+     "expanded": "Legal"
+    },
+    "ptcgoCode": "DRX",
+    "releaseDate": "2012/08/15",
+    "updatedAt": "2018/03/04 10:35:00",
+    "images": {
+     "symbol": "https://images.pokemontcg.io/bw6/symbol.png",
+     "logo": "https://images.pokemontcg.io/bw6/logo.png"
+    }
+   },
+   "number": "120",
+   "artist": "5ban Graphics",
+   "rarity": "Rare Ultra",
+   "nationalPokedexNumbers": [
+    151
+   ],
+   "legalities": {
+    "unlimited": "Legal",
+    "expanded": "Legal"
+   },
+   "images": {
+    "small": "https://images.pokemontcg.io/bw6/120.png",
+    "large": "https://images.pokemontcg.io/bw6/120_hires.png"
+   },
+   "tcgplayer": {
+    "url": "https://prices.pokemontcg.io/tcgplayer/bw6-120",
+    "updatedAt": "2026/08/27",
+    "prices": {
+     "holofoil": {
+      "low": 299.99,
+      "mid": 449.99,
+      "high": 529.99,
+      "market": 406.34,
+      "directLow": null
+     }
+    }
+   },
+   "cardmarket": {
+    "url": "https://prices.pokemontcg.io/cardmarket/bw6-120",
+    "updatedAt": "2025/12/07",
+    "prices": {
+     "averageSellPrice": 94.5,
+     "lowPrice": 20.0,
+     "trendPrice": 63.7,
+     "germanProLow": 0.0,
+     "suggestedPrice": 0.0,
+     "reverseHoloSell": 0.0,
+     "reverseHoloLow": 0.0,
+     "reverseHoloTrend": 36.58,
+     "lowPriceExPlus": 95.0,
+     "avg1": 150.0,
+     "avg7": 57.44,
+     "avg30": 59.18,
+     "reverseHoloAvg1": 50.0,
+     "reverseHoloAvg7": 45.36,
+     "reverseHoloAvg30": 37.42
+    }
+   }
+  },
+  {
+   "id": "xyp-XY126",
+   "name": "Mew-EX",
+   "supertype": "Pok\u00e9mon",
+   "subtypes": [
+    "Basic",
+    "EX"
+   ],
+   "hp": "120",
+   "types": [
+    "Psychic"
+   ],
+   "rules": [
+    "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+   ],
+   "abilities": [
+    {
+     "name": "Versatile",
+     "text": "This Pok\u00e9mon can use the attacks of any Pok\u00e9mon in play (both yours and your opponent's). (You still need the necessary Energy to use each attack.)",
+     "type": "Ability"
+    }
+   ],
+   "attacks": [
+    {
+     "name": "Replace",
+     "cost": [
+      "Psychic"
+     ],
+     "convertedEnergyCost": 1,
+     "damage": "",
+     "text": "Move as many Energy attached to your Pok\u00e9mon to your other Pok\u00e9mon in any way you like."
+    }
+   ],
+   "weaknesses": [
+    {
+     "type": "Psychic",
+     "value": "\u00d72"
+    }
+   ],
+   "retreatCost": [
+    "Colorless"
+   ],
+   "convertedRetreatCost": 1,
+   "set": {
+    "id": "xyp",
+    "name": "XY Black Star Promos",
+    "series": "XY",
+    "printedTotal": 211,
+    "total": 216,
+    "legalities": {
+     "unlimited": "Legal",
+     "expanded": "Legal"
+    },
+    "ptcgoCode": "PR-XY",
+    "releaseDate": "2013/10/12",
+    "updatedAt": "2020/08/14 09:35:00",
+    "images": {
+     "symbol": "https://images.pokemontcg.io/xyp/symbol.png",
+     "logo": "https://images.pokemontcg.io/xyp/logo.png"
+    }
+   },
+   "number": "XY126",
+   "artist": "Eske Yoshinob",
+   "rarity": "Promo",
+   "nationalPokedexNumbers": [
+    151
+   ],
+   "legalities": {
+    "unlimited": "Legal",
+    "expanded": "Legal"
+   },
+   "images": {
+    "small": "https://images.pokemontcg.io/xyp/XY126.png",
+    "large": "https://images.pokemontcg.io/xyp/XY126_hires.png"
+   },
+   "tcgplayer": {
+    "url": "https://prices.pokemontcg.io/tcgplayer/xyp-XY126",
+    "updatedAt": "2026/08/27",
+    "prices": {
+     "holofoil": {
+      "low": 131.64,
+      "mid": 271.64,
+      "high": 1414.9,
+      "market": 220.88,
+      "directLow": null
+     }
+    }
+   },
+   "cardmarket": {
+    "url": "https://prices.pokemontcg.io/cardmarket/xyp-XY126",
+    "updatedAt": "2025/11/21",
+    "prices": {
+     "averageSellPrice": 180.0,
+     "lowPrice": 99.9,
+     "trendPrice": 146.85,
+     "germanProLow": 0.0,
+     "suggestedPrice": 0.0,
+     "reverseHoloSell": 0.0,
+     "reverseHoloLow": 0.0,
+     "reverseHoloTrend": 48.94,
+     "lowPriceExPlus": 350.0,
+     "avg1": 159.99,
+     "avg7": 157.86,
+     "avg30": 99.42,
+     "reverseHoloAvg1": 74.99,
+     "reverseHoloAvg7": 59.98,
+     "reverseHoloAvg30": 41.69
+    }
+   }
+  },
+  {
+   "id": "bw11-RC24",
+   "name": "Mew-EX",
+   "supertype": "Pok\u00e9mon",
+   "subtypes": [
+    "Basic",
+    "EX"
+   ],
+   "hp": "120",
+   "types": [
+    "Psychic"
+   ],
+   "rules": [
+    "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+   ],
+   "abilities": [
+    {
+     "name": "Versatile",
+     "text": "This Pok\u00e9mon can use the attacks of any Pok\u00e9mon in play (both yours and your opponent's). (You still need the necessary Energy to use each attack.)",
+     "type": "Ability"
+    }
+   ],
+   "attacks": [
+    {
+     "name": "Replace",
+     "cost": [
+      "Psychic"
+     ],
+     "convertedEnergyCost": 1,
+     "damage": "",
+     "text": "Move as many Energy attached to your Pok\u00e9mon to your other Pok\u00e9mon in any way you like."
+    }
+   ],
+   "weaknesses": [
+    {
+     "type": "Psychic",
+     "value": "\u00d72"
+    }
+   ],
+   "retreatCost": [
+    "Colorless"
+   ],
+   "convertedRetreatCost": 1,
+   "set": {
+    "id": "bw11",
+    "name": "Legendary Treasures",
+    "series": "Black & White",
+    "printedTotal": 113,
+    "total": 140,
+    "legalities": {
+     "unlimited": "Legal",
+     "expanded": "Legal"
+    },
+    "ptcgoCode": "LTR",
+    "releaseDate": "2013/11/06",
+    "updatedAt": "2018/03/04 10:35:00",
+    "images": {
+     "symbol": "https://images.pokemontcg.io/bw11/symbol.png",
+     "logo": "https://images.pokemontcg.io/bw11/logo.png"
+    }
+   },
+   "number": "RC24",
+   "artist": "MAHOU",
+   "rarity": "Rare Ultra",
+   "nationalPokedexNumbers": [
+    151
+   ],
+   "legalities": {
+    "unlimited": "Legal",
+    "expanded": "Legal"
+   },
+   "images": {
+    "small": "https://images.pokemontcg.io/bw11/RC24.png",
+    "large": "https://images.pokemontcg.io/bw11/RC24_hires.png"
+   },
+   "tcgplayer": {
+    "url": "https://prices.pokemontcg.io/tcgplayer/bw11-RC24",
+    "updatedAt": "2026/08/27",
+    "prices": {
+     "holofoil": {
+      "low": 130.0,
+      "mid": 269.99,
+      "high": 1215.54,
+      "market": 231.47,
+      "directLow": 265.21
+     }
+    }
+   },
+   "cardmarket": {
+    "url": "https://prices.pokemontcg.io/cardmarket/bw11-RC24",
+    "updatedAt": "2025/11/21",
+    "prices": {
+     "averageSellPrice": 152.43,
+     "lowPrice": 59.9,
+     "trendPrice": 152.05,
+     "germanProLow": 0.0,
+     "suggestedPrice": 0.0,
+     "reverseHoloSell": 0.0,
+     "reverseHoloLow": 0.0,
+     "reverseHoloTrend": 57.59,
+     "lowPriceExPlus": 119.0,
+     "avg1": 99.68,
+     "avg7": 157.09,
+     "avg30": 134.68,
+     "reverseHoloAvg1": 70.0,
+     "reverseHoloAvg7": 53.5,
+     "reverseHoloAvg30": 44.33
+    }
+   }
+  },
+  {
+   "id": "smp-SM191",
+   "name": "Mewtwo & Mew-GX",
+   "supertype": "Pok\u00e9mon",
+   "subtypes": [
+    "Basic",
+    "TAG TEAM",
+    "GX"
+   ],
+   "hp": "270",
+   "types": [
+    "Psychic"
+   ],
+   "rules": [
+    "TAG TEAM rule: When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
+   ],
+   "abilities": [
+    {
+     "name": "Perfection",
+     "text": "This Pok\u00e9mon can use the attacks of any Pok\u00e9mon-GX or Pok\u00e9mon-EX on your Bench or in your discard pile. (You still need the necessary Energy to use each attack.)",
+     "type": "Ability"
+    }
+   ],
+   "attacks": [
+    {
+     "name": "Miraculous Duo-GX",
+     "cost": [
+      "Psychic",
+      "Psychic",
+      "Colorless"
+     ],
+     "convertedEnergyCost": 3,
+     "damage": "200",
+     "text": "If this Pok\u00e9mon has at least 1 extra Energy attached to it (in addition to this attack's cost), heal all damage from all of your Pok\u00e9mon. (You can't use more than 1 GX attack in a game.)"
+    }
+   ],
+   "weaknesses": [
+    {
+     "type": "Psychic",
+     "value": "\u00d72"
+    }
+   ],
+   "retreatCost": [
+    "Colorless",
+    "Colorless"
+   ],
+   "convertedRetreatCost": 2,
+   "set": {
+    "id": "smp",
+    "name": "SM Black Star Promos",
+    "series": "Sun & Moon",
+    "printedTotal": 248,
+    "total": 250,
+    "legalities": {
+     "unlimited": "Legal",
+     "expanded": "Legal"
+    },
+    "ptcgoCode": "PR-SM",
+    "releaseDate": "2017/02/03",
+    "updatedAt": "2020/05/01 16:06:00",
+    "images": {
+     "symbol": "https://images.pokemontcg.io/smp/symbol.png",
+     "logo": "https://images.pokemontcg.io/smp/logo.png"
+    }
+   },
+   "number": "SM191",
+   "artist": "sui",
+   "rarity": "Promo",
+   "nationalPokedexNumbers": [
+    150,
+    151
+   ],
+   "legalities": {
+    "unlimited": "Legal",
+    "expanded": "Legal"
+   },
+   "images": {
+    "small": "https://images.pokemontcg.io/smp/SM191.png",
+    "large": "https://images.pokemontcg.io/smp/SM191_hires.png"
+   },
+   "tcgplayer": {
+    "url": "https://prices.pokemontcg.io/tcgplayer/smp-SM191",
+    "updatedAt": "2026/08/27",
+    "prices": {
+     "holofoil": {
+      "low": 274.99,
+      "mid": 399.99,
+      "high": 1499.99,
+      "market": 372.5,
+      "directLow": 317.95
+     }
+    }
+   },
+   "cardmarket": {
+    "url": "https://prices.pokemontcg.io/cardmarket/smp-SM191",
+    "updatedAt": "2025/11/18",
+    "prices": {
+     "averageSellPrice": 314.66,
+     "lowPrice": 70.0,
+     "trendPrice": 260.54,
+     "germanProLow": 0.0,
+     "suggestedPrice": 0.0,
+     "reverseHoloSell": 0.0,
+     "reverseHoloLow": 0.0,
+     "reverseHoloTrend": 46.17,
+     "lowPriceExPlus": 250.0,
+     "avg1": 220.0,
+     "avg7": 249.58,
+     "avg30": 390.11,
+     "reverseHoloAvg1": 40.0,
+     "reverseHoloAvg7": 37.19,
+     "reverseHoloAvg30": 40.17
+    }
+   }
+  },
+  {
+   "id": "xyp-XY192",
+   "name": "Mew",
+   "supertype": "Pok\u00e9mon",
+   "subtypes": [
+    "Basic"
+   ],
+   "hp": "70",
+   "types": [
+    "Psychic"
+   ],
+   "attacks": [
+    {
+     "name": "Clairvoyance",
+     "cost": [
+      "Colorless"
+     ],
+     "convertedEnergyCost": 1,
+     "damage": "",
+     "text": "Your opponent reveals his or her hand."
+    },
+    {
+     "name": "Psychic",
+     "cost": [
+      "Psychic",
+      "Colorless",
+      "Colorless"
+     ],
+     "convertedEnergyCost": 3,
+     "damage": "40+",
+     "text": "This attack does 10 more damage for each Energy attached to your opponent's Active Pok\u00e9mon."
+    }
+   ],
+   "weaknesses": [
+    {
+     "type": "Psychic",
+     "value": "\u00d72"
+    }
+   ],
+   "retreatCost": [
+    "Colorless"
+   ],
+   "convertedRetreatCost": 1,
+   "set": {
+    "id": "xyp",
+    "name": "XY Black Star Promos",
+    "series": "XY",
+    "printedTotal": 211,
+    "total": 216,
+    "legalities": {
+     "unlimited": "Legal",
+     "expanded": "Legal"
+    },
+    "ptcgoCode": "PR-XY",
+    "releaseDate": "2013/10/12",
+    "updatedAt": "2020/08/14 09:35:00",
+    "images": {
+     "symbol": "https://images.pokemontcg.io/xyp/symbol.png",
+     "logo": "https://images.pokemontcg.io/xyp/logo.png"
+    }
+   },
+   "number": "XY192",
+   "artist": "Saya Tsuruta",
+   "rarity": "Promo",
+   "flavorText": "Its DNA is said to contain the genetic codes of all Pok\u00e9mon, so it can use all kinds of techniques.",
+   "nationalPokedexNumbers": [
+    151
+   ],
+   "legalities": {
+    "unlimited": "Legal",
+    "expanded": "Legal"
+   },
+   "images": {
+    "small": "https://images.pokemontcg.io/xyp/XY192.png",
+    "large": "https://images.pokemontcg.io/xyp/XY192_hires.png"
+   },
+   "tcgplayer": {
+    "url": "https://prices.pokemontcg.io/tcgplayer/xyp-XY192",
+    "updatedAt": "2026/08/27",
+    "prices": {
+     "holofoil": {
+      "low": 69.2,
+      "mid": 139.48,
+      "high": 744.6,
+      "market": 104.21,
+      "directLow": 87.64
+     }
+    }
+   },
+   "cardmarket": {
+    "url": "https://prices.pokemontcg.io/cardmarket/xyp-XY192",
+    "updatedAt": "2025/11/18",
+    "prices": {
+     "averageSellPrice": 32.47,
+     "lowPrice": 6.0,
+     "trendPrice": 34.91,
+     "germanProLow": 0.0,
+     "suggestedPrice": 0.0,
+     "reverseHoloSell": 0.0,
+     "reverseHoloLow": 0.0,
+     "reverseHoloTrend": 15.55,
+     "lowPriceExPlus": 35.0,
+     "avg1": 55.0,
+     "avg7": 31.47,
+     "avg30": 30.22,
+     "reverseHoloAvg1": 13.0,
+     "reverseHoloAvg7": 12.99,
+     "reverseHoloAvg30": 11.0
+    }
+   }
+  },
+  {
+   "id": "smp-SM215",
+   "name": "Mew",
+   "supertype": "Pok\u00e9mon",
+   "subtypes": [
+    "Basic"
+   ],
+   "hp": "60",
+   "types": [
+    "Psychic"
+   ],
+   "abilities": [
+    {
+     "name": "Bench Barrier",
+     "text": "Prevent all damage done to your Benched Pok\u00e9mon by your opponent's attacks.",
+     "type": "Ability"
+    }
+   ],
+   "attacks": [
+    {
+     "name": "Psypower",
+     "cost": [
+      "Colorless"
+     ],
+     "convertedEnergyCost": 1,
+     "damage": "",
+     "text": "Put 3 damage counters on your opponent's Pok\u00e9mon in any way you like."
+    }
+   ],
+   "weaknesses": [
+    {
+     "type": "Psychic",
+     "value": "\u00d72"
+    }
+   ],
+   "retreatCost": [
+    "Colorless"
+   ],
+   "convertedRetreatCost": 1,
+   "set": {
+    "id": "smp",
+    "name": "SM Black Star Promos",
+    "series": "Sun & Moon",
+    "printedTotal": 248,
+    "total": 250,
+    "legalities": {
+     "unlimited": "Legal",
+     "expanded": "Legal"
+    },
+    "ptcgoCode": "PR-SM",
+    "releaseDate": "2017/02/03",
+    "updatedAt": "2020/05/01 16:06:00",
+    "images": {
+     "symbol": "https://images.pokemontcg.io/smp/symbol.png",
+     "logo": "https://images.pokemontcg.io/smp/logo.png"
+    }
+   },
+   "number": "SM215",
+   "artist": "Masakazu Fukuda",
+   "rarity": "Promo",
+   "flavorText": "Because it can use all kinds of moves, many scientists believe Mew to be the ancestor of Pok\u00e9mon.",
+   "nationalPokedexNumbers": [
+    151
+   ],
+   "legalities": {
+    "unlimited": "Legal",
+    "expanded": "Legal"
+   },
+   "images": {
+    "small": "https://images.pokemontcg.io/smp/SM215.png",
+    "large": "https://images.pokemontcg.io/smp/SM215_hires.png"
+   },
+   "tcgplayer": {
+    "url": "https://prices.pokemontcg.io/tcgplayer/smp-SM215",
+    "updatedAt": "2026/08/27",
+    "prices": {
+     "holofoil": {
+      "low": 17.44,
+      "mid": 26.72,
+      "high": 199.64,
+      "market": 24.53,
+      "directLow": 26.45
+     }
+    }
+   },
+   "cardmarket": {
+    "url": "https://prices.pokemontcg.io/cardmarket/smp-SM215",
+    "updatedAt": "2025/11/18",
+    "prices": {
+     "averageSellPrice": 10.19,
+     "lowPrice": 6.0,
+     "trendPrice": 9.96,
+     "germanProLow": 0.0,
+     "suggestedPrice": 0.0,
+     "reverseHoloSell": 0.0,
+     "reverseHoloLow": 0.0,
+     "reverseHoloTrend": 7.66,
+     "lowPriceExPlus": 6.0,
+     "avg1": 10.0,
+     "avg7": 10.49,
+     "avg30": 8.89,
+     "reverseHoloAvg1": 5.5,
+     "reverseHoloAvg7": 7.01,
+     "reverseHoloAvg30": 3.76
+    }
+   }
+  },
+  {
+   "id": "sm11-222",
+   "name": "Mewtwo & Mew-GX",
+   "supertype": "Pok\u00e9mon",
+   "subtypes": [
+    "Basic",
+    "TAG TEAM",
+    "GX"
+   ],
+   "hp": "270",
+   "types": [
+    "Psychic"
+   ],
+   "rules": [
+    "TAG TEAM rule: When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
+   ],
+   "abilities": [
+    {
+     "name": "Perfection",
+     "text": "This Pok\u00e9mon can use the attacks of any Pok\u00e9mon-GX or Pok\u00e9mon-EX on your Bench or in your discard pile. (You still need the necessary Energy to use each attack.)",
+     "type": "Ability"
+    }
+   ],
+   "attacks": [
+    {
+     "name": "Miraculous Duo-GX",
+     "cost": [
+      "Psychic",
+      "Psychic",
+      "Colorless"
+     ],
+     "convertedEnergyCost": 3,
+     "damage": "200",
+     "text": "If this Pok\u00e9mon has at least 1 extra Energy attached to it (in addition to this attack's cost), heal all damage from all of your Pok\u00e9mon. (You can't use more than 1 GX attack in a game.)"
+    }
+   ],
+   "weaknesses": [
+    {
+     "type": "Psychic",
+     "value": "\u00d72"
+    }
+   ],
+   "retreatCost": [
+    "Colorless",
+    "Colorless"
+   ],
+   "convertedRetreatCost": 2,
+   "set": {
+    "id": "sm11",
+    "name": "Unified Minds",
+    "series": "Sun & Moon",
+    "printedTotal": 236,
+    "total": 260,
+    "legalities": {
+     "unlimited": "Legal",
+     "expanded": "Legal"
+    },
+    "ptcgoCode": "UNM",
+    "releaseDate": "2019/08/02",
+    "updatedAt": "2021/09/01 05:37:00",
+    "images": {
+     "symbol": "https://images.pokemontcg.io/sm11/symbol.png",
+     "logo": "https://images.pokemontcg.io/sm11/logo.png"
+    }
+   },
+   "number": "222",
+   "artist": "5ban Graphics",
+   "rarity": "Rare Ultra",
+   "nationalPokedexNumbers": [
+    150,
+    151
+   ],
+   "legalities": {
+    "unlimited": "Legal",
+    "expanded": "Legal"
+   },
+   "images": {
+    "small": "https://images.pokemontcg.io/sm11/222.png",
+    "large": "https://images.pokemontcg.io/sm11/222_hires.png"
+   },
+   "tcgplayer": {
+    "url": "https://prices.pokemontcg.io/tcgplayer/sm11-222",
+    "updatedAt": "2026/08/27",
+    "prices": {
+     "holofoil": {
+      "low": 280.0,
+      "mid": 444.33,
+      "high": 1283.1,
+      "market": 189.39,
+      "directLow": null
+     }
+    }
+   },
+   "cardmarket": {
+    "url": "https://prices.pokemontcg.io/cardmarket/sm11-222",
+    "updatedAt": "2025/11/18",
+    "prices": {
+     "averageSellPrice": 84.5,
+     "lowPrice": 15.0,
+     "trendPrice": 76.77,
+     "germanProLow": 0.0,
+     "suggestedPrice": 0.0,
+     "reverseHoloSell": 0.0,
+     "reverseHoloLow": 0.0,
+     "reverseHoloTrend": 54.48,
+     "lowPriceExPlus": 33.0,
+     "avg1": 65.0,
+     "avg7": 76.14,
+     "avg30": 51.57,
+     "reverseHoloAvg1": 67.5,
+     "reverseHoloAvg7": 48.12,
+     "reverseHoloAvg30": 28.82
+    }
+   }
+  },
+  {
+   "id": "sm11-242",
+   "name": "Mewtwo & Mew-GX",
+   "supertype": "Pok\u00e9mon",
+   "subtypes": [
+    "Basic",
+    "TAG TEAM",
+    "GX"
+   ],
+   "hp": "270",
+   "types": [
+    "Psychic"
+   ],
+   "rules": [
+    "TAG TEAM rule: When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
+   ],
+   "abilities": [
+    {
+     "name": "Perfection",
+     "text": "This Pok\u00e9mon can use the attacks of any Pok\u00e9mon-GX or Pok\u00e9mon-EX on your Bench or in your discard pile. (You still need the necessary Energy to use each attack.)",
+     "type": "Ability"
+    }
+   ],
+   "attacks": [
+    {
+     "name": "Miraculous Duo-GX",
+     "cost": [
+      "Psychic",
+      "Psychic",
+      "Colorless"
+     ],
+     "convertedEnergyCost": 3,
+     "damage": "200",
+     "text": "If this Pok\u00e9mon has at least 1 extra Energy attached to it (in addition to this attack's cost), heal all damage from all of your Pok\u00e9mon. (You can't use more than 1 GX attack in a game.)"
+    }
+   ],
+   "weaknesses": [
+    {
+     "type": "Psychic",
+     "value": "\u00d72"
+    }
+   ],
+   "retreatCost": [
+    "Colorless",
+    "Colorless"
+   ],
+   "convertedRetreatCost": 2,
+   "set": {
+    "id": "sm11",
+    "name": "Unified Minds",
+    "series": "Sun & Moon",
+    "printedTotal": 236,
+    "total": 260,
+    "legalities": {
+     "unlimited": "Legal",
+     "expanded": "Legal"
+    },
+    "ptcgoCode": "UNM",
+    "releaseDate": "2019/08/02",
+    "updatedAt": "2021/09/01 05:37:00",
+    "images": {
+     "symbol": "https://images.pokemontcg.io/sm11/symbol.png",
+     "logo": "https://images.pokemontcg.io/sm11/logo.png"
+    }
+   },
+   "number": "242",
+   "artist": "5ban Graphics",
+   "rarity": "Rare Rainbow",
+   "nationalPokedexNumbers": [
+    150,
+    151
+   ],
+   "legalities": {
+    "unlimited": "Legal",
+    "expanded": "Legal"
+   },
+   "images": {
+    "small": "https://images.pokemontcg.io/sm11/242.png",
+    "large": "https://images.pokemontcg.io/sm11/242_hires.png"
+   },
+   "tcgplayer": {
+    "url": "https://prices.pokemontcg.io/tcgplayer/sm11-242",
+    "updatedAt": "2026/08/27",
+    "prices": {
+     "holofoil": {
+      "low": 380.0,
+      "mid": 450.99,
+      "high": 599.99,
+      "market": 412.41,
+      "directLow": 400.0
+     }
+    }
+   },
+   "cardmarket": {
+    "url": "https://prices.pokemontcg.io/cardmarket/sm11-242",
+    "updatedAt": "2025/11/18",
+    "prices": {
+     "averageSellPrice": 112.65,
+     "lowPrice": 30.0,
+     "trendPrice": 109.14,
+     "germanProLow": 0.0,
+     "suggestedPrice": 0.0,
+     "reverseHoloSell": 0.0,
+     "reverseHoloLow": 0.0,
+     "reverseHoloTrend": 113.0,
+     "lowPriceExPlus": 59.9,
+     "avg1": 84.99,
+     "avg7": 93.4,
+     "avg30": 121.03,
+     "reverseHoloAvg1": 149.95,
+     "reverseHoloAvg7": 101.41,
+     "reverseHoloAvg30": 82.33
+    }
+   }
+  },
+  {
+   "id": "cel25-11",
+   "name": "Mew",
+   "supertype": "Pok\u00e9mon",
+   "subtypes": [
+    "Basic"
+   ],
+   "hp": "60",
+   "types": [
+    "Psychic"
+   ],
+   "abilities": [
+    {
+     "type": "Ability",
+     "name": "Mysterious Tail",
+     "text": "Once during your turn, if this Pok\u00e9mon is in the Active Spot, you may look at the top 6 cards of your deck, reveal an Item card you find there, and put it into your hand. Shuffle the other cards back into your deck."
+    }
+   ],
+   "attacks": [
+    {
+     "cost": [
+      "Psychic",
+      "Colorless"
+     ],
+     "name": "Psyshot",
+     "damage": "30",
+     "text": "",
+     "convertedEnergyCost": 2
+    }
+   ],
+   "weaknesses": [
+    {
+     "type": "Darkness",
+     "value": "\u00d72"
+    }
+   ],
+   "resistances": [
+    {
+     "type": "Fighting",
+     "value": "-30"
+    }
+   ],
+   "retreatCost": [
+    "Colorless"
+   ],
+   "convertedRetreatCost": 1,
+   "set": {
+    "id": "cel25",
+    "name": "Celebrations",
+    "series": "Sword & Shield",
+    "printedTotal": 25,
+    "total": 25,
+    "legalities": {
+     "unlimited": "Legal",
+     "standard": "Legal",
+     "expanded": "Legal"
+    },
+    "ptcgoCode": "CEL",
+    "releaseDate": "2021/10/08",
+    "updatedAt": "2022/10/11 21:39:00",
+    "images": {
+     "symbol": "https://images.pokemontcg.io/cel25/symbol.png",
+     "logo": "https://images.pokemontcg.io/cel25/logo.png"
+    }
+   },
+   "number": "11",
+   "artist": "Yuu Nishida",
+   "rarity": "Rare Holo",
+   "flavorText": "Its DNA is said to contain the genetic codes of all Pok\u00e9mon, so it can use all kinds of techniques.",
+   "nationalPokedexNumbers": [
+    151
+   ],
+   "legalities": {
+    "unlimited": "Legal",
+    "standard": "Legal",
+    "expanded": "Legal"
+   },
+   "regulationMark": "E",
+   "images": {
+    "small": "https://images.pokemontcg.io/cel25/11.png",
+    "large": "https://images.pokemontcg.io/cel25/11_hires.png"
+   },
+   "tcgplayer": {
+    "url": "https://prices.pokemontcg.io/tcgplayer/cel25-11",
+    "updatedAt": "2026/08/27",
+    "prices": {
+     "holofoil": {
+      "low": 1.79,
+      "mid": 4.2,
+      "high": 1081.28,
+      "market": 4.2,
+      "directLow": 2.74
+     }
+    }
+   },
+   "cardmarket": {
+    "url": "https://prices.pokemontcg.io/cardmarket/cel25-11",
+    "updatedAt": "2026/07/01",
+    "prices": {
+     "averageSellPrice": 2.56,
+     "lowPrice": 0.5,
+     "trendPrice": 2.61,
+     "germanProLow": 0.0,
+     "suggestedPrice": 0.0,
+     "reverseHoloSell": 0.0,
+     "reverseHoloLow": 0.0,
+     "reverseHoloTrend": 0.0,
+     "lowPriceExPlus": 1.0,
+     "avg1": 2.56,
+     "avg7": 2.56,
+     "avg30": 2.58,
+     "reverseHoloAvg1": 0.0,
+     "reverseHoloAvg7": 0.0,
+     "reverseHoloAvg30": 0.0
+    }
+   }
+  },
+  {
+   "id": "cel25-25",
+   "name": "Mew",
+   "supertype": "Pok\u00e9mon",
+   "subtypes": [
+    "Basic"
+   ],
+   "hp": "60",
+   "types": [
+    "Psychic"
+   ],
+   "abilities": [
+    {
+     "type": "Ability",
+     "name": "Mysterious Tail",
+     "text": "Once during your turn, if this Pok\u00e9mon is in the Active Spot, you may look at the top 6 cards of your deck, reveal an Item card you find there, and put it into your hand. Shuffle the other cards back into your deck."
+    }
+   ],
+   "attacks": [
+    {
+     "cost": [
+      "Psychic",
+      "Colorless"
+     ],
+     "name": "Psyshot",
+     "damage": "30",
+     "text": "",
+     "convertedEnergyCost": 2
+    }
+   ],
+   "weaknesses": [
+    {
+     "type": "Darkness",
+     "value": "\u00d72"
+    }
+   ],
+   "resistances": [
+    {
+     "type": "Fighting",
+     "value": "-30"
+    }
+   ],
+   "retreatCost": [
+    "Colorless"
+   ],
+   "convertedRetreatCost": 1,
+   "set": {
+    "id": "cel25",
+    "name": "Celebrations",
+    "series": "Sword & Shield",
+    "printedTotal": 25,
+    "total": 25,
+    "legalities": {
+     "unlimited": "Legal",
+     "standard": "Legal",
+     "expanded": "Legal"
+    },
+    "ptcgoCode": "CEL",
+    "releaseDate": "2021/10/08",
+    "updatedAt": "2022/10/11 21:39:00",
+    "images": {
+     "symbol": "https://images.pokemontcg.io/cel25/symbol.png",
+     "logo": "https://images.pokemontcg.io/cel25/logo.png"
+    }
+   },
+   "number": "25",
+   "artist": "Saki Hayashiro",
+   "rarity": "Rare Holo",
+   "flavorText": "Its DNA is said to contain the genetic codes of all Pok\u00e9mon, so it can use all kinds of techniques.",
+   "nationalPokedexNumbers": [
+    151
+   ],
+   "legalities": {
+    "unlimited": "Legal",
+    "standard": "Legal",
+    "expanded": "Legal"
+   },
+   "regulationMark": "E",
+   "images": {
+    "small": "https://images.pokemontcg.io/cel25/25.png",
+    "large": "https://images.pokemontcg.io/cel25/25_hires.png"
+   },
+   "tcgplayer": {
+    "url": "https://prices.pokemontcg.io/tcgplayer/cel25-25",
+    "updatedAt": "2026/08/27",
+    "prices": {
+     "holofoil": {
+      "low": 60.0,
+      "mid": 70.76,
+      "high": 2000.0,
+      "market": 63.51,
+      "directLow": 80.0
+     }
+    }
+   },
+   "cardmarket": {
+    "url": "https://prices.pokemontcg.io/cardmarket/cel25-25",
+    "updatedAt": "2026/06/26",
+    "prices": {
+     "averageSellPrice": 75.33,
+     "lowPrice": 29.99,
+     "trendPrice": 73.33,
+     "germanProLow": 0.0,
+     "suggestedPrice": 0.0,
+     "reverseHoloSell": 0.0,
+     "reverseHoloLow": 0.0,
+     "reverseHoloTrend": 0.0,
+     "lowPriceExPlus": 52.91,
+     "avg1": 64.67,
+     "avg7": 70.84,
+     "avg30": 75.2,
+     "reverseHoloAvg1": 0.0,
+     "reverseHoloAvg7": 0.0,
+     "reverseHoloAvg30": 0.0
+    }
+   }
+  },
+  {
+   "id": "cel25c-88_A",
+   "name": "Mew ex",
+   "supertype": "Pok\u00e9mon",
+   "subtypes": [
+    "Basic",
+    "ex"
+   ],
+   "hp": "90",
+   "types": [
+    "Psychic"
+   ],
+   "rules": [
+    "When Pok\u00e9mon-ex has been knocked out, your opponent takes 2 Prize cards."
+   ],
+   "abilities": [
+    {
+     "type": "Pok\u00e9-Body",
+     "name": "Versatile",
+     "text": "Mew ex can use the attacks of all Pok\u00e9mon in play as its own. (You still need the necessary Energy to use each attack.)"
+    }
+   ],
+   "attacks": [
+    {
+     "cost": [
+      "Psychic",
+      "Colorless"
+     ],
+     "name": "Power Move",
+     "damage": "",
+     "text": "Search your deck for an Energy card and attach it to Mew ex. Shuffle your deck afterward. Then, you may switch Mew ex with 1 of your Benched Pok\u00e9mon.",
+     "convertedEnergyCost": 2
+    }
+   ],
+   "weaknesses": [
+    {
+     "type": "Psychic",
+     "value": "\u00d72"
+    }
+   ],
+   "retreatCost": [
+    "Colorless"
+   ],
+   "convertedRetreatCost": 1,
+   "set": {
+    "id": "cel25c",
+    "name": "Celebrations: Classic Collection",
+    "series": "Sword & Shield",
+    "printedTotal": 25,
+    "total": 25,
+    "legalities": {
+     "unlimited": "Legal"
+    },
+    "ptcgoCode": "CEL",
+    "releaseDate": "2021/10/08",
+    "updatedAt": "2022/10/11 21:39:00",
+    "images": {
+     "symbol": "https://images.pokemontcg.io/cel25c/symbol.png",
+     "logo": "https://images.pokemontcg.io/cel25c/logo.png"
+    }
+   },
+   "number": "88",
+   "artist": "Ryo Ueda",
+   "rarity": "Classic Collection",
+   "nationalPokedexNumbers": [
+    151
+   ],
+   "legalities": {
+    "unlimited": "Legal"
+   },
+   "images": {
+    "small": "https://images.pokemontcg.io/cel25c/88_A.png",
+    "large": "https://images.pokemontcg.io/cel25c/88_A_hires.png"
+   },
+   "tcgplayer": {
+    "url": "https://prices.pokemontcg.io/tcgplayer/cel25c-88_A",
+    "updatedAt": "2026/08/27",
+    "prices": {
+     "holofoil": {
+      "low": 16.95,
+      "mid": 22.7,
+      "high": 112.8,
+      "market": 19.89,
+      "directLow": 22.99
+     }
+    }
+   }
+  },
+  {
+   "id": "swsh8-113",
+   "name": "Mew V",
+   "supertype": "Pok\u00e9mon",
+   "subtypes": [
+    "Basic",
+    "V",
+    "Fusion Strike"
+   ],
+   "hp": "180",
+   "types": [
+    "Psychic"
+   ],
+   "rules": [
+    "V rule: When your Pok\u00e9mon V is Knocked Out, your opponent takes 2 Prize cards."
+   ],
+   "attacks": [
+    {
+     "name": "Energy Mix",
+     "cost": [
+      "Psychic"
+     ],
+     "convertedEnergyCost": 1,
+     "damage": "",
+     "text": "Search your deck for an Energy card and attach it to 1 of your Fusion Strike Pok\u00e9mon. Then, shuffle your deck."
+    },
+    {
+     "name": "Psychic Leap",
+     "cost": [
+      "Psychic",
+      "Colorless"
+     ],
+     "convertedEnergyCost": 2,
+     "damage": "70",
+     "text": "You may shuffle this Pok\u00e9mon and all attached cards into your deck."
+    }
+   ],
+   "weaknesses": [
+    {
+     "type": "Darkness",
+     "value": "\u00d72"
+    }
+   ],
+   "resistances": [
+    {
+     "type": "Fighting",
+     "value": "-30"
+    }
+   ],
+   "set": {
+    "id": "swsh8",
+    "name": "Fusion Strike",
+    "series": "Sword & Shield",
+    "printedTotal": 264,
+    "total": 284,
+    "legalities": {
+     "unlimited": "Legal",
+     "standard": "Legal",
+     "expanded": "Legal"
+    },
+    "ptcgoCode": "FST",
+    "releaseDate": "2021/11/12",
+    "updatedAt": "2021/11/12 07:32:00",
+    "images": {
+     "symbol": "https://images.pokemontcg.io/swsh8/symbol.png",
+     "logo": "https://images.pokemontcg.io/swsh8/logo.png"
+    }
+   },
+   "number": "113",
+   "artist": "Mitsuhiro Arita",
+   "rarity": "Rare Holo V",
+   "nationalPokedexNumbers": [
+    151
+   ],
+   "legalities": {
+    "unlimited": "Legal",
+    "standard": "Legal",
+    "expanded": "Legal"
+   },
+   "regulationMark": "E",
+   "images": {
+    "small": "https://images.pokemontcg.io/swsh8/113.png",
+    "large": "https://images.pokemontcg.io/swsh8/113_hires.png"
+   },
+   "tcgplayer": {
+    "url": "https://prices.pokemontcg.io/tcgplayer/swsh8-113",
+    "updatedAt": "2026/08/27",
+    "prices": {
+     "holofoil": {
+      "low": 3.0,
+      "mid": 6.0,
+      "high": 49.32,
+      "market": 5.4,
+      "directLow": 6.0
+     }
+    }
+   },
+   "cardmarket": {
+    "url": "https://prices.pokemontcg.io/cardmarket/swsh8-113",
+    "updatedAt": "2025/12/07",
+    "prices": {
+     "averageSellPrice": 1.8,
+     "lowPrice": 0.3,
+     "trendPrice": 1.76,
+     "germanProLow": 0.0,
+     "suggestedPrice": 0.0,
+     "reverseHoloSell": 0.0,
+     "reverseHoloLow": 0.0,
+     "reverseHoloTrend": 0.0,
+     "lowPriceExPlus": 0.5,
+     "avg1": 1.57,
+     "avg7": 1.73,
+     "avg30": 1.8,
+     "reverseHoloAvg1": 0.0,
+     "reverseHoloAvg7": 0.0,
+     "reverseHoloAvg30": 0.0
+    }
+   }
+  },
+  {
+   "id": "swsh8-114",
+   "name": "Mew VMAX",
+   "supertype": "Pok\u00e9mon",
+   "subtypes": [
+    "VMAX",
+    "Fusion Strike"
+   ],
+   "hp": "310",
+   "types": [
+    "Psychic"
+   ],
+   "evolvesFrom": "Mew V",
+   "rules": [
+    "VMAX rule: When your Pok\u00e9mon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+   ],
+   "attacks": [
+    {
+     "name": "Cross Fusion Strike",
+     "cost": [
+      "Colorless",
+      "Colorless"
+     ],
+     "convertedEnergyCost": 2,
+     "damage": "",
+     "text": "Choose 1 of your Benched Fusion Strike Pok\u00e9mon's attacks and use it as this attack."
+    },
+    {
+     "name": "Max Miracle",
+     "cost": [
+      "Psychic",
+      "Psychic"
+     ],
+     "convertedEnergyCost": 2,
+     "damage": "130",
+     "text": "This attack's damage isn't affected by any effects on your opponent's Active Pok\u00e9mon."
+    }
+   ],
+   "weaknesses": [
+    {
+     "type": "Darkness",
+     "value": "\u00d72"
+    }
+   ],
+   "resistances": [
+    {
+     "type": "Fighting",
+     "value": "-30"
+    }
+   ],
+   "set": {
+    "id": "swsh8",
+    "name": "Fusion Strike",
+    "series": "Sword & Shield",
+    "printedTotal": 264,
+    "total": 284,
+    "legalities": {
+     "unlimited": "Legal",
+     "standard": "Legal",
+     "expanded": "Legal"
+    },
+    "ptcgoCode": "FST",
+    "releaseDate": "2021/11/12",
+    "updatedAt": "2021/11/12 07:32:00",
+    "images": {
+     "symbol": "https://images.pokemontcg.io/swsh8/symbol.png",
+     "logo": "https://images.pokemontcg.io/swsh8/logo.png"
+    }
+   },
+   "number": "114",
+   "artist": "5ban Graphics",
+   "rarity": "Rare Holo VMAX",
+   "nationalPokedexNumbers": [
+    151
+   ],
+   "legalities": {
+    "unlimited": "Legal",
+    "standard": "Legal",
+    "expanded": "Legal"
+   },
+   "regulationMark": "E",
+   "images": {
+    "small": "https://images.pokemontcg.io/swsh8/114.png",
+    "large": "https://images.pokemontcg.io/swsh8/114_hires.png"
+   },
+   "tcgplayer": {
+    "url": "https://prices.pokemontcg.io/tcgplayer/swsh8-114",
+    "updatedAt": "2026/08/27",
+    "prices": {
+     "holofoil": {
+      "low": 13.0,
+      "mid": 17.65,
+      "high": 146.16,
+      "market": 16.24,
+      "directLow": 14.12
+     }
+    }
+   },
+   "cardmarket": {
+    "url": "https://prices.pokemontcg.io/cardmarket/swsh8-114",
+    "updatedAt": "2025/11/21",
+    "prices": {
+     "averageSellPrice": 10.83,
+     "lowPrice": 2.0,
+     "trendPrice": 12.93,
+     "germanProLow": 0.0,
+     "suggestedPrice": 0.0,
+     "reverseHoloSell": 0.0,
+     "reverseHoloLow": 0.0,
+     "reverseHoloTrend": 0.0,
+     "lowPriceExPlus": 3.99,
+     "avg1": 12.95,
+     "avg7": 11.33,
+     "avg30": 10.96,
+     "reverseHoloAvg1": 0.0,
+     "reverseHoloAvg7": 0.0,
+     "reverseHoloAvg30": 0.0
+    }
+   }
+  },
+  {
+   "id": "swsh8-250",
+   "name": "Mew V",
+   "supertype": "Pok\u00e9mon",
+   "subtypes": [
+    "Basic",
+    "V",
+    "Fusion Strike"
+   ],
+   "hp": "180",
+   "types": [
+    "Psychic"
+   ],
+   "rules": [
+    "V rule: When your Pok\u00e9mon V is Knocked Out, your opponent takes 2 Prize cards."
+   ],
+   "attacks": [
+    {
+     "name": "Energy Mix",
+     "cost": [
+      "Psychic"
+     ],
+     "convertedEnergyCost": 1,
+     "damage": "",
+     "text": "Search your deck for an Energy card and attach it to 1 of your Fusion Strike Pok\u00e9mon. Then, shuffle your deck."
+    },
+    {
+     "name": "Psychic Leap",
+     "cost": [
+      "Psychic",
+      "Colorless"
+     ],
+     "convertedEnergyCost": 2,
+     "damage": "70",
+     "text": "You may shuffle this Pok\u00e9mon and all attached cards into your deck."
+    }
+   ],
+   "weaknesses": [
+    {
+     "type": "Darkness",
+     "value": "\u00d72"
+    }
+   ],
+   "resistances": [
+    {
+     "type": "Fighting",
+     "value": "-30"
+    }
+   ],
+   "set": {
+    "id": "swsh8",
+    "name": "Fusion Strike",
+    "series": "Sword & Shield",
+    "printedTotal": 264,
+    "total": 284,
+    "legalities": {
+     "unlimited": "Legal",
+     "standard": "Legal",
+     "expanded": "Legal"
+    },
+    "ptcgoCode": "FST",
+    "releaseDate": "2021/11/12",
+    "updatedAt": "2021/11/12 07:32:00",
+    "images": {
+     "symbol": "https://images.pokemontcg.io/swsh8/symbol.png",
+     "logo": "https://images.pokemontcg.io/swsh8/logo.png"
+    }
+   },
+   "number": "250",
+   "artist": "aky CG Works",
+   "rarity": "Rare Ultra",
+   "nationalPokedexNumbers": [
+    151
+   ],
+   "legalities": {
+    "unlimited": "Legal",
+    "standard": "Legal",
+    "expanded": "Legal"
+   },
+   "regulationMark": "E",
+   "images": {
+    "small": "https://images.pokemontcg.io/swsh8/250.png",
+    "large": "https://images.pokemontcg.io/swsh8/250_hires.png"
+   },
+   "tcgplayer": {
+    "url": "https://prices.pokemontcg.io/tcgplayer/swsh8-250",
+    "updatedAt": "2026/08/27",
+    "prices": {
+     "holofoil": {
+      "low": 32.07,
+      "mid": 40.0,
+      "high": 162.99,
+      "market": 37.57,
+      "directLow": 39.97
+     }
+    }
+   },
+   "cardmarket": {
+    "url": "https://prices.pokemontcg.io/cardmarket/swsh8-250",
+    "updatedAt": "2025/11/18",
+    "prices": {
+     "averageSellPrice": 16.2,
+     "lowPrice": 8.99,
+     "trendPrice": 14.17,
+     "germanProLow": 0.0,
+     "suggestedPrice": 0.0,
+     "reverseHoloSell": 0.0,
+     "reverseHoloLow": 0.0,
+     "reverseHoloTrend": 0.0,
+     "lowPriceExPlus": 11.94,
+     "avg1": 1.5,
+     "avg7": 13.94,
+     "avg30": 17.46,
+     "reverseHoloAvg1": 0.0,
+     "reverseHoloAvg7": 0.0,
+     "reverseHoloAvg30": 0.0
+    }
+   }
+  },
+  {
+   "id": "swsh8-251",
+   "name": "Mew V",
+   "supertype": "Pok\u00e9mon",
+   "subtypes": [
+    "Basic",
+    "V",
+    "Fusion Strike"
+   ],
+   "hp": "180",
+   "types": [
+    "Psychic"
+   ],
+   "rules": [
+    "V rule: When your Pok\u00e9mon V is Knocked Out, your opponent takes 2 Prize cards."
+   ],
+   "attacks": [
+    {
+     "name": "Energy Mix",
+     "cost": [
+      "Psychic"
+     ],
+     "convertedEnergyCost": 1,
+     "damage": "",
+     "text": "Search your deck for an Energy card and attach it to 1 of your Fusion Strike Pok\u00e9mon. Then, shuffle your deck."
+    },
+    {
+     "name": "Psychic Leap",
+     "cost": [
+      "Psychic",
+      "Colorless"
+     ],
+     "convertedEnergyCost": 2,
+     "damage": "70",
+     "text": "You may shuffle this Pok\u00e9mon and all attached cards into your deck."
+    }
+   ],
+   "weaknesses": [
+    {
+     "type": "Darkness",
+     "value": "\u00d72"
+    }
+   ],
+   "resistances": [
+    {
+     "type": "Fighting",
+     "value": "-30"
+    }
+   ],
+   "set": {
+    "id": "swsh8",
+    "name": "Fusion Strike",
+    "series": "Sword & Shield",
+    "printedTotal": 264,
+    "total": 284,
+    "legalities": {
+     "unlimited": "Legal",
+     "standard": "Legal",
+     "expanded": "Legal"
+    },
+    "ptcgoCode": "FST",
+    "releaseDate": "2021/11/12",
+    "updatedAt": "2021/11/12 07:32:00",
+    "images": {
+     "symbol": "https://images.pokemontcg.io/swsh8/symbol.png",
+     "logo": "https://images.pokemontcg.io/swsh8/logo.png"
+    }
+   },
+   "number": "251",
+   "artist": "Naoki Saito",
+   "rarity": "Rare Ultra",
+   "nationalPokedexNumbers": [
+    151
+   ],
+   "legalities": {
+    "unlimited": "Legal",
+    "standard": "Legal",
+    "expanded": "Legal"
+   },
+   "regulationMark": "E",
+   "images": {
+    "small": "https://images.pokemontcg.io/swsh8/251.png",
+    "large": "https://images.pokemontcg.io/swsh8/251_hires.png"
+   },
+   "tcgplayer": {
+    "url": "https://prices.pokemontcg.io/tcgplayer/swsh8-251",
+    "updatedAt": "2026/08/27",
+    "prices": {
+     "holofoil": {
+      "low": 88.0,
+      "mid": 119.97,
+      "high": 797.82,
+      "market": 108.17,
+      "directLow": 115.0
+     }
+    }
+   },
+   "cardmarket": {
+    "url": "https://prices.pokemontcg.io/cardmarket/swsh8-251",
+    "updatedAt": "2025/11/18",
+    "prices": {
+     "averageSellPrice": 89.75,
+     "lowPrice": 39.9,
+     "trendPrice": 83.27,
+     "germanProLow": 0.0,
+     "suggestedPrice": 0.0,
+     "reverseHoloSell": 0.0,
+     "reverseHoloLow": 0.0,
+     "reverseHoloTrend": 0.0,
+     "lowPriceExPlus": 54.49,
+     "avg1": 28.0,
+     "avg7": 72.29,
+     "avg30": 84.9,
+     "reverseHoloAvg1": 0.0,
+     "reverseHoloAvg7": 0.0,
+     "reverseHoloAvg30": 0.0
+    }
+   }
+  },
+  {
+   "id": "swsh8-268",
+   "name": "Mew VMAX",
+   "supertype": "Pok\u00e9mon",
+   "subtypes": [
+    "VMAX",
+    "Fusion Strike"
+   ],
+   "hp": "310",
+   "types": [
+    "Psychic"
+   ],
+   "evolvesFrom": "Mew V",
+   "rules": [
+    "VMAX rule: When your Pok\u00e9mon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+   ],
+   "attacks": [
+    {
+     "name": "Cross Fusion Strike",
+     "cost": [
+      "Colorless",
+      "Colorless"
+     ],
+     "convertedEnergyCost": 2,
+     "damage": "",
+     "text": "Choose 1 of your Benched Fusion Strike Pok\u00e9mon's attacks and use it as this attack."
+    },
+    {
+     "name": "Max Miracle",
+     "cost": [
+      "Psychic",
+      "Psychic"
+     ],
+     "convertedEnergyCost": 2,
+     "damage": "130",
+     "text": "This attack's damage isn't affected by any effects on your opponent's Active Pok\u00e9mon."
+    }
+   ],
+   "weaknesses": [
+    {
+     "type": "Darkness",
+     "value": "\u00d72"
+    }
+   ],
+   "resistances": [
+    {
+     "type": "Fighting",
+     "value": "-30"
+    }
+   ],
+   "set": {
+    "id": "swsh8",
+    "name": "Fusion Strike",
+    "series": "Sword & Shield",
+    "printedTotal": 264,
+    "total": 284,
+    "legalities": {
+     "unlimited": "Legal",
+     "standard": "Legal",
+     "expanded": "Legal"
+    },
+    "ptcgoCode": "FST",
+    "releaseDate": "2021/11/12",
+    "updatedAt": "2021/11/12 07:32:00",
+    "images": {
+     "symbol": "https://images.pokemontcg.io/swsh8/symbol.png",
+     "logo": "https://images.pokemontcg.io/swsh8/logo.png"
+    }
+   },
+   "number": "268",
+   "artist": "5ban Graphics",
+   "rarity": "Rare Rainbow",
+   "nationalPokedexNumbers": [
+    151
+   ],
+   "legalities": {
+    "unlimited": "Legal",
+    "standard": "Legal",
+    "expanded": "Legal"
+   },
+   "regulationMark": "E",
+   "images": {
+    "small": "https://images.pokemontcg.io/swsh8/268.png",
+    "large": "https://images.pokemontcg.io/swsh8/268_hires.png"
+   },
+   "tcgplayer": {
+    "url": "https://prices.pokemontcg.io/tcgplayer/swsh8-268",
+    "updatedAt": "2026/08/27",
+    "prices": {
+     "holofoil": {
+      "low": 76.33,
+      "mid": 107.8,
+      "high": 561.08,
+      "market": 103.18,
+      "directLow": 99.94
+     }
+    }
+   },
+   "cardmarket": {
+    "url": "https://prices.pokemontcg.io/cardmarket/swsh8-268",
+    "updatedAt": "2025/11/18",
+    "prices": {
+     "averageSellPrice": 53.69,
+     "lowPrice": 24.95,
+     "trendPrice": 48.1,
+     "germanProLow": 0.0,
+     "suggestedPrice": 0.0,
+     "reverseHoloSell": 0.0,
+     "reverseHoloLow": 0.0,
+     "reverseHoloTrend": 0.0,
+     "lowPriceExPlus": 29.98,
+     "avg1": 66.0,
+     "avg7": 43.15,
+     "avg30": 54.15,
+     "reverseHoloAvg1": 0.0,
+     "reverseHoloAvg7": 0.0,
+     "reverseHoloAvg30": 0.0
+    }
+   }
+  },
+  {
+   "id": "swsh8-269",
+   "name": "Mew VMAX",
+   "supertype": "Pok\u00e9mon",
+   "subtypes": [
+    "VMAX",
+    "Fusion Strike"
+   ],
+   "hp": "310",
+   "types": [
+    "Psychic"
+   ],
+   "evolvesFrom": "Mew V",
+   "rules": [
+    "VMAX rule: When your Pok\u00e9mon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+   ],
+   "attacks": [
+    {
+     "name": "Cross Fusion Strike",
+     "cost": [
+      "Colorless",
+      "Colorless"
+     ],
+     "convertedEnergyCost": 2,
+     "damage": "",
+     "text": "Choose 1 of your Benched Fusion Strike Pok\u00e9mon's attacks and use it as this attack."
+    },
+    {
+     "name": "Max Miracle",
+     "cost": [
+      "Psychic",
+      "Psychic"
+     ],
+     "convertedEnergyCost": 2,
+     "damage": "130",
+     "text": "This attack's damage isn't affected by any effects on your opponent's Active Pok\u00e9mon."
+    }
+   ],
+   "weaknesses": [
+    {
+     "type": "Darkness",
+     "value": "\u00d72"
+    }
+   ],
+   "resistances": [
+    {
+     "type": "Fighting",
+     "value": "-30"
+    }
+   ],
+   "set": {
+    "id": "swsh8",
+    "name": "Fusion Strike",
+    "series": "Sword & Shield",
+    "printedTotal": 264,
+    "total": 284,
+    "legalities": {
+     "unlimited": "Legal",
+     "standard": "Legal",
+     "expanded": "Legal"
+    },
+    "ptcgoCode": "FST",
+    "releaseDate": "2021/11/12",
+    "updatedAt": "2021/11/12 07:32:00",
+    "images": {
+     "symbol": "https://images.pokemontcg.io/swsh8/symbol.png",
+     "logo": "https://images.pokemontcg.io/swsh8/logo.png"
+    }
+   },
+   "number": "269",
+   "artist": "AKIRA EGAWA",
+   "rarity": "Rare Rainbow",
+   "nationalPokedexNumbers": [
+    151
+   ],
+   "legalities": {
+    "unlimited": "Legal",
+    "standard": "Legal",
+    "expanded": "Legal"
+   },
+   "regulationMark": "E",
+   "images": {
+    "small": "https://images.pokemontcg.io/swsh8/269.png",
+    "large": "https://images.pokemontcg.io/swsh8/269_hires.png"
+   },
+   "tcgplayer": {
+    "url": "https://prices.pokemontcg.io/tcgplayer/swsh8-269",
+    "updatedAt": "2026/08/27",
+    "prices": {
+     "holofoil": {
+      "low": 197.93,
+      "mid": 278.26,
+      "high": 1463.0,
+      "market": 265.96,
+      "directLow": 240.98
+     }
+    }
+   },
+   "cardmarket": {
+    "url": "https://prices.pokemontcg.io/cardmarket/swsh8-269",
+    "updatedAt": "2025/11/18",
+    "prices": {
+     "averageSellPrice": 207.99,
+     "lowPrice": 69.0,
+     "trendPrice": 206.05,
+     "germanProLow": 0.0,
+     "suggestedPrice": 0.0,
+     "reverseHoloSell": 0.0,
+     "reverseHoloLow": 0.0,
+     "reverseHoloTrend": 0.0,
+     "lowPriceExPlus": 117.67,
+     "avg1": 180.0,
+     "avg7": 225.7,
+     "avg30": 189.52,
+     "reverseHoloAvg1": 0.0,
+     "reverseHoloAvg7": 0.0,
+     "reverseHoloAvg30": 0.0
+    }
+   }
+  },
+  {
+   "id": "swsh11tg-TG30",
+   "name": "Mew VMAX",
+   "supertype": "Pok\u00e9mon",
+   "subtypes": [
+    "VMAX",
+    "Fusion Strike"
+   ],
+   "hp": "310",
+   "types": [
+    "Psychic"
+   ],
+   "evolvesFrom": "Mew V",
+   "rules": [
+    "VMAX rule: When your Pok\u00e9mon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+   ],
+   "attacks": [
+    {
+     "name": "Cross Fusion Strike",
+     "cost": [
+      "Colorless",
+      "Colorless"
+     ],
+     "convertedEnergyCost": 2,
+     "damage": "",
+     "text": "Choose 1 of your Benched Fusion Strike Pok\u00e9mon's attacks and use it as this attack."
+    },
+    {
+     "name": "Max Miracle",
+     "cost": [
+      "Psychic",
+      "Psychic"
+     ],
+     "convertedEnergyCost": 2,
+     "damage": "130",
+     "text": "This attack's damage isn't affected by any effects on your opponent's Active Pok\u00e9mon."
+    }
+   ],
+   "weaknesses": [
+    {
+     "type": "Darkness",
+     "value": "\u00d72"
+    }
+   ],
+   "resistances": [
+    {
+     "type": "Fighting",
+     "value": "-30"
+    }
+   ],
+   "set": {
+    "id": "swsh11tg",
+    "name": "Lost Origin Trainer Gallery",
+    "series": "Sword & Shield",
+    "printedTotal": 30,
+    "total": 30,
+    "legalities": {
+     "unlimited": "Legal",
+     "standard": "Legal",
+     "expanded": "Legal"
+    },
+    "ptcgoCode": "LOR",
+    "releaseDate": "2022/09/09",
+    "updatedAt": "2022/09/09 13:45:00",
+    "images": {
+     "symbol": "https://images.pokemontcg.io/swsh11tg/symbol.png",
+     "logo": "https://images.pokemontcg.io/swsh11tg/logo.png"
+    }
+   },
+   "number": "TG30",
+   "artist": "5ban Graphics",
+   "rarity": "Rare Secret",
+   "nationalPokedexNumbers": [
+    151
+   ],
+   "legalities": {
+    "unlimited": "Legal",
+    "standard": "Legal",
+    "expanded": "Legal"
+   },
+   "regulationMark": "E",
+   "images": {
+    "small": "https://images.pokemontcg.io/swsh11tg/TG30.png",
+    "large": "https://images.pokemontcg.io/swsh11tg/TG30_hires.png"
+   },
+   "tcgplayer": {
+    "url": "https://prices.pokemontcg.io/tcgplayer/swsh11tg-TG30",
+    "updatedAt": "2026/08/27",
+    "prices": {
+     "holofoil": {
+      "low": 22.75,
+      "mid": 32.82,
+      "high": 96.95,
+      "market": 28.93,
+      "directLow": 31.99
+     }
+    }
+   },
+   "cardmarket": {
+    "url": "https://prices.pokemontcg.io/cardmarket/swsh11tg-TG30",
+    "updatedAt": "2026/06/21",
+    "prices": {
+     "averageSellPrice": 24.62,
+     "lowPrice": 7.5,
+     "trendPrice": 40.54,
+     "germanProLow": 0.0,
+     "suggestedPrice": 0.0,
+     "reverseHoloSell": 0.0,
+     "reverseHoloLow": 0.0,
+     "reverseHoloTrend": 0.0,
+     "lowPriceExPlus": 8.87,
+     "avg1": 28.0,
+     "avg7": 56.19,
+     "avg30": 24.31,
+     "reverseHoloAvg1": 0.0,
+     "reverseHoloAvg7": 0.0,
+     "reverseHoloAvg30": 0.0
+    }
+   }
+  },
+  {
+   "id": "swsh12pt5-60",
+   "name": "Mew V",
+   "supertype": "Pok\u00e9mon",
+   "subtypes": [
+    "Basic",
+    "V",
+    "Fusion Strike"
+   ],
+   "hp": "180",
+   "types": [
+    "Psychic"
+   ],
+   "rules": [
+    "V rule: When your Pok\u00e9mon V is Knocked Out, your opponent takes 2 Prize cards."
+   ],
+   "attacks": [
+    {
+     "name": "Energy Mix",
+     "cost": [
+      "Psychic"
+     ],
+     "convertedEnergyCost": 1,
+     "damage": "",
+     "text": "Search your deck for an Energy card and attach it to 1 of your Fusion Strike Pok\u00e9mon. Then, shuffle your deck."
+    },
+    {
+     "name": "Psychic Leap",
+     "cost": [
+      "Psychic",
+      "Colorless"
+     ],
+     "convertedEnergyCost": 2,
+     "damage": "70",
+     "text": "You may shuffle this Pok\u00e9mon and all attached cards into your deck."
+    }
+   ],
+   "weaknesses": [
+    {
+     "type": "Darkness",
+     "value": "\u00d72"
+    }
+   ],
+   "resistances": [
+    {
+     "type": "Fighting",
+     "value": "-30"
+    }
+   ],
+   "set": {
+    "id": "swsh12pt5",
+    "name": "Crown Zenith",
+    "series": "Sword & Shield",
+    "printedTotal": 159,
+    "total": 160,
+    "legalities": {
+     "unlimited": "Legal",
+     "standard": "Legal",
+     "expanded": "Legal"
+    },
+    "ptcgoCode": "CRZ",
+    "releaseDate": "2023/01/20",
+    "updatedAt": "2023/01/19 15:45:00",
+    "images": {
+     "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
+     "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
+    }
+   },
+   "number": "60",
+   "artist": "PLANETA Igarashi",
+   "rarity": "Rare Holo V",
+   "nationalPokedexNumbers": [
+    151
+   ],
+   "legalities": {
+    "unlimited": "Legal",
+    "standard": "Legal",
+    "expanded": "Legal"
+   },
+   "regulationMark": "E",
+   "images": {
+    "small": "https://images.pokemontcg.io/swsh12pt5/60.png",
+    "large": "https://images.pokemontcg.io/swsh12pt5/60_hires.png"
+   },
+   "tcgplayer": {
+    "url": "https://prices.pokemontcg.io/tcgplayer/swsh12pt5-60",
+    "updatedAt": "2026/08/27",
+    "prices": {
+     "holofoil": {
+      "low": 4.7,
+      "mid": 7.75,
+      "high": 999.0,
+      "market": 6.83,
+      "directLow": 9.69
+     }
+    }
+   },
+   "cardmarket": {
+    "url": "https://prices.pokemontcg.io/cardmarket/swsh12pt5-60",
+    "updatedAt": "2026/01/21",
+    "prices": {
+     "averageSellPrice": 2.22,
+     "lowPrice": 0.5,
+     "trendPrice": 2.42,
+     "germanProLow": 0.0,
+     "suggestedPrice": 0.0,
+     "reverseHoloSell": 0.0,
+     "reverseHoloLow": 0.0,
+     "reverseHoloTrend": 0.0,
+     "lowPriceExPlus": 1.0,
+     "avg1": 3.65,
+     "avg7": 2.55,
+     "avg30": 2.31,
+     "reverseHoloAvg1": 0.0,
+     "reverseHoloAvg7": 0.0,
+     "reverseHoloAvg30": 0.0
+    }
+   }
+  },
+  {
+   "id": "swsh12pt5gg-GG10",
+   "name": "Mew",
+   "supertype": "Pok\u00e9mon",
+   "subtypes": [
+    "Basic"
+   ],
+   "hp": "60",
+   "types": [
+    "Psychic"
+   ],
+   "abilities": [
+    {
+     "name": "Mysterious Tail",
+     "text": "Once during your turn, if this Pok\u00e9mon is in the Active Spot, you may look at the top 6 cards of your deck, reveal an Item card you find there, and put it into your hand. Shuffle the other cards back into your deck.",
+     "type": "Ability"
+    }
+   ],
+   "attacks": [
+    {
+     "name": "Psyshot",
+     "cost": [
+      "Psychic",
+      "Colorless"
+     ],
+     "convertedEnergyCost": 2,
+     "damage": "30",
+     "text": ""
+    }
+   ],
+   "weaknesses": [
+    {
+     "type": "Darkness",
+     "value": "\u00d72"
+    }
+   ],
+   "resistances": [
+    {
+     "type": "Fighting",
+     "value": "-30"
+    }
+   ],
+   "retreatCost": [
+    "Colorless"
+   ],
+   "convertedRetreatCost": 1,
+   "set": {
+    "id": "swsh12pt5gg",
+    "name": "Crown Zenith Galarian Gallery",
+    "series": "Sword & Shield",
+    "printedTotal": 70,
+    "total": 70,
+    "legalities": {
+     "unlimited": "Legal",
+     "standard": "Legal",
+     "expanded": "Legal"
+    },
+    "ptcgoCode": "CRZ",
+    "releaseDate": "2023/01/20",
+    "updatedAt": "2023/01/19 15:45:00",
+    "images": {
+     "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
+     "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
+    }
+   },
+   "number": "GG10",
+   "artist": "Ryota Murayama",
+   "rarity": "Trainer Gallery Rare Holo",
+   "flavorText": "Its DNA is said to contain the genetic codes of all Pok\u00e9mon, so it can use all kinds of techniques.",
+   "nationalPokedexNumbers": [
+    151
+   ],
+   "legalities": {
+    "unlimited": "Legal",
+    "standard": "Legal",
+    "expanded": "Legal"
+   },
+   "regulationMark": "E",
+   "images": {
+    "small": "https://images.pokemontcg.io/swsh12pt5gg/GG10.png",
+    "large": "https://images.pokemontcg.io/swsh12pt5gg/GG10_hires.png"
+   },
+   "tcgplayer": {
+    "url": "https://prices.pokemontcg.io/tcgplayer/swsh12pt5gg-GG10",
+    "updatedAt": "2026/08/27",
+    "prices": {
+     "holofoil": {
+      "low": 54.0,
+      "mid": 74.0,
+      "high": 999.0,
+      "market": 66.18,
+      "directLow": 63.48
+     }
+    }
+   },
+   "cardmarket": {
+    "url": "https://prices.pokemontcg.io/cardmarket/swsh12pt5gg-GG10",
+    "updatedAt": "2026/07/01",
+    "prices": {
+     "averageSellPrice": 86.02,
+     "lowPrice": 39.0,
+     "trendPrice": 59.49,
+     "germanProLow": 0.0,
+     "suggestedPrice": 0.0,
+     "reverseHoloSell": 0.0,
+     "reverseHoloLow": 0.0,
+     "reverseHoloTrend": 0.0,
+     "lowPriceExPlus": 39.0,
+     "avg1": 66.14,
+     "avg7": 63.24,
+     "avg30": 84.55,
+     "reverseHoloAvg1": 0.0,
+     "reverseHoloAvg7": 0.0,
+     "reverseHoloAvg30": 0.0
+    }
+   }
+  },
+  {
+   "id": "sv3pt5-151",
+   "name": "Mew ex",
+   "supertype": "Pok\u00e9mon",
+   "subtypes": [
+    "Basic",
+    "ex"
+   ],
+   "hp": "180",
+   "types": [
+    "Psychic"
+   ],
+   "rules": [
+    "Pok\u00e9mon ex rule: When your Pok\u00e9mon ex is Knocked Out, your opponent takes 2 Prize cards."
+   ],
+   "abilities": [
+    {
+     "name": "Restart",
+     "text": "Once during your turn, you may draw cards until you have 3 cards in your hand.",
+     "type": "Ability"
+    }
+   ],
+   "attacks": [
+    {
+     "name": "Genome Hacking",
+     "cost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+     ],
+     "convertedEnergyCost": 3,
+     "damage": "",
+     "text": "Choose 1 of your opponent's Active Pok\u00e9mon's attacks and use it as this attack."
+    }
+   ],
+   "weaknesses": [
+    {
+     "type": "Darkness",
+     "value": "\u00d72"
+    }
+   ],
+   "resistances": [
+    {
+     "type": "Fighting",
+     "value": "-30"
+    }
+   ],
+   "set": {
+    "id": "sv3pt5",
+    "name": "151",
+    "series": "Scarlet & Violet",
+    "printedTotal": 165,
+    "total": 207,
+    "legalities": {
+     "unlimited": "Legal",
+     "standard": "Legal",
+     "expanded": "Legal"
+    },
+    "releaseDate": "2023/09/22",
+    "updatedAt": "2023/09/22 15:00:00",
+    "images": {
+     "symbol": "https://images.pokemontcg.io/sv3pt5/symbol.png",
+     "logo": "https://images.pokemontcg.io/sv3pt5/logo.png"
+    }
+   },
+   "number": "151",
+   "artist": "aky CG Works",
+   "rarity": "Double Rare",
+   "nationalPokedexNumbers": [
+    151
+   ],
+   "legalities": {
+    "unlimited": "Legal",
+    "standard": "Legal",
+    "expanded": "Legal"
+   },
+   "regulationMark": "G",
+   "images": {
+    "small": "https://images.pokemontcg.io/sv3pt5/151.png",
+    "large": "https://images.pokemontcg.io/sv3pt5/151_hires.png"
+   },
+   "tcgplayer": {
+    "url": "https://prices.pokemontcg.io/tcgplayer/sv3pt5-151",
+    "updatedAt": "2026/08/27",
+    "prices": {
+     "holofoil": {
+      "low": 5.36,
+      "mid": 8.99,
+      "high": 96.95,
+      "market": 8.08,
+      "directLow": 11.99
+     }
+    }
+   },
+   "cardmarket": {
+    "url": "https://prices.pokemontcg.io/cardmarket/sv3pt5-151",
+    "updatedAt": "2025/11/18",
+    "prices": {
+     "averageSellPrice": 9.54,
+     "lowPrice": 6.5,
+     "trendPrice": 9.66,
+     "germanProLow": 0.0,
+     "suggestedPrice": 0.0,
+     "reverseHoloSell": 0.0,
+     "reverseHoloLow": 0.0,
+     "reverseHoloTrend": 0.0,
+     "lowPriceExPlus": 6.5,
+     "avg1": 10.04,
+     "avg7": 8.5,
+     "avg30": 9.38,
+     "reverseHoloAvg1": 0.0,
+     "reverseHoloAvg7": 0.0,
+     "reverseHoloAvg30": 0.0
+    }
+   }
+  },
+  {
+   "id": "sv3pt5-193",
+   "name": "Mew ex",
+   "supertype": "Pok\u00e9mon",
+   "subtypes": [
+    "Basic",
+    "ex"
+   ],
+   "hp": "180",
+   "types": [
+    "Psychic"
+   ],
+   "rules": [
+    "Pok\u00e9mon ex rule: When your Pok\u00e9mon ex is Knocked Out, your opponent takes 2 Prize cards."
+   ],
+   "abilities": [
+    {
+     "name": "Restart",
+     "text": "Once during your turn, you may draw cards until you have 3 cards in your hand.",
+     "type": "Ability"
+    }
+   ],
+   "attacks": [
+    {
+     "name": "Genome Hacking",
+     "cost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+     ],
+     "convertedEnergyCost": 3,
+     "damage": "",
+     "text": "Choose 1 of your opponent's Active Pok\u00e9mon's attacks and use it as this attack."
+    }
+   ],
+   "weaknesses": [
+    {
+     "type": "Darkness",
+     "value": "\u00d72"
+    }
+   ],
+   "resistances": [
+    {
+     "type": "Fighting",
+     "value": "-30"
+    }
+   ],
+   "set": {
+    "id": "sv3pt5",
+    "name": "151",
+    "series": "Scarlet & Violet",
+    "printedTotal": 165,
+    "total": 207,
+    "legalities": {
+     "unlimited": "Legal",
+     "standard": "Legal",
+     "expanded": "Legal"
+    },
+    "releaseDate": "2023/09/22",
+    "updatedAt": "2023/09/22 15:00:00",
+    "images": {
+     "symbol": "https://images.pokemontcg.io/sv3pt5/symbol.png",
+     "logo": "https://images.pokemontcg.io/sv3pt5/logo.png"
+    }
+   },
+   "number": "193",
+   "artist": "aky CG Works",
+   "rarity": "Ultra Rare",
+   "nationalPokedexNumbers": [
+    151
+   ],
+   "legalities": {
+    "unlimited": "Legal",
+    "standard": "Legal",
+    "expanded": "Legal"
+   },
+   "regulationMark": "G",
+   "images": {
+    "small": "https://images.pokemontcg.io/sv3pt5/193.png",
+    "large": "https://images.pokemontcg.io/sv3pt5/193_hires.png"
+   },
+   "tcgplayer": {
+    "url": "https://prices.pokemontcg.io/tcgplayer/sv3pt5-193",
+    "updatedAt": "2026/08/27",
+    "prices": {
+     "holofoil": {
+      "low": 28.98,
+      "mid": 37.26,
+      "high": 362.44,
+      "market": 32.4,
+      "directLow": 33.43
+     }
+    }
+   },
+   "cardmarket": {
+    "url": "https://prices.pokemontcg.io/cardmarket/sv3pt5-193",
+    "updatedAt": "2025/11/18",
+    "prices": {
+     "averageSellPrice": 22.59,
+     "lowPrice": 17.15,
+     "trendPrice": 22.83,
+     "germanProLow": 0.0,
+     "suggestedPrice": 0.0,
+     "reverseHoloSell": 0.0,
+     "reverseHoloLow": 0.0,
+     "reverseHoloTrend": 0.0,
+     "lowPriceExPlus": 17.15,
+     "avg1": 19.0,
+     "avg7": 21.84,
+     "avg30": 22.34,
+     "reverseHoloAvg1": 0.0,
+     "reverseHoloAvg7": 0.0,
+     "reverseHoloAvg30": 0.0
+    }
+   }
+  },
+  {
+   "id": "sv3pt5-205",
+   "name": "Mew ex",
+   "supertype": "Pok\u00e9mon",
+   "subtypes": [
+    "Basic",
+    "ex"
+   ],
+   "hp": "180",
+   "types": [
+    "Psychic"
+   ],
+   "rules": [
+    "Pok\u00e9mon ex rule: When your Pok\u00e9mon ex is Knocked Out, your opponent takes 2 Prize cards."
+   ],
+   "abilities": [
+    {
+     "name": "Restart",
+     "text": "Once during your turn, you may draw cards until you have 3 cards in your hand.",
+     "type": "Ability"
+    }
+   ],
+   "attacks": [
+    {
+     "name": "Genome Hacking",
+     "cost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+     ],
+     "convertedEnergyCost": 3,
+     "damage": "",
+     "text": "Choose 1 of your opponent's Active Pok\u00e9mon's attacks and use it as this attack."
+    }
+   ],
+   "weaknesses": [
+    {
+     "type": "Darkness",
+     "value": "\u00d72"
+    }
+   ],
+   "resistances": [
+    {
+     "type": "Fighting",
+     "value": "-30"
+    }
+   ],
+   "set": {
+    "id": "sv3pt5",
+    "name": "151",
+    "series": "Scarlet & Violet",
+    "printedTotal": 165,
+    "total": 207,
+    "legalities": {
+     "unlimited": "Legal",
+     "standard": "Legal",
+     "expanded": "Legal"
+    },
+    "releaseDate": "2023/09/22",
+    "updatedAt": "2023/09/22 15:00:00",
+    "images": {
+     "symbol": "https://images.pokemontcg.io/sv3pt5/symbol.png",
+     "logo": "https://images.pokemontcg.io/sv3pt5/logo.png"
+    }
+   },
+   "number": "205",
+   "artist": "aky CG Works",
+   "rarity": "Hyper Rare",
+   "nationalPokedexNumbers": [
+    151
+   ],
+   "legalities": {
+    "unlimited": "Legal",
+    "standard": "Legal",
+    "expanded": "Legal"
+   },
+   "regulationMark": "G",
+   "images": {
+    "small": "https://images.pokemontcg.io/sv3pt5/205.png",
+    "large": "https://images.pokemontcg.io/sv3pt5/205_hires.png"
+   },
+   "tcgplayer": {
+    "url": "https://prices.pokemontcg.io/tcgplayer/sv3pt5-205",
+    "updatedAt": "2026/08/27",
+    "prices": {
+     "holofoil": {
+      "low": 22.77,
+      "mid": 34.69,
+      "high": 227.34,
+      "market": 31.2,
+      "directLow": 27.47
+     }
+    }
+   },
+   "cardmarket": {
+    "url": "https://prices.pokemontcg.io/cardmarket/sv3pt5-205",
+    "updatedAt": "2025/11/18",
+    "prices": {
+     "averageSellPrice": 16.82,
+     "lowPrice": 8.95,
+     "trendPrice": 16.63,
+     "germanProLow": 0.0,
+     "suggestedPrice": 0.0,
+     "reverseHoloSell": 0.0,
+     "reverseHoloLow": 0.0,
+     "reverseHoloTrend": 0.0,
+     "lowPriceExPlus": 8.95,
+     "avg1": 17.85,
+     "avg7": 16.19,
+     "avg30": 16.88,
+     "reverseHoloAvg1": 0.0,
+     "reverseHoloAvg7": 0.0,
+     "reverseHoloAvg30": 0.0
+    }
+   }
+  },
+  {
+   "id": "svp-53",
+   "name": "Mew ex",
+   "supertype": "Pok\u00e9mon",
+   "subtypes": [
+    "Basic",
+    "ex"
+   ],
+   "hp": "180",
+   "types": [
+    "Psychic"
+   ],
+   "rules": [
+    "Pok\u00e9mon ex rule: When your Pok\u00e9mon ex is Knocked Out, your opponent takes 2 Prize cards."
+   ],
+   "abilities": [
+    {
+     "name": "Restart",
+     "text": "Once during your turn, you may draw cards until you have 3 cards in your hand.",
+     "type": "Ability"
+    }
+   ],
+   "attacks": [
+    {
+     "name": "Genome Hacking",
+     "cost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+     ],
+     "convertedEnergyCost": 3,
+     "damage": "",
+     "text": "Choose 1 of your opponent's Active Pok\u00e9mon's attacks and use it as this attack."
+    }
+   ],
+   "weaknesses": [
+    {
+     "type": "Darkness",
+     "value": "\u00d72"
+    }
+   ],
+   "resistances": [
+    {
+     "type": "Fighting",
+     "value": "-30"
+    }
+   ],
+   "set": {
+    "id": "svp",
+    "name": "Scarlet & Violet Black Star Promos",
+    "series": "Scarlet & Violet",
+    "printedTotal": 215,
+    "total": 196,
+    "legalities": {
+     "unlimited": "Legal",
+     "standard": "Legal",
+     "expanded": "Legal"
+    },
+    "ptcgoCode": "PR-SV",
+    "releaseDate": "2023/01/01",
+    "updatedAt": "2024/11/09 13:20:00",
+    "images": {
+     "symbol": "https://images.pokemontcg.io/svp/symbol.png",
+     "logo": "https://images.pokemontcg.io/svp/logo.png"
+    }
+   },
+   "number": "53",
+   "artist": "Natsumi Yoshida",
+   "rarity": "Promo",
+   "nationalPokedexNumbers": [
+    151
+   ],
+   "legalities": {
+    "unlimited": "Legal",
+    "standard": "Legal",
+    "expanded": "Legal"
+   },
+   "regulationMark": "G",
+   "images": {
+    "small": "https://images.pokemontcg.io/svp/53.png",
+    "large": "https://images.pokemontcg.io/svp/53_hires.png"
+   },
+   "tcgplayer": {
+    "url": "https://prices.pokemontcg.io/tcgplayer/svp-53",
+    "updatedAt": "2026/08/27",
+    "prices": {
+     "holofoil": {
+      "low": 66.7,
+      "mid": 85.58,
+      "high": 701.91,
+      "market": 78.71,
+      "directLow": 75.29
+     }
+    }
+   },
+   "cardmarket": {
+    "url": "https://prices.pokemontcg.io/cardmarket/svp-53",
+    "updatedAt": "2026/02/04",
+    "prices": {
+     "averageSellPrice": 80.56,
+     "lowPrice": 50.0,
+     "trendPrice": 93.49,
+     "germanProLow": 0.0,
+     "suggestedPrice": 0.0,
+     "reverseHoloSell": 0.0,
+     "reverseHoloLow": 0.0,
+     "reverseHoloTrend": 0.0,
+     "lowPriceExPlus": 50.0,
+     "avg1": 65.98,
+     "avg7": 64.6,
+     "avg30": 81.05,
+     "reverseHoloAvg1": 0.0,
+     "reverseHoloAvg7": 0.0,
+     "reverseHoloAvg30": 0.0
+    }
+   }
+  },
+  {
+   "id": "sv4pt5-232",
+   "name": "Mew ex",
+   "supertype": "Pok\u00e9mon",
+   "subtypes": [
+    "Basic",
+    "ex"
+   ],
+   "hp": "180",
+   "types": [
+    "Psychic"
+   ],
+   "rules": [
+    "Pok\u00e9mon ex rule: When your Pok\u00e9mon ex is Knocked Out, your opponent takes 2 Prize cards."
+   ],
+   "abilities": [
+    {
+     "name": "Restart",
+     "text": "Once during your turn, you may draw cards until you have 3 cards in your hand.",
+     "type": "Ability"
+    }
+   ],
+   "attacks": [
+    {
+     "name": "Genome Hacking",
+     "cost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+     ],
+     "convertedEnergyCost": 3,
+     "damage": "",
+     "text": "Choose 1 of your opponent's Active Pok\u00e9mon's attacks and use it as this attack."
+    }
+   ],
+   "weaknesses": [
+    {
+     "type": "Darkness",
+     "value": "\u00d72"
+    }
+   ],
+   "resistances": [
+    {
+     "type": "Fighting",
+     "value": "-30"
+    }
+   ],
+   "set": {
+    "id": "sv4pt5",
+    "name": "Paldean Fates",
+    "series": "Scarlet & Violet",
+    "printedTotal": 91,
+    "total": 245,
+    "legalities": {
+     "unlimited": "Legal",
+     "standard": "Legal",
+     "expanded": "Legal"
+    },
+    "releaseDate": "2024/01/26",
+    "updatedAt": "2024/01/25 15:00:00",
+    "images": {
+     "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
+     "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
+    }
+   },
+   "number": "232",
+   "artist": "USGMEN",
+   "rarity": "Special Illustration Rare",
+   "nationalPokedexNumbers": [
+    151
+   ],
+   "legalities": {
+    "unlimited": "Legal",
+    "standard": "Legal",
+    "expanded": "Legal"
+   },
+   "regulationMark": "G",
+   "images": {
+    "small": "https://images.pokemontcg.io/sv4pt5/232.png",
+    "large": "https://images.pokemontcg.io/sv4pt5/232_hires.png"
+   },
+   "tcgplayer": {
+    "url": "https://prices.pokemontcg.io/tcgplayer/sv4pt5-232",
+    "updatedAt": "2026/08/27",
+    "prices": {
+     "holofoil": {
+      "low": 820.94,
+      "mid": 1017.1,
+      "high": 10000.0,
+      "market": 964.98,
+      "directLow": 825.98
+     }
+    }
+   },
+   "cardmarket": {
+    "url": "https://prices.pokemontcg.io/cardmarket/sv4pt5-232",
+    "updatedAt": "2025/11/18",
+    "prices": {
+     "averageSellPrice": 461.03,
+     "lowPrice": 199.99,
+     "trendPrice": 506.96,
+     "germanProLow": 0.0,
+     "suggestedPrice": 0.0,
+     "reverseHoloSell": 0.0,
+     "reverseHoloLow": 0.0,
+     "reverseHoloTrend": 0.0,
+     "lowPriceExPlus": 249.99,
+     "avg1": 419.98,
+     "avg7": 467.96,
+     "avg30": 453.45,
+     "reverseHoloAvg1": 0.0,
+     "reverseHoloAvg7": 0.0,
+     "reverseHoloAvg30": 0.0
+    }
+   }
+  },
+  {
+   "id": "sv4pt5-216",
+   "name": "Mew ex",
+   "supertype": "Pok\u00e9mon",
+   "subtypes": [
+    "Basic",
+    "ex"
+   ],
+   "hp": "180",
+   "types": [
+    "Psychic"
+   ],
+   "rules": [
+    "Pok\u00e9mon ex rule: When your Pok\u00e9mon ex is Knocked Out, your opponent takes 2 Prize cards."
+   ],
+   "abilities": [
+    {
+     "name": "Restart",
+     "text": "Once during your turn, you may draw cards until you have 3 cards in your hand.",
+     "type": "Ability"
+    }
+   ],
+   "attacks": [
+    {
+     "name": "Genome Hacking",
+     "cost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+     ],
+     "convertedEnergyCost": 3,
+     "damage": "",
+     "text": "Choose 1 of your opponent's Active Pok\u00e9mon's attacks and use it as this attack."
+    }
+   ],
+   "weaknesses": [
+    {
+     "type": "Darkness",
+     "value": "\u00d72"
+    }
+   ],
+   "resistances": [
+    {
+     "type": "Fighting",
+     "value": "-30"
+    }
+   ],
+   "set": {
+    "id": "sv4pt5",
+    "name": "Paldean Fates",
+    "series": "Scarlet & Violet",
+    "printedTotal": 91,
+    "total": 245,
+    "legalities": {
+     "unlimited": "Legal",
+     "standard": "Legal",
+     "expanded": "Legal"
+    },
+    "releaseDate": "2024/01/26",
+    "updatedAt": "2024/01/25 15:00:00",
+    "images": {
+     "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
+     "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
+    }
+   },
+   "number": "216",
+   "artist": "aky CG Works",
+   "rarity": "Shiny Ultra Rare",
+   "nationalPokedexNumbers": [
+    151
+   ],
+   "legalities": {
+    "unlimited": "Legal",
+    "standard": "Legal",
+    "expanded": "Legal"
+   },
+   "regulationMark": "G",
+   "images": {
+    "small": "https://images.pokemontcg.io/sv4pt5/216.png",
+    "large": "https://images.pokemontcg.io/sv4pt5/216_hires.png"
+   },
+   "tcgplayer": {
+    "url": "https://prices.pokemontcg.io/tcgplayer/sv4pt5-216",
+    "updatedAt": "2026/08/27",
+    "prices": {
+     "holofoil": {
+      "low": 19.7,
+      "mid": 41.29,
+      "high": 999.0,
+      "market": 35.21,
+      "directLow": 46.72
+     }
+    }
+   },
+   "cardmarket": {
+    "url": "https://prices.pokemontcg.io/cardmarket/sv4pt5-216",
+    "updatedAt": "2025/11/18",
+    "prices": {
+     "averageSellPrice": 17.34,
+     "lowPrice": 7.97,
+     "trendPrice": 16.74,
+     "germanProLow": 0.0,
+     "suggestedPrice": 0.0,
+     "reverseHoloSell": 0.0,
+     "reverseHoloLow": 0.0,
+     "reverseHoloTrend": 0.0,
+     "lowPriceExPlus": 7.97,
+     "avg1": 13.02,
+     "avg7": 15.36,
+     "avg30": 15.56,
+     "reverseHoloAvg1": 0.0,
+     "reverseHoloAvg7": 0.0,
+     "reverseHoloAvg30": 0.0
+    }
+   }
+  }
+ ],
+ "page": 1,
+ "pageSize": 100,
+ "count": 53,
+ "totalCount": 53
+}

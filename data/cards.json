@@ -1,0 +1,545 @@
+[
+ {
+  "id": "20260606-WA0022",
+  "image": "images/IMG-20260606-WA0022.jpg",
+  "name": "Cubone",
+  "language": "Chinese",
+  "priority": "high",
+  "set": "Chinese 30th Anniversary (2025)",
+  "number": "040/107",
+  "price": null,
+  "notes": "Chinese print; no pokemontcg.io data. Price filled manually from Cardmarket.",
+  "epick": {
+   "matched": false
+  }
+ },
+ {
+  "id": "20260606-WA0031",
+  "image": "images/IMG-20260606-WA0031.jpg",
+  "name": "Shaymin",
+  "language": "English",
+  "priority": "high",
+  "set": "Destined Rivals",
+  "number": "185",
+  "rarity": "Illustration Rare",
+  "apiId": "sv10-185",
+  "price": {
+   "trend": 7.44,
+   "avg7": 7.85,
+   "low": 4.0,
+   "currency": "EUR",
+   "source": "cardmarket",
+   "url": "https://prices.pokemontcg.io/cardmarket/sv10-185",
+   "asOf": "2026-08-27"
+  },
+  "epick": {
+   "matched": false
+  }
+ },
+ {
+  "id": "20260606-WA0056",
+  "image": "images/IMG-20260606-WA0056.jpg",
+  "name": "Lapras",
+  "language": "English",
+  "priority": "high",
+  "set": "Crown Zenith Galarian Gallery",
+  "number": "GG05",
+  "rarity": "Trainer Gallery Rare Holo",
+  "apiId": "swsh12pt5gg-GG05",
+  "price": {
+   "trend": 24.81,
+   "avg7": 25.77,
+   "low": 6.49,
+   "currency": "EUR",
+   "source": "cardmarket",
+   "url": "https://prices.pokemontcg.io/cardmarket/swsh12pt5gg-GG05",
+   "asOf": "2026-08-27"
+  },
+  "epick": {
+   "matched": false
+  }
+ },
+ {
+  "id": "20260606-WA0063",
+  "image": "images/IMG-20260606-WA0063.jpg",
+  "name": "Beedrill V",
+  "language": "English",
+  "priority": "high",
+  "set": "Astral Radiance",
+  "number": "161",
+  "rarity": "Rare Ultra",
+  "apiId": "swsh10-161",
+  "price": {
+   "trend": 32.43,
+   "avg7": 35.22,
+   "low": 17.0,
+   "currency": "EUR",
+   "source": "cardmarket",
+   "url": "https://prices.pokemontcg.io/cardmarket/swsh10-161",
+   "asOf": "2026-08-27"
+  },
+  "epick": {
+   "matched": false
+  }
+ },
+ {
+  "id": "20260608-WA0026",
+  "image": "images/IMG-20260608-WA0026.jpg",
+  "name": "Leafeon VSTAR",
+  "language": "English",
+  "priority": "high",
+  "set": "Crown Zenith",
+  "number": "14",
+  "rarity": "Rare Holo VSTAR",
+  "apiId": "swsh12pt5-14",
+  "price": {
+   "trend": 3.5,
+   "avg7": 3.26,
+   "low": 1.3,
+   "currency": "EUR",
+   "source": "cardmarket",
+   "url": "https://prices.pokemontcg.io/cardmarket/swsh12pt5-14",
+   "asOf": "2026-08-27"
+  },
+  "epick": {
+   "matched": false
+  }
+ },
+ {
+  "id": "20260626-WA0007",
+  "image": "images/IMG-20260626-WA0007.jpg",
+  "name": "Horsea",
+  "language": "English",
+  "priority": "high",
+  "set": "Shrouded Fable",
+  "number": "67",
+  "rarity": "Illustration Rare",
+  "apiId": "sv6pt5-67",
+  "price": {
+   "trend": 16.56,
+   "avg7": 17.0,
+   "low": 8.0,
+   "currency": "EUR",
+   "source": "cardmarket",
+   "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-67",
+   "asOf": "2026-08-27"
+  },
+  "epick": {
+   "matched": false
+  }
+ },
+ {
+  "id": "20260629-WA0019",
+  "image": "images/IMG-20260629-WA0019.jpg",
+  "name": "Psyduck",
+  "language": "English",
+  "priority": "high",
+  "set": "151",
+  "number": "175",
+  "rarity": "Illustration Rare",
+  "apiId": "sv3pt5-175",
+  "price": {
+   "trend": 23.66,
+   "avg7": 27.08,
+   "low": 16.0,
+   "currency": "EUR",
+   "source": "cardmarket",
+   "url": "https://prices.pokemontcg.io/cardmarket/sv3pt5-175",
+   "asOf": "2026-08-27"
+  },
+  "epick": {
+   "matched": false
+  }
+ },
+ {
+  "id": "20260629-WA0025",
+  "image": "images/IMG-20260629-WA0025.jpg",
+  "name": "Vaporeon",
+  "language": "English",
+  "priority": "high",
+  "set": "Brilliant Stars Trainer Gallery",
+  "number": "TG02",
+  "rarity": "Trainer Gallery Rare Holo",
+  "apiId": "swsh9tg-TG02",
+  "price": {
+   "trend": 22.73,
+   "avg7": 21.82,
+   "low": 9.5,
+   "currency": "EUR",
+   "source": "cardmarket",
+   "url": "https://prices.pokemontcg.io/cardmarket/swsh9tg-TG02",
+   "asOf": "2026-08-27"
+  },
+  "epick": {
+   "matched": false
+  }
+ },
+ {
+  "id": "20260712-WA0013",
+  "image": "images/IMG-20260712-WA0013.jpg",
+  "name": "Psyduck",
+  "language": "English",
+  "priority": "high",
+  "set": "Ascended Heroes",
+  "number": "226/226",
+  "rarity": "Illustration Rare",
+  "price": {
+   "trend": null,
+   "avg7": null,
+   "low": null,
+   "currency": "EUR",
+   "source": "cardmarket",
+   "url": null,
+   "asOf": "2026-08-27"
+  },
+  "notes": "Set released Aug 2026; no Cardmarket price data yet. Re-check in a few weeks.",
+  "epick": {
+   "matched": false
+  }
+ },
+ {
+  "id": "20260712-WA0014",
+  "image": "images/IMG-20260712-WA0014.jpg",
+  "name": "Misty's Psyduck",
+  "language": "English",
+  "priority": "high",
+  "set": "Destined Rivals",
+  "number": "193",
+  "rarity": "Illustration Rare",
+  "apiId": "sv10-193",
+  "price": {
+   "trend": 38.11,
+   "avg7": 42.24,
+   "low": 27.5,
+   "currency": "EUR",
+   "source": "cardmarket",
+   "url": "https://prices.pokemontcg.io/cardmarket/sv10-193",
+   "asOf": "2026-08-27"
+  },
+  "epick": {
+   "matched": false
+  }
+ },
+ {
+  "id": "20260719-WA0001",
+  "image": "images/IMG-20260719-WA0001.jpg",
+  "name": "Pikachu",
+  "language": "English",
+  "priority": "high",
+  "set": "151",
+  "number": "173",
+  "rarity": "Illustration Rare",
+  "apiId": "sv3pt5-173",
+  "price": {
+   "trend": 44.73,
+   "avg7": 44.13,
+   "low": 20.0,
+   "currency": "EUR",
+   "source": "cardmarket",
+   "url": "https://prices.pokemontcg.io/cardmarket/sv3pt5-173",
+   "asOf": "2026-08-27"
+  },
+  "epick": {
+   "matched": false
+  }
+ },
+ {
+  "id": "20260719-WA0003",
+  "image": "images/IMG-20260719-WA0003.jpg",
+  "name": "Lisia's Appeal",
+  "language": "English",
+  "priority": "high",
+  "set": "Surging Sparks",
+  "number": "246",
+  "rarity": "Special Illustration Rare",
+  "apiId": "sv8-246",
+  "price": {
+   "trend": 29.48,
+   "avg7": 30.76,
+   "low": 18.95,
+   "currency": "EUR",
+   "source": "cardmarket",
+   "url": "https://prices.pokemontcg.io/cardmarket/sv8-246",
+   "asOf": "2026-08-27"
+  },
+  "epick": {
+   "matched": false
+  }
+ },
+ {
+  "id": "20260719-WA0005",
+  "image": "images/IMG-20260719-WA0005.jpg",
+  "name": "Team Rocket's Meowth",
+  "language": "English",
+  "priority": "high",
+  "set": "Destined Rivals",
+  "number": "203",
+  "rarity": "Illustration Rare",
+  "apiId": "sv10-203",
+  "price": {
+   "trend": 22.32,
+   "avg7": 22.48,
+   "low": 14.0,
+   "currency": "EUR",
+   "source": "cardmarket",
+   "url": "https://prices.pokemontcg.io/cardmarket/sv10-203",
+   "asOf": "2026-08-27"
+  },
+  "epick": {
+   "matched": false
+  }
+ },
+ {
+  "id": "20260719-WA0007",
+  "image": "images/IMG-20260719-WA0007.jpg",
+  "name": "Tepig",
+  "language": "English",
+  "priority": "high",
+  "set": "White Flare",
+  "number": "96",
+  "rarity": "Illustration Rare",
+  "apiId": "rsv10pt5-96",
+  "price": {
+   "trend": 14.56,
+   "avg7": 13.78,
+   "low": 8.0,
+   "currency": "EUR",
+   "source": "cardmarket",
+   "url": "https://prices.pokemontcg.io/cardmarket/rsv10pt5-96",
+   "asOf": "2026-08-27"
+  },
+  "epick": {
+   "matched": false
+  }
+ },
+ {
+  "id": "20260719-WA0010",
+  "image": "images/IMG-20260719-WA0010.jpg",
+  "name": "Dwebble",
+  "language": "English",
+  "priority": "high",
+  "set": "Black Bolt",
+  "number": "129",
+  "rarity": "Illustration Rare",
+  "apiId": "zsv10pt5-129",
+  "price": {
+   "trend": 13.53,
+   "avg7": 13.35,
+   "low": 7.5,
+   "currency": "EUR",
+   "source": "cardmarket",
+   "url": "https://prices.pokemontcg.io/cardmarket/zsv10pt5-129",
+   "asOf": "2026-08-27"
+  },
+  "epick": {
+   "matched": false
+  }
+ },
+ {
+  "id": "20260803-WA0004",
+  "image": "images/IMG-20260803-WA0004.jpg",
+  "name": "Marnie's Morpeko",
+  "language": "English",
+  "priority": "high",
+  "set": "Scarlet & Violet Promos",
+  "number": "206",
+  "rarity": "Promo",
+  "apiId": "svp-206",
+  "price": {
+   "trend": 19.1,
+   "avg7": 19.56,
+   "low": 11.0,
+   "currency": "EUR",
+   "source": "cardmarket",
+   "url": "https://prices.pokemontcg.io/cardmarket/svp-206",
+   "asOf": "2026-08-27"
+  },
+  "epick": {
+   "matched": false
+  }
+ },
+ {
+  "id": "20260803-WA0007",
+  "image": "images/IMG-20260803-WA0007.jpg",
+  "name": "Pikachu",
+  "language": "English",
+  "priority": "high",
+  "set": "Scarlet & Violet Black Star Promos",
+  "number": "88",
+  "rarity": "Promo",
+  "apiId": "svp-88",
+  "price": {
+   "trend": 19.31,
+   "avg7": 17.37,
+   "low": 7.0,
+   "currency": "EUR",
+   "source": "cardmarket",
+   "url": "https://prices.pokemontcg.io/cardmarket/svp-88",
+   "asOf": "2026-08-27"
+  },
+  "epick": {
+   "matched": false
+  }
+ },
+ {
+  "id": "20260803-WA0012",
+  "image": "images/IMG-20260803-WA0012.jpg",
+  "name": "Chansey",
+  "language": "English",
+  "priority": "high",
+  "set": "Twilight Masquerade",
+  "number": "187",
+  "rarity": "Illustration Rare",
+  "apiId": "sv6-187",
+  "price": {
+   "trend": 25.58,
+   "avg7": 27.09,
+   "low": 7.97,
+   "currency": "EUR",
+   "source": "cardmarket",
+   "url": "https://prices.pokemontcg.io/cardmarket/sv6-187",
+   "asOf": "2026-08-27"
+  },
+  "epick": {
+   "matched": false
+  }
+ },
+ {
+  "id": "20260827-WA0016",
+  "image": "images/IMG-20260827-WA0016.jpg",
+  "name": "Foongus",
+  "language": "English",
+  "priority": "high",
+  "set": "Black Bolt",
+  "number": "95",
+  "rarity": "Illustration Rare",
+  "apiId": "zsv10pt5-95",
+  "price": {
+   "trend": 6.75,
+   "avg7": 6.71,
+   "low": 4.0,
+   "currency": "EUR",
+   "source": "cardmarket",
+   "url": "https://prices.pokemontcg.io/cardmarket/zsv10pt5-95",
+   "asOf": "2026-08-27"
+  },
+  "epick": {
+   "matched": false
+  }
+ },
+ {
+  "id": "20260827-WA0017",
+  "image": "images/IMG-20260827-WA0017.jpg",
+  "name": "Whimsicott ex",
+  "language": "English",
+  "priority": "high",
+  "set": "White Flare",
+  "number": "165",
+  "rarity": "Special Illustration Rare",
+  "apiId": "rsv10pt5-165",
+  "price": {
+   "trend": 18.59,
+   "avg7": 19.04,
+   "low": 15.0,
+   "currency": "EUR",
+   "source": "cardmarket",
+   "url": "https://prices.pokemontcg.io/cardmarket/rsv10pt5-165",
+   "asOf": "2026-08-27"
+  },
+  "epick": {
+   "matched": false
+  }
+ },
+ {
+  "id": "20260827-WA0018",
+  "image": "images/IMG-20260827-WA0018.jpg",
+  "name": "Maushold",
+  "language": "English",
+  "priority": "high",
+  "set": "Paldea Evolved",
+  "number": "226",
+  "rarity": "Illustration Rare",
+  "apiId": "sv2-226",
+  "price": {
+   "trend": 25.41,
+   "avg7": 26.04,
+   "low": 11.95,
+   "currency": "EUR",
+   "source": "cardmarket",
+   "url": "https://prices.pokemontcg.io/cardmarket/sv2-226",
+   "asOf": "2026-08-27"
+  },
+  "epick": {
+   "matched": false
+  }
+ },
+ {
+  "id": "20260827-WA0019",
+  "image": "images/IMG-20260827-WA0019.jpg",
+  "name": "Dedenne GX",
+  "language": "English",
+  "priority": "high",
+  "set": "Unbroken Bonds",
+  "number": "195",
+  "rarity": "Rare Ultra",
+  "apiId": "sm10-195",
+  "price": {
+   "trend": 10.89,
+   "avg7": 10.94,
+   "low": 2.9,
+   "currency": "EUR",
+   "source": "cardmarket",
+   "url": "https://prices.pokemontcg.io/cardmarket/sm10-195",
+   "asOf": "2026-08-27"
+  },
+  "epick": {
+   "matched": false
+  }
+ },
+ {
+  "id": "20260827-WA0020",
+  "image": "images/IMG-20260827-WA0020.jpg",
+  "name": "Mew",
+  "language": "English",
+  "priority": "high",
+  "set": "Crown Zenith Galarian Gallery",
+  "number": "GG10",
+  "rarity": "Trainer Gallery Rare Holo",
+  "apiId": "swsh12pt5gg-GG10",
+  "price": {
+   "trend": 59.49,
+   "avg7": 63.24,
+   "low": 39.0,
+   "currency": "EUR",
+   "source": "cardmarket",
+   "url": "https://prices.pokemontcg.io/cardmarket/swsh12pt5gg-GG10",
+   "asOf": "2026-08-27"
+  },
+  "epick": {
+   "matched": false
+  }
+ },
+ {
+  "id": "20260827-WA0021",
+  "image": "images/IMG-20260827-WA0021.jpg",
+  "name": "Manaphy",
+  "language": "English",
+  "priority": "high",
+  "set": "XY Black Star Promos",
+  "number": "XY113",
+  "rarity": "Promo",
+  "apiId": "xyp-XY113",
+  "price": {
+   "trend": 27.42,
+   "avg7": 27.28,
+   "low": 4.99,
+   "currency": "EUR",
+   "source": "cardmarket",
+   "url": "https://prices.pokemontcg.io/cardmarket/xyp-XY113",
+   "asOf": "2026-08-27"
+  },
+  "epick": {
+   "matched": false
+  }
+ }
+]
