@@ -1,0 +1,1769 @@
+{
+ "IMG-20260606-WA0018.jpg": {
+  "id": 3128,
+  "name": "Tinkatuff",
+  "name_numbered": "Tinkatuff 217",
+  "slug": "tinkatuff",
+  "card_code_number": "PAL 217",
+  "type": "singles",
+  "card_number": 217,
+  "hp": 90,
+  "rarity": "Illustration Rare",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "sv2-217",
+  "cardmarket_id": 715692,
+  "tcgplayer_id": 497620,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 17.2,
+    "lowest_near_mint_EU_only": 20,
+    "lowest_near_mint_DE": 8.47,
+    "lowest_near_mint_DE_EU_only": 8.47,
+    "lowest_near_mint_FR": 8,
+    "lowest_near_mint_FR_EU_only": 8,
+    "lowest_near_mint_ES": 17,
+    "lowest_near_mint_ES_EU_only": 17,
+    "lowest_near_mint_IT": 6,
+    "lowest_near_mint_IT_EU_only": 6,
+    "30d_average": 13.47,
+    "7d_average": 13.09,
+    "available_items": 213,
+    "graded": {
+     "psa": {
+      "psa8": 40
+     },
+     "cgc": {
+      "cgc9": 24
+     }
+    }
+   },
+   "ebay": {
+    "currency": "USD",
+    "graded": {
+     "ace": {
+      "10": {
+       "median_price": 99.07,
+       "sample_size": 1
+      },
+      "9": {
+       "median_price": 18.08,
+       "sample_size": 4
+      },
+      "8": {
+       "median_price": 10.5,
+       "sample_size": 1
+      }
+     },
+     "bgs": {
+      "9": {
+       "median_price": 22,
+       "sample_size": 1
+      }
+     },
+     "cgc": {
+      "9": {
+       "median_price": 22.1,
+       "sample_size": 2
+      }
+     },
+     "psa": {
+      "10": {
+       "median_price": 154.49,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 23.08,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 20.18,
+       "sample_size": 5
+      },
+      "7": {
+       "median_price": 17.83,
+       "sample_size": 2
+      }
+     },
+     "tag": {
+      "10": {
+       "median_price": 168.33,
+       "sample_size": 3
+      },
+      "8": {
+       "median_price": 18.99,
+       "sample_size": 1
+      }
+     }
+    }
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 28.35,
+    "mid_price": 24.89
+   }
+  },
+  "episode": {
+   "id": 18,
+   "name": "Paldea Evolved",
+   "slug": "paldea-evolved",
+   "released_at": "2023-06-09",
+   "logo": "https://images.tcggo.com/tcggo/storage/2935/paldea-evolved-logo.png",
+   "code": "PAL",
+   "cards_total": 279,
+   "cards_printed_total": 193,
+   "prices": {
+    "cardmarket": {
+     "total": 1208.32,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 1698.61,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 1,
+    "name": "Scarlet & Violet",
+    "slug": "scarlet-violet"
+   }
+  },
+  "artist": {
+   "id": 499,
+   "name": "Tika Matsuno",
+   "slug": "tika-matsuno"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/3142/tinkatuff-pal-217-paldea-evolved-pokemon.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/paldea-evolved/tinkatuff-217",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/3128",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/3128"
+  }
+ },
+ "IMG-20260606-WA0020.jpg": {
+  "id": 3188,
+  "name": "Iono",
+  "name_numbered": "Iono 269",
+  "slug": "iono",
+  "card_code_number": "PAL 269",
+  "type": "singles",
+  "card_number": 269,
+  "hp": 0,
+  "rarity": "Special Illustration Rare",
+  "supertype": "Trainer",
+  "tcgid": "sv2-269",
+  "cardmarket_id": 715744,
+  "tcgplayer_id": 497689,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 32.9,
+    "lowest_near_mint_EU_only": 34.9,
+    "lowest_near_mint_DE": 24.5,
+    "lowest_near_mint_DE_EU_only": 24.5,
+    "lowest_near_mint_FR": 23,
+    "lowest_near_mint_FR_EU_only": 23,
+    "lowest_near_mint_ES": 45,
+    "lowest_near_mint_ES_EU_only": 45,
+    "lowest_near_mint_IT": 15.99,
+    "lowest_near_mint_IT_EU_only": 15.99,
+    "30d_average": 28.77,
+    "7d_average": 27,
+    "available_items": 542,
+    "graded": {
+     "psa": {
+      "psa10": 55,
+      "psa9": 55,
+      "psa8": 55
+     },
+     "cgc": {
+      "cgc9": 44
+     }
+    }
+   },
+   "ebay": {
+    "currency": "USD",
+    "graded": {
+     "ace": {
+      "10": {
+       "median_price": 73,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 37.49,
+       "sample_size": 5
+      }
+     },
+     "bgs": {
+      "9": {
+       "median_price": 37.38,
+       "sample_size": 1
+      }
+     },
+     "cgc": {
+      "10": {
+       "median_price": 82.45,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 43,
+       "sample_size": 3
+      }
+     },
+     "psa": {
+      "10": {
+       "median_price": 125.99,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 38.5,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 38.02,
+       "sample_size": 5
+      },
+      "7": {
+       "median_price": 38.95,
+       "sample_size": 2
+      }
+     },
+     "tag": {
+      "10": {
+       "median_price": 149.99,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 61.49,
+       "sample_size": 2
+      }
+     }
+    }
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 50.68,
+    "mid_price": 49.45
+   }
+  },
+  "episode": {
+   "id": 18,
+   "name": "Paldea Evolved",
+   "slug": "paldea-evolved",
+   "released_at": "2023-06-09",
+   "logo": "https://images.tcggo.com/tcggo/storage/2935/paldea-evolved-logo.png",
+   "code": "PAL",
+   "cards_total": 279,
+   "cards_printed_total": 193,
+   "prices": {
+    "cardmarket": {
+     "total": 1208.32,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 1698.61,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 1,
+    "name": "Scarlet & Violet",
+    "slug": "scarlet-violet"
+   }
+  },
+  "artist": {
+   "id": 512,
+   "name": "kirisAki",
+   "slug": "kirisaki"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/3202/iono-pal-269-paldea-evolved-pokemon.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/paldea-evolved/iono-269",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/3188",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/3188"
+  }
+ },
+ "IMG-20260606-WA0021.jpg": {
+  "id": 3186,
+  "name": "Tinkaton ex",
+  "name_numbered": "Tinkaton ex 262",
+  "slug": "tinkaton-ex",
+  "card_code_number": "PAL 262",
+  "type": "singles",
+  "card_number": 262,
+  "hp": 300,
+  "rarity": "Special Illustration Rare",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "sv2-262",
+  "cardmarket_id": 715737,
+  "tcgplayer_id": 497681,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 28.9,
+    "lowest_near_mint_EU_only": 28.9,
+    "lowest_near_mint_DE": 19.95,
+    "lowest_near_mint_DE_EU_only": 19.95,
+    "lowest_near_mint_FR": 17,
+    "lowest_near_mint_FR_EU_only": 18,
+    "lowest_near_mint_ES": 34,
+    "lowest_near_mint_ES_EU_only": 34,
+    "lowest_near_mint_IT": 13,
+    "lowest_near_mint_IT_EU_only": 13,
+    "30d_average": 24.3,
+    "7d_average": 32.48,
+    "available_items": 199,
+    "graded": {
+     "psa": {
+      "psa10": 267,
+      "psa9": 75
+     },
+     "bgs": {
+      "bgs9": 79
+     }
+    }
+   },
+   "ebay": {
+    "currency": "USD",
+    "graded": {
+     "ace": {
+      "10": {
+       "median_price": 68.97,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 34.33,
+       "sample_size": 4
+      }
+     },
+     "cgc": {
+      "10": {
+       "median_price": 63.18,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 44.72,
+       "sample_size": 4
+      },
+      "7": {
+       "median_price": 24.5,
+       "sample_size": 1
+      }
+     },
+     "psa": {
+      "10": {
+       "median_price": 182.13,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 49.06,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 42,
+       "sample_size": 3
+      }
+     },
+     "sgc": {
+      "10": {
+       "median_price": 89.21,
+       "sample_size": 1
+      }
+     },
+     "tag": {
+      "10": {
+       "median_price": 132.47,
+       "sample_size": 4
+      },
+      "9": {
+       "median_price": 39.34,
+       "sample_size": 1
+      }
+     }
+    }
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 49.38,
+    "mid_price": 36.09
+   }
+  },
+  "episode": {
+   "id": 18,
+   "name": "Paldea Evolved",
+   "slug": "paldea-evolved",
+   "released_at": "2023-06-09",
+   "logo": "https://images.tcggo.com/tcggo/storage/2935/paldea-evolved-logo.png",
+   "code": "PAL",
+   "cards_total": 279,
+   "cards_printed_total": 193,
+   "prices": {
+    "cardmarket": {
+     "total": 1208.32,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 1698.61,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 1,
+    "name": "Scarlet & Violet",
+    "slug": "scarlet-violet"
+   }
+  },
+  "artist": {
+   "id": 499,
+   "name": "Tika Matsuno",
+   "slug": "tika-matsuno"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/3200/tinkaton-ex-pal-262-paldea-evolved-pokemon.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/paldea-evolved/tinkaton-ex-262",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/3186",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/3186"
+  }
+ },
+ "IMG-20260606-WA0024.jpg": {
+  "id": 22060,
+  "name": "Lillie's Clefairy ex",
+  "name_numbered": "Lillie's Clefairy ex 184",
+  "slug": "lillies-clefairy-ex",
+  "card_code_number": "JTG 184",
+  "type": "singles",
+  "card_number": 184,
+  "hp": 190,
+  "rarity": "Special Illustration Rare",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "sv9-184",
+  "cardmarket_id": 817337,
+  "tcgplayer_id": 623611,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 109.25,
+    "lowest_near_mint_EU_only": 109.25,
+    "lowest_near_mint_DE": 80,
+    "lowest_near_mint_DE_EU_only": 80,
+    "lowest_near_mint_FR": 105,
+    "lowest_near_mint_FR_EU_only": 105,
+    "lowest_near_mint_ES": 92.94,
+    "lowest_near_mint_ES_EU_only": 92.94,
+    "lowest_near_mint_IT": 60,
+    "lowest_near_mint_IT_EU_only": 60,
+    "30d_average": 100.23,
+    "7d_average": 101.52,
+    "available_items": 468,
+    "graded": {
+     "psa": {
+      "psa10": 475,
+      "psa9": 130
+     },
+     "bgs": {
+      "bgs9": 150,
+      "bgs8": 210
+     },
+     "cgc": {
+      "cgc10": 550,
+      "cgc9": 155
+     }
+    }
+   },
+   "ebay": {
+    "currency": "USD",
+    "graded": {
+     "ace": {
+      "10": {
+       "median_price": 178.73,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 98.75,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 88.42,
+       "sample_size": 1
+      },
+      "7": {
+       "median_price": 123.66,
+       "sample_size": 1
+      }
+     },
+     "bgs": {
+      "10": {
+       "median_price": 581.39,
+       "sample_size": 1
+      },
+      "9": {
+       "median_price": 116.1,
+       "sample_size": 2
+      },
+      "8": {
+       "median_price": 160,
+       "sample_size": 1
+      }
+     },
+     "cgc": {
+      "10": {
+       "median_price": 153.26,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 126.85,
+       "sample_size": 4
+      },
+      "8": {
+       "median_price": 83.17,
+       "sample_size": 2
+      }
+     },
+     "psa": {
+      "10": {
+       "median_price": 321.47,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 115.72,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 98.64,
+       "sample_size": 5
+      },
+      "7": {
+       "median_price": 88.89,
+       "sample_size": 2
+      }
+     },
+     "tag": {
+      "10": {
+       "median_price": 353.75,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 150,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 108.55,
+       "sample_size": 1
+      }
+     }
+    }
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 89.37,
+    "mid_price": 123.93
+   }
+  },
+  "episode": {
+   "id": 220,
+   "name": "Journey Together",
+   "slug": "journey-together",
+   "released_at": "2025-03-28",
+   "logo": "https://images.tcggo.com/tcggo/storage/38753/jtg_logo.png",
+   "code": "JTG",
+   "cards_total": 190,
+   "cards_printed_total": 159,
+   "prices": {
+    "cardmarket": {
+     "total": 421.15,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 444.39,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 1,
+    "name": "Scarlet & Violet",
+    "slug": "scarlet-violet"
+   }
+  },
+  "artist": {
+   "id": 452,
+   "name": "Susumu Maeya",
+   "slug": "susumu-maeya"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/22086/lillies-clefairy-ex-jtg-184-journey-together.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/journey-together/lillies-clefairy-ex-184",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/22060",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/22060"
+  }
+ },
+ "IMG-20260606-WA0033.jpg": {
+  "id": 3406,
+  "name": "Pawmot",
+  "name_numbered": "Pawmot 209",
+  "slug": "pawmot",
+  "card_code_number": "SVI 209",
+  "type": "singles",
+  "card_number": 209,
+  "hp": 130,
+  "rarity": "Illustration Rare",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "sv1-209",
+  "cardmarket_id": 702505,
+  "tcgplayer_id": 490069,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 7.9,
+    "lowest_near_mint_EU_only": 7.9,
+    "lowest_near_mint_DE": 5.5,
+    "lowest_near_mint_DE_EU_only": 5.5,
+    "lowest_near_mint_FR": 6.5,
+    "lowest_near_mint_FR_EU_only": 6.5,
+    "lowest_near_mint_ES": 9.89,
+    "lowest_near_mint_ES_EU_only": 9.89,
+    "lowest_near_mint_IT": 2,
+    "lowest_near_mint_IT_EU_only": 2,
+    "30d_average": 6.75,
+    "7d_average": 7.11,
+    "available_items": 304,
+    "graded": []
+   },
+   "ebay": {
+    "currency": "USD",
+    "graded": {
+     "ace": {
+      "9": {
+       "median_price": 12.84,
+       "sample_size": 2
+      }
+     },
+     "cgc": {
+      "10": {
+       "median_price": 40.48,
+       "sample_size": 4
+      }
+     },
+     "psa": {
+      "10": {
+       "median_price": 156.06,
+       "sample_size": 3
+      },
+      "9": {
+       "median_price": 16.35,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 12.27,
+       "sample_size": 4
+      }
+     }
+    }
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 10.19,
+    "mid_price": 6.06
+   }
+  },
+  "episode": {
+   "id": 19,
+   "name": "Scarlet & Violet",
+   "slug": "scarlet-violet",
+   "released_at": "2023-03-31",
+   "logo": "https://images.tcggo.com/tcggo/storage/3214/scarlet-violet-logo.png",
+   "code": "SVI",
+   "cards_total": 258,
+   "cards_printed_total": 198,
+   "prices": {
+    "cardmarket": {
+     "total": 527.05,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 678.81,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 1,
+    "name": "Scarlet & Violet",
+    "slug": "scarlet-violet"
+   }
+  },
+  "artist": {
+   "id": 378,
+   "name": "Kouki Saitou",
+   "slug": "kouki-saitou"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/3422/pawmot-svi-209-scarlet-violet-pokemon.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/scarlet-violet/pawmot-209",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/3406",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/3406"
+  }
+ },
+ "IMG-20260606-WA0038.jpg": {
+  "id": 35115,
+  "name": "Froakie",
+  "name_numbered": "Froakie 88",
+  "slug": "froakie",
+  "card_code_number": "CRI 88",
+  "type": "singles",
+  "card_number": 88,
+  "hp": null,
+  "rarity": "Illustration Rare",
+  "supertype": null,
+  "tcgid": "CRI-88",
+  "cardmarket_id": 886480,
+  "tcgplayer_id": 693489,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 7.49,
+    "lowest_near_mint_EU_only": 7.49,
+    "lowest_near_mint_DE": 5.9,
+    "lowest_near_mint_DE_EU_only": 5.9,
+    "lowest_near_mint_FR": 7.5,
+    "lowest_near_mint_FR_EU_only": 9,
+    "lowest_near_mint_ES": 8.7,
+    "lowest_near_mint_ES_EU_only": 8.7,
+    "lowest_near_mint_IT": 5.5,
+    "lowest_near_mint_IT_EU_only": 5.5,
+    "30d_average": 8.86,
+    "7d_average": 7.99,
+    "available_items": 1322,
+    "graded": []
+   },
+   "ebay": {
+    "currency": "USD",
+    "graded": {
+     "psa": {
+      "10": {
+       "median_price": 26.62,
+       "sample_size": 1
+      }
+     }
+    }
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 7.23
+   }
+  },
+  "episode": {
+   "id": 413,
+   "name": "Chaos Rising",
+   "slug": "chaos-rising",
+   "released_at": "2026-05-22",
+   "logo": "https://images.tcggo.com/tcggo/storage/33952/Chaos-Rising.logo.431.webp",
+   "code": "CRI",
+   "cards_total": 122,
+   "cards_printed_total": 86,
+   "prices": {
+    "cardmarket": {
+     "total": 594.32,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 558.26,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 17,
+    "name": "Mega Evolution",
+    "slug": "mega-evolution"
+   }
+  },
+  "artist": {
+   "id": 452,
+   "name": "Susumu Maeya",
+   "slug": "susumu-maeya"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/35938/froakie.webp",
+  "tcggo_url": "https://www.tcggo.com/pokemon/chaos-rising/froakie-88",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/35115",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/35115"
+  }
+ },
+ "IMG-20260827-WA0028.jpg": {
+  "id": 22038,
+  "name": "Wailord",
+  "name_numbered": "Wailord 162",
+  "slug": "wailord",
+  "card_code_number": "JTG 162",
+  "type": "singles",
+  "card_number": 162,
+  "hp": 240,
+  "rarity": "Illustration Rare",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "sv9-162",
+  "cardmarket_id": 817314,
+  "tcgplayer_id": 623589,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 11,
+    "lowest_near_mint_EU_only": 11,
+    "lowest_near_mint_DE": 7.4,
+    "lowest_near_mint_DE_EU_only": 7.4,
+    "lowest_near_mint_FR": 14.9,
+    "lowest_near_mint_FR_EU_only": 14.9,
+    "lowest_near_mint_ES": 10,
+    "lowest_near_mint_ES_EU_only": 10,
+    "lowest_near_mint_IT": 6.98,
+    "lowest_near_mint_IT_EU_only": 6.98,
+    "30d_average": 12.95,
+    "7d_average": 14.12,
+    "available_items": 884,
+    "graded": {
+     "psa": {
+      "psa10": 174,
+      "psa9": 35
+     },
+     "bgs": {
+      "bgs9": 40
+     },
+     "cgc": {
+      "cgc10": 350
+     }
+    }
+   },
+   "ebay": {
+    "currency": "USD",
+    "graded": {
+     "ace": {
+      "10": {
+       "median_price": 54.97,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 25.29,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 17.73,
+       "sample_size": 1
+      }
+     },
+     "bgs": {
+      "9": {
+       "median_price": 15.98,
+       "sample_size": 1
+      }
+     },
+     "cgc": {
+      "10": {
+       "median_price": 47.16,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 17.69,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 7.06,
+       "sample_size": 1
+      }
+     },
+     "psa": {
+      "10": {
+       "median_price": 137.53,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 23.88,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 17.69,
+       "sample_size": 5
+      },
+      "7": {
+       "median_price": 13.01,
+       "sample_size": 5
+      }
+     },
+     "tag": {
+      "10": {
+       "median_price": 132.69,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 26.54,
+       "sample_size": 5
+      },
+      "7": {
+       "median_price": 9.5,
+       "sample_size": 1
+      }
+     }
+    }
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 13.33,
+    "mid_price": 11.11
+   }
+  },
+  "episode": {
+   "id": 220,
+   "name": "Journey Together",
+   "slug": "journey-together",
+   "released_at": "2025-03-28",
+   "logo": "https://images.tcggo.com/tcggo/storage/38753/jtg_logo.png",
+   "code": "JTG",
+   "cards_total": 190,
+   "cards_printed_total": 159,
+   "prices": {
+    "cardmarket": {
+     "total": 421.15,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 444.39,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 1,
+    "name": "Scarlet & Violet",
+    "slug": "scarlet-violet"
+   }
+  },
+  "artist": {
+   "id": 367,
+   "name": "Katsunori Sato",
+   "slug": "katsunori-sato"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/22064/wailord-jtg-162-journey-together.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/journey-together/wailord-162",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/22038",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/22038"
+  }
+ },
+ "IMG-20260827-WA0029.jpg": {
+  "id": 22270,
+  "name": "Misty's Lapras",
+  "name_numbered": "Misty's Lapras 194",
+  "slug": "mistys-lapras",
+  "card_code_number": "DRI 194",
+  "type": "singles",
+  "card_number": 194,
+  "hp": 110,
+  "rarity": "Illustration Rare",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "sv10-194",
+  "cardmarket_id": 826068,
+  "tcgplayer_id": 632994,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 29.07,
+    "lowest_near_mint_EU_only": 30,
+    "lowest_near_mint_DE": 22,
+    "lowest_near_mint_DE_EU_only": 22,
+    "lowest_near_mint_FR": 29,
+    "lowest_near_mint_FR_EU_only": 29,
+    "lowest_near_mint_ES": 19.75,
+    "lowest_near_mint_ES_EU_only": 19.75,
+    "lowest_near_mint_IT": 11.49,
+    "lowest_near_mint_IT_EU_only": 11.49,
+    "30d_average": 26.23,
+    "7d_average": 24.84,
+    "available_items": 687,
+    "graded": {
+     "psa": {
+      "psa10": 369,
+      "psa9": 60,
+      "psa8": 50
+     }
+    }
+   },
+   "ebay": {
+    "currency": "USD",
+    "graded": {
+     "ace": {
+      "10": {
+       "median_price": 91.52,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 32,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 25.38,
+       "sample_size": 5
+      }
+     },
+     "bgs": {
+      "9": {
+       "median_price": 37.2,
+       "sample_size": 4
+      }
+     },
+     "cgc": {
+      "10": {
+       "median_price": 111.77,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 26.8,
+       "sample_size": 5
+      }
+     },
+     "psa": {
+      "10": {
+       "median_price": 238.25,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 37.74,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 26.8,
+       "sample_size": 5
+      },
+      "7": {
+       "median_price": 26.84,
+       "sample_size": 5
+      }
+     },
+     "tag": {
+      "10": {
+       "median_price": 214.43,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 59.23,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 26.06,
+       "sample_size": 3
+      }
+     }
+    }
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 26,
+    "mid_price": 25.71
+   }
+  },
+  "episode": {
+   "id": 221,
+   "name": "Destined Rivals",
+   "slug": "destined-rivals",
+   "released_at": "2025-05-30",
+   "logo": "https://images.tcggo.com/tcggo/storage/22104/destined-rivals-logo.png",
+   "code": "DRI",
+   "cards_total": 244,
+   "cards_printed_total": 182,
+   "prices": {
+    "cardmarket": {
+     "total": 1612.48,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 1588.92,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 1,
+    "name": "Scarlet & Violet",
+    "slug": "scarlet-violet"
+   }
+  },
+  "artist": {
+   "id": 365,
+   "name": "Orca",
+   "slug": "orca"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/22299/mistys-lapras-dri-194-destined-rivals.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/destined-rivals/mistys-lapras-194",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/22270",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/22270"
+  }
+ },
+ "IMG-20260827-WA0030.jpg": {
+  "id": 1713,
+  "name": "Applin",
+  "name_numbered": "Applin 185",
+  "slug": "applin",
+  "card_code_number": "TWM 185",
+  "type": "singles",
+  "card_number": 185,
+  "hp": 40,
+  "rarity": "Illustration Rare",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "sv6-185",
+  "cardmarket_id": 769359,
+  "tcgplayer_id": 550229,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 4,
+    "lowest_near_mint_EU_only": 4,
+    "lowest_near_mint_DE": 6.1,
+    "lowest_near_mint_DE_EU_only": 6.1,
+    "lowest_near_mint_FR": 5,
+    "lowest_near_mint_FR_EU_only": 5,
+    "lowest_near_mint_ES": 3.7,
+    "lowest_near_mint_ES_EU_only": 3.7,
+    "lowest_near_mint_IT": 2.99,
+    "lowest_near_mint_IT_EU_only": 2.99,
+    "30d_average": 6.94,
+    "7d_average": 6.58,
+    "available_items": 238,
+    "graded": {
+     "psa": {
+      "psa10": 75,
+      "psa9": 30
+     }
+    }
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 11.56,
+    "mid_price": 6.51
+   }
+  },
+  "episode": {
+   "id": 12,
+   "name": "Twilight Masquerade",
+   "slug": "twilight-masquerade",
+   "released_at": "2024-05-24",
+   "logo": "https://images.tcggo.com/tcggo/storage/1535/twilight-masquerade-logo.png",
+   "code": "TWM",
+   "cards_total": 226,
+   "cards_printed_total": 167,
+   "prices": {
+    "cardmarket": {
+     "total": 945.26,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 1181.37,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 1,
+    "name": "Scarlet & Violet",
+    "slug": "scarlet-violet"
+   }
+  },
+  "artist": {
+   "id": 367,
+   "name": "Katsunori Sato",
+   "slug": "katsunori-sato"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/1721/applin-twm-185-twilight-masquerade-pokemon.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/twilight-masquerade/applin-185",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/1713",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/1713"
+  }
+ },
+ "IMG-20260606-WA0045.jpg": {
+  "id": 6032,
+  "name": "Pok\u00e9 Kid",
+  "name_numbered": "Pok\u00e9 Kid 70",
+  "slug": "poke-kid",
+  "card_code_number": "SHF 70",
+  "type": "singles",
+  "card_number": 70,
+  "hp": 0,
+  "rarity": "Rare Ultra",
+  "supertype": "Trainer",
+  "tcgid": "swsh45-70",
+  "cardmarket_id": 539373,
+  "tcgplayer_id": 232531,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 5.95,
+    "lowest_near_mint_EU_only": 5.95,
+    "lowest_near_mint_DE": 7.9,
+    "lowest_near_mint_DE_EU_only": 7.9,
+    "lowest_near_mint_FR": 8.4,
+    "lowest_near_mint_FR_EU_only": 8.4,
+    "lowest_near_mint_ES": 13,
+    "lowest_near_mint_ES_EU_only": 13,
+    "lowest_near_mint_IT": 3.8,
+    "lowest_near_mint_IT_EU_only": 3.8,
+    "30d_average": 8.08,
+    "7d_average": 8.03,
+    "available_items": 200,
+    "graded": {
+     "psa": {
+      "psa10": 150,
+      "psa9": 60
+     }
+    }
+   },
+   "ebay": {
+    "currency": "USD",
+    "graded": {
+     "cgc": {
+      "9": {
+       "median_price": 14.49,
+       "sample_size": 3
+      }
+     },
+     "psa": {
+      "10": {
+       "median_price": 98.78,
+       "sample_size": 2
+      },
+      "7": {
+       "median_price": 10.5,
+       "sample_size": 1
+      }
+     },
+     "tag": {
+      "9": {
+       "median_price": 25,
+       "sample_size": 1
+      }
+     }
+    }
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 8.32,
+    "mid_price": 7.21
+   }
+  },
+  "episode": {
+   "id": 40,
+   "name": "Shining Fates",
+   "slug": "shining-fates",
+   "released_at": "2021-02-19",
+   "logo": "https://images.tcggo.com/tcggo/storage/5947/shining-fates-logo.png",
+   "code": "SHF",
+   "cards_total": 73,
+   "cards_printed_total": 72,
+   "prices": {
+    "cardmarket": {
+     "total": 398.58,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 500.12,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 2,
+    "name": "Sword & Shield",
+    "slug": "sword-shield"
+   }
+  },
+  "artist": {
+   "id": 379,
+   "name": "Sanosuke Sakuma",
+   "slug": "sanosuke-sakuma"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/6082/poke-kid-shf-70-shining-fates-pokemon.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/shining-fates/poke-kid-70",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/6032",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/6032"
+  }
+ },
+ "IMG-20260606-WA0046.jpg": {
+  "id": 8010,
+  "name": "Mega Sableye & Tyranitar-GX",
+  "name_numbered": "Mega Sableye & Tyranitar-GX 226",
+  "slug": "mega-sableye-tyranitar-gx",
+  "card_code_number": "UNM 226",
+  "type": "singles",
+  "card_number": 226,
+  "hp": 280,
+  "rarity": "Rare Ultra",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "sm11-226",
+  "cardmarket_id": 388917,
+  "tcgplayer_id": 195290,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 264.25,
+    "lowest_near_mint_EU_only": 275,
+    "lowest_near_mint_DE": 164.99,
+    "lowest_near_mint_DE_EU_only": 164.99,
+    "lowest_near_mint_FR": 130,
+    "lowest_near_mint_FR_EU_only": 130,
+    "lowest_near_mint_ES": null,
+    "lowest_near_mint_ES_EU_only": null,
+    "lowest_near_mint_IT": 159.99,
+    "lowest_near_mint_IT_EU_only": 159.99,
+    "30d_average": 304.09,
+    "7d_average": 176.87,
+    "available_items": 125,
+    "graded": {
+     "psa": {
+      "psa10": 2099,
+      "psa9": 400
+     }
+    }
+   },
+   "ebay": {
+    "currency": "USD",
+    "graded": {
+     "ace": {
+      "10": {
+       "median_price": 408.18,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 248.28,
+       "sample_size": 4
+      }
+     },
+     "cgc": {
+      "10": {
+       "median_price": 456.04,
+       "sample_size": 3
+      }
+     },
+     "psa": {
+      "10": {
+       "median_price": 1569.75,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 358.85,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 224.64,
+       "sample_size": 5
+      },
+      "7": {
+       "median_price": 30.65,
+       "sample_size": 1
+      }
+     },
+     "tag": {
+      "10": {
+       "median_price": 1861.55,
+       "sample_size": 2
+      },
+      "9": {
+       "median_price": 246.36,
+       "sample_size": 1
+      }
+     }
+    }
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 328.8,
+    "mid_price": 330.36
+   }
+  },
+  "episode": {
+   "id": 54,
+   "name": "Unified Minds",
+   "slug": "unified-minds",
+   "released_at": "2019-08-02",
+   "logo": "https://images.tcggo.com/tcggo/storage/7857/unified-minds-logo.png",
+   "code": "UNM",
+   "cards_total": 260,
+   "cards_printed_total": 236,
+   "prices": {
+    "cardmarket": {
+     "total": 3552.93,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 4110.27,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 4,
+    "name": "Sun & Moon",
+    "slug": "sun-moon"
+   }
+  },
+  "artist": {
+   "id": 500,
+   "name": "chibi",
+   "slug": "chibi"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/8086/mega-sableye-tyranitar-gx-unm-226-unified-minds-pokemon.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/unified-minds/mega-sableye-tyranitar-gx-226",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/8010",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/8010"
+  }
+ },
+ "IMG-20260606-WA0047.jpg": {
+  "id": 8009,
+  "name": "Mega Sableye & Tyranitar-GX",
+  "name_numbered": "Mega Sableye & Tyranitar-GX 225",
+  "slug": "mega-sableye-tyranitar-gx",
+  "card_code_number": "UNM 225",
+  "type": "singles",
+  "card_number": 225,
+  "hp": 280,
+  "rarity": "Rare Ultra",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "sm11-225",
+  "cardmarket_id": 388912,
+  "tcgplayer_id": 195089,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 35,
+    "lowest_near_mint_EU_only": 35,
+    "lowest_near_mint_DE": 25,
+    "lowest_near_mint_DE_EU_only": 25,
+    "lowest_near_mint_FR": 39,
+    "lowest_near_mint_FR_EU_only": 39,
+    "lowest_near_mint_ES": 50,
+    "lowest_near_mint_ES_EU_only": 50,
+    "lowest_near_mint_IT": 14.99,
+    "lowest_near_mint_IT_EU_only": 14.99,
+    "30d_average": 31,
+    "7d_average": 26.18,
+    "available_items": 92,
+    "graded": {
+     "psa": {
+      "psa10": 299,
+      "psa9": 89
+     }
+    }
+   },
+   "ebay": {
+    "currency": "USD",
+    "graded": {
+     "cgc": {
+      "10": {
+       "median_price": 111.5,
+       "sample_size": 1
+      },
+      "9": {
+       "median_price": 46.15,
+       "sample_size": 2
+      }
+     },
+     "psa": {
+      "10": {
+       "median_price": 195.25,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 65.96,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 47.08,
+       "sample_size": 2
+      }
+     },
+     "sgc": {
+      "9": {
+       "median_price": 26.39,
+       "sample_size": 1
+      }
+     },
+     "tag": {
+      "9": {
+       "median_price": 37.17,
+       "sample_size": 1
+      }
+     }
+    }
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 39.68,
+    "mid_price": 41.02
+   }
+  },
+  "episode": {
+   "id": 54,
+   "name": "Unified Minds",
+   "slug": "unified-minds",
+   "released_at": "2019-08-02",
+   "logo": "https://images.tcggo.com/tcggo/storage/7857/unified-minds-logo.png",
+   "code": "UNM",
+   "cards_total": 260,
+   "cards_printed_total": 236,
+   "prices": {
+    "cardmarket": {
+     "total": 3552.93,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 4110.27,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 4,
+    "name": "Sun & Moon",
+    "slug": "sun-moon"
+   }
+  },
+  "artist": {
+   "id": 380,
+   "name": "5ban Graphics",
+   "slug": "5ban-graphics"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/8085/mega-sableye-tyranitar-gx-unm-225-unified-minds-pokemon.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/unified-minds/mega-sableye-tyranitar-gx-225",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/8009",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/8009"
+  }
+ },
+ "IMG-20260606-WA0051.jpg": {
+  "tcgid": "g1-RC28",
+  "name": "Flareon-EX",
+  "card_code_number": "G1 RC28",
+  "card_number": "RC28",
+  "set": {
+   "name": "Generations"
+  },
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 25.0,
+    "7d_average": 79.21,
+    "30d_average": 72.19
+   }
+  },
+  "links": {
+   "cardmarket": "https://prices.pokemontcg.io/cardmarket/g1-RC28"
+  },
+  "_fallback": "pokemontcg.io"
+ },
+ "IMG-20260606-WA0035.jpg": {
+  "tcgid": "zsv10pt5-91",
+  "name": "Petilil",
+  "card_code_number": "Black Bolt 91",
+  "card_number": "91",
+  "set": {
+   "name": "Black Bolt"
+  },
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 1.99,
+    "7d_average": 6.59,
+    "30d_average": 6.42
+   }
+  },
+  "links": {
+   "cardmarket": "https://prices.pokemontcg.io/cardmarket/zsv10pt5-91"
+  },
+  "_fallback": "pokemontcg.io"
+ },
+ "IMG-20260606-WA0041.jpg": {
+  "tcgid": "sm11-239",
+  "name": "Slowpoke & Psyduck-GX",
+  "card_code_number": "Unified Minds 239",
+  "card_number": "239",
+  "set": {
+   "name": "Unified Minds"
+  },
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 19.91,
+    "7d_average": 61.91,
+    "30d_average": 51.18
+   }
+  },
+  "links": {
+   "cardmarket": "https://prices.pokemontcg.io/cardmarket/sm11-239"
+  },
+  "_fallback": "pokemontcg.io"
+ },
+ "IMG-20260606-WA0043.jpg": {
+  "tcgid": "sv8-152",
+  "name": "Rufflet",
+  "card_code_number": "Surging Sparks 152",
+  "card_number": "152",
+  "set": {
+   "name": "Surging Sparks"
+  },
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 0.02,
+    "7d_average": 0.02,
+    "30d_average": 0.02
+   }
+  },
+  "links": {
+   "cardmarket": "https://prices.pokemontcg.io/cardmarket/sv8-152"
+  },
+  "_fallback": "pokemontcg.io"
+ },
+ "IMG-20260606-WA0058.jpg": {
+  "tcgid": "g1-RC23",
+  "name": "Swablu",
+  "card_code_number": "Generations RC23",
+  "card_number": "RC23",
+  "set": {
+   "name": "Generations"
+  },
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 0.15,
+    "7d_average": 0.83,
+    "30d_average": 1.06
+   }
+  },
+  "links": {
+   "cardmarket": "https://prices.pokemontcg.io/cardmarket/g1-RC23"
+  },
+  "_fallback": "pokemontcg.io"
+ },
+ "IMG-20260606-WA0060.jpg": {
+  "tcgid": "g1-RC32",
+  "name": "Sylveon-EX",
+  "card_code_number": "Generations RC32",
+  "card_number": "RC32",
+  "set": {
+   "name": "Generations"
+  },
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 25.0,
+    "7d_average": 82.27,
+    "30d_average": 70.79
+   }
+  },
+  "links": {
+   "cardmarket": "https://prices.pokemontcg.io/cardmarket/g1-RC32"
+  },
+  "_fallback": "pokemontcg.io"
+ },
+ "IMG-20260606-WA0065.jpg": {
+  "tcgid": "zsv10pt5-13",
+  "name": "Darumaka",
+  "card_code_number": "Black Bolt 13",
+  "card_number": "13",
+  "set": {
+   "name": "Black Bolt"
+  },
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 0.02,
+    "7d_average": 0.02,
+    "30d_average": 0.02
+   }
+  },
+  "links": {
+   "cardmarket": "https://prices.pokemontcg.io/cardmarket/zsv10pt5-13"
+  },
+  "_fallback": "pokemontcg.io"
+ },
+ "IMG-20260629-WA0021.jpg": {
+  "tcgid": "swsh12pt5gg-GG19",
+  "name": "Altaria",
+  "card_code_number": "Crown Zenith GG GG19",
+  "card_number": "GG19",
+  "set": {
+   "name": "Crown Zenith GG"
+  },
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 0.94,
+    "7d_average": 7.67,
+    "30d_average": 7.87
+   }
+  },
+  "links": {
+   "cardmarket": "https://prices.pokemontcg.io/cardmarket/swsh12pt5gg-GG19"
+  },
+  "_fallback": "pokemontcg.io"
+ },
+ "IMG-20260606-WA0055.jpg": {
+  "tcgid": "g1-RC29",
+  "name": "Pikachu",
+  "card_code_number": "Generations RC29",
+  "card_number": "RC29",
+  "set": {
+   "name": "Generations"
+  },
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 18.85,
+    "7d_average": 54.0,
+    "30d_average": 59.62
+   }
+  },
+  "links": {
+   "cardmarket": "https://prices.pokemontcg.io/cardmarket/g1-RC29"
+  },
+  "_fallback": "pokemontcg.io"
+ }
+}
