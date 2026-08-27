@@ -1,0 +1,313 @@
+[
+ {
+  "id": 20967,
+  "name": "Lisia's Appeal",
+  "name_numbered": "Lisia's Appeal 179",
+  "slug": "lisias-appeal",
+  "card_code_number": "SSP 179",
+  "type": "singles",
+  "card_number": 179,
+  "hp": 0,
+  "rarity": "Uncommon",
+  "supertype": "Trainer",
+  "tcgid": "sv8-179",
+  "cardmarket_id": 794552,
+  "tcgplayer_id": 589988,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 0.02,
+    "lowest_near_mint_EU_only": 0.02,
+    "lowest_near_mint_DE": 0.02,
+    "lowest_near_mint_DE_EU_only": 0.02,
+    "lowest_near_mint_FR": 0.02,
+    "lowest_near_mint_FR_EU_only": 0.02,
+    "lowest_near_mint_ES": 0.02,
+    "lowest_near_mint_ES_EU_only": 0.02,
+    "lowest_near_mint_IT": 0.02,
+    "lowest_near_mint_IT_EU_only": 0.02,
+    "30d_average": 0.04,
+    "7d_average": 0.03,
+    "available_items": 11637,
+    "graded": []
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 0.26,
+    "mid_price": 0.13
+   }
+  },
+  "episode": {
+   "id": 172,
+   "name": "Surging Sparks",
+   "slug": "surging-sparks",
+   "released_at": "2024-11-08",
+   "logo": "https://images.tcggo.com/tcggo/storage/20954/surging-sparks-logo.png",
+   "code": "SSP",
+   "cards_total": 252,
+   "cards_printed_total": 191,
+   "prices": {
+    "cardmarket": {
+     "total": 1079.98,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 1092.35,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 1,
+    "name": "Scarlet & Violet",
+    "slug": "scarlet-violet"
+   }
+  },
+  "artist": {
+   "id": 477,
+   "name": "En Morikura",
+   "slug": "en-morikura"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/21132/lisias-appeal-ssp-179-surging-sparks.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/surging-sparks/lisias-appeal-179",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/20967",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/20967"
+  }
+ },
+ {
+  "id": 21022,
+  "name": "Lisia's Appeal",
+  "name_numbered": "Lisia's Appeal 234",
+  "slug": "lisias-appeal",
+  "card_code_number": "SSP 234",
+  "type": "singles",
+  "card_number": 234,
+  "hp": 0,
+  "rarity": "Ultra Rare",
+  "supertype": "Trainer",
+  "tcgid": "sv8-234",
+  "cardmarket_id": 794607,
+  "tcgplayer_id": 589989,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 3,
+    "lowest_near_mint_EU_only": 3,
+    "lowest_near_mint_DE": 1.75,
+    "lowest_near_mint_DE_EU_only": 1.75,
+    "lowest_near_mint_FR": 2.75,
+    "lowest_near_mint_FR_EU_only": 2.75,
+    "lowest_near_mint_ES": 4,
+    "lowest_near_mint_ES_EU_only": 4,
+    "lowest_near_mint_IT": 0.7,
+    "lowest_near_mint_IT_EU_only": 0.7,
+    "30d_average": 3.87,
+    "7d_average": 5.1,
+    "available_items": 590,
+    "graded": []
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 3.5,
+    "mid_price": 2.97
+   }
+  },
+  "episode": {
+   "id": 172,
+   "name": "Surging Sparks",
+   "slug": "surging-sparks",
+   "released_at": "2024-11-08",
+   "logo": "https://images.tcggo.com/tcggo/storage/20954/surging-sparks-logo.png",
+   "code": "SSP",
+   "cards_total": 252,
+   "cards_printed_total": 191,
+   "prices": {
+    "cardmarket": {
+     "total": 1079.98,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 1092.35,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 1,
+    "name": "Scarlet & Violet",
+    "slug": "scarlet-violet"
+   }
+  },
+  "artist": {
+   "id": 477,
+   "name": "En Morikura",
+   "slug": "en-morikura"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/21184/lisias-appeal-ssp-234-surging-sparks.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/surging-sparks/lisias-appeal-234",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/21022",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/21022"
+  }
+ },
+ {
+  "id": 21034,
+  "name": "Lisia's Appeal",
+  "name_numbered": "Lisia's Appeal 246",
+  "slug": "lisias-appeal",
+  "card_code_number": "SSP 246",
+  "type": "singles",
+  "card_number": 246,
+  "hp": 0,
+  "rarity": "Special Illustration Rare",
+  "supertype": "Trainer",
+  "tcgid": "sv8-246",
+  "cardmarket_id": 794619,
+  "tcgplayer_id": 589990,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 26,
+    "lowest_near_mint_EU_only": 26,
+    "lowest_near_mint_DE": 21,
+    "lowest_near_mint_DE_EU_only": 21,
+    "lowest_near_mint_FR": 39.5,
+    "lowest_near_mint_FR_EU_only": 39.5,
+    "lowest_near_mint_ES": 19.99,
+    "lowest_near_mint_ES_EU_only": 19.99,
+    "lowest_near_mint_IT": 15,
+    "lowest_near_mint_IT_EU_only": 15,
+    "30d_average": 25.61,
+    "7d_average": 26.87,
+    "available_items": 337,
+    "graded": {
+     "psa": {
+      "psa10": 119,
+      "psa9": 39,
+      "psa8": 40
+     },
+     "bgs": {
+      "bgs9": 60
+     }
+    }
+   },
+   "ebay": {
+    "currency": "USD",
+    "graded": {
+     "ace": {
+      "10": {
+       "median_price": 47.58,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 20.08,
+       "sample_size": 3
+      }
+     },
+     "bgs": {
+      "9": {
+       "median_price": 22.33,
+       "sample_size": 1
+      }
+     },
+     "cgc": {
+      "10": {
+       "median_price": 39.61,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 25.99,
+       "sample_size": 1
+      }
+     },
+     "psa": {
+      "10": {
+       "median_price": 78.35,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 22.74,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 15.86,
+       "sample_size": 5
+      },
+      "7": {
+       "median_price": 28.17,
+       "sample_size": 1
+      }
+     },
+     "sgc": {
+      "10": {
+       "median_price": 40,
+       "sample_size": 1
+      }
+     },
+     "tag": {
+      "10": {
+       "median_price": 67.65,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 23.18,
+       "sample_size": 2
+      }
+     }
+    }
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 22.76,
+    "mid_price": 25.64
+   }
+  },
+  "episode": {
+   "id": 172,
+   "name": "Surging Sparks",
+   "slug": "surging-sparks",
+   "released_at": "2024-11-08",
+   "logo": "https://images.tcggo.com/tcggo/storage/20954/surging-sparks-logo.png",
+   "code": "SSP",
+   "cards_total": 252,
+   "cards_printed_total": 191,
+   "prices": {
+    "cardmarket": {
+     "total": 1079.98,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 1092.35,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 1,
+    "name": "Scarlet & Violet",
+    "slug": "scarlet-violet"
+   }
+  },
+  "artist": {
+   "id": 1246,
+   "name": "Nobusawa/Mochipuyo",
+   "slug": "nobusawamochipuyo"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/21196/lisias-appeal-ssp-246-surging-sparks.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/surging-sparks/lisias-appeal-246",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/21034",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/21034"
+  }
+ }
+]

@@ -1,0 +1,235 @@
+[
+ {
+  "id": 1661,
+  "name": "Chansey",
+  "name_numbered": "Chansey 133",
+  "slug": "chansey",
+  "card_code_number": "TWM 133",
+  "type": "singles",
+  "card_number": 133,
+  "hp": 120,
+  "rarity": "Common",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "sv6-133",
+  "cardmarket_id": 769307,
+  "tcgplayer_id": 550177,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 0.02,
+    "lowest_near_mint_EU_only": 0.02,
+    "lowest_near_mint_DE": 0.02,
+    "lowest_near_mint_DE_EU_only": 0.02,
+    "lowest_near_mint_FR": 0.02,
+    "lowest_near_mint_FR_EU_only": 0.02,
+    "lowest_near_mint_ES": 0.02,
+    "lowest_near_mint_ES_EU_only": 0.02,
+    "lowest_near_mint_IT": 0.02,
+    "lowest_near_mint_IT_EU_only": 0.02,
+    "30d_average": 0.04,
+    "7d_average": 0.05,
+    "available_items": 11257,
+    "graded": []
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 0.2,
+    "mid_price": 0.13
+   }
+  },
+  "episode": {
+   "id": 12,
+   "name": "Twilight Masquerade",
+   "slug": "twilight-masquerade",
+   "released_at": "2024-05-24",
+   "logo": "https://images.tcggo.com/tcggo/storage/1535/twilight-masquerade-logo.png",
+   "code": "TWM",
+   "cards_total": 226,
+   "cards_printed_total": 167,
+   "prices": {
+    "cardmarket": {
+     "total": 945.26,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 1181.37,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 1,
+    "name": "Scarlet & Violet",
+    "slug": "scarlet-violet"
+   }
+  },
+  "artist": {
+   "id": 359,
+   "name": "HYOGONOSUKE",
+   "slug": "hyogonosuke"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/1669/chansey-twm-133-twilight-masquerade-pokemon.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/twilight-masquerade/chansey-133",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/1661",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/1661"
+  }
+ },
+ {
+  "id": 1715,
+  "name": "Chansey",
+  "name_numbered": "Chansey 187",
+  "slug": "chansey",
+  "card_code_number": "TWM 187",
+  "type": "singles",
+  "card_number": 187,
+  "hp": 120,
+  "rarity": "Illustration Rare",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "sv6-187",
+  "cardmarket_id": 769361,
+  "tcgplayer_id": 550231,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 40,
+    "lowest_near_mint_EU_only": 40,
+    "lowest_near_mint_DE": 33,
+    "lowest_near_mint_DE_EU_only": 33,
+    "lowest_near_mint_FR": 38,
+    "lowest_near_mint_FR_EU_only": 38,
+    "lowest_near_mint_ES": 38,
+    "lowest_near_mint_ES_EU_only": 38,
+    "lowest_near_mint_IT": 19,
+    "lowest_near_mint_IT_EU_only": 19,
+    "30d_average": 38.01,
+    "7d_average": 38.15,
+    "available_items": 285,
+    "graded": {
+     "psa": {
+      "psa10": 300,
+      "psa9": 89
+     },
+     "cgc": {
+      "cgc10": 199
+     }
+    }
+   },
+   "ebay": {
+    "currency": "USD",
+    "graded": {
+     "ace": {
+      "10": {
+       "median_price": 125.45,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 56.03,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 35.33,
+       "sample_size": 1
+      },
+      "7": {
+       "median_price": 45.82,
+       "sample_size": 1
+      }
+     },
+     "bgs": {
+      "9": {
+       "median_price": 35.59,
+       "sample_size": 1
+      }
+     },
+     "cgc": {
+      "10": {
+       "median_price": 160.14,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 53.07,
+       "sample_size": 3
+      }
+     },
+     "psa": {
+      "10": {
+       "median_price": 289.15,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 50.09,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 40.04,
+       "sample_size": 5
+      },
+      "7": {
+       "median_price": 13.49,
+       "sample_size": 1
+      }
+     },
+     "tag": {
+      "10": {
+       "median_price": 222.89,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 63,
+       "sample_size": 5
+      }
+     }
+    }
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 46.53,
+    "mid_price": 38.44
+   }
+  },
+  "episode": {
+   "id": 12,
+   "name": "Twilight Masquerade",
+   "slug": "twilight-masquerade",
+   "released_at": "2024-05-24",
+   "logo": "https://images.tcggo.com/tcggo/storage/1535/twilight-masquerade-logo.png",
+   "code": "TWM",
+   "cards_total": 226,
+   "cards_printed_total": 167,
+   "prices": {
+    "cardmarket": {
+     "total": 945.26,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 1181.37,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 1,
+    "name": "Scarlet & Violet",
+    "slug": "scarlet-violet"
+   }
+  },
+  "artist": {
+   "id": 364,
+   "name": "Toshinao Aoki",
+   "slug": "toshinao-aoki"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/1723/chansey-twm-187-twilight-masquerade-pokemon.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/twilight-masquerade/chansey-187",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/1715",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/1715"
+  }
+ }
+]

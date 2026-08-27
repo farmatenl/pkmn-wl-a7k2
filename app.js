@@ -11,9 +11,17 @@ const eur = (n) =>
   n == null ? "—" : `€${Number(n).toLocaleString("en-NL", { minimumFractionDigits: 2, maximumFractionDigits: 2 })}`;
 
 function priceSourceLabel(src) {
-  if (src === "pricecharting") return "PriceCharting (converted to EUR)";
-  if (src === "e-pick retail") return "e-pick retail price";
-  return "Cardmarket trend";
+  if (src === "pricecharting") return "PriceCharting ungraded (converted to EUR)";
+  if (src === "cardmarket-tcggo") return "Cardmarket 7-day average (EU)";
+  if (src === "e-pick retail") return "e-pick retail price (NL)";
+  return "Cardmarket trend (EU)";
+}
+
+function countryLine(price) {
+  const co = price && price.countries;
+  if (!co || !Object.keys(co).length) return "";
+  const parts = Object.keys(co).sort().map((k) => `${k} ${eur(co[k])}`);
+  return `<div><span class="k">Lowest NM by country</span><span class="mono">${parts.join(" · ")}</span></div>`;
 }
 
 async function loadCards() {
@@ -37,9 +45,9 @@ function epickBadge(card) {
   const inStock = list.some((p) => p.available);
   const liveMark = live ? "" : " · snapshot";
   if (inStock) {
-    return `<span class="epick-badge in">In stock @ e-pick · ${eur(best.price)}${liveMark} — <a href="${best.url}" target="_blank" rel="noopener">view</a></span>`;
+    return `<span class="epick-badge in">In stock @ e-pick (NL) · ${eur(best.price)}${liveMark} — <a href="${best.url}" target="_blank" rel="noopener">view</a></span>`;
   }
-  return `<span class="epick-badge out">Seen at e-pick (${eur(best.price)})${liveMark} — <a href="${best.url}" target="_blank" rel="noopener">view</a></span>`;
+  return `<span class="epick-badge out">Seen at e-pick (NL) (${eur(best.price)})${liveMark} — <a href="${best.url}" target="_blank" rel="noopener">view</a></span>`;
 }
 
 function tile(card) {
@@ -83,11 +91,15 @@ function openModal(card) {
   const p = card.price || {};
   const rows = [];
   if (p.trend != null) rows.push(`<div><span class="k">${priceSourceLabel(p.source)}</span><span><b>${eur(p.trend)}</b></span></div>`);
-  if (p.avg7 != null) rows.push(`<div><span class="k">Cardmarket 7-day avg</span><span>${eur(p.avg7)}</span></div>`);
+  if (p.avg7 != null) rows.push(`<div><span class="k">Cardmarket 7-day avg (EU)</span><span>${eur(p.avg7)}</span></div>`);
+  if (p.lowNm != null) rows.push(`<div><span class="k">Lowest offer, Near Mint (EU)</span><span>${eur(p.lowNm)}</span></div>`);
   if (p.low != null) rows.push(`<div><span class="k">Cardmarket low</span><span>${eur(p.low)}</span></div>`);
+  rows.push(countryLine(p));
+  if (p.available != null) rows.push(`<div><span class="k">Cardmarket offers</span><span>${p.available}</span></div>`);
   const links = [];
   if (p.url) {
     const label = p.source === "pricecharting" ? "View on PriceCharting"
+      : p.source === "cardmarket-tcggo" ? "Cardmarket product page"
       : p.source === "e-pick retail" ? "View at e-pick" : "View on Cardmarket";
     links.push(`<a class="btn" href="${p.url}" target="_blank" rel="noopener">${label}</a>`);
   }

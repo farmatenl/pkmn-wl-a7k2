@@ -1,0 +1,379 @@
+[
+ {
+  "id": 23136,
+  "name": "Dwebble",
+  "name_numbered": "Dwebble 51",
+  "slug": "dwebble",
+  "card_code_number": "BLK 51",
+  "type": "singles",
+  "card_number": 51,
+  "hp": 70,
+  "rarity": "Common",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "zsv10pt5-51",
+  "cardmarket_id": 836011,
+  "tcgplayer_id": 642503,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 0.03,
+    "lowest_near_mint_EU_only": 0.02,
+    "lowest_near_mint_DE": 0.02,
+    "lowest_near_mint_DE_EU_only": 0.02,
+    "lowest_near_mint_FR": 0.02,
+    "lowest_near_mint_FR_EU_only": 0.02,
+    "lowest_near_mint_ES": 0.02,
+    "lowest_near_mint_ES_EU_only": 0.02,
+    "lowest_near_mint_IT": 0.02,
+    "lowest_near_mint_IT_EU_only": 0.02,
+    "30d_average": 0.03,
+    "7d_average": 0.04,
+    "available_items": 10450,
+    "graded": []
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 0.18,
+    "mid_price": 0.09
+   }
+  },
+  "episode": {
+   "id": 223,
+   "name": "Black Bolt",
+   "slug": "black-bolt",
+   "released_at": "2025-07-18",
+   "logo": "https://images.tcggo.com/tcggo/storage/23035/black-bolt-logo.png",
+   "code": "BLK",
+   "cards_total": 172,
+   "cards_printed_total": 86,
+   "prices": {
+    "cardmarket": {
+     "total": 2553.94,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 3060.69,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 1,
+    "name": "Scarlet & Violet",
+    "slug": "scarlet-violet"
+   }
+  },
+  "artist": {
+   "id": 431,
+   "name": "Tetsu Kayama",
+   "slug": "tetsu-kayama"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/23105/dwebble.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/black-bolt/dwebble-51",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/23136",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/23136"
+  }
+ },
+ {
+  "id": 23214,
+  "name": "Dwebble",
+  "name_numbered": "Dwebble 129",
+  "slug": "dwebble",
+  "card_code_number": "BLK 129",
+  "type": "singles",
+  "card_number": 129,
+  "hp": 70,
+  "rarity": "Illustration Rare",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "zsv10pt5-129",
+  "cardmarket_id": 836174,
+  "tcgplayer_id": 642584,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 41.99,
+    "lowest_near_mint_EU_only": 41.99,
+    "lowest_near_mint_DE": 30,
+    "lowest_near_mint_DE_EU_only": 30,
+    "lowest_near_mint_FR": 26,
+    "lowest_near_mint_FR_EU_only": 26,
+    "lowest_near_mint_ES": 25,
+    "lowest_near_mint_ES_EU_only": 25,
+    "lowest_near_mint_IT": 14.99,
+    "lowest_near_mint_IT_EU_only": 14.99,
+    "30d_average": 36.38,
+    "7d_average": 34.87,
+    "available_items": 152,
+    "graded": {
+     "psa": {
+      "psa10": 225,
+      "psa9": 80
+     }
+    }
+   },
+   "ebay": {
+    "currency": "USD",
+    "graded": {
+     "ace": {
+      "10": {
+       "median_price": 158.86,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 31,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 19.13,
+       "sample_size": 1
+      }
+     },
+     "cgc": {
+      "10": {
+       "median_price": 152.52,
+       "sample_size": 5
+      }
+     },
+     "psa": {
+      "10": {
+       "median_price": 680.37,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 114.64,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 58.32,
+       "sample_size": 5
+      }
+     },
+     "tag": {
+      "9": {
+       "median_price": 28,
+       "sample_size": 3
+      }
+     }
+    }
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 45.63,
+    "mid_price": 23.08
+   }
+  },
+  "episode": {
+   "id": 223,
+   "name": "Black Bolt",
+   "slug": "black-bolt",
+   "released_at": "2025-07-18",
+   "logo": "https://images.tcggo.com/tcggo/storage/23035/black-bolt-logo.png",
+   "code": "BLK",
+   "cards_total": 172,
+   "cards_printed_total": 86,
+   "prices": {
+    "cardmarket": {
+     "total": 2553.94,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 3060.69,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 1,
+    "name": "Scarlet & Violet",
+    "slug": "scarlet-violet"
+   }
+  },
+  "artist": {
+   "id": 410,
+   "name": "Shimaris Yukichi",
+   "slug": "shimaris-yukichi"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/23183/dwebble.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/black-bolt/dwebble-129",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/23214",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/23214"
+  }
+ },
+ {
+  "id": 23095,
+  "name": "Foongus",
+  "name_numbered": "Foongus 10",
+  "slug": "foongus",
+  "card_code_number": "BLK 10",
+  "type": "singles",
+  "card_number": 10,
+  "hp": 50,
+  "rarity": "Common",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "zsv10pt5-10",
+  "cardmarket_id": 835921,
+  "tcgplayer_id": 642459,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 0.03,
+    "lowest_near_mint_EU_only": 0.02,
+    "lowest_near_mint_DE": 0.02,
+    "lowest_near_mint_DE_EU_only": 0.02,
+    "lowest_near_mint_FR": 0.02,
+    "lowest_near_mint_FR_EU_only": 0.02,
+    "lowest_near_mint_ES": 0.02,
+    "lowest_near_mint_ES_EU_only": 0.02,
+    "lowest_near_mint_IT": 0.02,
+    "lowest_near_mint_IT_EU_only": 0.02,
+    "30d_average": 0.02,
+    "7d_average": 0.03,
+    "available_items": 10315,
+    "graded": []
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 0.21,
+    "mid_price": 0.09
+   }
+  },
+  "episode": {
+   "id": 223,
+   "name": "Black Bolt",
+   "slug": "black-bolt",
+   "released_at": "2025-07-18",
+   "logo": "https://images.tcggo.com/tcggo/storage/23035/black-bolt-logo.png",
+   "code": "BLK",
+   "cards_total": 172,
+   "cards_printed_total": 86,
+   "prices": {
+    "cardmarket": {
+     "total": 2553.86,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 3046.89,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 1,
+    "name": "Scarlet & Violet",
+    "slug": "scarlet-violet"
+   }
+  },
+  "artist": {
+   "id": 397,
+   "name": "Kurata So",
+   "slug": "kurata-so"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/23063/foongus.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/black-bolt/foongus-10-1",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/23095",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/23095"
+  }
+ },
+ {
+  "id": 23180,
+  "name": "Foongus",
+  "name_numbered": "Foongus 95",
+  "slug": "foongus",
+  "card_code_number": "BLK 95",
+  "type": "singles",
+  "card_number": 95,
+  "hp": 50,
+  "rarity": "Illustration Rare",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "zsv10pt5-95",
+  "cardmarket_id": 836098,
+  "tcgplayer_id": 642544,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 9.95,
+    "lowest_near_mint_EU_only": 9.95,
+    "lowest_near_mint_DE": 8,
+    "lowest_near_mint_DE_EU_only": 13.2,
+    "lowest_near_mint_FR": 8.5,
+    "lowest_near_mint_FR_EU_only": 9.5,
+    "lowest_near_mint_ES": 9.5,
+    "lowest_near_mint_ES_EU_only": 9.5,
+    "lowest_near_mint_IT": 4,
+    "lowest_near_mint_IT_EU_only": 4,
+    "30d_average": 12.2,
+    "7d_average": 12.82,
+    "available_items": 147,
+    "graded": []
+   },
+   "ebay": {
+    "currency": "USD",
+    "graded": {
+     "ace": {
+      "10": {
+       "median_price": 88.37,
+       "sample_size": 1
+      }
+     }
+    }
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 15.85,
+    "mid_price": 11.17
+   }
+  },
+  "episode": {
+   "id": 223,
+   "name": "Black Bolt",
+   "slug": "black-bolt",
+   "released_at": "2025-07-18",
+   "logo": "https://images.tcggo.com/tcggo/storage/23035/black-bolt-logo.png",
+   "code": "BLK",
+   "cards_total": 172,
+   "cards_printed_total": 86,
+   "prices": {
+    "cardmarket": {
+     "total": 2553.86,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 3046.89,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 1,
+    "name": "Scarlet & Violet",
+    "slug": "scarlet-violet"
+   }
+  },
+  "artist": {
+   "id": 770,
+   "name": "buchi",
+   "slug": "buchi"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/23149/foongus.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/black-bolt/foongus-95",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/23180",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/23180"
+  }
+ }
+]

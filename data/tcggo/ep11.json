@@ -1,0 +1,185 @@
+[
+ {
+  "id": 1439,
+  "name": "Horsea",
+  "name_numbered": "Horsea 10",
+  "slug": "horsea",
+  "card_code_number": "SFA 10",
+  "type": "singles",
+  "card_number": 10,
+  "hp": 60,
+  "rarity": "Common",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "sv6pt5-10",
+  "cardmarket_id": 780900,
+  "tcgplayer_id": 560320,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 0.02,
+    "lowest_near_mint_EU_only": 0.02,
+    "lowest_near_mint_DE": 0.02,
+    "lowest_near_mint_DE_EU_only": 0.02,
+    "lowest_near_mint_FR": 0.02,
+    "lowest_near_mint_FR_EU_only": 0.02,
+    "lowest_near_mint_ES": 0.02,
+    "lowest_near_mint_ES_EU_only": 0.02,
+    "lowest_near_mint_IT": 0.02,
+    "lowest_near_mint_IT_EU_only": 0.02,
+    "30d_average": 0.03,
+    "7d_average": 0.03,
+    "available_items": 18180,
+    "graded": []
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 0.15,
+    "mid_price": 0.09
+   }
+  },
+  "episode": {
+   "id": 11,
+   "name": "Shrouded Fable",
+   "slug": "shrouded-fable",
+   "released_at": "2024-08-02",
+   "logo": "https://images.tcggo.com/tcggo/storage/1434/shrouded-fable-logo.png",
+   "code": "SFA",
+   "cards_total": 99,
+   "cards_printed_total": 64,
+   "prices": {
+    "cardmarket": {
+     "total": 554.98,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 753.85,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 1,
+    "name": "Scarlet & Violet",
+    "slug": "scarlet-violet"
+   }
+  },
+  "artist": {
+   "id": 410,
+   "name": "Shimaris Yukichi",
+   "slug": "shimaris-yukichi"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/1444/horsea-sfa-10-shrouded-fable-pokemon.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/shrouded-fable/horsea-10",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/1439",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/1439"
+  }
+ },
+ {
+  "id": 1496,
+  "name": "Horsea",
+  "name_numbered": "Horsea 67",
+  "slug": "horsea",
+  "card_code_number": "SFA 67",
+  "type": "singles",
+  "card_number": 67,
+  "hp": 60,
+  "rarity": "Illustration Rare",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "sv6pt5-67",
+  "cardmarket_id": 780962,
+  "tcgplayer_id": 560378,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 30,
+    "lowest_near_mint_EU_only": 30,
+    "lowest_near_mint_DE": 29.99,
+    "lowest_near_mint_DE_EU_only": 29.99,
+    "lowest_near_mint_FR": 25,
+    "lowest_near_mint_FR_EU_only": 25,
+    "lowest_near_mint_ES": 30,
+    "lowest_near_mint_ES_EU_only": 30,
+    "lowest_near_mint_IT": 11.93,
+    "lowest_near_mint_IT_EU_only": 11.93,
+    "30d_average": 30.93,
+    "7d_average": 29.12,
+    "available_items": 227,
+    "graded": {
+     "psa": {
+      "psa10": 220,
+      "psa9": 49
+     },
+     "cgc": {
+      "cgc10": 150
+     }
+    }
+   },
+   "ebay": {
+    "currency": "USD",
+    "graded": {
+     "cgc": {
+      "9": {
+       "median_price": 40.28,
+       "sample_size": 1
+      }
+     },
+     "psa": {
+      "9": {
+       "median_price": 29.99,
+       "sample_size": 5
+      }
+     }
+    }
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 42.38,
+    "mid_price": 42.73
+   }
+  },
+  "episode": {
+   "id": 11,
+   "name": "Shrouded Fable",
+   "slug": "shrouded-fable",
+   "released_at": "2024-08-02",
+   "logo": "https://images.tcggo.com/tcggo/storage/1434/shrouded-fable-logo.png",
+   "code": "SFA",
+   "cards_total": 99,
+   "cards_printed_total": 64,
+   "prices": {
+    "cardmarket": {
+     "total": 537.88,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 753.88,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 1,
+    "name": "Scarlet & Violet",
+    "slug": "scarlet-violet"
+   }
+  },
+  "artist": {
+   "id": 466,
+   "name": "Shinya Komatsu",
+   "slug": "shinya-komatsu"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/1502/horsea-sfa-67-shrouded-fable-pokemon.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/shrouded-fable/horsea-67",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/1496",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/1496"
+  }
+ }
+]

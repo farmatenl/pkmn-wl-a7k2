@@ -73,6 +73,7 @@ for img in sorted(RAW):
         card.update({
             "set": "Ascended Heroes", "number": "226/226",
             "rarity": "Illustration Rare",
+            "apiId": "me2pt5-226",
             "price": {"trend": None, "avg7": None, "low": None, "currency": "EUR",
                       "source": "cardmarket", "url": None, "asOf": ASOF},
             "notes": "Set released Aug 2026; no Cardmarket price data yet. Re-check in a few weeks.",

@@ -1,0 +1,231 @@
+[
+ {
+  "id": 3088,
+  "name": "Maushold",
+  "name_numbered": "Maushold 168",
+  "slug": "maushold",
+  "card_code_number": "PAL 168",
+  "type": "singles",
+  "card_number": 168,
+  "hp": 60,
+  "rarity": "Uncommon",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "sv2-168",
+  "cardmarket_id": 715643,
+  "tcgplayer_id": 497588,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 0.02,
+    "lowest_near_mint_EU_only": 0.02,
+    "lowest_near_mint_DE": 0.02,
+    "lowest_near_mint_DE_EU_only": 0.02,
+    "lowest_near_mint_FR": 0.02,
+    "lowest_near_mint_FR_EU_only": 0.02,
+    "lowest_near_mint_ES": 0.02,
+    "lowest_near_mint_ES_EU_only": 0.02,
+    "lowest_near_mint_IT": 0.02,
+    "lowest_near_mint_IT_EU_only": 0.02,
+    "30d_average": 0.06,
+    "7d_average": 0.06,
+    "available_items": 6639,
+    "graded": []
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 0.32,
+    "mid_price": 0.2
+   }
+  },
+  "episode": {
+   "id": 18,
+   "name": "Paldea Evolved",
+   "slug": "paldea-evolved",
+   "released_at": "2023-06-09",
+   "logo": "https://images.tcggo.com/tcggo/storage/2935/paldea-evolved-logo.png",
+   "code": "PAL",
+   "cards_total": 279,
+   "cards_printed_total": 193,
+   "prices": {
+    "cardmarket": {
+     "total": 1208.32,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 1698.61,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 1,
+    "name": "Scarlet & Violet",
+    "slug": "scarlet-violet"
+   }
+  },
+  "artist": {
+   "id": 360,
+   "name": "Saya Tsuruta",
+   "slug": "saya-tsuruta"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/3104/maushold-pal-168-paldea-evolved-pokemon.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/paldea-evolved/maushold-168",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/3088",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/3088"
+  }
+ },
+ {
+  "id": 3139,
+  "name": "Maushold",
+  "name_numbered": "Maushold 226",
+  "slug": "maushold",
+  "card_code_number": "PAL 226",
+  "type": "singles",
+  "card_number": 226,
+  "hp": 60,
+  "rarity": "Illustration Rare",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "sv2-226",
+  "cardmarket_id": 715701,
+  "tcgplayer_id": 497629,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 55,
+    "lowest_near_mint_EU_only": 55,
+    "lowest_near_mint_DE": 38,
+    "lowest_near_mint_DE_EU_only": 38,
+    "lowest_near_mint_FR": 28,
+    "lowest_near_mint_FR_EU_only": 28,
+    "lowest_near_mint_ES": 64.98,
+    "lowest_near_mint_ES_EU_only": 64.98,
+    "lowest_near_mint_IT": 18.99,
+    "lowest_near_mint_IT_EU_only": 18.99,
+    "30d_average": 43.29,
+    "7d_average": 38.34,
+    "available_items": 182,
+    "graded": {
+     "psa": {
+      "psa9": 119
+     }
+    }
+   },
+   "ebay": {
+    "currency": "USD",
+    "graded": {
+     "ace": {
+      "10": {
+       "median_price": 303.96,
+       "sample_size": 4
+      },
+      "9": {
+       "median_price": 69.43,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 39.66,
+       "sample_size": 4
+      }
+     },
+     "bgs": {
+      "9": {
+       "median_price": 94.2,
+       "sample_size": 1
+      }
+     },
+     "cgc": {
+      "10": {
+       "median_price": 151.6,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 72.25,
+       "sample_size": 4
+      }
+     },
+     "psa": {
+      "10": {
+       "median_price": 1525.11,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 107.66,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 89.71,
+       "sample_size": 5
+      },
+      "7": {
+       "median_price": 52.34,
+       "sample_size": 2
+      }
+     },
+     "tag": {
+      "10": {
+       "median_price": 636.95,
+       "sample_size": 1
+      },
+      "9": {
+       "median_price": 83.68,
+       "sample_size": 1
+      },
+      "7": {
+       "median_price": 62.8,
+       "sample_size": 1
+      }
+     }
+    }
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 84.11,
+    "mid_price": 66.24
+   }
+  },
+  "episode": {
+   "id": 18,
+   "name": "Paldea Evolved",
+   "slug": "paldea-evolved",
+   "released_at": "2023-06-09",
+   "logo": "https://images.tcggo.com/tcggo/storage/2935/paldea-evolved-logo.png",
+   "code": "PAL",
+   "cards_total": 279,
+   "cards_printed_total": 193,
+   "prices": {
+    "cardmarket": {
+     "total": 1208.32,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 1698.61,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 1,
+    "name": "Scarlet & Violet",
+    "slug": "scarlet-violet"
+   }
+  },
+  "artist": {
+   "id": 482,
+   "name": "Mizue",
+   "slug": "mizue"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/3153/maushold-pal-226-paldea-evolved-pokemon.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/paldea-evolved/maushold-226",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/3139",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/3139"
+  }
+ }
+]

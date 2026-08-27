@@ -1,0 +1,639 @@
+[
+ {
+  "id": 3788,
+  "name": "Lapras",
+  "name_numbered": "Lapras GG05",
+  "slug": "lapras",
+  "card_code_number": "CRZ GG05",
+  "type": "singles",
+  "card_number": "GG05",
+  "hp": 130,
+  "rarity": "Trainer Gallery Rare Holo",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "swsh12pt5gg-GG05",
+  "cardmarket_id": 691884,
+  "tcgplayer_id": 477049,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 24.95,
+    "lowest_near_mint_EU_only": 24.95,
+    "lowest_near_mint_DE": 24,
+    "lowest_near_mint_DE_EU_only": 24,
+    "lowest_near_mint_FR": 24,
+    "lowest_near_mint_FR_EU_only": 24,
+    "lowest_near_mint_ES": 27.5,
+    "lowest_near_mint_ES_EU_only": 27.5,
+    "lowest_near_mint_IT": 9.98,
+    "lowest_near_mint_IT_EU_only": 9.98,
+    "30d_average": 26.45,
+    "7d_average": 24.78,
+    "available_items": 276,
+    "graded": {
+     "psa": {
+      "psa10": 340,
+      "psa9": 35
+     },
+     "cgc": {
+      "cgc9": 49
+     }
+    }
+   },
+   "ebay": {
+    "currency": "USD",
+    "graded": {
+     "ace": {
+      "10": {
+       "median_price": 119.12,
+       "sample_size": 3
+      },
+      "9": {
+       "median_price": 28.2,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 15.96,
+       "sample_size": 1
+      }
+     },
+     "bgs": {
+      "9": {
+       "median_price": 32.11,
+       "sample_size": 2
+      }
+     },
+     "cgc": {
+      "10": {
+       "median_price": 67,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 16.01,
+       "sample_size": 5
+      }
+     },
+     "psa": {
+      "10": {
+       "median_price": 249.42,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 35.73,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 20.1,
+       "sample_size": 5
+      },
+      "7": {
+       "median_price": 13.03,
+       "sample_size": 5
+      }
+     },
+     "tag": {
+      "10": {
+       "median_price": 178.69,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 27.99,
+       "sample_size": 5
+      }
+     }
+    }
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 14.42,
+    "mid_price": 15.33
+   }
+  },
+  "episode": {
+   "id": 21,
+   "name": "Crown Zenith",
+   "slug": "crown-zenith",
+   "released_at": "2023-01-20",
+   "logo": "https://images.tcggo.com/tcggo/storage/3641/crown-zenith-logo.png",
+   "code": "CRZ",
+   "cards_total": 160,
+   "cards_printed_total": 159,
+   "prices": {
+    "cardmarket": {
+     "total": 2299.33,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 1762.2,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 2,
+    "name": "Sword & Shield",
+    "slug": "sword-shield"
+   }
+  },
+  "artist": {
+   "id": 546,
+   "name": "zig",
+   "slug": "zig"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/3807/lapras-crz-gg05-crown-zenith-pokemon.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/crown-zenith/lapras-gg05",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/3788",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/3788"
+  }
+ },
+ {
+  "id": 3682,
+  "name": "Mewtwo",
+  "name_numbered": "Mewtwo 59",
+  "slug": "mewtwo",
+  "card_code_number": "CRZ 59",
+  "type": "singles",
+  "card_number": 59,
+  "hp": 130,
+  "rarity": "Rare Holo",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "swsh12pt5-59",
+  "cardmarket_id": 691776,
+  "tcgplayer_id": 478173,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 0.99,
+    "lowest_near_mint_EU_only": 0.99,
+    "lowest_near_mint_DE": 0.9,
+    "lowest_near_mint_DE_EU_only": 1.34,
+    "lowest_near_mint_FR": 1.5,
+    "lowest_near_mint_FR_EU_only": 1.5,
+    "lowest_near_mint_ES": 0.1,
+    "lowest_near_mint_ES_EU_only": 0.1,
+    "lowest_near_mint_IT": 0.49,
+    "lowest_near_mint_IT_EU_only": 0.49,
+    "30d_average": 1.47,
+    "7d_average": 1.41,
+    "available_items": 345,
+    "graded": []
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 2.92,
+    "mid_price": 1.16
+   }
+  },
+  "episode": {
+   "id": 21,
+   "name": "Crown Zenith",
+   "slug": "crown-zenith",
+   "released_at": "2023-01-20",
+   "logo": "https://images.tcggo.com/tcggo/storage/3641/crown-zenith-logo.png",
+   "code": "CRZ",
+   "cards_total": 160,
+   "cards_printed_total": 159,
+   "prices": {
+    "cardmarket": {
+     "total": 2299.33,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 1762.2,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 2,
+    "name": "Sword & Shield",
+    "slug": "sword-shield"
+   }
+  },
+  "artist": {
+   "id": 460,
+   "name": "Atsushi Furusawa",
+   "slug": "atsushi-furusawa"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/3701/mewtwo-crz-59-crown-zenith-pokemon.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/crown-zenith/mewtwo-59-1",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/3682",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/3682"
+  }
+ },
+ {
+  "id": 3683,
+  "name": "Mew V",
+  "name_numbered": "Mew V 60",
+  "slug": "mew-v",
+  "card_code_number": "CRZ 60",
+  "type": "singles",
+  "card_number": 60,
+  "hp": 180,
+  "rarity": "Rare Holo V",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "swsh12pt5-60",
+  "cardmarket_id": 691777,
+  "tcgplayer_id": 478175,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 3.5,
+    "lowest_near_mint_EU_only": 3.5,
+    "lowest_near_mint_DE": 3.99,
+    "lowest_near_mint_DE_EU_only": 3.99,
+    "lowest_near_mint_FR": 3.8,
+    "lowest_near_mint_FR_EU_only": 3.8,
+    "lowest_near_mint_ES": 3.5,
+    "lowest_near_mint_ES_EU_only": 3.5,
+    "lowest_near_mint_IT": 1.17,
+    "lowest_near_mint_IT_EU_only": 1.17,
+    "30d_average": 4.28,
+    "7d_average": 4.01,
+    "available_items": 286,
+    "graded": []
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 5.84,
+    "mid_price": 3.84
+   }
+  },
+  "episode": {
+   "id": 21,
+   "name": "Crown Zenith",
+   "slug": "crown-zenith",
+   "released_at": "2023-01-20",
+   "logo": "https://images.tcggo.com/tcggo/storage/3641/crown-zenith-logo.png",
+   "code": "CRZ",
+   "cards_total": 160,
+   "cards_printed_total": 159,
+   "prices": {
+    "cardmarket": {
+     "total": 2265.49,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 1766.99,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 2,
+    "name": "Sword & Shield",
+    "slug": "sword-shield"
+   }
+  },
+  "artist": {
+   "id": 511,
+   "name": "PLANETA Igarashi",
+   "slug": "planeta-igarashi"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/3702/mew-v-crz-60-crown-zenith-pokemon.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/crown-zenith/mew-v-60",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/3683",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/3683"
+  }
+ },
+ {
+  "id": 3793,
+  "name": "Mew",
+  "name_numbered": "Mew GG10",
+  "slug": "mew",
+  "card_code_number": "CRZ GG10",
+  "type": "singles",
+  "card_number": "GG10",
+  "hp": 60,
+  "rarity": "Trainer Gallery Rare Holo",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "swsh12pt5gg-GG10",
+  "cardmarket_id": 691889,
+  "tcgplayer_id": 478027,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 55,
+    "lowest_near_mint_EU_only": 55,
+    "lowest_near_mint_DE": 59.99,
+    "lowest_near_mint_DE_EU_only": 59.99,
+    "lowest_near_mint_FR": 60,
+    "lowest_near_mint_FR_EU_only": 60,
+    "lowest_near_mint_ES": 60,
+    "lowest_near_mint_ES_EU_only": 60,
+    "lowest_near_mint_IT": 49.95,
+    "lowest_near_mint_IT_EU_only": 49.95,
+    "30d_average": 68.78,
+    "7d_average": 64.28,
+    "available_items": 418,
+    "graded": {
+     "psa": {
+      "psa10": 129,
+      "psa9": 107
+     },
+     "cgc": {
+      "cgc10": 250
+     }
+    }
+   },
+   "ebay": {
+    "currency": "USD",
+    "graded": {
+     "ace": {
+      "10": {
+       "median_price": 243.42,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 69.43,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 59.99,
+       "sample_size": 5
+      }
+     },
+     "bgs": {
+      "9": {
+       "median_price": 90,
+       "sample_size": 5
+      }
+     },
+     "cgc": {
+      "10": {
+       "median_price": 160.57,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 71.32,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 51,
+       "sample_size": 1
+      },
+      "7": {
+       "median_price": 69.99,
+       "sample_size": 1
+      }
+     },
+     "psa": {
+      "10": {
+       "median_price": 557.54,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 89.21,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 71.36,
+       "sample_size": 5
+      },
+      "7": {
+       "median_price": 48.31,
+       "sample_size": 5
+      }
+     },
+     "sgc": {
+      "10": {
+       "median_price": 136.36,
+       "sample_size": 3
+      }
+     },
+     "tag": {
+      "10": {
+       "median_price": 446.03,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 82.52,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 58.56,
+       "sample_size": 1
+      }
+     }
+    }
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 54.32,
+    "mid_price": 64.1
+   }
+  },
+  "episode": {
+   "id": 21,
+   "name": "Crown Zenith",
+   "slug": "crown-zenith",
+   "released_at": "2023-01-20",
+   "logo": "https://images.tcggo.com/tcggo/storage/3641/crown-zenith-logo.png",
+   "code": "CRZ",
+   "cards_total": 160,
+   "cards_printed_total": 159,
+   "prices": {
+    "cardmarket": {
+     "total": 2265.49,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 1766.99,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 2,
+    "name": "Sword & Shield",
+    "slug": "sword-shield"
+   }
+  },
+  "artist": {
+   "id": 486,
+   "name": "Ryota Murayama",
+   "slug": "ryota-murayama"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/3812/mew-crz-gg10-crown-zenith-pokemon.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/crown-zenith/mew-gg10",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/3793",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/3793"
+  }
+ },
+ {
+  "id": 3827,
+  "name": "Mewtwo VSTAR",
+  "name_numbered": "Mewtwo VSTAR GG44",
+  "slug": "mewtwo-vstar",
+  "card_code_number": "CRZ GG44",
+  "type": "singles",
+  "card_number": "GG44",
+  "hp": 280,
+  "rarity": "Rare Holo VSTAR",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "swsh12pt5gg-GG44",
+  "cardmarket_id": 674368,
+  "tcgplayer_id": 477057,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 220,
+    "lowest_near_mint_EU_only": 220,
+    "lowest_near_mint_DE": 179,
+    "lowest_near_mint_DE_EU_only": 179,
+    "lowest_near_mint_FR": 250,
+    "lowest_near_mint_FR_EU_only": 250,
+    "lowest_near_mint_ES": 230,
+    "lowest_near_mint_ES_EU_only": 230,
+    "lowest_near_mint_IT": 199.36,
+    "lowest_near_mint_IT_EU_only": 199.36,
+    "30d_average": 290.92,
+    "7d_average": 294.45,
+    "available_items": 344,
+    "graded": {
+     "psa": {
+      "psa10": 324,
+      "psa9": 299
+     },
+     "bgs": {
+      "bgs10pristine": 1800,
+      "bgs9": 345
+     },
+     "cgc": {
+      "cgc10": 525,
+      "cgc9": 309
+     }
+    }
+   },
+   "ebay": {
+    "currency": "USD",
+    "graded": {
+     "ace": {
+      "10": {
+       "median_price": 309.55,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 228.4,
+       "sample_size": 5
+      }
+     },
+     "bgs": {
+      "10": {
+       "median_price": 1069.61,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 243.09,
+       "sample_size": 3
+      }
+     },
+     "cgc": {
+      "10": {
+       "median_price": 347.9,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 220.58,
+       "sample_size": 5
+      }
+     },
+     "psa": {
+      "10": {
+       "median_price": 551.09,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 244.99,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 213.62,
+       "sample_size": 5
+      }
+     },
+     "sgc": {
+      "10": {
+       "median_price": 450,
+       "sample_size": 2
+      },
+      "9": {
+       "median_price": 139.39,
+       "sample_size": 1
+      }
+     },
+     "tag": {
+      "10": {
+       "median_price": 568.18,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 260.32,
+       "sample_size": 5
+      }
+     }
+    }
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 207.6,
+    "mid_price": 256.41
+   }
+  },
+  "episode": {
+   "id": 21,
+   "name": "Crown Zenith",
+   "slug": "crown-zenith",
+   "released_at": "2023-01-20",
+   "logo": "https://images.tcggo.com/tcggo/storage/3641/crown-zenith-logo.png",
+   "code": "CRZ",
+   "cards_total": 160,
+   "cards_printed_total": 159,
+   "prices": {
+    "cardmarket": {
+     "total": 2299.33,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 1762.2,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 2,
+    "name": "Sword & Shield",
+    "slug": "sword-shield"
+   }
+  },
+  "artist": {
+   "id": 373,
+   "name": "GOSSAN",
+   "slug": "gossan"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/3846/mewtwo-vstar-crz-gg44-crown-zenith-pokemon.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/crown-zenith/mewtwo-vstar-gg44",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/3827",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/3827"
+  }
+ }
+]

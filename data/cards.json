@@ -33,12 +33,22 @@
   "rarity": "Illustration Rare",
   "apiId": "sv10-185",
   "price": {
-   "trend": 7.44,
-   "avg7": 7.85,
-   "low": 4.0,
+   "trend": 6.97,
+   "trendLabel": "Cardmarket 7-day average",
+   "lowNm": 5,
+   "lowNmLabel": "lowest offer, Near Mint (EU)",
+   "countries": {
+    "DE": 6.5,
+    "FR": 7.37,
+    "ES": 8,
+    "IT": 3
+   },
+   "available": 602,
    "currency": "EUR",
-   "source": "cardmarket",
-   "url": "https://prices.pokemontcg.io/cardmarket/sv10-185",
+   "source": "cardmarket-tcggo",
+   "url": "https://www.tcggo.com/external/cm/22261",
+   "tcggoUrl": "https://www.tcggo.com/pokemon/destined-rivals/shaymin-185",
+   "cardmarketId": 826059,
    "asOf": "2026-08-27"
   },
   "epick": {
@@ -66,12 +76,22 @@
   "rarity": "Trainer Gallery Rare Holo",
   "apiId": "swsh12pt5gg-GG05",
   "price": {
-   "trend": 24.81,
-   "avg7": 25.77,
-   "low": 6.49,
+   "trend": 24.78,
+   "trendLabel": "Cardmarket 7-day average",
+   "lowNm": 24.95,
+   "lowNmLabel": "lowest offer, Near Mint (EU)",
+   "countries": {
+    "DE": 24,
+    "FR": 24,
+    "ES": 27.5,
+    "IT": 9.98
+   },
+   "available": 276,
    "currency": "EUR",
-   "source": "cardmarket",
-   "url": "https://prices.pokemontcg.io/cardmarket/swsh12pt5gg-GG05",
+   "source": "cardmarket-tcggo",
+   "url": "https://www.tcggo.com/external/cm/3788",
+   "tcggoUrl": "https://www.tcggo.com/pokemon/crown-zenith/lapras-gg05",
+   "cardmarketId": 691884,
    "asOf": "2026-08-27"
   },
   "epick": {
@@ -99,12 +119,22 @@
   "rarity": "Rare Ultra",
   "apiId": "swsh10-161",
   "price": {
-   "trend": 32.43,
-   "avg7": 35.22,
-   "low": 17.0,
+   "trend": 71.74,
+   "trendLabel": "Cardmarket 7-day average",
+   "lowNm": 68.5,
+   "lowNmLabel": "lowest offer, Near Mint (EU)",
+   "countries": {
+    "DE": 69,
+    "FR": 70,
+    "ES": 70,
+    "IT": 29
+   },
+   "available": 137,
    "currency": "EUR",
-   "source": "cardmarket",
-   "url": "https://prices.pokemontcg.io/cardmarket/swsh10-161",
+   "source": "cardmarket-tcggo",
+   "url": "https://www.tcggo.com/external/cm/4609",
+   "tcggoUrl": "https://www.tcggo.com/pokemon/astral-radiance/beedrill-v-161",
+   "cardmarketId": 658822,
    "asOf": "2026-08-27"
   },
   "epick": {
@@ -122,12 +152,22 @@
   "rarity": "Rare Holo VSTAR",
   "apiId": "swsh12pt5-14",
   "price": {
-   "trend": 3.5,
-   "avg7": 3.26,
-   "low": 1.3,
+   "trend": 3.61,
+   "trendLabel": "Cardmarket 7-day average",
+   "lowNm": 2.9,
+   "lowNmLabel": "lowest offer, Near Mint (EU)",
+   "countries": {
+    "DE": 3,
+    "FR": 5,
+    "ES": 3.5,
+    "IT": 1.49
+   },
+   "available": 300,
    "currency": "EUR",
-   "source": "cardmarket",
-   "url": "https://prices.pokemontcg.io/cardmarket/swsh12pt5-14",
+   "source": "cardmarket-tcggo",
+   "url": "https://www.tcggo.com/external/cm/3637",
+   "tcggoUrl": "https://www.tcggo.com/pokemon/crown-zenith/leafeon-vstar-14",
+   "cardmarketId": 691731,
    "asOf": "2026-08-27"
   },
   "epick": {
@@ -145,12 +185,22 @@
   "rarity": "Illustration Rare",
   "apiId": "sv6pt5-67",
   "price": {
-   "trend": 16.56,
-   "avg7": 17.0,
-   "low": 8.0,
+   "trend": 29.12,
+   "trendLabel": "Cardmarket 7-day average",
+   "lowNm": 30,
+   "lowNmLabel": "lowest offer, Near Mint (EU)",
+   "countries": {
+    "DE": 29.99,
+    "FR": 25,
+    "ES": 30,
+    "IT": 11.93
+   },
+   "available": 227,
    "currency": "EUR",
-   "source": "cardmarket",
-   "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-67",
+   "source": "cardmarket-tcggo",
+   "url": "https://www.tcggo.com/external/cm/1496",
+   "tcggoUrl": "https://www.tcggo.com/pokemon/shrouded-fable/horsea-67",
+   "cardmarketId": 780962,
    "asOf": "2026-08-27"
   },
   "epick": {
@@ -168,12 +218,22 @@
   "rarity": "Illustration Rare",
   "apiId": "sv3pt5-175",
   "price": {
-   "trend": 23.66,
-   "avg7": 27.08,
-   "low": 16.0,
+   "trend": 57.03,
+   "trendLabel": "Cardmarket 7-day average",
+   "lowNm": 58,
+   "lowNmLabel": "lowest offer, Near Mint (EU)",
+   "countries": {
+    "DE": 46.9,
+    "FR": 47.9,
+    "ES": 60,
+    "IT": 40
+   },
+   "available": 294,
    "currency": "EUR",
-   "source": "cardmarket",
-   "url": "https://prices.pokemontcg.io/cardmarket/sv3pt5-175",
+   "source": "cardmarket-tcggo",
+   "url": "https://www.tcggo.com/external/cm/2671",
+   "tcggoUrl": "https://www.tcggo.com/pokemon/151/psyduck-175",
+   "cardmarketId": 733770,
    "asOf": "2026-08-27"
   },
   "epick": {
@@ -201,12 +261,22 @@
   "rarity": "Trainer Gallery Rare Holo",
   "apiId": "swsh9tg-TG02",
   "price": {
-   "trend": 22.73,
-   "avg7": 21.82,
-   "low": 9.5,
+   "trend": 21.46,
+   "trendLabel": "Cardmarket 7-day average",
+   "lowNm": 19,
+   "lowNmLabel": "lowest offer, Near Mint (EU)",
+   "countries": {
+    "DE": 19.99,
+    "FR": 19.5,
+    "ES": 29.99,
+    "IT": 10
+   },
+   "available": 434,
    "currency": "EUR",
-   "source": "cardmarket",
-   "url": "https://prices.pokemontcg.io/cardmarket/swsh9tg-TG02",
+   "source": "cardmarket-tcggo",
+   "url": "https://www.tcggo.com/external/cm/4882",
+   "tcggoUrl": "https://www.tcggo.com/pokemon/brilliant-stars/vaporeon-tg02",
+   "cardmarketId": 608734,
    "asOf": "2026-08-27"
   },
   "epick": {
@@ -229,7 +299,8 @@
    "currency": "EUR",
    "source": "e-pick retail",
    "url": "https://store.e-pick.xyz/products/psyduck-53",
-   "asOf": "2026-08-27"
+   "asOf": "2026-08-27",
+   "note": "pokemontcg.io trend (may lag; not in TCGGO coverage)"
   },
   "notes": "Set released Aug 2026; no Cardmarket market data yet. Price shown is e-pick retail (in stock there).",
   "epick": {
@@ -257,12 +328,22 @@
   "rarity": "Illustration Rare",
   "apiId": "sv10-193",
   "price": {
-   "trend": 38.11,
-   "avg7": 42.24,
-   "low": 27.5,
+   "trend": 53.36,
+   "trendLabel": "Cardmarket 7-day average",
+   "lowNm": 62,
+   "lowNmLabel": "lowest offer, Near Mint (EU)",
+   "countries": {
+    "DE": 39.99,
+    "FR": 63,
+    "ES": 30,
+    "IT": 23.84
+   },
+   "available": 682,
    "currency": "EUR",
-   "source": "cardmarket",
-   "url": "https://prices.pokemontcg.io/cardmarket/sv10-193",
+   "source": "cardmarket-tcggo",
+   "url": "https://www.tcggo.com/external/cm/22269",
+   "tcggoUrl": "https://www.tcggo.com/pokemon/destined-rivals/mistys-psyduck-193",
+   "cardmarketId": 826067,
    "asOf": "2026-08-27"
   },
   "epick": {
@@ -290,12 +371,22 @@
   "rarity": "Illustration Rare",
   "apiId": "sv3pt5-173",
   "price": {
-   "trend": 44.73,
-   "avg7": 44.13,
-   "low": 20.0,
+   "trend": 80.08,
+   "trendLabel": "Cardmarket 7-day average",
+   "lowNm": 86.95,
+   "lowNmLabel": "lowest offer, Near Mint (EU)",
+   "countries": {
+    "DE": 64.99,
+    "FR": 80,
+    "ES": 110,
+    "IT": 60
+   },
+   "available": 405,
    "currency": "EUR",
-   "source": "cardmarket",
-   "url": "https://prices.pokemontcg.io/cardmarket/sv3pt5-173",
+   "source": "cardmarket-tcggo",
+   "url": "https://www.tcggo.com/external/cm/2635",
+   "tcggoUrl": "https://www.tcggo.com/pokemon/151/pikachu-173",
+   "cardmarketId": 733768,
    "asOf": "2026-08-27"
   },
   "epick": {
@@ -330,12 +421,22 @@
   "rarity": "Special Illustration Rare",
   "apiId": "sv8-246",
   "price": {
-   "trend": 29.48,
-   "avg7": 30.76,
-   "low": 18.95,
+   "trend": 26.87,
+   "trendLabel": "Cardmarket 7-day average",
+   "lowNm": 26,
+   "lowNmLabel": "lowest offer, Near Mint (EU)",
+   "countries": {
+    "DE": 21,
+    "FR": 39.5,
+    "ES": 19.99,
+    "IT": 15
+   },
+   "available": 337,
    "currency": "EUR",
-   "source": "cardmarket",
-   "url": "https://prices.pokemontcg.io/cardmarket/sv8-246",
+   "source": "cardmarket-tcggo",
+   "url": "https://www.tcggo.com/external/cm/21034",
+   "tcggoUrl": "https://www.tcggo.com/pokemon/surging-sparks/lisias-appeal-246",
+   "cardmarketId": 794619,
    "asOf": "2026-08-27"
   },
   "epick": {
@@ -353,12 +454,22 @@
   "rarity": "Illustration Rare",
   "apiId": "sv10-203",
   "price": {
-   "trend": 22.32,
-   "avg7": 22.48,
-   "low": 14.0,
+   "trend": 20.8,
+   "trendLabel": "Cardmarket 7-day average",
+   "lowNm": 24.95,
+   "lowNmLabel": "lowest offer, Near Mint (EU)",
+   "countries": {
+    "DE": 16.98,
+    "FR": 34.5,
+    "ES": 15.99,
+    "IT": 9.99
+   },
+   "available": 701,
    "currency": "EUR",
-   "source": "cardmarket",
-   "url": "https://prices.pokemontcg.io/cardmarket/sv10-203",
+   "source": "cardmarket-tcggo",
+   "url": "https://www.tcggo.com/external/cm/22279",
+   "tcggoUrl": "https://www.tcggo.com/pokemon/destined-rivals/team-rockets-meowth-203",
+   "cardmarketId": 826077,
    "asOf": "2026-08-27"
   },
   "epick": {
@@ -376,12 +487,22 @@
   "rarity": "Illustration Rare",
   "apiId": "rsv10pt5-96",
   "price": {
-   "trend": 14.56,
-   "avg7": 13.78,
-   "low": 8.0,
+   "trend": 32.25,
+   "trendLabel": "Cardmarket 7-day average",
+   "lowNm": 27,
+   "lowNmLabel": "lowest offer, Near Mint (EU)",
+   "countries": {
+    "DE": 26,
+    "FR": 36,
+    "ES": 28,
+    "IT": 25
+   },
+   "available": 186,
    "currency": "EUR",
-   "source": "cardmarket",
-   "url": "https://prices.pokemontcg.io/cardmarket/rsv10pt5-96",
+   "source": "cardmarket-tcggo",
+   "url": "https://www.tcggo.com/external/cm/23354",
+   "tcggoUrl": "https://www.tcggo.com/pokemon/white-flare/tepig-96",
+   "cardmarketId": 836084,
    "asOf": "2026-08-27"
   },
   "epick": {
@@ -399,12 +520,22 @@
   "rarity": "Illustration Rare",
   "apiId": "zsv10pt5-129",
   "price": {
-   "trend": 13.53,
-   "avg7": 13.35,
-   "low": 7.5,
+   "trend": 34.87,
+   "trendLabel": "Cardmarket 7-day average",
+   "lowNm": 41.99,
+   "lowNmLabel": "lowest offer, Near Mint (EU)",
+   "countries": {
+    "DE": 30,
+    "FR": 26,
+    "ES": 25,
+    "IT": 14.99
+   },
+   "available": 152,
    "currency": "EUR",
-   "source": "cardmarket",
-   "url": "https://prices.pokemontcg.io/cardmarket/zsv10pt5-129",
+   "source": "cardmarket-tcggo",
+   "url": "https://www.tcggo.com/external/cm/23214",
+   "tcggoUrl": "https://www.tcggo.com/pokemon/black-bolt/dwebble-129",
+   "cardmarketId": 836174,
    "asOf": "2026-08-27"
   },
   "epick": {
@@ -422,12 +553,22 @@
   "rarity": "Promo",
   "apiId": "svp-206",
   "price": {
-   "trend": 19.1,
-   "avg7": 19.56,
-   "low": 11.0,
+   "trend": 30.05,
+   "trendLabel": "Cardmarket 7-day average",
+   "lowNm": 26.99,
+   "lowNmLabel": "lowest offer, Near Mint (EU)",
+   "countries": {
+    "DE": 24.99,
+    "FR": 40,
+    "ES": 22.5,
+    "IT": 14
+   },
+   "available": 327,
    "currency": "EUR",
-   "source": "cardmarket",
-   "url": "https://prices.pokemontcg.io/cardmarket/svp-206",
+   "source": "cardmarket-tcggo",
+   "url": "https://www.tcggo.com/external/cm/48066",
+   "tcggoUrl": "https://www.tcggo.com/pokemon/sv-black-star-promos/marnies-morpeko-1",
+   "cardmarketId": 813958,
    "asOf": "2026-08-27"
   },
   "epick": {
@@ -445,12 +586,22 @@
   "rarity": "Promo",
   "apiId": "svp-88",
   "price": {
-   "trend": 19.31,
-   "avg7": 17.37,
-   "low": 7.0,
+   "trend": 26.23,
+   "trendLabel": "Cardmarket 7-day average",
+   "lowNm": 25,
+   "lowNmLabel": "lowest offer, Near Mint (EU)",
+   "countries": {
+    "DE": 22.5,
+    "FR": 30.9,
+    "ES": 39.99,
+    "IT": 16.88
+   },
+   "available": 837,
    "currency": "EUR",
-   "source": "cardmarket",
-   "url": "https://prices.pokemontcg.io/cardmarket/svp-88",
+   "source": "cardmarket-tcggo",
+   "url": "https://www.tcggo.com/external/cm/3552",
+   "tcggoUrl": "https://www.tcggo.com/pokemon/sv-black-star-promos/pikachu-88",
+   "cardmarketId": 751813,
    "asOf": "2026-08-27"
   },
   "epick": {
@@ -468,12 +619,22 @@
   "rarity": "Illustration Rare",
   "apiId": "sv6-187",
   "price": {
-   "trend": 25.58,
-   "avg7": 27.09,
-   "low": 7.97,
+   "trend": 38.15,
+   "trendLabel": "Cardmarket 7-day average",
+   "lowNm": 40,
+   "lowNmLabel": "lowest offer, Near Mint (EU)",
+   "countries": {
+    "DE": 33,
+    "FR": 38,
+    "ES": 38,
+    "IT": 19
+   },
+   "available": 285,
    "currency": "EUR",
-   "source": "cardmarket",
-   "url": "https://prices.pokemontcg.io/cardmarket/sv6-187",
+   "source": "cardmarket-tcggo",
+   "url": "https://www.tcggo.com/external/cm/1715",
+   "tcggoUrl": "https://www.tcggo.com/pokemon/twilight-masquerade/chansey-187",
+   "cardmarketId": 769361,
    "asOf": "2026-08-27"
   },
   "epick": {
@@ -491,12 +652,22 @@
   "rarity": "Illustration Rare",
   "apiId": "zsv10pt5-95",
   "price": {
-   "trend": 6.75,
-   "avg7": 6.71,
-   "low": 4.0,
+   "trend": 12.82,
+   "trendLabel": "Cardmarket 7-day average",
+   "lowNm": 9.95,
+   "lowNmLabel": "lowest offer, Near Mint (EU)",
+   "countries": {
+    "DE": 8,
+    "FR": 8.5,
+    "ES": 9.5,
+    "IT": 4
+   },
+   "available": 147,
    "currency": "EUR",
-   "source": "cardmarket",
-   "url": "https://prices.pokemontcg.io/cardmarket/zsv10pt5-95",
+   "source": "cardmarket-tcggo",
+   "url": "https://www.tcggo.com/external/cm/23180",
+   "tcggoUrl": "https://www.tcggo.com/pokemon/black-bolt/foongus-95",
+   "cardmarketId": 836098,
    "asOf": "2026-08-27"
   },
   "epick": {
@@ -514,12 +685,22 @@
   "rarity": "Special Illustration Rare",
   "apiId": "rsv10pt5-165",
   "price": {
-   "trend": 18.59,
-   "avg7": 19.04,
-   "low": 15.0,
+   "trend": 24.52,
+   "trendLabel": "Cardmarket 7-day average",
+   "lowNm": 21.99,
+   "lowNmLabel": "lowest offer, Near Mint (EU)",
+   "countries": {
+    "DE": 28,
+    "FR": 30,
+    "ES": 20.85,
+    "IT": 13.5
+   },
+   "available": 158,
    "currency": "EUR",
-   "source": "cardmarket",
-   "url": "https://prices.pokemontcg.io/cardmarket/rsv10pt5-165",
+   "source": "cardmarket-tcggo",
+   "url": "https://www.tcggo.com/external/cm/23423",
+   "tcggoUrl": "https://www.tcggo.com/pokemon/white-flare/whimsicott-ex-165",
+   "cardmarketId": 836207,
    "asOf": "2026-08-27"
   },
   "epick": {
@@ -537,12 +718,22 @@
   "rarity": "Illustration Rare",
   "apiId": "sv2-226",
   "price": {
-   "trend": 25.41,
-   "avg7": 26.04,
-   "low": 11.95,
+   "trend": 38.34,
+   "trendLabel": "Cardmarket 7-day average",
+   "lowNm": 55,
+   "lowNmLabel": "lowest offer, Near Mint (EU)",
+   "countries": {
+    "DE": 38,
+    "FR": 28,
+    "ES": 64.98,
+    "IT": 18.99
+   },
+   "available": 182,
    "currency": "EUR",
-   "source": "cardmarket",
-   "url": "https://prices.pokemontcg.io/cardmarket/sv2-226",
+   "source": "cardmarket-tcggo",
+   "url": "https://www.tcggo.com/external/cm/3139",
+   "tcggoUrl": "https://www.tcggo.com/pokemon/paldea-evolved/maushold-226",
+   "cardmarketId": 715701,
    "asOf": "2026-08-27"
   },
   "epick": {
@@ -560,12 +751,22 @@
   "rarity": "Rare Ultra",
   "apiId": "sm10-195",
   "price": {
-   "trend": 10.89,
-   "avg7": 10.94,
-   "low": 2.9,
+   "trend": 14.52,
+   "trendLabel": "Cardmarket 7-day average",
+   "lowNm": 20,
+   "lowNmLabel": "lowest offer, Near Mint (EU)",
+   "countries": {
+    "DE": 15.99,
+    "FR": 14,
+    "ES": 14,
+    "IT": 6.65
+   },
+   "available": 62,
    "currency": "EUR",
-   "source": "cardmarket",
-   "url": "https://prices.pokemontcg.io/cardmarket/sm10-195",
+   "source": "cardmarket-tcggo",
+   "url": "https://www.tcggo.com/external/cm/8238",
+   "tcggoUrl": "https://www.tcggo.com/pokemon/unbroken-bonds/dedenne-gx-195",
+   "cardmarketId": 372477,
    "asOf": "2026-08-27"
   },
   "epick": {
@@ -583,12 +784,22 @@
   "rarity": "Trainer Gallery Rare Holo",
   "apiId": "swsh12pt5gg-GG10",
   "price": {
-   "trend": 59.49,
-   "avg7": 63.24,
-   "low": 39.0,
+   "trend": 64.28,
+   "trendLabel": "Cardmarket 7-day average",
+   "lowNm": 55,
+   "lowNmLabel": "lowest offer, Near Mint (EU)",
+   "countries": {
+    "DE": 59.99,
+    "FR": 60,
+    "ES": 60,
+    "IT": 49.95
+   },
+   "available": 418,
    "currency": "EUR",
-   "source": "cardmarket",
-   "url": "https://prices.pokemontcg.io/cardmarket/swsh12pt5gg-GG10",
+   "source": "cardmarket-tcggo",
+   "url": "https://www.tcggo.com/external/cm/3793",
+   "tcggoUrl": "https://www.tcggo.com/pokemon/crown-zenith/mew-gg10",
+   "cardmarketId": 691889,
    "asOf": "2026-08-27"
   },
   "epick": {
@@ -612,7 +823,8 @@
    "currency": "EUR",
    "source": "cardmarket",
    "url": "https://prices.pokemontcg.io/cardmarket/xyp-XY113",
-   "asOf": "2026-08-27"
+   "asOf": "2026-08-27",
+   "note": "pokemontcg.io trend (may lag; not in TCGGO coverage)"
   },
   "epick": {
    "matched": false

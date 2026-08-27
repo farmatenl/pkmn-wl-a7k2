@@ -1,0 +1,2136 @@
+[
+ {
+  "id": 23269,
+  "name": "Tepig",
+  "name_numbered": "Tepig 11",
+  "slug": "tepig",
+  "card_code_number": "WHT 11",
+  "type": "singles",
+  "card_number": 11,
+  "hp": 70,
+  "rarity": "Common",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "rsv10pt5-11",
+  "cardmarket_id": 835923,
+  "tcgplayer_id": 642126,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 0.02,
+    "lowest_near_mint_EU_only": 0.02,
+    "lowest_near_mint_DE": 0.02,
+    "lowest_near_mint_DE_EU_only": 0.02,
+    "lowest_near_mint_FR": 0.02,
+    "lowest_near_mint_FR_EU_only": 0.02,
+    "lowest_near_mint_ES": 0.02,
+    "lowest_near_mint_ES_EU_only": 0.02,
+    "lowest_near_mint_IT": 0.02,
+    "lowest_near_mint_IT_EU_only": 0.02,
+    "30d_average": 0.04,
+    "7d_average": 0.03,
+    "available_items": 12853,
+    "graded": []
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 0.18,
+    "mid_price": 0.1
+   }
+  },
+  "episode": {
+   "id": 224,
+   "name": "White Flare",
+   "slug": "white-flare",
+   "released_at": "2025-07-18",
+   "logo": "https://images.tcggo.com/tcggo/storage/23037/white-flare-logo.png",
+   "code": "WHT",
+   "cards_total": 173,
+   "cards_printed_total": 86,
+   "prices": {
+    "cardmarket": {
+     "total": 2370.51,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 2735.69,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 1,
+    "name": "Scarlet & Violet",
+    "slug": "scarlet-violet"
+   }
+  },
+  "artist": {
+   "id": 385,
+   "name": "Teeziro",
+   "slug": "teeziro"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/23238/tepig.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/white-flare/tepig-11",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/23269",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/23269"
+  }
+ },
+ {
+  "id": 23354,
+  "name": "Tepig",
+  "name_numbered": "Tepig 96",
+  "slug": "tepig",
+  "card_code_number": "WHT 96",
+  "type": "singles",
+  "card_number": 96,
+  "hp": 70,
+  "rarity": "Illustration Rare",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "rsv10pt5-96",
+  "cardmarket_id": 836084,
+  "tcgplayer_id": 642211,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 27,
+    "lowest_near_mint_EU_only": 27,
+    "lowest_near_mint_DE": 26,
+    "lowest_near_mint_DE_EU_only": 26,
+    "lowest_near_mint_FR": 36,
+    "lowest_near_mint_FR_EU_only": 36,
+    "lowest_near_mint_ES": 28,
+    "lowest_near_mint_ES_EU_only": 28,
+    "lowest_near_mint_IT": 25,
+    "lowest_near_mint_IT_EU_only": 25,
+    "30d_average": 32,
+    "7d_average": 32.25,
+    "available_items": 186,
+    "graded": {
+     "psa": {
+      "psa9": 69
+     },
+     "cgc": {
+      "cgc10": 100
+     }
+    }
+   },
+   "ebay": {
+    "currency": "USD",
+    "graded": {
+     "cgc": {
+      "9": {
+       "median_price": 30,
+       "sample_size": 1
+      }
+     },
+     "psa": {
+      "10": {
+       "median_price": 49.99,
+       "sample_size": 1
+      },
+      "8": {
+       "median_price": 18.03,
+       "sample_size": 1
+      }
+     }
+    }
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 34.5,
+    "mid_price": 17.74
+   }
+  },
+  "episode": {
+   "id": 224,
+   "name": "White Flare",
+   "slug": "white-flare",
+   "released_at": "2025-07-18",
+   "logo": "https://images.tcggo.com/tcggo/storage/23037/white-flare-logo.png",
+   "code": "WHT",
+   "cards_total": 173,
+   "cards_printed_total": 86,
+   "prices": {
+    "cardmarket": {
+     "total": 2370.51,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 2735.69,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 1,
+    "name": "Scarlet & Violet",
+    "slug": "scarlet-violet"
+   }
+  },
+  "artist": {
+   "id": 365,
+   "name": "Orca",
+   "slug": "orca"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/23323/tepig.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/white-flare/tepig-96",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/23354",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/23354"
+  }
+ },
+ {
+  "id": 23263,
+  "name": "Whimsicott ex",
+  "name_numbered": "Whimsicott ex 5",
+  "slug": "whimsicott-ex",
+  "card_code_number": "WHT 5",
+  "type": "singles",
+  "card_number": 5,
+  "hp": 230,
+  "rarity": "Double Rare",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "rsv10pt5-5",
+  "cardmarket_id": 835909,
+  "tcgplayer_id": 642120,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 0.05,
+    "lowest_near_mint_EU_only": 0.05,
+    "lowest_near_mint_DE": 0.05,
+    "lowest_near_mint_DE_EU_only": 0.1,
+    "lowest_near_mint_FR": 0.09,
+    "lowest_near_mint_FR_EU_only": 0.09,
+    "lowest_near_mint_ES": 0.1,
+    "lowest_near_mint_ES_EU_only": 0.1,
+    "lowest_near_mint_IT": 0.02,
+    "lowest_near_mint_IT_EU_only": 0.02,
+    "30d_average": 0.36,
+    "7d_average": 0.39,
+    "available_items": 4523,
+    "graded": []
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 0.5,
+    "mid_price": 0.63
+   }
+  },
+  "episode": {
+   "id": 224,
+   "name": "White Flare",
+   "slug": "white-flare",
+   "released_at": "2025-07-18",
+   "logo": "https://images.tcggo.com/tcggo/storage/23037/white-flare-logo.png",
+   "code": "WHT",
+   "cards_total": 173,
+   "cards_printed_total": 86,
+   "prices": {
+    "cardmarket": {
+     "total": 2370.51,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 2735.69,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 1,
+    "name": "Scarlet & Violet",
+    "slug": "scarlet-violet"
+   }
+  },
+  "artist": {
+   "id": 380,
+   "name": "5ban Graphics",
+   "slug": "5ban-graphics"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/23232/whimsicott-ex.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/white-flare/whimsicott-ex-5",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/23263",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/23263"
+  }
+ },
+ {
+  "id": 23415,
+  "name": "Whimsicott ex",
+  "name_numbered": "Whimsicott ex 157",
+  "slug": "whimsicott-ex",
+  "card_code_number": "WHT 157",
+  "type": "singles",
+  "card_number": 157,
+  "hp": 230,
+  "rarity": "Ultra Rare",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "rsv10pt5-157",
+  "cardmarket_id": 836195,
+  "tcgplayer_id": 642274,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 0.85,
+    "lowest_near_mint_EU_only": 0.85,
+    "lowest_near_mint_DE": 0.5,
+    "lowest_near_mint_DE_EU_only": 0.5,
+    "lowest_near_mint_FR": 0.85,
+    "lowest_near_mint_FR_EU_only": 0.99,
+    "lowest_near_mint_ES": 1,
+    "lowest_near_mint_ES_EU_only": 1,
+    "lowest_near_mint_IT": 0.2,
+    "lowest_near_mint_IT_EU_only": 0.2,
+    "30d_average": 1.13,
+    "7d_average": 1.21,
+    "available_items": 1068,
+    "graded": []
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 0.88,
+    "mid_price": 1.05
+   }
+  },
+  "episode": {
+   "id": 224,
+   "name": "White Flare",
+   "slug": "white-flare",
+   "released_at": "2025-07-18",
+   "logo": "https://images.tcggo.com/tcggo/storage/23037/white-flare-logo.png",
+   "code": "WHT",
+   "cards_total": 173,
+   "cards_printed_total": 86,
+   "prices": {
+    "cardmarket": {
+     "total": 2370.51,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 2744.07,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 1,
+    "name": "Scarlet & Violet",
+    "slug": "scarlet-violet"
+   }
+  },
+  "artist": {
+   "id": 380,
+   "name": "5ban Graphics",
+   "slug": "5ban-graphics"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/23384/whimsicott-ex.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/white-flare/whimsicott-ex-157",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/23415",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/23415"
+  }
+ },
+ {
+  "id": 23423,
+  "name": "Whimsicott ex",
+  "name_numbered": "Whimsicott ex 165",
+  "slug": "whimsicott-ex",
+  "card_code_number": "WHT 165",
+  "type": "singles",
+  "card_number": 165,
+  "hp": 230,
+  "rarity": "Special Illustration Rare",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "rsv10pt5-165",
+  "cardmarket_id": 836207,
+  "tcgplayer_id": 642282,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 21.99,
+    "lowest_near_mint_EU_only": 21.99,
+    "lowest_near_mint_DE": 28,
+    "lowest_near_mint_DE_EU_only": 28,
+    "lowest_near_mint_FR": 30,
+    "lowest_near_mint_FR_EU_only": 30,
+    "lowest_near_mint_ES": 20.85,
+    "lowest_near_mint_ES_EU_only": 20.85,
+    "lowest_near_mint_IT": 13.5,
+    "lowest_near_mint_IT_EU_only": 13.5,
+    "30d_average": 25.44,
+    "7d_average": 24.52,
+    "available_items": 158,
+    "graded": {
+     "psa": {
+      "psa10": 45,
+      "psa9": 45
+     },
+     "cgc": {
+      "cgc10": 67
+     }
+    }
+   },
+   "ebay": {
+    "currency": "USD",
+    "graded": {
+     "ace": {
+      "10": {
+       "median_price": 39.62,
+       "sample_size": 5
+      }
+     },
+     "cgc": {
+      "10": {
+       "median_price": 60.27,
+       "sample_size": 2
+      },
+      "9": {
+       "median_price": 8.59,
+       "sample_size": 1
+      }
+     },
+     "psa": {
+      "10": {
+       "median_price": 66.9,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 24.97,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 17.29,
+       "sample_size": 2
+      }
+     },
+     "tag": {
+      "10": {
+       "median_price": 64.75,
+       "sample_size": 3
+      },
+      "9": {
+       "median_price": 31.22,
+       "sample_size": 1
+      }
+     }
+    }
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 24.91,
+    "mid_price": 20.95
+   }
+  },
+  "episode": {
+   "id": 224,
+   "name": "White Flare",
+   "slug": "white-flare",
+   "released_at": "2025-07-18",
+   "logo": "https://images.tcggo.com/tcggo/storage/23037/white-flare-logo.png",
+   "code": "WHT",
+   "cards_total": 173,
+   "cards_printed_total": 86,
+   "prices": {
+    "cardmarket": {
+     "total": 2370.51,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 2744.07,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 1,
+    "name": "Scarlet & Violet",
+    "slug": "scarlet-violet"
+   }
+  },
+  "artist": {
+   "id": 497,
+   "name": "mele",
+   "slug": "mele"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/23392/whimsicott-ex.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/white-flare/whimsicott-ex-165",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/23423",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/23423"
+  }
+ },
+ {
+  "id": 23418,
+  "name": "Jellicent ex",
+  "name_numbered": "Jellicent ex 160",
+  "slug": "jellicent-ex",
+  "card_code_number": "WHT 160",
+  "type": "singles",
+  "card_number": 160,
+  "hp": 270,
+  "rarity": "Ultra Rare",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "rsv10pt5-160",
+  "cardmarket_id": 408724,
+  "tcgplayer_id": 642277,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 0.94,
+    "lowest_near_mint_EU_only": 0.9,
+    "lowest_near_mint_DE": 0.8,
+    "lowest_near_mint_DE_EU_only": 0.8,
+    "lowest_near_mint_FR": 0.5,
+    "lowest_near_mint_FR_EU_only": 0.5,
+    "lowest_near_mint_ES": 1,
+    "lowest_near_mint_ES_EU_only": 1,
+    "lowest_near_mint_IT": 0.15,
+    "lowest_near_mint_IT_EU_only": 0.15,
+    "30d_average": 1.2,
+    "7d_average": 1.19,
+    "available_items": 1017,
+    "graded": []
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 0.94,
+    "mid_price": 1.14
+   }
+  },
+  "episode": {
+   "id": 224,
+   "name": "White Flare",
+   "slug": "white-flare",
+   "released_at": "2025-07-18",
+   "logo": "https://images.tcggo.com/tcggo/storage/23037/white-flare-logo.png",
+   "code": "WHT",
+   "cards_total": 173,
+   "cards_printed_total": 86,
+   "prices": {
+    "cardmarket": {
+     "total": 2370.51,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 2744.07,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 1,
+    "name": "Scarlet & Violet",
+    "slug": "scarlet-violet"
+   }
+  },
+  "artist": {
+   "id": 489,
+   "name": "N-DESIGN Inc.",
+   "slug": "n-design-inc"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/23387/jellicent-ex.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/white-flare/jellicent-ex-160",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/23418",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/23418"
+  }
+ },
+ {
+  "id": 23430,
+  "name": "Reshiram ex",
+  "name_numbered": "Reshiram ex 173",
+  "slug": "reshiram-ex",
+  "card_code_number": "WHT 173",
+  "type": "singles",
+  "card_number": 173,
+  "hp": 230,
+  "rarity": "Black White Rare",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "rsv10pt5-173",
+  "cardmarket_id": 836227,
+  "tcgplayer_id": 642289,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 390,
+    "lowest_near_mint_EU_only": 390,
+    "lowest_near_mint_DE": 350,
+    "lowest_near_mint_DE_EU_only": 350,
+    "lowest_near_mint_FR": 379,
+    "lowest_near_mint_FR_EU_only": 379,
+    "lowest_near_mint_ES": 240,
+    "lowest_near_mint_ES_EU_only": 240,
+    "lowest_near_mint_IT": 250,
+    "lowest_near_mint_IT_EU_only": 250,
+    "30d_average": 482,
+    "7d_average": 380.98,
+    "available_items": 178,
+    "graded": {
+     "psa": {
+      "psa10": 1275,
+      "psa9": 450
+     },
+     "bgs": {
+      "bgs10": 750,
+      "bgs9": 445
+     },
+     "cgc": {
+      "cgc10": 350
+     }
+    }
+   },
+   "ebay": {
+    "currency": "USD",
+    "graded": {
+     "ace": {
+      "10": {
+       "median_price": 499.85,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 322.79,
+       "sample_size": 5
+      }
+     },
+     "bgs": {
+      "10": {
+       "median_price": 1819.28,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 305,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 276,
+       "sample_size": 1
+      }
+     },
+     "cgc": {
+      "10": {
+       "median_price": 612.97,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 400,
+       "sample_size": 5
+      }
+     },
+     "psa": {
+      "10": {
+       "median_price": 1134.31,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 362.59,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 303.86,
+       "sample_size": 5
+      },
+      "7": {
+       "median_price": 299.99,
+       "sample_size": 1
+      }
+     },
+     "tag": {
+      "10": {
+       "median_price": 1334.21,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 400,
+       "sample_size": 5
+      }
+     }
+    }
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 417.06,
+    "mid_price": 341.87
+   }
+  },
+  "episode": {
+   "id": 224,
+   "name": "White Flare",
+   "slug": "white-flare",
+   "released_at": "2025-07-18",
+   "logo": "https://images.tcggo.com/tcggo/storage/23037/white-flare-logo.png",
+   "code": "WHT",
+   "cards_total": 173,
+   "cards_printed_total": 86,
+   "prices": {
+    "cardmarket": {
+     "total": 2370.51,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 2744.07,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 1,
+    "name": "Scarlet & Violet",
+    "slug": "scarlet-violet"
+   }
+  },
+  "artist": {
+   "id": 380,
+   "name": "5ban Graphics",
+   "slug": "5ban-graphics"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/23399/reshiram-ex.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/white-flare/reshiram-ex-173",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/23430",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/23430"
+  }
+ },
+ {
+  "id": 23428,
+  "name": "Bouffalant ex",
+  "name_numbered": "Bouffalant ex 170",
+  "slug": "bouffalant-ex",
+  "card_code_number": "WHT 170",
+  "type": "singles",
+  "card_number": 170,
+  "hp": 220,
+  "rarity": "Special Illustration Rare",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "rsv10pt5-170",
+  "cardmarket_id": 836218,
+  "tcgplayer_id": 642287,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 16.5,
+    "lowest_near_mint_EU_only": 16.5,
+    "lowest_near_mint_DE": 16.8,
+    "lowest_near_mint_DE_EU_only": 16.9,
+    "lowest_near_mint_FR": 17.99,
+    "lowest_near_mint_FR_EU_only": 17.99,
+    "lowest_near_mint_ES": 25,
+    "lowest_near_mint_ES_EU_only": 25,
+    "lowest_near_mint_IT": 12.45,
+    "lowest_near_mint_IT_EU_only": 12.45,
+    "30d_average": 18.29,
+    "7d_average": 16.84,
+    "available_items": 211,
+    "graded": {
+     "psa": {
+      "psa10": 85
+     },
+     "bgs": {
+      "bgs10": 90,
+      "bgs9": 30
+     }
+    }
+   },
+   "ebay": {
+    "currency": "USD",
+    "graded": {
+     "ace": {
+      "10": {
+       "median_price": 37.77,
+       "sample_size": 5
+      }
+     },
+     "cgc": {
+      "10": {
+       "median_price": 23.24,
+       "sample_size": 4
+      }
+     },
+     "psa": {
+      "10": {
+       "median_price": 98.13,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 21.4,
+       "sample_size": 5
+      }
+     },
+     "tag": {
+      "10": {
+       "median_price": 93.75,
+       "sample_size": 2
+      },
+      "9": {
+       "median_price": 24.98,
+       "sample_size": 1
+      }
+     }
+    }
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 15.91,
+    "mid_price": 13.68
+   }
+  },
+  "episode": {
+   "id": 224,
+   "name": "White Flare",
+   "slug": "white-flare",
+   "released_at": "2025-07-18",
+   "logo": "https://images.tcggo.com/tcggo/storage/23037/white-flare-logo.png",
+   "code": "WHT",
+   "cards_total": 173,
+   "cards_printed_total": 86,
+   "prices": {
+    "cardmarket": {
+     "total": 2370.51,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 2744.07,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 1,
+    "name": "Scarlet & Violet",
+    "slug": "scarlet-violet"
+   }
+  },
+  "artist": {
+   "id": 148,
+   "name": "Rianti Hidayat",
+   "slug": "rianti-hidayat"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/23397/bouffalant-ex.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/white-flare/bouffalant-ex-170",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/23428",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/23428"
+  }
+ },
+ {
+  "id": 23427,
+  "name": "Hydreigon ex",
+  "name_numbered": "Hydreigon ex 169",
+  "slug": "hydreigon-ex",
+  "card_code_number": "WHT 169",
+  "type": "singles",
+  "card_number": 169,
+  "hp": 330,
+  "rarity": "Special Illustration Rare",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "rsv10pt5-169",
+  "cardmarket_id": 836216,
+  "tcgplayer_id": 642286,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 60,
+    "lowest_near_mint_EU_only": 60,
+    "lowest_near_mint_DE": 69.99,
+    "lowest_near_mint_DE_EU_only": 69.99,
+    "lowest_near_mint_FR": 65,
+    "lowest_near_mint_FR_EU_only": 65,
+    "lowest_near_mint_ES": 49,
+    "lowest_near_mint_ES_EU_only": 49,
+    "lowest_near_mint_IT": 37.9,
+    "lowest_near_mint_IT_EU_only": 37.9,
+    "30d_average": 75.36,
+    "7d_average": 71.98,
+    "available_items": 195,
+    "graded": {
+     "psa": {
+      "psa10": 140,
+      "psa9": 69
+     },
+     "bgs": {
+      "bgs10": 260
+     },
+     "cgc": {
+      "cgc10": 194
+     }
+    }
+   },
+   "ebay": {
+    "currency": "USD",
+    "graded": {
+     "ace": {
+      "10": {
+       "median_price": 103.17,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 57.86,
+       "sample_size": 3
+      }
+     },
+     "bgs": {
+      "10": {
+       "median_price": 449.99,
+       "sample_size": 1
+      },
+      "8": {
+       "median_price": 56.82,
+       "sample_size": 1
+      }
+     },
+     "cgc": {
+      "10": {
+       "median_price": 125.6,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 31.4,
+       "sample_size": 1
+      }
+     },
+     "psa": {
+      "10": {
+       "median_price": 215.3,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 71.77,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 71.58,
+       "sample_size": 4
+      },
+      "7": {
+       "median_price": 59.99,
+       "sample_size": 1
+      }
+     },
+     "tag": {
+      "10": {
+       "median_price": 224.28,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 67.28,
+       "sample_size": 4
+      }
+     }
+    }
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 69.14,
+    "mid_price": 64.78
+   }
+  },
+  "episode": {
+   "id": 224,
+   "name": "White Flare",
+   "slug": "white-flare",
+   "released_at": "2025-07-18",
+   "logo": "https://images.tcggo.com/tcggo/storage/23037/white-flare-logo.png",
+   "code": "WHT",
+   "cards_total": 173,
+   "cards_printed_total": 86,
+   "prices": {
+    "cardmarket": {
+     "total": 2370.51,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 2744.07,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 1,
+    "name": "Scarlet & Violet",
+    "slug": "scarlet-violet"
+   }
+  },
+  "artist": {
+   "id": 388,
+   "name": "Takumi Wada",
+   "slug": "takumi-wada"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/23396/hydreigon-ex.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/white-flare/hydreigon-ex-169",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/23427",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/23427"
+  }
+ },
+ {
+  "id": 23426,
+  "name": "Jellicent ex",
+  "name_numbered": "Jellicent ex 168",
+  "slug": "jellicent-ex",
+  "card_code_number": "WHT 168",
+  "type": "singles",
+  "card_number": 168,
+  "hp": 270,
+  "rarity": "Special Illustration Rare",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "rsv10pt5-168",
+  "cardmarket_id": 836214,
+  "tcgplayer_id": 642285,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 22.93,
+    "lowest_near_mint_EU_only": 22.93,
+    "lowest_near_mint_DE": 22,
+    "lowest_near_mint_DE_EU_only": 22,
+    "lowest_near_mint_FR": 22,
+    "lowest_near_mint_FR_EU_only": 22,
+    "lowest_near_mint_ES": 22,
+    "lowest_near_mint_ES_EU_only": 22,
+    "lowest_near_mint_IT": 16.95,
+    "lowest_near_mint_IT_EU_only": 16.95,
+    "30d_average": 24.8,
+    "7d_average": 22.36,
+    "available_items": 228,
+    "graded": {
+     "psa": {
+      "psa10": 98,
+      "psa9": 47
+     },
+     "bgs": {
+      "bgs10pristine": 250
+     },
+     "cgc": {
+      "cgc10": 80
+     }
+    }
+   },
+   "ebay": {
+    "currency": "USD",
+    "graded": {
+     "ace": {
+      "10": {
+       "median_price": 40.88,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 18.28,
+       "sample_size": 1
+      }
+     },
+     "cgc": {
+      "10": {
+       "median_price": 19.36,
+       "sample_size": 1
+      },
+      "9": {
+       "median_price": 15.49,
+       "sample_size": 2
+      }
+     },
+     "psa": {
+      "10": {
+       "median_price": 80.74,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 24.73,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 22.9,
+       "sample_size": 2
+      }
+     },
+     "tag": {
+      "10": {
+       "median_price": 80,
+       "sample_size": 3
+      }
+     }
+    }
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 22.97,
+    "mid_price": 25.26
+   }
+  },
+  "episode": {
+   "id": 224,
+   "name": "White Flare",
+   "slug": "white-flare",
+   "released_at": "2025-07-18",
+   "logo": "https://images.tcggo.com/tcggo/storage/23037/white-flare-logo.png",
+   "code": "WHT",
+   "cards_total": 173,
+   "cards_printed_total": 86,
+   "prices": {
+    "cardmarket": {
+     "total": 2370.51,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 2744.07,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 1,
+    "name": "Scarlet & Violet",
+    "slug": "scarlet-violet"
+   }
+  },
+  "artist": {
+   "id": 774,
+   "name": "Narano",
+   "slug": "narano"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/23395/jellicent-ex.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/white-flare/jellicent-ex-168",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/23426",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/23426"
+  }
+ },
+ {
+  "id": 23425,
+  "name": "Keldeo ex",
+  "name_numbered": "Keldeo ex 167",
+  "slug": "keldeo-ex",
+  "card_code_number": "WHT 167",
+  "type": "singles",
+  "card_number": 167,
+  "hp": 210,
+  "rarity": "Special Illustration Rare",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "rsv10pt5-167",
+  "cardmarket_id": 836211,
+  "tcgplayer_id": 642284,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 45,
+    "lowest_near_mint_EU_only": 45,
+    "lowest_near_mint_DE": 47.99,
+    "lowest_near_mint_DE_EU_only": 47.99,
+    "lowest_near_mint_FR": 89,
+    "lowest_near_mint_FR_EU_only": 89,
+    "lowest_near_mint_ES": 44,
+    "lowest_near_mint_ES_EU_only": 44,
+    "lowest_near_mint_IT": 38.71,
+    "lowest_near_mint_IT_EU_only": 38.71,
+    "30d_average": 68.71,
+    "7d_average": 47.34,
+    "available_items": 180,
+    "graded": {
+     "psa": {
+      "psa10": 229
+     },
+     "bgs": {
+      "bgs10": 400
+     },
+     "cgc": {
+      "cgc10": 156
+     }
+    }
+   },
+   "ebay": {
+    "currency": "USD",
+    "graded": {
+     "ace": {
+      "10": {
+       "median_price": 99.25,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 34.68,
+       "sample_size": 1
+      }
+     },
+     "bgs": {
+      "9": {
+       "median_price": 58.64,
+       "sample_size": 2
+      },
+      "8": {
+       "median_price": 42.3,
+       "sample_size": 1
+      }
+     },
+     "cgc": {
+      "10": {
+       "median_price": 89.71,
+       "sample_size": 5
+      }
+     },
+     "psa": {
+      "10": {
+       "median_price": 167.84,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 70.87,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 44.14,
+       "sample_size": 5
+      },
+      "7": {
+       "median_price": 29.04,
+       "sample_size": 1
+      }
+     },
+     "tag": {
+      "10": {
+       "median_price": 143.5,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 57.88,
+       "sample_size": 2
+      }
+     }
+    }
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 66.73,
+    "mid_price": 49.56
+   }
+  },
+  "episode": {
+   "id": 224,
+   "name": "White Flare",
+   "slug": "white-flare",
+   "released_at": "2025-07-18",
+   "logo": "https://images.tcggo.com/tcggo/storage/23037/white-flare-logo.png",
+   "code": "WHT",
+   "cards_total": 173,
+   "cards_printed_total": 86,
+   "prices": {
+    "cardmarket": {
+     "total": 2370.51,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 2744.07,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 1,
+    "name": "Scarlet & Violet",
+    "slug": "scarlet-violet"
+   }
+  },
+  "artist": {
+   "id": 409,
+   "name": "Yuu Nishida",
+   "slug": "yuu-nishida"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/23394/keldeo-ex.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/white-flare/keldeo-ex-167",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/23425",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/23425"
+  }
+ },
+ {
+  "id": 23424,
+  "name": "Reshiram ex",
+  "name_numbered": "Reshiram ex 166",
+  "slug": "reshiram-ex",
+  "card_code_number": "WHT 166",
+  "type": "singles",
+  "card_number": 166,
+  "hp": 230,
+  "rarity": "Special Illustration Rare",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "rsv10pt5-166",
+  "cardmarket_id": 836209,
+  "tcgplayer_id": 642283,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 155,
+    "lowest_near_mint_EU_only": 155,
+    "lowest_near_mint_DE": 170,
+    "lowest_near_mint_DE_EU_only": 170,
+    "lowest_near_mint_FR": 230,
+    "lowest_near_mint_FR_EU_only": 230,
+    "lowest_near_mint_ES": 129.95,
+    "lowest_near_mint_ES_EU_only": 129.95,
+    "lowest_near_mint_IT": 145,
+    "lowest_near_mint_IT_EU_only": 145,
+    "30d_average": 239.34,
+    "7d_average": 227.72,
+    "available_items": 232,
+    "graded": []
+   },
+   "ebay": {
+    "currency": "USD",
+    "graded": {
+     "ace": {
+      "10": {
+       "median_price": 169.93,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 118.11,
+       "sample_size": 5
+      },
+      "7": {
+       "median_price": 100,
+       "sample_size": 1
+      }
+     },
+     "bgs": {
+      "10": {
+       "median_price": 528.98,
+       "sample_size": 2
+      },
+      "9": {
+       "median_price": 202.12,
+       "sample_size": 2
+      },
+      "8": {
+       "median_price": 177.94,
+       "sample_size": 1
+      }
+     },
+     "cgc": {
+      "10": {
+       "median_price": 409.23,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 177.94,
+       "sample_size": 1
+      }
+     },
+     "psa": {
+      "10": {
+       "median_price": 453.76,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 185.95,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 140.19,
+       "sample_size": 5
+      },
+      "7": {
+       "median_price": 119.23,
+       "sample_size": 4
+      }
+     },
+     "tag": {
+      "10": {
+       "median_price": 437.38,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 133.11,
+       "sample_size": 3
+      }
+     }
+    }
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 174.74,
+    "mid_price": 156.66
+   }
+  },
+  "episode": {
+   "id": 224,
+   "name": "White Flare",
+   "slug": "white-flare",
+   "released_at": "2025-07-18",
+   "logo": "https://images.tcggo.com/tcggo/storage/23037/white-flare-logo.png",
+   "code": "WHT",
+   "cards_total": 173,
+   "cards_printed_total": 86,
+   "prices": {
+    "cardmarket": {
+     "total": 2370.51,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 2735.69,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 1,
+    "name": "Scarlet & Violet",
+    "slug": "scarlet-violet"
+   }
+  },
+  "artist": {
+   "id": 408,
+   "name": "kawayoo",
+   "slug": "kawayoo"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/23393/reshiram-ex.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/white-flare/reshiram-ex-166",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/23424",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/23424"
+  }
+ },
+ {
+  "id": 23420,
+  "name": "Bouffalant ex",
+  "name_numbered": "Bouffalant ex 162",
+  "slug": "bouffalant-ex",
+  "card_code_number": "WHT 162",
+  "type": "singles",
+  "card_number": 162,
+  "hp": 220,
+  "rarity": "Ultra Rare",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "rsv10pt5-162",
+  "cardmarket_id": 836202,
+  "tcgplayer_id": 642279,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 0.35,
+    "lowest_near_mint_EU_only": 0.35,
+    "lowest_near_mint_DE": 0.75,
+    "lowest_near_mint_DE_EU_only": 0.75,
+    "lowest_near_mint_FR": 0.9,
+    "lowest_near_mint_FR_EU_only": 0.95,
+    "lowest_near_mint_ES": 0.7,
+    "lowest_near_mint_ES_EU_only": 0.7,
+    "lowest_near_mint_IT": 0.18,
+    "lowest_near_mint_IT_EU_only": 0.18,
+    "30d_average": 0.99,
+    "7d_average": 1.08,
+    "available_items": 1023,
+    "graded": []
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 0.85,
+    "mid_price": 0.85
+   }
+  },
+  "episode": {
+   "id": 224,
+   "name": "White Flare",
+   "slug": "white-flare",
+   "released_at": "2025-07-18",
+   "logo": "https://images.tcggo.com/tcggo/storage/23037/white-flare-logo.png",
+   "code": "WHT",
+   "cards_total": 173,
+   "cards_printed_total": 86,
+   "prices": {
+    "cardmarket": {
+     "total": 2370.51,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 2744.07,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 1,
+    "name": "Scarlet & Violet",
+    "slug": "scarlet-violet"
+   }
+  },
+  "artist": {
+   "id": 489,
+   "name": "N-DESIGN Inc.",
+   "slug": "n-design-inc"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/23389/bouffalant-ex.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/white-flare/bouffalant-ex-162",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/23420",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/23420"
+  }
+ },
+ {
+  "id": 23419,
+  "name": "Hydreigon ex",
+  "name_numbered": "Hydreigon ex 161",
+  "slug": "hydreigon-ex",
+  "card_code_number": "WHT 161",
+  "type": "singles",
+  "card_number": 161,
+  "hp": 330,
+  "rarity": "Ultra Rare",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "rsv10pt5-161",
+  "cardmarket_id": 836201,
+  "tcgplayer_id": 642278,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 0.8,
+    "lowest_near_mint_EU_only": 0.8,
+    "lowest_near_mint_DE": 0.9,
+    "lowest_near_mint_DE_EU_only": 0.9,
+    "lowest_near_mint_FR": 1,
+    "lowest_near_mint_FR_EU_only": 1,
+    "lowest_near_mint_ES": 1.95,
+    "lowest_near_mint_ES_EU_only": 1.95,
+    "lowest_near_mint_IT": 0.45,
+    "lowest_near_mint_IT_EU_only": 0.45,
+    "30d_average": 1.28,
+    "7d_average": 1.06,
+    "available_items": 912,
+    "graded": []
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 1.11,
+    "mid_price": 1.14
+   }
+  },
+  "episode": {
+   "id": 224,
+   "name": "White Flare",
+   "slug": "white-flare",
+   "released_at": "2025-07-18",
+   "logo": "https://images.tcggo.com/tcggo/storage/23037/white-flare-logo.png",
+   "code": "WHT",
+   "cards_total": 173,
+   "cards_printed_total": 86,
+   "prices": {
+    "cardmarket": {
+     "total": 2370.51,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 2744.07,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 1,
+    "name": "Scarlet & Violet",
+    "slug": "scarlet-violet"
+   }
+  },
+  "artist": {
+   "id": 380,
+   "name": "5ban Graphics",
+   "slug": "5ban-graphics"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/23388/hydreigon-ex.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/white-flare/hydreigon-ex-161",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/23419",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/23419"
+  }
+ },
+ {
+  "id": 23417,
+  "name": "Keldeo ex",
+  "name_numbered": "Keldeo ex 159",
+  "slug": "keldeo-ex",
+  "card_code_number": "WHT 159",
+  "type": "singles",
+  "card_number": 159,
+  "hp": 210,
+  "rarity": "Ultra Rare",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "rsv10pt5-159",
+  "cardmarket_id": 836198,
+  "tcgplayer_id": 642276,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 0.7,
+    "lowest_near_mint_EU_only": 0.7,
+    "lowest_near_mint_DE": 0.95,
+    "lowest_near_mint_DE_EU_only": 0.95,
+    "lowest_near_mint_FR": 1,
+    "lowest_near_mint_FR_EU_only": 1,
+    "lowest_near_mint_ES": 1.15,
+    "lowest_near_mint_ES_EU_only": 1.15,
+    "lowest_near_mint_IT": 0.4,
+    "lowest_near_mint_IT_EU_only": 0.4,
+    "30d_average": 1.32,
+    "7d_average": 1.17,
+    "available_items": 915,
+    "graded": []
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 1.23,
+    "mid_price": 1.21
+   }
+  },
+  "episode": {
+   "id": 224,
+   "name": "White Flare",
+   "slug": "white-flare",
+   "released_at": "2025-07-18",
+   "logo": "https://images.tcggo.com/tcggo/storage/23037/white-flare-logo.png",
+   "code": "WHT",
+   "cards_total": 173,
+   "cards_printed_total": 86,
+   "prices": {
+    "cardmarket": {
+     "total": 2370.51,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 2744.07,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 1,
+    "name": "Scarlet & Violet",
+    "slug": "scarlet-violet"
+   }
+  },
+  "artist": {
+   "id": 489,
+   "name": "N-DESIGN Inc.",
+   "slug": "n-design-inc"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/23386/keldeo-ex.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/white-flare/keldeo-ex-159",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/23417",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/23417"
+  }
+ },
+ {
+  "id": 23416,
+  "name": "Reshiram ex",
+  "name_numbered": "Reshiram ex 158",
+  "slug": "reshiram-ex",
+  "card_code_number": "WHT 158",
+  "type": "singles",
+  "card_number": 158,
+  "hp": 230,
+  "rarity": "Ultra Rare",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "rsv10pt5-158",
+  "cardmarket_id": 836196,
+  "tcgplayer_id": 642275,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 1.49,
+    "lowest_near_mint_EU_only": 1.49,
+    "lowest_near_mint_DE": 2.49,
+    "lowest_near_mint_DE_EU_only": 2.7,
+    "lowest_near_mint_FR": 2.5,
+    "lowest_near_mint_FR_EU_only": 2.5,
+    "lowest_near_mint_ES": 3,
+    "lowest_near_mint_ES_EU_only": 3,
+    "lowest_near_mint_IT": 0.8,
+    "lowest_near_mint_IT_EU_only": 0.8,
+    "30d_average": 2.73,
+    "7d_average": 2.55,
+    "available_items": 599,
+    "graded": []
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 2.96,
+    "mid_price": 2.3
+   }
+  },
+  "episode": {
+   "id": 224,
+   "name": "White Flare",
+   "slug": "white-flare",
+   "released_at": "2025-07-18",
+   "logo": "https://images.tcggo.com/tcggo/storage/23037/white-flare-logo.png",
+   "code": "WHT",
+   "cards_total": 173,
+   "cards_printed_total": 86,
+   "prices": {
+    "cardmarket": {
+     "total": 2370.51,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 2735.69,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 1,
+    "name": "Scarlet & Violet",
+    "slug": "scarlet-violet"
+   }
+  },
+  "artist": {
+   "id": 380,
+   "name": "5ban Graphics",
+   "slug": "5ban-graphics"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/23385/reshiram-ex.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/white-flare/reshiram-ex-158",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/23416",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/23416"
+  }
+ },
+ {
+  "id": 23335,
+  "name": "Bouffalant ex",
+  "name_numbered": "Bouffalant ex 77",
+  "slug": "bouffalant-ex",
+  "card_code_number": "WHT 77",
+  "type": "singles",
+  "card_number": 77,
+  "hp": 220,
+  "rarity": "Double Rare",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "rsv10pt5-77",
+  "cardmarket_id": 836042,
+  "tcgplayer_id": 642190,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 0.03,
+    "lowest_near_mint_EU_only": 0.03,
+    "lowest_near_mint_DE": 0.1,
+    "lowest_near_mint_DE_EU_only": 0.1,
+    "lowest_near_mint_FR": 0.1,
+    "lowest_near_mint_FR_EU_only": 0.1,
+    "lowest_near_mint_ES": 0.05,
+    "lowest_near_mint_ES_EU_only": 0.1,
+    "lowest_near_mint_IT": 0.02,
+    "lowest_near_mint_IT_EU_only": 0.02,
+    "30d_average": 0.43,
+    "7d_average": 0.51,
+    "available_items": 4436,
+    "graded": []
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 0.5,
+    "mid_price": 0.6
+   }
+  },
+  "episode": {
+   "id": 224,
+   "name": "White Flare",
+   "slug": "white-flare",
+   "released_at": "2025-07-18",
+   "logo": "https://images.tcggo.com/tcggo/storage/23037/white-flare-logo.png",
+   "code": "WHT",
+   "cards_total": 173,
+   "cards_printed_total": 86,
+   "prices": {
+    "cardmarket": {
+     "total": 2370.51,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 2735.69,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 1,
+    "name": "Scarlet & Violet",
+    "slug": "scarlet-violet"
+   }
+  },
+  "artist": {
+   "id": 475,
+   "name": "PLANETA Tsuji",
+   "slug": "planeta-tsuji"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/23304/bouffalant-ex.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/white-flare/bouffalant-ex-77",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/23335",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/23335"
+  }
+ },
+ {
+  "id": 23325,
+  "name": "Hydreigon ex",
+  "name_numbered": "Hydreigon ex 67",
+  "slug": "hydreigon-ex",
+  "card_code_number": "WHT 67",
+  "type": "singles",
+  "card_number": 67,
+  "hp": 330,
+  "rarity": "Double Rare",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "rsv10pt5-67",
+  "cardmarket_id": 836027,
+  "tcgplayer_id": 642177,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 0.1,
+    "lowest_near_mint_EU_only": 0.1,
+    "lowest_near_mint_DE": 0.08,
+    "lowest_near_mint_DE_EU_only": 0.08,
+    "lowest_near_mint_FR": 0.1,
+    "lowest_near_mint_FR_EU_only": 0.1,
+    "lowest_near_mint_ES": 0.1,
+    "lowest_near_mint_ES_EU_only": 0.1,
+    "lowest_near_mint_IT": 0.04,
+    "lowest_near_mint_IT_EU_only": 0.04,
+    "30d_average": 0.37,
+    "7d_average": 0.37,
+    "available_items": 4185,
+    "graded": []
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 0.55,
+    "mid_price": 0.63
+   }
+  },
+  "episode": {
+   "id": 224,
+   "name": "White Flare",
+   "slug": "white-flare",
+   "released_at": "2025-07-18",
+   "logo": "https://images.tcggo.com/tcggo/storage/23037/white-flare-logo.png",
+   "code": "WHT",
+   "cards_total": 173,
+   "cards_printed_total": 86,
+   "prices": {
+    "cardmarket": {
+     "total": 2370.51,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 2735.69,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 1,
+    "name": "Scarlet & Violet",
+    "slug": "scarlet-violet"
+   }
+  },
+  "artist": {
+   "id": 380,
+   "name": "5ban Graphics",
+   "slug": "5ban-graphics"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/23294/hydreigon-ex.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/white-flare/hydreigon-ex-67",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/23325",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/23325"
+  }
+ },
+ {
+  "id": 23303,
+  "name": "Jellicent ex",
+  "name_numbered": "Jellicent ex 45",
+  "slug": "jellicent-ex",
+  "card_code_number": "WHT 45",
+  "type": "singles",
+  "card_number": 45,
+  "hp": 270,
+  "rarity": "Double Rare",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "rsv10pt5-45",
+  "cardmarket_id": 835984,
+  "tcgplayer_id": 642157,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 0.09,
+    "lowest_near_mint_EU_only": 0.09,
+    "lowest_near_mint_DE": 0.15,
+    "lowest_near_mint_DE_EU_only": 0.15,
+    "lowest_near_mint_FR": 0.15,
+    "lowest_near_mint_FR_EU_only": 0.1,
+    "lowest_near_mint_ES": 0.15,
+    "lowest_near_mint_ES_EU_only": 0.15,
+    "lowest_near_mint_IT": 0.04,
+    "lowest_near_mint_IT_EU_only": 0.04,
+    "30d_average": 0.49,
+    "7d_average": 0.59,
+    "available_items": 3612,
+    "graded": []
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 0.56,
+    "mid_price": 0.65
+   }
+  },
+  "episode": {
+   "id": 224,
+   "name": "White Flare",
+   "slug": "white-flare",
+   "released_at": "2025-07-18",
+   "logo": "https://images.tcggo.com/tcggo/storage/23037/white-flare-logo.png",
+   "code": "WHT",
+   "cards_total": 173,
+   "cards_printed_total": 86,
+   "prices": {
+    "cardmarket": {
+     "total": 2370.51,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 2735.69,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 1,
+    "name": "Scarlet & Violet",
+    "slug": "scarlet-violet"
+   }
+  },
+  "artist": {
+   "id": 511,
+   "name": "PLANETA Igarashi",
+   "slug": "planeta-igarashi"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/23272/jellicent-ex.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/white-flare/jellicent-ex-45",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/23303",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/23303"
+  }
+ },
+ {
+  "id": 23288,
+  "name": "Keldeo ex",
+  "name_numbered": "Keldeo ex 30",
+  "slug": "keldeo-ex",
+  "card_code_number": "WHT 30",
+  "type": "singles",
+  "card_number": 30,
+  "hp": 210,
+  "rarity": "Double Rare",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "rsv10pt5-30",
+  "cardmarket_id": 835962,
+  "tcgplayer_id": 642142,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 0.02,
+    "lowest_near_mint_EU_only": 0.02,
+    "lowest_near_mint_DE": 0.08,
+    "lowest_near_mint_DE_EU_only": 0.08,
+    "lowest_near_mint_FR": 0.11,
+    "lowest_near_mint_FR_EU_only": 0.11,
+    "lowest_near_mint_ES": 0.05,
+    "lowest_near_mint_ES_EU_only": 0.05,
+    "lowest_near_mint_IT": 0.02,
+    "lowest_near_mint_IT_EU_only": 0.02,
+    "30d_average": 0.38,
+    "7d_average": 0.37,
+    "available_items": 4219,
+    "graded": []
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 0.46,
+    "mid_price": 0.64
+   }
+  },
+  "episode": {
+   "id": 224,
+   "name": "White Flare",
+   "slug": "white-flare",
+   "released_at": "2025-07-18",
+   "logo": "https://images.tcggo.com/tcggo/storage/23037/white-flare-logo.png",
+   "code": "WHT",
+   "cards_total": 173,
+   "cards_printed_total": 86,
+   "prices": {
+    "cardmarket": {
+     "total": 2370.51,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 2735.69,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 1,
+    "name": "Scarlet & Violet",
+    "slug": "scarlet-violet"
+   }
+  },
+  "artist": {
+   "id": 411,
+   "name": "PLANETA Yamashita",
+   "slug": "planeta-yamashita"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/23257/keldeo-ex.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/white-flare/keldeo-ex-30",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/23288",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/23288"
+  }
+ },
+ {
+  "id": 23278,
+  "name": "Reshiram ex",
+  "name_numbered": "Reshiram ex 20",
+  "slug": "reshiram-ex",
+  "card_code_number": "WHT 20",
+  "type": "singles",
+  "card_number": 20,
+  "hp": 230,
+  "rarity": "Double Rare",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "rsv10pt5-20",
+  "cardmarket_id": 835938,
+  "tcgplayer_id": 642132,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 0.1,
+    "lowest_near_mint_EU_only": 0.1,
+    "lowest_near_mint_DE": 0.1,
+    "lowest_near_mint_DE_EU_only": 0.1,
+    "lowest_near_mint_FR": 0.2,
+    "lowest_near_mint_FR_EU_only": 0.2,
+    "lowest_near_mint_ES": 0.15,
+    "lowest_near_mint_ES_EU_only": 0.15,
+    "lowest_near_mint_IT": 0.05,
+    "lowest_near_mint_IT_EU_only": 0.05,
+    "30d_average": 0.54,
+    "7d_average": 0.63,
+    "available_items": 3971,
+    "graded": []
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 0.55,
+    "mid_price": 0.64
+   }
+  },
+  "episode": {
+   "id": 224,
+   "name": "White Flare",
+   "slug": "white-flare",
+   "released_at": "2025-07-18",
+   "logo": "https://images.tcggo.com/tcggo/storage/23037/white-flare-logo.png",
+   "code": "WHT",
+   "cards_total": 173,
+   "cards_printed_total": 86,
+   "prices": {
+    "cardmarket": {
+     "total": 2370.51,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 2735.69,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 1,
+    "name": "Scarlet & Violet",
+    "slug": "scarlet-violet"
+   }
+  },
+  "artist": {
+   "id": 380,
+   "name": "5ban Graphics",
+   "slug": "5ban-graphics"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/23247/reshiram-ex.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/white-flare/reshiram-ex-20",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/23278",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/23278"
+  }
+ }
+]

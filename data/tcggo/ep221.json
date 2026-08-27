@@ -1,0 +1,705 @@
+[
+ {
+  "id": 22225,
+  "name": "Team Rocket's Meowth",
+  "name_numbered": "Team Rocket's Meowth 149",
+  "slug": "team-rockets-meowth",
+  "card_code_number": "DRI 149",
+  "type": "singles",
+  "card_number": 149,
+  "hp": 70,
+  "rarity": "Common",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "sv10-149",
+  "cardmarket_id": 826023,
+  "tcgplayer_id": 630825,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 0.02,
+    "lowest_near_mint_EU_only": 0.02,
+    "lowest_near_mint_DE": 0.02,
+    "lowest_near_mint_DE_EU_only": 0.02,
+    "lowest_near_mint_FR": 0.02,
+    "lowest_near_mint_FR_EU_only": 0.02,
+    "lowest_near_mint_ES": 0.02,
+    "lowest_near_mint_ES_EU_only": 0.02,
+    "lowest_near_mint_IT": 0.02,
+    "lowest_near_mint_IT_EU_only": 0.02,
+    "30d_average": 0.05,
+    "7d_average": 0.05,
+    "available_items": 14822,
+    "graded": []
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 0.19,
+    "mid_price": 0.14
+   }
+  },
+  "episode": {
+   "id": 221,
+   "name": "Destined Rivals",
+   "slug": "destined-rivals",
+   "released_at": "2025-05-30",
+   "logo": "https://images.tcggo.com/tcggo/storage/22104/destined-rivals-logo.png",
+   "code": "DRI",
+   "cards_total": 244,
+   "cards_printed_total": 182,
+   "prices": {
+    "cardmarket": {
+     "total": 1610.49,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 1587.11,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 1,
+    "name": "Scarlet & Violet",
+    "slug": "scarlet-violet"
+   }
+  },
+  "artist": {
+   "id": 520,
+   "name": "Megumi Mizutani",
+   "slug": "megumi-mizutani"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/22254/team-rockets-meowth-dri-149-destined-rivals.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/destined-rivals/team-rockets-meowth-149",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/22225",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/22225"
+  }
+ },
+ {
+  "id": 22279,
+  "name": "Team Rocket's Meowth",
+  "name_numbered": "Team Rocket's Meowth 203",
+  "slug": "team-rockets-meowth",
+  "card_code_number": "DRI 203",
+  "type": "singles",
+  "card_number": 203,
+  "hp": 70,
+  "rarity": "Illustration Rare",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "sv10-203",
+  "cardmarket_id": 826077,
+  "tcgplayer_id": 633003,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 21.67,
+    "lowest_near_mint_EU_only": 24.95,
+    "lowest_near_mint_DE": 16.98,
+    "lowest_near_mint_DE_EU_only": 16.98,
+    "lowest_near_mint_FR": 34.5,
+    "lowest_near_mint_FR_EU_only": 34.5,
+    "lowest_near_mint_ES": 15.99,
+    "lowest_near_mint_ES_EU_only": 15.99,
+    "lowest_near_mint_IT": 9.99,
+    "lowest_near_mint_IT_EU_only": 9.99,
+    "30d_average": 21.83,
+    "7d_average": 20.8,
+    "available_items": 701,
+    "graded": {
+     "psa": {
+      "psa10": 300,
+      "psa9": 67,
+      "psa8": 40
+     },
+     "bgs": {
+      "bgs10": 140,
+      "bgs9": 65
+     },
+     "cgc": {
+      "cgc10": 235
+     }
+    }
+   },
+   "ebay": {
+    "currency": "USD",
+    "graded": {
+     "ace": {
+      "10": {
+       "median_price": 83.25,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 29.68,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 13.38,
+       "sample_size": 1
+      }
+     },
+     "bgs": {
+      "9": {
+       "median_price": 35.69,
+       "sample_size": 4
+      }
+     },
+     "cgc": {
+      "10": {
+       "median_price": 66.9,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 35.23,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 15.98,
+       "sample_size": 1
+      }
+     },
+     "psa": {
+      "10": {
+       "median_price": 245.31,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 31.22,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 25.77,
+       "sample_size": 5
+      }
+     },
+     "tag": {
+      "10": {
+       "median_price": 180.22,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 42.37,
+       "sample_size": 5
+      },
+      "7": {
+       "median_price": 17.84,
+       "sample_size": 1
+      }
+     }
+    }
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 22.69,
+    "mid_price": 21.27
+   }
+  },
+  "episode": {
+   "id": 221,
+   "name": "Destined Rivals",
+   "slug": "destined-rivals",
+   "released_at": "2025-05-30",
+   "logo": "https://images.tcggo.com/tcggo/storage/22104/destined-rivals-logo.png",
+   "code": "DRI",
+   "cards_total": 244,
+   "cards_printed_total": 182,
+   "prices": {
+    "cardmarket": {
+     "total": 1612.48,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 1588.92,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 1,
+    "name": "Scarlet & Violet",
+    "slug": "scarlet-violet"
+   }
+  },
+  "artist": {
+   "id": 410,
+   "name": "Shimaris Yukichi",
+   "slug": "shimaris-yukichi"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/22308/team-rockets-meowth-dri-203-destined-rivals.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/destined-rivals/team-rockets-meowth-203",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/22279",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/22279"
+  }
+ },
+ {
+  "id": 22121,
+  "name": "Misty's Psyduck",
+  "name_numbered": "Misty's Psyduck 45",
+  "slug": "mistys-psyduck",
+  "card_code_number": "DRI 45",
+  "type": "singles",
+  "card_number": 45,
+  "hp": 70,
+  "rarity": "Uncommon",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "sv10-45",
+  "cardmarket_id": 825919,
+  "tcgplayer_id": 630812,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 0.03,
+    "lowest_near_mint_EU_only": 0.02,
+    "lowest_near_mint_DE": 0.02,
+    "lowest_near_mint_DE_EU_only": 0.02,
+    "lowest_near_mint_FR": 0.02,
+    "lowest_near_mint_FR_EU_only": 0.02,
+    "lowest_near_mint_ES": 0.02,
+    "lowest_near_mint_ES_EU_only": 0.02,
+    "lowest_near_mint_IT": 0.02,
+    "lowest_near_mint_IT_EU_only": 0.02,
+    "30d_average": 0.07,
+    "7d_average": 0.06,
+    "available_items": 7125,
+    "graded": []
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 0.82,
+    "mid_price": 0.18
+   }
+  },
+  "episode": {
+   "id": 221,
+   "name": "Destined Rivals",
+   "slug": "destined-rivals",
+   "released_at": "2025-05-30",
+   "logo": "https://images.tcggo.com/tcggo/storage/22104/destined-rivals-logo.png",
+   "code": "DRI",
+   "cards_total": 244,
+   "cards_printed_total": 182,
+   "prices": {
+    "cardmarket": {
+     "total": 1612.48,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 1588.92,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 1,
+    "name": "Scarlet & Violet",
+    "slug": "scarlet-violet"
+   }
+  },
+  "artist": {
+   "id": 409,
+   "name": "Yuu Nishida",
+   "slug": "yuu-nishida"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/22150/mistys-psyduck-dri-45-destined-rivals.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/destined-rivals/mistys-psyduck-45",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/22121",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/22121"
+  }
+ },
+ {
+  "id": 22269,
+  "name": "Misty's Psyduck",
+  "name_numbered": "Misty's Psyduck 193",
+  "slug": "mistys-psyduck",
+  "card_code_number": "DRI 193",
+  "type": "singles",
+  "card_number": 193,
+  "hp": 70,
+  "rarity": "Illustration Rare",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "sv10-193",
+  "cardmarket_id": 826067,
+  "tcgplayer_id": 632993,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 48.35,
+    "lowest_near_mint_EU_only": 62,
+    "lowest_near_mint_DE": 39.99,
+    "lowest_near_mint_DE_EU_only": 39.99,
+    "lowest_near_mint_FR": 63,
+    "lowest_near_mint_FR_EU_only": 64.99,
+    "lowest_near_mint_ES": 30,
+    "lowest_near_mint_ES_EU_only": 30,
+    "lowest_near_mint_IT": 23.84,
+    "lowest_near_mint_IT_EU_only": 23.84,
+    "30d_average": 52.29,
+    "7d_average": 53.36,
+    "available_items": 682,
+    "graded": {
+     "psa": {
+      "psa10": 475,
+      "psa9": 100
+     },
+     "bgs": {
+      "bgs10": 200,
+      "bgs9": 90
+     }
+    }
+   },
+   "ebay": {
+    "currency": "USD",
+    "graded": {
+     "ace": {
+      "10": {
+       "median_price": 142.5,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 50.1,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 42.3,
+       "sample_size": 1
+      },
+      "7": {
+       "median_price": 43.64,
+       "sample_size": 1
+      }
+     },
+     "bgs": {
+      "9": {
+       "median_price": 70.56,
+       "sample_size": 5
+      }
+     },
+     "cgc": {
+      "10": {
+       "median_price": 160.56,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 54.56,
+       "sample_size": 5
+      }
+     },
+     "psa": {
+      "10": {
+       "median_price": 344.85,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 70.56,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 52.7,
+       "sample_size": 5
+      },
+      "7": {
+       "median_price": 47,
+       "sample_size": 4
+      }
+     },
+     "tag": {
+      "10": {
+       "median_price": 286.64,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 70.55,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 47.5,
+       "sample_size": 1
+      }
+     }
+    }
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 57.43,
+    "mid_price": 51.64
+   }
+  },
+  "episode": {
+   "id": 221,
+   "name": "Destined Rivals",
+   "slug": "destined-rivals",
+   "released_at": "2025-05-30",
+   "logo": "https://images.tcggo.com/tcggo/storage/22104/destined-rivals-logo.png",
+   "code": "DRI",
+   "cards_total": 244,
+   "cards_printed_total": 182,
+   "prices": {
+    "cardmarket": {
+     "total": 1612.48,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 1588.92,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 1,
+    "name": "Scarlet & Violet",
+    "slug": "scarlet-violet"
+   }
+  },
+  "artist": {
+   "id": 394,
+   "name": "OKACHEKE",
+   "slug": "okacheke"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/22298/mistys-psyduck-dri-193-destined-rivals.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/destined-rivals/mistys-psyduck-193",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/22269",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/22269"
+  }
+ },
+ {
+  "id": 22086,
+  "name": "Shaymin",
+  "name_numbered": "Shaymin 10",
+  "slug": "shaymin",
+  "card_code_number": "DRI 10",
+  "type": "singles",
+  "card_number": 10,
+  "hp": 80,
+  "rarity": "Uncommon",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "sv10-10",
+  "cardmarket_id": 825884,
+  "tcgplayer_id": 632836,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 0.02,
+    "lowest_near_mint_EU_only": 0.02,
+    "lowest_near_mint_DE": 0.02,
+    "lowest_near_mint_DE_EU_only": 0.02,
+    "lowest_near_mint_FR": 0.02,
+    "lowest_near_mint_FR_EU_only": 0.02,
+    "lowest_near_mint_ES": 0.02,
+    "lowest_near_mint_ES_EU_only": 0.02,
+    "lowest_near_mint_IT": 0.02,
+    "lowest_near_mint_IT_EU_only": 0.02,
+    "30d_average": 0.15,
+    "7d_average": 0.16,
+    "available_items": 5614,
+    "graded": []
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 0.67,
+    "mid_price": 0.2
+   }
+  },
+  "episode": {
+   "id": 221,
+   "name": "Destined Rivals",
+   "slug": "destined-rivals",
+   "released_at": "2025-05-30",
+   "logo": "https://images.tcggo.com/tcggo/storage/22104/destined-rivals-logo.png",
+   "code": "DRI",
+   "cards_total": 244,
+   "cards_printed_total": 182,
+   "prices": {
+    "cardmarket": {
+     "total": 1610.49,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 1587.11,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 1,
+    "name": "Scarlet & Violet",
+    "slug": "scarlet-violet"
+   }
+  },
+  "artist": {
+   "id": 767,
+   "name": "tono",
+   "slug": "tono"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/22115/shaymin-dri-10-destined-rivals.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/destined-rivals/shaymin-10-2",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/22086",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/22086"
+  }
+ },
+ {
+  "id": 22261,
+  "name": "Shaymin",
+  "name_numbered": "Shaymin 185",
+  "slug": "shaymin",
+  "card_code_number": "DRI 185",
+  "type": "singles",
+  "card_number": 185,
+  "hp": 80,
+  "rarity": "Illustration Rare",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "sv10-185",
+  "cardmarket_id": 826059,
+  "tcgplayer_id": 632985,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 5,
+    "lowest_near_mint_EU_only": 5,
+    "lowest_near_mint_DE": 6.5,
+    "lowest_near_mint_DE_EU_only": 6.5,
+    "lowest_near_mint_FR": 7.37,
+    "lowest_near_mint_FR_EU_only": 7.37,
+    "lowest_near_mint_ES": 8,
+    "lowest_near_mint_ES_EU_only": 8,
+    "lowest_near_mint_IT": 3,
+    "lowest_near_mint_IT_EU_only": 3,
+    "30d_average": 7.51,
+    "7d_average": 6.97,
+    "available_items": 602,
+    "graded": {
+     "psa": {
+      "psa10": 120,
+      "psa9": 45
+     },
+     "bgs": {
+      "bgs9": 45
+     }
+    }
+   },
+   "ebay": {
+    "currency": "USD",
+    "graded": {
+     "ace": {
+      "10": {
+       "median_price": 47,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 17.02,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 19.77,
+       "sample_size": 1
+      }
+     },
+     "cgc": {
+      "10": {
+       "median_price": 44.6,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 10.41,
+       "sample_size": 2
+      },
+      "8": {
+       "median_price": 2.42,
+       "sample_size": 1
+      }
+     },
+     "psa": {
+      "10": {
+       "median_price": 107.05,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 19.63,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 14.38,
+       "sample_size": 5
+      },
+      "7": {
+       "median_price": 11.15,
+       "sample_size": 2
+      }
+     },
+     "tag": {
+      "10": {
+       "median_price": 111.51,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 15.05,
+       "sample_size": 3
+      }
+     }
+    }
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 10.4,
+    "mid_price": 8.76
+   }
+  },
+  "episode": {
+   "id": 221,
+   "name": "Destined Rivals",
+   "slug": "destined-rivals",
+   "released_at": "2025-05-30",
+   "logo": "https://images.tcggo.com/tcggo/storage/22104/destined-rivals-logo.png",
+   "code": "DRI",
+   "cards_total": 244,
+   "cards_printed_total": 182,
+   "prices": {
+    "cardmarket": {
+     "total": 1612.48,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 1588.92,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 1,
+    "name": "Scarlet & Violet",
+    "slug": "scarlet-violet"
+   }
+  },
+  "artist": {
+   "id": 782,
+   "name": "Heisuke Kitazawa",
+   "slug": "heisuke-kitazawa"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/22290/shaymin-dri-185-destined-rivals.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/destined-rivals/shaymin-185",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/22261",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/22261"
+  }
+ }
+]
