@@ -4,37 +4,53 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="robots" content="noindex, nofollow">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#f4f4f2" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#101214" media="(prefers-color-scheme: dark)">
 <title>Pokémon Wishlist</title>
+<link rel="preload" href="fonts/outfit-latin-var.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
 <header class="site-header">
-  <h1>Pokémon Wishlist</h1>
-  <p class="meta" id="meta-line">loading…</p>
-  <p class="meta stock" id="stock-line"></p>
+  <div class="title-row">
+    <span class="mark" aria-hidden="true"></span>
+    <h1>Pokémon Wishlist</h1>
+  </div>
+  <p class="meta" id="meta-line">Loading cards…</p>
+  <p class="meta stock" id="stock-line" role="status"></p>
   <div class="toolbar">
     <button id="filter-stock" class="chip" type="button" aria-pressed="false">In stock at e-pick</button>
-    <label class="sort-label" for="sort-select">Sort</label>
+    <label class="sr-only" for="sort-select">Sort cards</label>
     <select id="sort-select" class="select">
-      <option value="default">Standard</option>
-      <option value="price-asc">Price ↑</option>
-      <option value="price-desc">Price ↓</option>
-      <option value="name">A–Z</option>
+      <option value="default">Standard order</option>
+      <option value="price-asc">Price, low to high</option>
+      <option value="price-desc">Price, high to low</option>
+      <option value="name">Name, A to Z</option>
     </select>
-    <span id="count-line" class="meta count"></span>
+    <span id="count-line" class="count" aria-live="polite"></span>
   </div>
 </header>
 
-<main id="grid" class="grid" aria-label="Wishlist cards"></main>
+<main id="grid" class="grid" aria-label="Wishlist cards">
+  <div class="card skeleton" aria-hidden="true"><span class="card-media"></span><span class="card-body"><span class="sk-line"></span><span class="sk-line short"></span></span></div>
+  <div class="card skeleton" aria-hidden="true"><span class="card-media"></span><span class="card-body"><span class="sk-line"></span><span class="sk-line short"></span></span></div>
+  <div class="card skeleton" aria-hidden="true"><span class="card-media"></span><span class="card-body"><span class="sk-line"></span><span class="sk-line short"></span></span></div>
+  <div class="card skeleton" aria-hidden="true"><span class="card-media"></span><span class="card-body"><span class="sk-line"></span><span class="sk-line short"></span></span></div>
+  <div class="card skeleton" aria-hidden="true"><span class="card-media"></span><span class="card-body"><span class="sk-line"></span><span class="sk-line short"></span></span></div>
+  <div class="card skeleton" aria-hidden="true"><span class="card-media"></span><span class="card-body"><span class="sk-line"></span><span class="sk-line short"></span></span></div>
+  <div class="card skeleton" aria-hidden="true"><span class="card-media"></span><span class="card-body"><span class="sk-line"></span><span class="sk-line short"></span></span></div>
+  <div class="card skeleton" aria-hidden="true"><span class="card-media"></span><span class="card-body"><span class="sk-line"></span><span class="sk-line short"></span></span></div>
+</main>
 
 <footer class="site-footer">
-  <p>Prices are indicative market values — Cardmarket 7-day averages (EU-wide, via TCGGO) · PriceCharting (Chinese card) · e-pick (NL) for live local stock.</p>
-  <p>Stock: <a href="https://store.e-pick.xyz/" rel="noopener">store.e-pick.xyz</a> — <span id="footer-stock">checking live…</span></p>
+  <p>Prices are indicative market values: Cardmarket 7-day averages for EU offers, PriceCharting for the Chinese card, and e-pick retail for cards only sold there.</p>
+  <p>Local stock is checked live against <a href="https://store.e-pick.xyz/" rel="noopener">store.e-pick.xyz</a> when you open this page.</p>
 </footer>
 
-<dialog id="card-modal" aria-modal="true">
+<dialog id="card-modal" aria-labelledby="modal-title">
   <article class="modal-body" id="modal-body"><!-- filled by JS --></article>
-  <button class="modal-close" id="modal-close" aria-label="Close">×</button>
+  <button class="modal-close" id="modal-close" aria-label="Close details">×</button>
 </dialog>
 
 <script src="app.js"></script>

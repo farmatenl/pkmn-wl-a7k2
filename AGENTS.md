@@ -14,6 +14,7 @@ shared by URL. **Privacy convention: no personal names anywhere in this repo or 
 index.html            page shell (header, toolbar, grid, modal)
 style.css             mobile-first; CSS custom props at top define the theme
 app.js                all logic: render, filters/sort, modal, live stock
+fonts/                self-hosted Outfit variable font (latin, OFL, see fonts/README.md)
 images/               card scans (filenames are the stable card ids, e.g. 20260629-WA0019)
 data/cards.json       THE data file the page renders (generated — see pipeline)
 data/cards.raw.json   vision-identification notes (input to write_cards.py)

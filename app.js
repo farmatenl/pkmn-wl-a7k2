@@ -1,4 +1,4 @@
-/* Pokémon wishlist — vanilla JS, no dependencies. */
+/* Pokémon wishlist - vanilla JS, no dependencies. */
 "use strict";
 
 const STORE = "https://store.e-pick.xyz";
@@ -8,7 +8,7 @@ const CACHE_TTL = 6 * 60 * 60 * 1000; // 6h politeness window
 let CARDS = [];
 
 const eur = (n) =>
-  n == null ? "—" : `€${Number(n).toLocaleString("en-NL", { minimumFractionDigits: 2, maximumFractionDigits: 2 })}`;
+  n == null ? "n/a" : `€${Number(n).toLocaleString("en-NL", { minimumFractionDigits: 2, maximumFractionDigits: 2 })}`;
 
 function priceSourceLabel(src) {
   if (src === "pricecharting") return "PriceCharting ungraded (converted to EUR)";
@@ -17,11 +17,13 @@ function priceSourceLabel(src) {
   return "Cardmarket trend (EU)";
 }
 
-function countryLine(price) {
+function countryGrid(price) {
   const co = price && price.countries;
   if (!co || !Object.keys(co).length) return "";
-  const parts = Object.keys(co).sort().map((k) => `${k} ${eur(co[k])}`);
-  return `<div><span class="k">Lowest NM by country</span><span class="mono">${parts.join(" · ")}</span></div>`;
+  const cells = Object.keys(co).sort()
+    .map((k) => `<div class="co"><span class="k">${k}</span><span class="v mono">${eur(co[k])}</span></div>`)
+    .join("");
+  return `<div><span class="k">Lowest NM by country</span><div class="co-grid">${cells}</div></div>`;
 }
 
 async function loadCards() {
@@ -32,43 +34,26 @@ async function loadCards() {
 
 /* ---------- rendering ---------- */
 
-function epickBadge(card) {
-  if (!card.epick || !card.epick.matched) {
-    return `<span class="epick-badge out">Not at e-pick</span>`;
-  }
-  const prods = (card.epick.products || []).filter((p) => p.available);
-  const any = card.epick.products || [];
-  const live = card.epick.live;
-  let list = live ? (live.some((p) => p.available) ? live : any) : prods.length ? prods : any;
-  if (!list.length) return `<span class="epick-badge out">Not at e-pick</span>`;
-  const best = list.reduce((a, b) => (Number(a.price) <= Number(b.price) ? a : b));
-  const inStock = list.some((p) => p.available);
-  const liveMark = live ? "" : " · snapshot";
-  if (inStock) {
-    return `<span class="epick-badge in">In stock @ e-pick (NL) · ${eur(best.price)}${liveMark} — <a href="${best.url}" target="_blank" rel="noopener">view</a></span>`;
-  }
-  return `<span class="epick-badge out">Seen at e-pick (NL) (${eur(best.price)})${liveMark} — <a href="${best.url}" target="_blank" rel="noopener">view</a></span>`;
-}
-
-function tile(card) {
-  const el = document.createElement("article");
-  el.className = "card";
+function tile(card, index, animate) {
+  const el = document.createElement("button");
+  el.type = "button";
+  el.className = "card" + (animate ? " enter" : "");
   el.dataset.id = card.id;
+  if (animate) el.style.setProperty("--i", Math.min(index, 12));
   const p = card.price || {};
   el.innerHTML = `
-    <div class="card-img" role="button" tabindex="0" aria-label="Open ${card.name}">
-      <img loading="lazy" src="${card.image}" alt="${card.name} — ${card.set || ""} ${card.number || ""}">
-      <span class="price-chip">${eur(p.trend)}</span>
-    </div>
-    <div class="card-body">
-      <div class="card-name">${card.name}</div>
-      <div class="card-set">${card.set || ""}${card.number ? " · " + card.number : ""}</div>
-      ${epickBadge(card)}
-    </div>`;
-  el.querySelector(".card-img").addEventListener("click", () => openModal(card));
-  el.querySelector(".card-img").addEventListener("keydown", (e) => {
-    if (e.key === "Enter" || e.key === " ") openModal(card);
-  });
+    <span class="card-media">
+      <img loading="lazy" src="${card.image}" alt="${card.name}, ${card.set || ""}${card.number ? " " + card.number : ""}">
+    </span>
+    <span class="card-body">
+      <span class="card-name">${card.name}</span>
+      <span class="card-set">${card.set || ""}${card.number ? " · " + card.number : ""}</span>
+      <span class="card-foot">
+        <span class="price">${eur(p.trend)}</span>
+        ${inStock(card) ? `<span class="stock-badge">In stock</span>` : ""}
+      </span>
+    </span>`;
+  el.addEventListener("click", () => openModal(card));
   return el;
 }
 
@@ -102,17 +87,33 @@ function visibleCards() {
   return list;
 }
 
+let firstRender = true;
+
 function renderGrid() {
   const grid = document.getElementById("grid");
   const list = visibleCards();
-  grid.replaceChildren(...list.map(tile));
+
+  if (!list.length) {
+    grid.innerHTML = CARDS.length
+      ? `<div class="state">
+           <p class="state-title">Nothing is in stock at e-pick right now.</p>
+           <p>Local stock moves fast. <button type="button" class="linklike" data-action="show-all">Show the full wishlist</button> instead.</p>
+         </div>`
+      : `<div class="state"><p class="state-title">No cards yet.</p></div>`;
+  } else {
+    grid.replaceChildren(...list.map((c, i) => tile(c, i, firstRender)));
+  }
+
   const priced = CARDS.filter((c) => c.price && c.price.trend != null);
   const total = priced.reduce((s, c) => s + c.price.trend, 0);
   const asOf = priced.find((c) => c.price.asOf)?.price.asOf;
   document.getElementById("meta-line").textContent =
-    `${CARDS.length} cards · ${eur(total)} total · prices as of ${asOf || "n/a"}`;
-  const cl = document.getElementById("count-line");
-  cl.textContent = stockOnly ? `${list.length} of ${CARDS.length} shown` : "";
+    `${CARDS.length} cards, ${eur(total)} total${asOf ? ` (updated ${asOf})` : ""}`;
+
+  document.getElementById("count-line").textContent =
+    stockOnly ? `${list.length} of ${CARDS.length} shown` : "";
+
+  firstRender = false;
 }
 
 /* ---------- modal ---------- */
@@ -121,33 +122,64 @@ const modal = document.getElementById("card-modal");
 let modalOpen = false;
 let closingFromHistory = false;
 
+function epickProductsLiveFirst(card) {
+  const any = card.epick.products || [];
+  const live = card.epick.live;
+  const available = (list) => list.some((p) => p.available);
+  if (live) return available(live) ? live : any;
+  const snapshot = any.filter((p) => p.available);
+  return snapshot.length ? snapshot : any;
+}
+
+function modalEpickLine(card) {
+  if (!card.epick || !card.epick.matched) return "";
+  const list = epickProductsLiveFirst(card);
+  if (!list.length) return "";
+  const best = list.reduce((a, b) => (Number(a.price) <= Number(b.price) ? a : b));
+  const liveMark = card.epick.live ? "" : " (build-time snapshot)";
+  if (list.some((p) => p.available)) {
+    return `<p class="epick-line in">In stock at e-pick (NL) for ${eur(best.price)}${liveMark}.</p>`;
+  }
+  return `<p class="epick-line out">Seen at e-pick (NL) at ${eur(best.price)}, currently out of stock${liveMark}.</p>`;
+}
+
 function openModal(card) {
   const p = card.price || {};
   const rows = [];
-  if (p.trend != null) rows.push(`<div><span class="k">${priceSourceLabel(p.source)}</span><span><b>${eur(p.trend)}</b></span></div>`);
-  if (p.avg7 != null) rows.push(`<div><span class="k">Cardmarket 7-day avg (EU)</span><span>${eur(p.avg7)}</span></div>`);
-  if (p.lowNm != null) rows.push(`<div><span class="k">Lowest offer, Near Mint (EU)</span><span>${eur(p.lowNm)}</span></div>`);
-  if (p.low != null) rows.push(`<div><span class="k">Cardmarket low</span><span>${eur(p.low)}</span></div>`);
-  rows.push(countryLine(p));
-  if (p.available != null) rows.push(`<div><span class="k">Cardmarket offers</span><span>${p.available}</span></div>`);
+  if (p.trend != null) rows.push(`<div><span class="k">${priceSourceLabel(p.source)}</span><span class="v"><strong>${eur(p.trend)}</strong></span></div>`);
+  if (p.avg7 != null) rows.push(`<div><span class="k">Cardmarket 7-day avg (EU)</span><span class="v">${eur(p.avg7)}</span></div>`);
+  if (p.lowNm != null) rows.push(`<div><span class="k">Lowest offer, Near Mint (EU)</span><span class="v">${eur(p.lowNm)}</span></div>`);
+  if (p.low != null) rows.push(`<div><span class="k">Cardmarket low</span><span class="v">${eur(p.low)}</span></div>`);
+  rows.push(countryGrid(p));
+  if (p.available != null) rows.push(`<div><span class="k">Cardmarket offers</span><span class="v">${p.available}</span></div>`);
+
   const links = [];
   if (p.url) {
     const label = p.source === "pricecharting" ? "View on PriceCharting"
-      : p.source === "cardmarket-tcggo" ? "Cardmarket product page"
-      : p.source === "e-pick retail" ? "View at e-pick" : "View on Cardmarket";
+      : p.source === "e-pick retail" ? "View at e-pick"
+      : "View on Cardmarket";
     links.push(`<a class="btn" href="${p.url}" target="_blank" rel="noopener">${label}</a>`);
   }
   if (card.epick && card.epick.matched) {
     const best = (card.epick.products || []).reduce((a, b) => (Number(a.price) <= Number(b.price) ? a : b));
-    links.push(`<a class="btn secondary" href="${best.url}" target="_blank" rel="noopener">e-pick listing</a>`);
+    if (best && best.url !== p.url) {
+      links.push(`<a class="btn secondary" href="${best.url}" target="_blank" rel="noopener">View e-pick listing</a>`);
+    }
   }
+
+  const sub1 = `${card.set || ""}${card.number ? " · #" + card.number : ""}`;
+  const sub2 = [card.rarity, card.language].filter(Boolean).join(" · ");
+
   document.getElementById("modal-body").innerHTML = `
-    <img class="hero" src="${card.image}" alt="${card.name}">
+    <figure class="modal-figure">
+      <img src="${card.image}" alt="${card.name}, ${card.set || ""}">
+    </figure>
     <div class="modal-info">
-      <h2>${card.name}</h2>
-      <div class="sub">${card.set || ""}${card.number ? " · #" + card.number : ""}${card.rarity ? " · " + card.rarity : ""}${card.language ? " · " + card.language : ""}</div>
-      <div class="price-rows">${rows.join("") || '<div><span class="k">price</span><span>pending</span></div>'}</div>
-      ${epickBadge(card)}
+      <h2 id="modal-title">${card.name}</h2>
+      ${sub1 ? `<p class="sub">${sub1}</p>` : ""}
+      ${sub2 ? `<p class="sub">${sub2}</p>` : ""}
+      <div class="price-rows">${rows.join("") || '<div><span class="k">Price</span><span class="v">not priced yet</span></div>'}</div>
+      ${modalEpickLine(card)}
       ${card.notes ? `<p class="note">${card.notes}</p>` : ""}
       <div class="modal-actions">${links.join("")}</div>
     </div>`;
@@ -203,15 +235,14 @@ function writeCache(data) {
 
 function setStockLine(text, cls) {
   document.getElementById("stock-line").innerHTML = text;
-  document.getElementById("footer-stock").innerHTML = text;
-  if (cls) document.getElementById("stock-line").className = "meta stock " + cls;
+  document.getElementById("stock-line").className = "meta stock" + (cls ? " " + cls : "");
 }
 
 async function refreshLiveStock() {
   const matched = CARDS.filter((c) => c.epick && c.epick.matched);
   const cached = readCache();
   if (cached) return applyLive(cached, true);
-  setStockLine("stock: checking live…");
+  setStockLine("Checking live stock at e-pick…", "checking");
   const urls = [...new Set(matched.flatMap((c) => (c.epick.products || []).map((p) => p.url)))];
   const results = await Promise.all(urls.map(async (u) => {
     try {
@@ -226,7 +257,7 @@ async function refreshLiveStock() {
   }));
   const ok = results.filter(Boolean);
   if (!ok.length) {
-    setStockLine("stock: snapshot (build time) — live check unavailable", "snapshot");
+    setStockLine("Live check unavailable, showing the build-time snapshot.", "snapshot");
     return;
   }
   writeCache(ok);
@@ -245,24 +276,34 @@ function applyLive(live, fromCache) {
   renderGrid();
   const inStockCount = CARDS.filter(inStock).length;
   setStockLine(
-    `stock: live ✓ (${inStockCount}/${CARDS.length} wishlist cards available @ e-pick${fromCache ? ", cached" : ""})`,
+    `Live: ${inStockCount} of ${CARDS.length} cards in stock at e-pick (NL)${fromCache ? ", cached result" : ""}`,
     "live"
   );
 }
 
 /* ---------- toolbar ---------- */
 
-function wireToolbar() {
+function setStockFilter(on) {
+  stockOnly = on;
   const stockBtn = document.getElementById("filter-stock");
-  stockBtn.addEventListener("click", () => {
-    stockOnly = !stockOnly;
-    stockBtn.setAttribute("aria-pressed", String(stockOnly));
-    stockBtn.classList.toggle("active", stockOnly);
-    renderGrid();
+  stockBtn.setAttribute("aria-pressed", String(stockOnly));
+  renderGrid();
+}
+
+function wireToolbar() {
+  document.getElementById("filter-stock").addEventListener("click", () => {
+    setStockFilter(!stockOnly);
   });
   document.getElementById("sort-select").addEventListener("change", (e) => {
     activeSort = e.target.value;
     renderGrid();
+  });
+  document.getElementById("grid").addEventListener("click", (e) => {
+    if (e.target.closest("[data-action='show-all']")) {
+      setStockFilter(false);
+    } else if (e.target.closest("[data-action='retry']")) {
+      location.reload();
+    }
   });
 }
 
@@ -273,9 +314,14 @@ function wireToolbar() {
     await loadCards();
     wireToolbar();
     renderGrid();
-    setStockLine("stock: snapshot (build time)", "snapshot");
-    refreshLiveStock().catch(() => setStockLine("stock: snapshot (build time) — live check unavailable", "snapshot"));
+    setStockLine("Using stock snapshot from build time.", "snapshot");
+    refreshLiveStock().catch(() => setStockLine("Live check unavailable, showing the build-time snapshot.", "snapshot"));
   } catch (e) {
-    document.getElementById("meta-line").textContent = `failed to load data: ${e.message}`;
+    document.getElementById("meta-line").textContent = "Data unavailable.";
+    document.getElementById("grid").innerHTML =
+      `<div class="state">
+         <p class="state-title">Couldn't load the wishlist.</p>
+         <p><button type="button" class="linklike" data-action="retry">Try again</button></p>
+       </div>`;
   }
 })();
