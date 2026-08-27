@@ -72,14 +72,47 @@ function tile(card) {
   return el;
 }
 
+/* ---------- filters & sorting ---------- */
+
+let activeSort = "default";
+let stockOnly = false;
+
+function inStock(card) {
+  return !!(card.epick && card.epick.matched &&
+    ((card.epick.live && card.epick.live.some((p) => p.available)) ||
+     (!card.epick.live && (card.epick.products || []).some((p) => p.available))));
+}
+
+function visibleCards() {
+  let list = stockOnly ? CARDS.filter(inStock) : CARDS.slice();
+  if (activeSort === "price-asc" || activeSort === "price-desc") {
+    const dir = activeSort === "price-asc" ? 1 : -1;
+    const val = (c) => (c.price && c.price.trend != null ? c.price.trend : null);
+    list.sort((a, b) => {
+      const va = val(a), vb = val(b);
+      if (va == null && vb == null) return 0;
+      if (va == null) return 1;  // unpriced always sink
+      if (vb == null) return -1;
+      return dir * (va - vb);
+    });
+  } else if (activeSort === "name") {
+    list.sort((a, b) => a.name.localeCompare(b.name, "en", { sensitivity: "base" }) ||
+      (a.number || "").localeCompare(b.number || ""));
+  }
+  return list;
+}
+
 function renderGrid() {
   const grid = document.getElementById("grid");
-  grid.replaceChildren(...CARDS.map(tile));
+  const list = visibleCards();
+  grid.replaceChildren(...list.map(tile));
   const priced = CARDS.filter((c) => c.price && c.price.trend != null);
   const total = priced.reduce((s, c) => s + c.price.trend, 0);
   const asOf = priced.find((c) => c.price.asOf)?.price.asOf;
   document.getElementById("meta-line").textContent =
     `${CARDS.length} cards · ${eur(total)} total · prices as of ${asOf || "n/a"}`;
+  const cl = document.getElementById("count-line");
+  cl.textContent = stockOnly ? `${list.length} of ${CARDS.length} shown` : "";
 }
 
 /* ---------- modal ---------- */
@@ -210,11 +243,34 @@ function applyLive(live, fromCache) {
     }
   }
   renderGrid();
-  const inStock = CARDS.filter((c) => c.epick && c.epick.matched && (c.epick.live || []).some((p) => p.available)).length;
+  const inStockCount = CARDS.filter(inStock).length;
   setStockLine(
-    `stock: live ✓ (${inStock}/${CARDS.length} wishlist cards available @ e-pick${fromCache ? ", cached" : ""})`,
+    `stock: live ✓ (${inStockCount}/${CARDS.length} wishlist cards available @ e-pick${fromCache ? ", cached" : ""})`,
     "live"
   );
+}
+
+/* ---------- toolbar ---------- */
+
+function wireToolbar() {
+  const stockBtn = document.getElementById("filter-stock");
+  stockBtn.addEventListener("click", () => {
+    stockOnly = !stockOnly;
+    stockBtn.setAttribute("aria-pressed", String(stockOnly));
+    stockBtn.classList.toggle("active", stockOnly);
+    renderGrid();
+  });
+  document.querySelectorAll(".chip.sort").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      activeSort = btn.dataset.sort;
+      document.querySelectorAll(".chip.sort").forEach((b) => {
+        const on = b === btn;
+        b.classList.toggle("active", on);
+        b.setAttribute("aria-pressed", String(on));
+      });
+      renderGrid();
+    });
+  });
 }
 
 /* ---------- boot ---------- */
@@ -222,6 +278,7 @@ function applyLive(live, fromCache) {
 (async function init() {
   try {
     await loadCards();
+    wireToolbar();
     renderGrid();
     setStockLine("stock: snapshot (build time)", "snapshot");
     refreshLiveStock().catch(() => setStockLine("stock: snapshot (build time) — live check unavailable", "snapshot"));

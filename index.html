@@ -12,6 +12,15 @@
   <h1>Pokémon Wishlist</h1>
   <p class="meta" id="meta-line">loading…</p>
   <p class="meta stock" id="stock-line"></p>
+  <div class="toolbar">
+    <button id="filter-stock" class="chip" type="button" aria-pressed="false">In stock at e-pick</button>
+    <span class="toolbar-sep" aria-hidden="true"></span>
+    <button class="chip sort active" type="button" data-sort="default" aria-pressed="true">Standard</button>
+    <button class="chip sort" type="button" data-sort="price-asc" aria-pressed="false">Price ↑</button>
+    <button class="chip sort" type="button" data-sort="price-desc" aria-pressed="false">Price ↓</button>
+    <button class="chip sort" type="button" data-sort="name" aria-pressed="false">A–Z</button>
+    <span id="count-line" class="meta count"></span>
+  </div>
 </header>
 
 <main id="grid" class="grid" aria-label="Wishlist cards"></main>

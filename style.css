@@ -36,6 +36,37 @@ a:hover { text-decoration: underline; }
 .stock .live { color: var(--ok); }
 .stock .snapshot { color: var(--warn); }
 
+.toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  margin-top: 12px;
+}
+.chip {
+  appearance: none;
+  border: 1px solid var(--card-edge);
+  background: var(--card);
+  color: var(--text);
+  border-radius: 999px;
+  padding: 7px 13px;
+  font-size: 0.82rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+.chip.active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #10151a;
+}
+.toolbar-sep {
+  width: 1px;
+  height: 22px;
+  background: var(--card-edge);
+  margin: 0 2px;
+}
+.count { color: var(--muted); }
+
 .grid {
   max-width: 1100px;
   margin: 14px auto 30px;
