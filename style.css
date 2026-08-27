@@ -41,46 +41,44 @@ a:hover { text-decoration: underline; }
   flex-wrap: wrap;
   align-items: center;
   gap: 8px;
-  margin-top: 12px;
+  margin-top: 14px;
 }
-.chip {
+.sort-label {
+  font-size: 0.66rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.09em;
+  color: var(--muted);
+  margin-right: -1px;
+}
+.chip, .select {
   appearance: none;
+  -webkit-appearance: none;
   border: 1px solid var(--card-edge);
   background: var(--card);
   color: var(--text);
-  border-radius: 999px;
-  padding: 7px 13px;
-  font-size: 0.82rem;
+  border-radius: 10px;
+  height: 32px;
+  padding: 0 12px;
+  font-size: 0.78rem;
   font-weight: 600;
+  font-family: inherit;
+  display: inline-flex;
+  align-items: center;
   cursor: pointer;
+}
+.select {
+  padding-right: 28px;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='10' height='6'><path d='M1 1l4 4 4-4' stroke='%2394a3b3' stroke-width='1.6' fill='none' stroke-linecap='round'/></svg>");
+  background-repeat: no-repeat;
+  background-position: right 11px center;
 }
 .chip.active {
   background: var(--accent);
   border-color: var(--accent);
   color: #10151a;
 }
-.sort-label {
-  color: var(--muted);
-  font-size: 0.82rem;
-  font-weight: 600;
-}
-.select {
-  appearance: none;
-  -webkit-appearance: none;
-  border: 1px solid var(--card-edge);
-  background: var(--card);
-  color: var(--text);
-  border-radius: 999px;
-  padding: 7px 30px 7px 13px;
-  font-size: 0.82rem;
-  font-weight: 600;
-  font-family: inherit;
-  cursor: pointer;
-  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='10' height='6'><path d='M1 1l4 4 4-4' stroke='%2394a3b3' stroke-width='1.6' fill='none' stroke-linecap='round'/></svg>");
-  background-repeat: no-repeat;
-  background-position: right 12px center;
-}
-.count { color: var(--muted); }
+.count { color: var(--muted); font-size: 0.75rem; }
 
 .grid {
   max-width: 1100px;
