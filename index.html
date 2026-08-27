@@ -14,11 +14,13 @@
   <p class="meta stock" id="stock-line"></p>
   <div class="toolbar">
     <button id="filter-stock" class="chip" type="button" aria-pressed="false">In stock at e-pick</button>
-    <span class="toolbar-sep" aria-hidden="true"></span>
-    <button class="chip sort active" type="button" data-sort="default" aria-pressed="true">Standard</button>
-    <button class="chip sort" type="button" data-sort="price-asc" aria-pressed="false">Price ↑</button>
-    <button class="chip sort" type="button" data-sort="price-desc" aria-pressed="false">Price ↓</button>
-    <button class="chip sort" type="button" data-sort="name" aria-pressed="false">A–Z</button>
+    <label class="sort-label" for="sort-select">Sort</label>
+    <select id="sort-select" class="select">
+      <option value="default">Standard</option>
+      <option value="price-asc">Price ↑</option>
+      <option value="price-desc">Price ↓</option>
+      <option value="name">A–Z</option>
+    </select>
     <span id="count-line" class="meta count"></span>
   </div>
 </header>

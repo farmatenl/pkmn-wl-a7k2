@@ -260,16 +260,9 @@ function wireToolbar() {
     stockBtn.classList.toggle("active", stockOnly);
     renderGrid();
   });
-  document.querySelectorAll(".chip.sort").forEach((btn) => {
-    btn.addEventListener("click", () => {
-      activeSort = btn.dataset.sort;
-      document.querySelectorAll(".chip.sort").forEach((b) => {
-        const on = b === btn;
-        b.classList.toggle("active", on);
-        b.setAttribute("aria-pressed", String(on));
-      });
-      renderGrid();
-    });
+  document.getElementById("sort-select").addEventListener("change", (e) => {
+    activeSort = e.target.value;
+    renderGrid();
   });
 }
 
