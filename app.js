@@ -125,7 +125,14 @@ document.getElementById("modal-close").addEventListener("click", closeModal);
 modal.addEventListener("click", (e) => {
   if (e.target === modal) closeModal();
 });
-window.addEventListener("popstate", () => { modalOpen = false; }); // back button closes modal
+window.addEventListener("popstate", () => {
+  // Android/hardware back: if the dialog is still open after the history pop,
+  // close it. The 'close' handler's history.back() is guarded by state, so no loop.
+  if (modalOpen && !(history.state && history.state.modal)) {
+    modal.close();
+  }
+  modalOpen = false;
+});
 
 /* ---------- live e-pick stock ---------- */
 
