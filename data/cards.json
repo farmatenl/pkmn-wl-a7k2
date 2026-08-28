@@ -995,20 +995,35 @@
   "id": "20260606-WA0035",
   "image": "images/IMG-20260606-WA0035.jpg",
   "name": "Deerling",
-  "set": "Black Bolt",
+  "set": "White Flare",
   "number": "091",
   "language": "English",
   "priority": "high",
   "price": {
-   "trend": null,
-   "currency": null,
-   "source": null,
+   "trend": 15.55,
+   "trendLabel": "Cardmarket 7-day average",
+   "lowNm": 15.8,
+   "lowNmLabel": "lowest offer, Near Mint (EU)",
+   "countries": {
+    "DE": 16,
+    "FR": 17,
+    "ES": 8,
+    "IT": 6
+   },
+   "available": 182,
+   "currency": "EUR",
+   "source": "cardmarket-tcggo",
+   "url": "https://www.tcggo.com/external/cm/23349",
+   "tcggoUrl": "https://www.tcggo.com/pokemon/white-flare/deerling-91",
+   "cardmarketId": 836077,
    "asOf": "2026-08-28"
   },
   "epick": {
    "matched": false
   },
-  "notes": "Batch-2. Price via pokemontcg.io Cardmarket avg (TCGGO lookup failed). Identity under re-verification: Black Bolt #091 is listed as Petilil on pokemontcg.io/TCGGO, not Deerling. Price removed 2026-08-28 until the photo is re-checked; the number belongs to the other card. Previous price \u20ac6.59 (for the other card's listing)."
+  "notes": "Batch-2. Price via pokemontcg.io Cardmarket avg (TCGGO lookup failed). Identity corrected 2026-08-28 after owner photo re-check: Deerling, White Flare #091 (was listed as Black Bolt #091, which belongs to a different card). Re-priced from TCGGO/Cardmarket 7-day avg, 2026-08-28.",
+  "apiId": "rsv10pt5-91",
+  "rarity": "Illustration Rare"
  },
  {
   "id": "20260606-WA0038",
@@ -1064,20 +1079,35 @@
   "id": "20260606-WA0041",
   "image": "images/IMG-20260606-WA0041.jpg",
   "name": "Piplup",
-  "set": "Unified Minds",
+  "set": "Cosmic Eclipse",
   "number": "239",
   "language": "English",
   "priority": "high",
   "price": {
-   "trend": null,
-   "currency": null,
-   "source": null,
+   "trend": 40.96,
+   "trendLabel": "Cardmarket 7-day average",
+   "lowNm": 41.99,
+   "lowNmLabel": "lowest offer, Near Mint (EU)",
+   "countries": {
+    "DE": 29.99,
+    "FR": 59.99,
+    "ES": 31.5,
+    "IT": 25
+   },
+   "available": 195,
+   "currency": "EUR",
+   "source": "cardmarket-tcggo",
+   "url": "https://www.tcggo.com/external/cm/7575",
+   "tcggoUrl": "https://www.tcggo.com/pokemon/cosmic-eclipse/piplup-239",
+   "cardmarketId": 398504,
    "asOf": "2026-08-28"
   },
   "epick": {
    "matched": false
   },
-  "notes": "Batch-2. Price via pokemontcg.io Cardmarket avg (TCGGO lookup failed). Identity under re-verification: Unified Minds #239 is listed as Slowpoke & Psyduck-GX on pokemontcg.io/TCGGO, not Piplup. Price removed 2026-08-28 until the photo is re-checked; the number belongs to the other card. Previous price \u20ac61.91 (for the other card's listing)."
+  "notes": "Batch-2. Price via pokemontcg.io Cardmarket avg (TCGGO lookup failed). Identity corrected 2026-08-28 after owner photo re-check: Piplup, Cosmic Eclipse #239 (was listed as Unified Minds #239, which belongs to a different card). Re-priced from TCGGO/Cardmarket 7-day avg, 2026-08-28.",
+  "apiId": "sm12-239",
+  "rarity": "Rare Secret"
  },
  {
   "id": "20260606-WA0045",
@@ -1122,57 +1152,102 @@
   "image": "images/IMG-20260606-WA0055.jpg",
   "name": "Flareon-EX",
   "set": "Generations",
-  "number": "RC29",
+  "number": "RC28",
   "language": "English",
   "priority": "high",
   "price": {
-   "trend": null,
-   "currency": null,
-   "source": null,
+   "trend": 125.99,
+   "trendLabel": "Cardmarket 7-day average",
+   "lowNm": 149,
+   "lowNmLabel": "lowest offer, Near Mint (EU)",
+   "countries": {
+    "DE": 190,
+    "FR": 95,
+    "ES": 150,
+    "IT": 139.9
+   },
+   "available": 213,
+   "currency": "EUR",
+   "source": "cardmarket-tcggo",
+   "url": "https://www.tcggo.com/external/cm/10827",
+   "tcggoUrl": "https://www.tcggo.com/pokemon/generations/flareon-ex-rc28",
+   "cardmarketId": 288537,
    "asOf": "2026-08-28"
   },
   "epick": {
    "matched": false
   },
-  "notes": "PriceCharting ungraded $123.49 x 0.85874 (2026-08-27). Earlier 54.00 was a bad fallback default. Identity under re-verification: Generations #RC29 is listed as Pikachu on pokemontcg.io/TCGGO, not Flareon-EX. Price removed 2026-08-28 until the photo is re-checked; the number belongs to the other card. Previous price \u20ac106.02 (PriceCharting, looked up by name \u2014 may still be right for the card if only the printed number is wrong)."
+  "notes": "PriceCharting ungraded $123.49 x 0.85874 (2026-08-27). Earlier 54.00 was a bad fallback default. Identity corrected 2026-08-28 after owner photo re-check: Flareon-EX, Generations #RC28 (was listed as Generations #RC29, which belongs to a different card). Re-priced from TCGGO/Cardmarket 7-day avg, 2026-08-28.",
+  "apiId": "g1-RC28",
+  "rarity": "Rare Ultra"
  },
  {
   "id": "20260606-WA0058",
   "image": "images/IMG-20260606-WA0058.jpg",
   "name": "Pikachu",
   "set": "Generations",
-  "number": "RC23",
+  "number": "RC29",
   "language": "English",
   "priority": "high",
   "price": {
-   "trend": null,
-   "currency": null,
-   "source": null,
+   "trend": 74.06,
+   "trendLabel": "Cardmarket 7-day average",
+   "lowNm": 85,
+   "lowNmLabel": "lowest offer, Near Mint (EU)",
+   "countries": {
+    "DE": 90,
+    "FR": 70,
+    "ES": 50,
+    "IT": 99
+   },
+   "available": null,
+   "currency": "EUR",
+   "source": "cardmarket-tcggo",
+   "url": "https://www.tcggo.com/external/cm/10828",
+   "tcggoUrl": "https://www.tcggo.com/pokemon/generations/pikachu-rc29",
+   "cardmarketId": 288538,
    "asOf": "2026-08-28"
   },
   "epick": {
    "matched": false
   },
-  "notes": "Batch-2. Price via pokemontcg.io Cardmarket avg (TCGGO lookup failed). Identity under re-verification: Generations #RC23 is listed as Swablu on pokemontcg.io/TCGGO, not Pikachu. Price removed 2026-08-28 until the photo is re-checked; the number belongs to the other card. Previous price \u20ac0.83 (for the other card's listing)."
+  "notes": "Batch-2. Price via pokemontcg.io Cardmarket avg (TCGGO lookup failed). Identity corrected 2026-08-28 after owner photo re-check: Pikachu, Generations #RC29 (was listed as Generations #RC23, which belongs to a different card). Re-priced from TCGGO/Cardmarket 7-day avg, 2026-08-28.",
+  "apiId": "g1-RC29",
+  "rarity": "Rare Ultra"
  },
  {
   "id": "20260606-WA0065",
   "image": "images/IMG-20260606-WA0065.jpg",
   "name": "Bulbasaur",
-  "set": "Black Bolt",
-  "number": "013",
+  "set": "Stellar Crown",
+  "number": "143",
   "language": "English",
   "priority": "high",
   "price": {
-   "trend": null,
-   "currency": null,
-   "source": null,
+   "trend": 93.97,
+   "trendLabel": "Cardmarket 7-day average",
+   "lowNm": 79.94,
+   "lowNmLabel": "lowest offer, Near Mint (EU)",
+   "countries": {
+    "DE": 66.5,
+    "FR": 67,
+    "ES": 97,
+    "IT": 52
+   },
+   "available": 429,
+   "currency": "EUR",
+   "source": "cardmarket-tcggo",
+   "url": "https://www.tcggo.com/external/cm/1397",
+   "tcggoUrl": "https://www.tcggo.com/pokemon/stellar-crown/bulbasaur-143",
+   "cardmarketId": 785997,
    "asOf": "2026-08-28"
   },
   "epick": {
    "matched": false
   },
-  "notes": "Batch-2. Price via pokemontcg.io Cardmarket avg (TCGGO lookup failed). Identity under re-verification: Black Bolt #013 is listed as Darumaka on pokemontcg.io/TCGGO, not Bulbasaur. Price removed 2026-08-28 until the photo is re-checked; the number belongs to the other card. Previous price \u20ac0.02 (for the other card's listing)."
+  "notes": "Batch-2. Price via pokemontcg.io Cardmarket avg (TCGGO lookup failed). Identity corrected 2026-08-28 after owner photo re-check: Bulbasaur, Stellar Crown #143 (was listed as Black Bolt #013, which belongs to a different card). Re-priced from TCGGO/Cardmarket 7-day avg, 2026-08-28.",
+  "apiId": "sv7-143",
+  "rarity": "Illustration Rare"
  },
  {
   "id": "20260629-WA0021",
@@ -1183,17 +1258,30 @@
   "language": "English",
   "priority": "high",
   "price": {
-   "trend": 7.67,
+   "trend": 8.54,
    "trendLabel": "Cardmarket 7-day average",
+   "lowNm": 8.97,
+   "lowNmLabel": "lowest offer, Near Mint (EU)",
+   "countries": {
+    "DE": 8.69,
+    "FR": 8.5,
+    "ES": 6.8,
+    "IT": 3
+   },
+   "available": 259,
    "currency": "EUR",
-   "source": "pokemontcg.io-fallback",
-   "asOf": "2026-08-27"
+   "source": "cardmarket-tcggo",
+   "url": "https://www.tcggo.com/external/cm/3802",
+   "tcggoUrl": "https://www.tcggo.com/pokemon/crown-zenith/altaria-gg19",
+   "cardmarketId": 691898,
+   "asOf": "2026-08-28"
   },
   "epick": {
    "matched": false
   },
   "notes": "Batch-2. Price via pokemontcg.io Cardmarket avg (TCGGO lookup failed).",
-  "rarity": "Trainer Gallery Rare Holo"
+  "rarity": "Trainer Gallery Rare Holo",
+  "apiId": "swsh12pt5gg-GG19"
  },
  {
   "id": "20260827-WA0028",
@@ -1320,19 +1408,30 @@
   "language": "English",
   "priority": "high",
   "price": {
-   "trend": 16.41,
+   "trend": 15.69,
    "trendLabel": "Cardmarket 7-day average",
+   "lowNm": 15,
+   "lowNmLabel": "lowest offer, Near Mint (EU)",
+   "countries": {
+    "DE": 16,
+    "FR": 19.9,
+    "ES": 10.5,
+    "IT": 7.8
+   },
+   "available": 289,
    "currency": "EUR",
    "source": "cardmarket-tcggo",
-   "asOf": "2026-08-27",
-   "lowNm": 15.0,
-   "lowNmLabel": "lowest offer, Near Mint (EU)"
+   "url": "https://www.tcggo.com/external/cm/3790",
+   "tcggoUrl": "https://www.tcggo.com/pokemon/crown-zenith/keldeo-gg07",
+   "cardmarketId": 691886,
+   "asOf": "2026-08-28"
   },
   "epick": {
    "matched": false
   },
   "notes": "Batch-2.",
-  "rarity": "Trainer Gallery Rare Holo"
+  "rarity": "Trainer Gallery Rare Holo",
+  "apiId": "swsh12pt5gg-GG07"
  },
  {
   "id": "20260606-WA0042",
@@ -1388,18 +1487,32 @@
   "priority": "high",
   "price": {
    "trend": 46.57,
+   "trendLabel": "Cardmarket 7-day average",
+   "lowNm": 32,
+   "lowNmLabel": "lowest offer, Near Mint (EU)",
+   "countries": {
+    "DE": 24.29,
+    "FR": 35.01,
+    "ES": 80,
+    "IT": 25
+   },
+   "available": 74,
    "currency": "EUR",
    "source": "cardmarket-tcggo",
-   "asOf": "2026-08-27"
+   "url": "https://www.tcggo.com/external/cm/7561",
+   "tcggoUrl": "https://www.tcggo.com/pokemon/cosmic-eclipse/mega-lopunny-jigglypuff-gx-225",
+   "cardmarketId": 408719,
+   "asOf": "2026-08-28"
   },
   "epick": {
    "matched": false
   },
   "notes": "Half-art printing; printed number verified from photo 2026-08-27.",
-  "rarity": "Ultra Rare",
+  "rarity": "Rare Ultra",
   "links": {
    "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Cosmic-Eclipse/Mega-Lopunny-Jigglypuff-GX-V2-CEC225"
-  }
+  },
+  "apiId": "sm12-225"
  },
  {
   "id": "20260606-WA0047",
@@ -1411,18 +1524,32 @@
   "priority": "high",
   "price": {
    "trend": 134.85,
+   "trendLabel": "Cardmarket 7-day average",
+   "lowNm": 296.99,
+   "lowNmLabel": "lowest offer, Near Mint (EU)",
+   "countries": {
+    "DE": 250,
+    "FR": 219.99,
+    "ES": 374.5,
+    "IT": 140
+   },
+   "available": 59,
    "currency": "EUR",
    "source": "cardmarket-tcggo",
-   "asOf": "2026-08-27"
+   "url": "https://www.tcggo.com/external/cm/7562",
+   "tcggoUrl": "https://www.tcggo.com/pokemon/cosmic-eclipse/mega-lopunny-jigglypuff-gx-226",
+   "cardmarketId": 408724,
+   "asOf": "2026-08-28"
   },
   "epick": {
    "matched": false
   },
   "notes": "Floral full art; printed number verified from photo 2026-08-27. CM 7-day EUR 134.85 matches TCGGO exactly.",
-  "rarity": "Alternate Art",
+  "rarity": "Rare Ultra",
   "links": {
    "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Cosmic-Eclipse/Mega-Lopunny-Jigglypuff-GX-V3-CEC226"
-  }
+  },
+  "apiId": "sm12-226"
  },
  {
   "id": "20260606-WA0051",
@@ -1457,11 +1584,21 @@
   "price": {
    "trend": 4.12,
    "trendLabel": "Cardmarket 7-day average",
+   "lowNm": 3.5,
+   "lowNmLabel": "lowest offer, Near Mint (EU)",
+   "countries": {
+    "DE": 3.9,
+    "FR": 2.99,
+    "ES": 2.9,
+    "IT": 1.28
+   },
+   "available": 463,
    "currency": "EUR",
    "source": "cardmarket-tcggo",
-   "asOf": "2026-08-27",
-   "lowNm": 3.5,
-   "lowNmLabel": "lowest offer, Near Mint (EU)"
+   "url": "https://www.tcggo.com/external/cm/23973",
+   "tcggoUrl": "https://www.tcggo.com/pokemon/mega-evolution/stufful-154",
+   "cardmarketId": 851225,
+   "asOf": "2026-08-28"
   },
   "epick": {
    "matched": true,
@@ -1477,6 +1614,7 @@
    ]
   },
   "notes": "Batch-2.",
-  "rarity": "Illustration Rare"
+  "rarity": "Illustration Rare",
+  "apiId": "me1-154"
  }
 ]

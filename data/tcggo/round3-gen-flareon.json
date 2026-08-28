@@ -1,0 +1,323 @@
+[
+ {
+  "id": 10805,
+  "name": "Flareon-EX",
+  "name_numbered": "Flareon-EX RC6",
+  "slug": "flareon-ex",
+  "card_code_number": "GEN RC6",
+  "type": "singles",
+  "card_number": "RC6",
+  "hp": 170,
+  "rarity": "Rare Holo EX",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "g1-RC6",
+  "cardmarket_id": 288515,
+  "tcgplayer_id": 113747,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 48.07,
+    "lowest_near_mint_EU_only": 60,
+    "lowest_near_mint_DE": 75,
+    "lowest_near_mint_DE_EU_only": 75,
+    "lowest_near_mint_FR": 36,
+    "lowest_near_mint_FR_EU_only": 36,
+    "lowest_near_mint_ES": 35,
+    "lowest_near_mint_ES_EU_only": 35,
+    "lowest_near_mint_IT": 23,
+    "lowest_near_mint_IT_EU_only": 23,
+    "30d_average": 40.18,
+    "7d_average": 44.24,
+    "available_items": 185,
+    "graded": {
+     "psa": {
+      "psa10": 1450,
+      "psa9": 225,
+      "psa8": 199
+     },
+     "cgc": {
+      "cgc10": 199
+     }
+    }
+   },
+   "ebay": {
+    "currency": "USD",
+    "graded": {
+     "ace": {
+      "9": {
+       "median_price": 114.14,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 73.47,
+       "sample_size": 5
+      },
+      "7": {
+       "median_price": 43.73,
+       "sample_size": 5
+      }
+     },
+     "bgs": {
+      "9": {
+       "median_price": 179.58,
+       "sample_size": 2
+      },
+      "8": {
+       "median_price": 71.55,
+       "sample_size": 1
+      }
+     },
+     "cgc": {
+      "10": {
+       "median_price": 485.99,
+       "sample_size": 4
+      },
+      "9": {
+       "median_price": 119.85,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 46.74,
+       "sample_size": 2
+      }
+     },
+     "psa": {
+      "10": {
+       "median_price": 1403.51,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 221.15,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 101.73,
+       "sample_size": 5
+      },
+      "7": {
+       "median_price": 53.52,
+       "sample_size": 5
+      }
+     },
+     "tag": {
+      "8": {
+       "median_price": 54.27,
+       "sample_size": 3
+      },
+      "7": {
+       "median_price": 50,
+       "sample_size": 1
+      }
+     }
+    }
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 49.03,
+    "mid_price": 51.97
+   }
+  },
+  "episode": {
+   "id": 75,
+   "name": "Generations",
+   "slug": "generations",
+   "released_at": "2016-02-22",
+   "logo": "https://images.tcggo.com/tcggo/storage/10803/generations-logo.png",
+   "code": "GEN",
+   "cards_total": 117,
+   "cards_printed_total": 83,
+   "prices": {
+    "cardmarket": {
+     "total": 1147.41,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 1392.5,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 5,
+    "name": "XY",
+    "slug": "xy"
+   }
+  },
+  "artist": {
+   "id": 514,
+   "name": "Atsuko Nishida",
+   "slug": "atsuko-nishida"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/10895/flareon-ex-gen-rc6-generations-pokemon.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/generations/flareon-ex-rc6",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/10805",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/10805"
+  }
+ },
+ {
+  "id": 10827,
+  "name": "Flareon-EX",
+  "name_numbered": "Flareon-EX RC28",
+  "slug": "flareon-ex",
+  "card_code_number": "GEN RC28",
+  "type": "singles",
+  "card_number": "RC28",
+  "hp": 170,
+  "rarity": "Rare Ultra",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "g1-RC28",
+  "cardmarket_id": 288537,
+  "tcgplayer_id": 113748,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 149,
+    "lowest_near_mint_EU_only": 149,
+    "lowest_near_mint_DE": 190,
+    "lowest_near_mint_DE_EU_only": 190,
+    "lowest_near_mint_FR": 95,
+    "lowest_near_mint_FR_EU_only": 95,
+    "lowest_near_mint_ES": 150,
+    "lowest_near_mint_ES_EU_only": 150,
+    "lowest_near_mint_IT": 139.9,
+    "lowest_near_mint_IT_EU_only": 139.9,
+    "30d_average": 132.87,
+    "7d_average": 125.99,
+    "available_items": 213,
+    "graded": {
+     "psa": {
+      "psa10": 8995,
+      "psa9": 495,
+      "psa8": 350
+     }
+    }
+   },
+   "ebay": {
+    "currency": "USD",
+    "graded": {
+     "ace": {
+      "10": {
+       "median_price": 1793.21,
+       "sample_size": 2
+      },
+      "9": {
+       "median_price": 158.86,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 115,
+       "sample_size": 5
+      },
+      "7": {
+       "median_price": 92.55,
+       "sample_size": 5
+      }
+     },
+     "bgs": {
+      "9": {
+       "median_price": 425.42,
+       "sample_size": 2
+      }
+     },
+     "cgc": {
+      "10": {
+       "median_price": 1111.25,
+       "sample_size": 4
+      },
+      "9": {
+       "median_price": 230.45,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 151.64,
+       "sample_size": 5
+      },
+      "7": {
+       "median_price": 124.19,
+       "sample_size": 2
+      }
+     },
+     "psa": {
+      "10": {
+       "median_price": 4459.56,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 573.82,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 233.94,
+       "sample_size": 5
+      },
+      "7": {
+       "median_price": 141.25,
+       "sample_size": 5
+      }
+     },
+     "sgc": {
+      "9": {
+       "median_price": 150,
+       "sample_size": 1
+      }
+     },
+     "tag": {
+      "8": {
+       "median_price": 197.52,
+       "sample_size": 1
+      }
+     }
+    }
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 106.13,
+    "mid_price": 142.35
+   }
+  },
+  "episode": {
+   "id": 75,
+   "name": "Generations",
+   "slug": "generations",
+   "released_at": "2016-02-22",
+   "logo": "https://images.tcggo.com/tcggo/storage/10803/generations-logo.png",
+   "code": "GEN",
+   "cards_total": 117,
+   "cards_printed_total": 83,
+   "prices": {
+    "cardmarket": {
+     "total": 1147.41,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 1392.5,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 5,
+    "name": "XY",
+    "slug": "xy"
+   }
+  },
+  "artist": {
+   "id": 512,
+   "name": "kirisAki",
+   "slug": "kirisaki"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/10917/flareon-ex-gen-rc28-generations-pokemon.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/generations/flareon-ex-rc28",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/10827",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/10827"
+  }
+ }
+]

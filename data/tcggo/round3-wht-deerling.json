@@ -1,0 +1,181 @@
+[
+ {
+  "id": 23264,
+  "name": "Deerling",
+  "name_numbered": "Deerling 6",
+  "slug": "deerling",
+  "card_code_number": "WHT 6",
+  "type": "singles",
+  "card_number": 6,
+  "hp": 70,
+  "rarity": "Common",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "rsv10pt5-6",
+  "cardmarket_id": 835911,
+  "tcgplayer_id": 642121,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 0.02,
+    "lowest_near_mint_EU_only": 0.02,
+    "lowest_near_mint_DE": 0.02,
+    "lowest_near_mint_DE_EU_only": 0.02,
+    "lowest_near_mint_FR": 0.02,
+    "lowest_near_mint_FR_EU_only": 0.02,
+    "lowest_near_mint_ES": 0.02,
+    "lowest_near_mint_ES_EU_only": 0.02,
+    "lowest_near_mint_IT": 0.02,
+    "lowest_near_mint_IT_EU_only": 0.02,
+    "30d_average": 0.04,
+    "7d_average": 0.03,
+    "available_items": 10000,
+    "graded": []
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 0.17,
+    "mid_price": 0.1
+   }
+  },
+  "episode": {
+   "id": 224,
+   "name": "White Flare",
+   "slug": "white-flare",
+   "released_at": "2025-07-18",
+   "logo": "https://images.tcggo.com/tcggo/storage/23037/white-flare-logo.png",
+   "code": "WHT",
+   "cards_total": 173,
+   "cards_printed_total": 86,
+   "prices": {
+    "cardmarket": {
+     "total": 2357.27,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 2735.69,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 1,
+    "name": "Scarlet & Violet",
+    "slug": "scarlet-violet"
+   }
+  },
+  "artist": {
+   "id": 774,
+   "name": "Narano",
+   "slug": "narano"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/23233/deerling.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/white-flare/deerling-6",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/23264",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/23264"
+  }
+ },
+ {
+  "id": 23349,
+  "name": "Deerling",
+  "name_numbered": "Deerling 91",
+  "slug": "deerling",
+  "card_code_number": "WHT 91",
+  "type": "singles",
+  "card_number": 91,
+  "hp": 70,
+  "rarity": "Illustration Rare",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "rsv10pt5-91",
+  "cardmarket_id": 836077,
+  "tcgplayer_id": 642206,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 14.9,
+    "lowest_near_mint_EU_only": 15.8,
+    "lowest_near_mint_DE": 16,
+    "lowest_near_mint_DE_EU_only": 16,
+    "lowest_near_mint_FR": 17,
+    "lowest_near_mint_FR_EU_only": 20,
+    "lowest_near_mint_ES": 8,
+    "lowest_near_mint_ES_EU_only": 8,
+    "lowest_near_mint_IT": 6,
+    "lowest_near_mint_IT_EU_only": 6,
+    "30d_average": 16.91,
+    "7d_average": 15.55,
+    "available_items": 182,
+    "graded": []
+   },
+   "ebay": {
+    "currency": "USD",
+    "graded": {
+     "ace": {
+      "10": {
+       "median_price": 44.47,
+       "sample_size": 2
+      },
+      "9": {
+       "median_price": 17.91,
+       "sample_size": 1
+      }
+     },
+     "cgc": {
+      "9": {
+       "median_price": 20.8,
+       "sample_size": 1
+      }
+     }
+    }
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 19.57,
+    "mid_price": 12.82
+   }
+  },
+  "episode": {
+   "id": 224,
+   "name": "White Flare",
+   "slug": "white-flare",
+   "released_at": "2025-07-18",
+   "logo": "https://images.tcggo.com/tcggo/storage/23037/white-flare-logo.png",
+   "code": "WHT",
+   "cards_total": 173,
+   "cards_printed_total": 86,
+   "prices": {
+    "cardmarket": {
+     "total": 2357.27,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 2735.69,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 1,
+    "name": "Scarlet & Violet",
+    "slug": "scarlet-violet"
+   }
+  },
+  "artist": {
+   "id": 446,
+   "name": "takashi shiraishi",
+   "slug": "takashi-shiraishi"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/23318/deerling.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/white-flare/deerling-91",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/23349",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/23349"
+  }
+ }
+]

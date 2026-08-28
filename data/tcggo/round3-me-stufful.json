@@ -1,0 +1,213 @@
+[
+ {
+  "id": 23930,
+  "name": "Stufful",
+  "name_numbered": "Stufful 111",
+  "slug": "stufful",
+  "card_code_number": "MEG 111",
+  "type": "singles",
+  "card_number": 111,
+  "hp": 70,
+  "rarity": "Common",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "me1-111",
+  "cardmarket_id": 851182,
+  "tcgplayer_id": 654450,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 0.03,
+    "lowest_near_mint_EU_only": 0.02,
+    "lowest_near_mint_DE": 0.02,
+    "lowest_near_mint_DE_EU_only": 0.02,
+    "lowest_near_mint_FR": 0.02,
+    "lowest_near_mint_FR_EU_only": 0.02,
+    "lowest_near_mint_ES": 0.02,
+    "lowest_near_mint_ES_EU_only": 0.02,
+    "lowest_near_mint_IT": 0.02,
+    "lowest_near_mint_IT_EU_only": 0.02,
+    "30d_average": 0.03,
+    "7d_average": 0.03,
+    "available_items": 14189,
+    "graded": []
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 0.23
+   }
+  },
+  "episode": {
+   "id": 230,
+   "name": "Mega Evolution",
+   "slug": "mega-evolution",
+   "released_at": "2025-09-26",
+   "logo": "https://images.tcggo.com/tcggo/storage/24026/logof.png",
+   "code": "MEG",
+   "cards_total": 188,
+   "cards_printed_total": 132,
+   "prices": {
+    "cardmarket": {
+     "total": 1381.3,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 1400.31,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 17,
+    "name": "Mega Evolution",
+    "slug": "mega-evolution"
+   }
+  },
+  "artist": {
+   "id": 440,
+   "name": "Shibuzoh.",
+   "slug": "shibuzoh"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/23926/stufful-meg-111-mega-evolution.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/mega-evolution/stufful-111-1",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/23930",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/23930"
+  }
+ },
+ {
+  "id": 23973,
+  "name": "Stufful",
+  "name_numbered": "Stufful 154",
+  "slug": "stufful",
+  "card_code_number": "MEG 154",
+  "type": "singles",
+  "card_number": 154,
+  "hp": 70,
+  "rarity": "Illustration Rare",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "me1-154",
+  "cardmarket_id": 851225,
+  "tcgplayer_id": 654493,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 3.5,
+    "lowest_near_mint_EU_only": 3.5,
+    "lowest_near_mint_DE": 3.9,
+    "lowest_near_mint_DE_EU_only": 3.9,
+    "lowest_near_mint_FR": 2.99,
+    "lowest_near_mint_FR_EU_only": 2.99,
+    "lowest_near_mint_ES": 2.9,
+    "lowest_near_mint_ES_EU_only": 2.9,
+    "lowest_near_mint_IT": 1.28,
+    "lowest_near_mint_IT_EU_only": 1.28,
+    "30d_average": 4.12,
+    "7d_average": 4.12,
+    "available_items": 463,
+    "graded": []
+   },
+   "ebay": {
+    "currency": "USD",
+    "graded": {
+     "ace": {
+      "10": {
+       "median_price": 29.99,
+       "sample_size": 5
+      }
+     },
+     "bgs": {
+      "10": {
+       "median_price": 59.86,
+       "sample_size": 1
+      }
+     },
+     "cgc": {
+      "10": {
+       "median_price": 41.68,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 7.76,
+       "sample_size": 1
+      },
+      "8": {
+       "median_price": 8.87,
+       "sample_size": 1
+      }
+     },
+     "psa": {
+      "10": {
+       "median_price": 39.86,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 17.73,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 14.41,
+       "sample_size": 1
+      }
+     },
+     "tag": {
+      "10": {
+       "median_price": 58.53,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 25.52,
+       "sample_size": 3
+      }
+     }
+    }
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 6.49
+   }
+  },
+  "episode": {
+   "id": 230,
+   "name": "Mega Evolution",
+   "slug": "mega-evolution",
+   "released_at": "2025-09-26",
+   "logo": "https://images.tcggo.com/tcggo/storage/24026/logof.png",
+   "code": "MEG",
+   "cards_total": 188,
+   "cards_printed_total": 132,
+   "prices": {
+    "cardmarket": {
+     "total": 1381.3,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 1400.31,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 17,
+    "name": "Mega Evolution",
+    "slug": "mega-evolution"
+   }
+  },
+  "artist": {
+   "id": 394,
+   "name": "OKACHEKE",
+   "slug": "okacheke"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/23871/stufful-meg-154-mega-evolution.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/mega-evolution/stufful-154",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/23973",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/23973"
+  }
+ }
+]

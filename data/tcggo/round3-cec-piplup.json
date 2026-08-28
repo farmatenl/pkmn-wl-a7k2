@@ -1,0 +1,801 @@
+[
+ {
+  "id": 7373,
+  "name": "Blastoise & Piplup-GX",
+  "name_numbered": "Blastoise & Piplup-GX 38",
+  "slug": "blastoise-piplup-gx",
+  "card_code_number": "CEC 38",
+  "type": "singles",
+  "card_number": 38,
+  "hp": 270,
+  "rarity": "Rare Holo GX",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "sm12-38",
+  "cardmarket_id": 398459,
+  "tcgplayer_id": 200352,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 58.88,
+    "lowest_near_mint_EU_only": 69,
+    "lowest_near_mint_DE": 50,
+    "lowest_near_mint_DE_EU_only": 50,
+    "lowest_near_mint_FR": 90,
+    "lowest_near_mint_FR_EU_only": 90,
+    "lowest_near_mint_ES": null,
+    "lowest_near_mint_ES_EU_only": null,
+    "lowest_near_mint_IT": 34.11,
+    "lowest_near_mint_IT_EU_only": 34.11,
+    "30d_average": 45.86,
+    "7d_average": 61.53,
+    "available_items": 195,
+    "graded": {
+     "psa": {
+      "psa10": 799,
+      "psa9": 140,
+      "psa8": 75
+     },
+     "cgc": {
+      "cgc10": 199,
+      "cgc9": 249
+     }
+    }
+   },
+   "ebay": {
+    "currency": "USD",
+    "graded": {
+     "ace": {
+      "9": {
+       "median_price": 70.34,
+       "sample_size": 4
+      },
+      "8": {
+       "median_price": 29.69,
+       "sample_size": 3
+      }
+     },
+     "bgs": {
+      "8": {
+       "median_price": 53.65,
+       "sample_size": 1
+      }
+     },
+     "cgc": {
+      "10": {
+       "median_price": 177.52,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 62.44,
+       "sample_size": 5
+      }
+     },
+     "psa": {
+      "10": {
+       "median_price": 669,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 124.89,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 75.83,
+       "sample_size": 5
+      },
+      "7": {
+       "median_price": 46.83,
+       "sample_size": 5
+      }
+     },
+     "tag": {
+      "10": {
+       "median_price": 416.59,
+       "sample_size": 2
+      },
+      "9": {
+       "median_price": 98.13,
+       "sample_size": 5
+      }
+     }
+    }
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 68.84,
+    "mid_price": 48.72
+   }
+  },
+  "episode": {
+   "id": 50,
+   "name": "Cosmic Eclipse",
+   "slug": "cosmic-eclipse",
+   "released_at": "2019-11-01",
+   "logo": "https://images.tcggo.com/tcggo/storage/7403/cosmic-eclipse-logo.png",
+   "code": "CEC",
+   "cards_total": 272,
+   "cards_printed_total": 236,
+   "prices": {
+    "cardmarket": {
+     "total": 4980.92,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 5690.05,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 4,
+    "name": "Sun & Moon",
+    "slug": "sun-moon"
+   }
+  },
+  "artist": {
+   "id": 375,
+   "name": "Mitsuhiro Arita",
+   "slug": "mitsuhiro-arita"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/7442/blastoise-piplup-gx-cec-38-cosmic-eclipse-pokemon.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/cosmic-eclipse/blastoise-piplup-gx-38",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/7373",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/7373"
+  }
+ },
+ {
+  "id": 7389,
+  "name": "Piplup",
+  "name_numbered": "Piplup 54",
+  "slug": "piplup",
+  "card_code_number": "CEC 54",
+  "type": "singles",
+  "card_number": 54,
+  "hp": 60,
+  "rarity": "Common",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "sm12-54",
+  "cardmarket_id": 407919,
+  "tcgplayer_id": 201230,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 0.02,
+    "lowest_near_mint_EU_only": 0.02,
+    "lowest_near_mint_DE": 0.02,
+    "lowest_near_mint_DE_EU_only": 0.02,
+    "lowest_near_mint_FR": 0.02,
+    "lowest_near_mint_FR_EU_only": 0.02,
+    "lowest_near_mint_ES": 0.02,
+    "lowest_near_mint_ES_EU_only": 0.02,
+    "lowest_near_mint_IT": 0.02,
+    "lowest_near_mint_IT_EU_only": 0.02,
+    "30d_average": 0.13,
+    "7d_average": 0.14,
+    "available_items": 1708,
+    "graded": []
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 0.69,
+    "mid_price": 0.23
+   }
+  },
+  "episode": {
+   "id": 50,
+   "name": "Cosmic Eclipse",
+   "slug": "cosmic-eclipse",
+   "released_at": "2019-11-01",
+   "logo": "https://images.tcggo.com/tcggo/storage/7403/cosmic-eclipse-logo.png",
+   "code": "CEC",
+   "cards_total": 272,
+   "cards_printed_total": 236,
+   "prices": {
+    "cardmarket": {
+     "total": 4980.92,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 5690.05,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 4,
+    "name": "Sun & Moon",
+    "slug": "sun-moon"
+   }
+  },
+  "artist": {
+   "id": 577,
+   "name": "Suwama Chiaki",
+   "slug": "suwama-chiaki"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/7457/piplup-cec-54-cosmic-eclipse-pokemon.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/cosmic-eclipse/piplup-54",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/7389",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/7389"
+  }
+ },
+ {
+  "id": 7550,
+  "name": "Blastoise & Piplup-GX",
+  "name_numbered": "Blastoise & Piplup-GX 214",
+  "slug": "blastoise-piplup-gx",
+  "card_code_number": "CEC 214",
+  "type": "singles",
+  "card_number": 214,
+  "hp": 270,
+  "rarity": "Rare Ultra",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "sm12-214",
+  "cardmarket_id": 408664,
+  "tcgplayer_id": 201333,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 60,
+    "lowest_near_mint_EU_only": 60,
+    "lowest_near_mint_DE": 64,
+    "lowest_near_mint_DE_EU_only": 64,
+    "lowest_near_mint_FR": 150,
+    "lowest_near_mint_FR_EU_only": 150,
+    "lowest_near_mint_ES": 55,
+    "lowest_near_mint_ES_EU_only": 55,
+    "lowest_near_mint_IT": 24.99,
+    "lowest_near_mint_IT_EU_only": 24.99,
+    "30d_average": 55.03,
+    "7d_average": 50.93,
+    "available_items": 67,
+    "graded": []
+   },
+   "ebay": {
+    "currency": "USD",
+    "graded": {
+     "ace": {
+      "10": {
+       "median_price": 156.63,
+       "sample_size": 5
+      }
+     },
+     "bgs": {
+      "8": {
+       "median_price": 49.06,
+       "sample_size": 1
+      }
+     },
+     "cgc": {
+      "10": {
+       "median_price": 90.65,
+       "sample_size": 1
+      },
+      "9": {
+       "median_price": 76.45,
+       "sample_size": 5
+      }
+     },
+     "psa": {
+      "10": {
+       "median_price": 404.37,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 106.15,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 78.69,
+       "sample_size": 5
+      },
+      "7": {
+       "median_price": 31,
+       "sample_size": 1
+      }
+     },
+     "tag": {
+      "9": {
+       "median_price": 113.64,
+       "sample_size": 1
+      }
+     }
+    }
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 79.62,
+    "mid_price": 63.9
+   }
+  },
+  "episode": {
+   "id": 50,
+   "name": "Cosmic Eclipse",
+   "slug": "cosmic-eclipse",
+   "released_at": "2019-11-01",
+   "logo": "https://images.tcggo.com/tcggo/storage/7403/cosmic-eclipse-logo.png",
+   "code": "CEC",
+   "cards_total": 272,
+   "cards_printed_total": 236,
+   "prices": {
+    "cardmarket": {
+     "total": 4980.92,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 5690.05,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 4,
+    "name": "Sun & Moon",
+    "slug": "sun-moon"
+   }
+  },
+  "artist": {
+   "id": 380,
+   "name": "5ban Graphics",
+   "slug": "5ban-graphics"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/7618/blastoise-piplup-gx-cec-214-cosmic-eclipse-pokemon.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/cosmic-eclipse/blastoise-piplup-gx-214",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/7550",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/7550"
+  }
+ },
+ {
+  "id": 7551,
+  "name": "Blastoise & Piplup-GX",
+  "name_numbered": "Blastoise & Piplup-GX 215",
+  "slug": "blastoise-piplup-gx",
+  "card_code_number": "CEC 215",
+  "type": "singles",
+  "card_number": 215,
+  "hp": 270,
+  "rarity": "Rare Ultra",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "sm12-215",
+  "cardmarket_id": 408669,
+  "tcgplayer_id": 201334,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 400,
+    "lowest_near_mint_EU_only": 400,
+    "lowest_near_mint_DE": 225,
+    "lowest_near_mint_DE_EU_only": 249.9,
+    "lowest_near_mint_FR": 300,
+    "lowest_near_mint_FR_EU_only": 300,
+    "lowest_near_mint_ES": 500,
+    "lowest_near_mint_ES_EU_only": 500,
+    "lowest_near_mint_IT": 150,
+    "lowest_near_mint_IT_EU_only": 150,
+    "30d_average": 344.63,
+    "7d_average": 283.19,
+    "available_items": 115,
+    "graded": {
+     "psa": {
+      "psa10": 3299,
+      "psa9": 895,
+      "psa8": 449
+     }
+    }
+   },
+   "ebay": {
+    "currency": "USD",
+    "graded": {
+     "ace": {
+      "10": {
+       "median_price": 849.41,
+       "sample_size": 3
+      },
+      "9": {
+       "median_price": 264.32,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 249.82,
+       "sample_size": 1
+      }
+     },
+     "bgs": {
+      "9": {
+       "median_price": 399.99,
+       "sample_size": 1
+      }
+     },
+     "cgc": {
+      "10": {
+       "median_price": 497.16,
+       "sample_size": 3
+      },
+      "9": {
+       "median_price": 283,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 279.99,
+       "sample_size": 1
+      }
+     },
+     "psa": {
+      "10": {
+       "median_price": 2224.13,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 373.8,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 311.75,
+       "sample_size": 5
+      },
+      "7": {
+       "median_price": 275.12,
+       "sample_size": 3
+      }
+     },
+     "tag": {
+      "9": {
+       "median_price": 380.7,
+       "sample_size": 2
+      },
+      "8": {
+       "median_price": 349.99,
+       "sample_size": 1
+      }
+     }
+    }
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 422.39,
+    "mid_price": 341.03
+   }
+  },
+  "episode": {
+   "id": 50,
+   "name": "Cosmic Eclipse",
+   "slug": "cosmic-eclipse",
+   "released_at": "2019-11-01",
+   "logo": "https://images.tcggo.com/tcggo/storage/7403/cosmic-eclipse-logo.png",
+   "code": "CEC",
+   "cards_total": 272,
+   "cards_printed_total": 236,
+   "prices": {
+    "cardmarket": {
+     "total": 4980.92,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 5690.05,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 4,
+    "name": "Sun & Moon",
+    "slug": "sun-moon"
+   }
+  },
+  "artist": {
+   "id": 426,
+   "name": "Akira Komayama",
+   "slug": "akira-komayama"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/7619/blastoise-piplup-gx-cec-215-cosmic-eclipse-pokemon.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/cosmic-eclipse/blastoise-piplup-gx-215",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/7551",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/7551"
+  }
+ },
+ {
+  "id": 7575,
+  "name": "Piplup",
+  "name_numbered": "Piplup 239",
+  "slug": "piplup",
+  "card_code_number": "CEC 239",
+  "type": "singles",
+  "card_number": 239,
+  "hp": 60,
+  "rarity": "Rare Secret",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "sm12-239",
+  "cardmarket_id": 398504,
+  "tcgplayer_id": 201350,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 41.99,
+    "lowest_near_mint_EU_only": 41.99,
+    "lowest_near_mint_DE": 29.99,
+    "lowest_near_mint_DE_EU_only": 29.99,
+    "lowest_near_mint_FR": 59.99,
+    "lowest_near_mint_FR_EU_only": 59.99,
+    "lowest_near_mint_ES": 31.5,
+    "lowest_near_mint_ES_EU_only": 31.5,
+    "lowest_near_mint_IT": 25,
+    "lowest_near_mint_IT_EU_only": 25,
+    "30d_average": 38.26,
+    "7d_average": 40.96,
+    "available_items": 195,
+    "graded": {
+     "psa": {
+      "psa10": 940,
+      "psa9": 105
+     }
+    }
+   },
+   "ebay": {
+    "currency": "USD",
+    "graded": {
+     "ace": {
+      "10": {
+       "median_price": 234.61,
+       "sample_size": 2
+      },
+      "9": {
+       "median_price": 61.08,
+       "sample_size": 4
+      },
+      "8": {
+       "median_price": 49.56,
+       "sample_size": 1
+      }
+     },
+     "bgs": {
+      "9": {
+       "median_price": 109.61,
+       "sample_size": 1
+      }
+     },
+     "cgc": {
+      "10": {
+       "median_price": 346.8,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 41.87,
+       "sample_size": 5
+      }
+     },
+     "psa": {
+      "10": {
+       "median_price": 485.94,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 75.61,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 46.35,
+       "sample_size": 5
+      },
+      "7": {
+       "median_price": 56.94,
+       "sample_size": 1
+      }
+     },
+     "tag": {
+      "10": {
+       "median_price": 422.59,
+       "sample_size": 3
+      },
+      "9": {
+       "median_price": 66.07,
+       "sample_size": 4
+      },
+      "7": {
+       "median_price": 40.36,
+       "sample_size": 1
+      }
+     }
+    }
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 58.8,
+    "mid_price": 57.34
+   }
+  },
+  "episode": {
+   "id": 50,
+   "name": "Cosmic Eclipse",
+   "slug": "cosmic-eclipse",
+   "released_at": "2019-11-01",
+   "logo": "https://images.tcggo.com/tcggo/storage/7403/cosmic-eclipse-logo.png",
+   "code": "CEC",
+   "cards_total": 272,
+   "cards_printed_total": 236,
+   "prices": {
+    "cardmarket": {
+     "total": 4980.92,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 5690.05,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 4,
+    "name": "Sun & Moon",
+    "slug": "sun-moon"
+   }
+  },
+  "artist": {
+   "id": 481,
+   "name": "Tomomi Kaneko",
+   "slug": "tomomi-kaneko"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/7643/piplup-cec-239-cosmic-eclipse-pokemon.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/cosmic-eclipse/piplup-239",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/7575",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/7575"
+  }
+ },
+ {
+  "id": 7589,
+  "name": "Blastoise & Piplup-GX",
+  "name_numbered": "Blastoise & Piplup-GX 253",
+  "slug": "blastoise-piplup-gx",
+  "card_code_number": "CEC 253",
+  "type": "singles",
+  "card_number": 253,
+  "hp": 270,
+  "rarity": "Rare Rainbow",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "sm12-253",
+  "cardmarket_id": 410594,
+  "tcgplayer_id": 201612,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 36.06,
+    "lowest_near_mint_EU_only": 90,
+    "lowest_near_mint_DE": 70,
+    "lowest_near_mint_DE_EU_only": 84.99,
+    "lowest_near_mint_FR": 124.9,
+    "lowest_near_mint_FR_EU_only": 124.9,
+    "lowest_near_mint_ES": null,
+    "lowest_near_mint_ES_EU_only": null,
+    "lowest_near_mint_IT": 99.98,
+    "lowest_near_mint_IT_EU_only": 99.98,
+    "30d_average": 70.47,
+    "7d_average": 72.98,
+    "available_items": 73,
+    "graded": {
+     "psa": {
+      "psa10": 550,
+      "psa9": 199
+     }
+    }
+   },
+   "ebay": {
+    "currency": "USD",
+    "graded": {
+     "ace": {
+      "10": {
+       "median_price": 222.75,
+       "sample_size": 1
+      },
+      "9": {
+       "median_price": 93.96,
+       "sample_size": 2
+      }
+     },
+     "bgs": {
+      "9": {
+       "median_price": 67,
+       "sample_size": 1
+      }
+     },
+     "cgc": {
+      "10": {
+       "median_price": 131.25,
+       "sample_size": 2
+      },
+      "9": {
+       "median_price": 103.13,
+       "sample_size": 2
+      }
+     },
+     "psa": {
+      "10": {
+       "median_price": 336.42,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 177.92,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 91.63,
+       "sample_size": 4
+      },
+      "7": {
+       "median_price": 68.8,
+       "sample_size": 2
+      }
+     },
+     "tag": {
+      "10": {
+       "median_price": 315.49,
+       "sample_size": 1
+      }
+     }
+    }
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 112.73,
+    "mid_price": 85.73
+   }
+  },
+  "episode": {
+   "id": 50,
+   "name": "Cosmic Eclipse",
+   "slug": "cosmic-eclipse",
+   "released_at": "2019-11-01",
+   "logo": "https://images.tcggo.com/tcggo/storage/7403/cosmic-eclipse-logo.png",
+   "code": "CEC",
+   "cards_total": 272,
+   "cards_printed_total": 236,
+   "prices": {
+    "cardmarket": {
+     "total": 4980.92,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 5690.05,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 4,
+    "name": "Sun & Moon",
+    "slug": "sun-moon"
+   }
+  },
+  "artist": {
+   "id": 380,
+   "name": "5ban Graphics",
+   "slug": "5ban-graphics"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/7658/blastoise-piplup-gx-cec-253-cosmic-eclipse-pokemon.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/cosmic-eclipse/blastoise-piplup-gx-253",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/7589",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/7589"
+  }
+ }
+]

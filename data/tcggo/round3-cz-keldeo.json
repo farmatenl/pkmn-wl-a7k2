@@ -1,0 +1,148 @@
+[
+ {
+  "id": 3790,
+  "name": "Keldeo",
+  "name_numbered": "Keldeo GG07",
+  "slug": "keldeo",
+  "card_code_number": "CRZ GG07",
+  "type": "singles",
+  "card_number": "GG07",
+  "hp": 110,
+  "rarity": "Trainer Gallery Rare Holo",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "swsh12pt5gg-GG07",
+  "cardmarket_id": 691886,
+  "tcgplayer_id": 478024,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 15,
+    "lowest_near_mint_EU_only": 15,
+    "lowest_near_mint_DE": 16,
+    "lowest_near_mint_DE_EU_only": 16,
+    "lowest_near_mint_FR": 19.9,
+    "lowest_near_mint_FR_EU_only": 19.9,
+    "lowest_near_mint_ES": 10.5,
+    "lowest_near_mint_ES_EU_only": 10.5,
+    "lowest_near_mint_IT": 7.8,
+    "lowest_near_mint_IT_EU_only": 7.8,
+    "30d_average": 16.74,
+    "7d_average": 15.69,
+    "available_items": 289,
+    "graded": {
+     "cgc": {
+      "cgc9": 20
+     }
+    }
+   },
+   "ebay": {
+    "currency": "USD",
+    "graded": {
+     "ace": {
+      "10": {
+       "median_price": 66.54,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 25,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 18.77,
+       "sample_size": 1
+      }
+     },
+     "bgs": {
+      "9": {
+       "median_price": 28.48,
+       "sample_size": 1
+      }
+     },
+     "cgc": {
+      "10": {
+       "median_price": 53.61,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 13.75,
+       "sample_size": 3
+      }
+     },
+     "psa": {
+      "10": {
+       "median_price": 134.32,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 31.26,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 13.77,
+       "sample_size": 5
+      },
+      "7": {
+       "median_price": 9.51,
+       "sample_size": 4
+      }
+     },
+     "tag": {
+      "10": {
+       "median_price": 150.77,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 31.21,
+       "sample_size": 5
+      }
+     }
+    }
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 11.16,
+    "mid_price": 11.96
+   }
+  },
+  "episode": {
+   "id": 21,
+   "name": "Crown Zenith",
+   "slug": "crown-zenith",
+   "released_at": "2023-01-20",
+   "logo": "https://images.tcggo.com/tcggo/storage/3641/crown-zenith-logo.png",
+   "code": "CRZ",
+   "cards_total": 160,
+   "cards_printed_total": 159,
+   "prices": {
+    "cardmarket": {
+     "total": 2264.91,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 1766.99,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 2,
+    "name": "Sword & Shield",
+    "slug": "sword-shield"
+   }
+  },
+  "artist": {
+   "id": 382,
+   "name": "KEIICHIRO ITO",
+   "slug": "keiichiro-ito"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/3809/keldeo-crz-gg07-crown-zenith-pokemon.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/crown-zenith/keldeo-gg07",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/3790",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/3790"
+  }
+ }
+]

@@ -59,6 +59,10 @@ Price fields on a card (`price.source` decides the modal layout):
 - e-pick descriptions are parseable: `single card from {Set} ({number}). Language: {lang}.`
   Store stocks Japanese prints too ("White Flare JP") — matches must filter `language: English`
   (wishlist convention: EN primary, JP/CN secondary).
+- pokemontcg.io set ids: **Cosmic Eclipse = sm12** (sm11 = Unified Minds). Batch-2's
+  confusion around the Lopunny GX cards came from grabbing sm11-225/226 records
+  (Unified Minds Sableye cards). Verified 2026-08-28: sm12-225/226 7d averages match
+  the owner's prices exactly.
 - `data/tcggo_matches2.json` is batch-2 TCGGO evidence keyed by image, but it predates the
   owner's identity fixes: its WA0046/47 records are Mega Sableye & Tyranitar-GX (wrong card),
   and its `_fallback` records are pokemontcg.io data with several wrong tcgid→name pairings.
@@ -82,17 +86,16 @@ Price fields on a card (`price.source` decides the modal layout):
 
 ## Known open items
 
-- **5 cards identity-flagged, prices nulled (2026-08-28):** WA0035 Deerling BB#091,
-  WA0041 Piplup UM#239, WA0055 Flareon-EX GEN#RC29, WA0058 Pikachu GEN#RC23,
-  WA0065 Bulbasaur BB#013. pokemontcg.io and TCGGO both say those set+numbers belong to
-  other cards (Petilil, Slowpoke & Psyduck-GX, Pikachu, Swablu, Darumaka). Owner must
-  re-check the photos, fix set/number, then re-price. See `scripts/flag_identity_conflicts.py`.
-- Still thin-priced (no TCGGO evidence yet): WA0046/WA0047 (Lopunny GX CEC 225/226),
-  WA0039 Keldeo GG07, 20260629-WA0020 Stufful ME#154 — candidates for the next TCGGO
-  fetch round (~10 calls total incl. the 5 flagged above once identities are fixed).
-- NL-specific price exists only for the 6 e-pick cards; candidate fix: add 1–2 more NL
-  webshops with clean JSON endpoints (same pattern as e-pick).
+- **Resolved 2026-08-28:** the 5 identity-flagged cards (WA0035/41/55/58/65) were
+  photo-re-verified by the owner (names were right, set/numbers wrong — see
+  `scripts/resolve_identity_round2.py`) and re-priced from fresh TCGGO evidence
+  (`fetch_tcggo_round3.py` + `apply_round3.py`). 41/47 cards now full-tier.
+- Manaphy XY113 (`20260827-WA0021`) is the only card left on the stale pokemontcg.io
+  source (labeled as such in the modal) — recheck when TCGGO covers XY Black Star Promos.
+- Cards on non-CM sources by design: Cubone WA0022 + Sylveon WA0051 (PriceCharting),
+  Psyduck WA0013 (e-pick retail), Lillipup WA0042 + Milcery WA0043 (manual CM visits,
+  2026-08-27 — consider re-checking on TCGGO next refresh).
+- NL-specific price exists only for the e-pick matched cards (10 as of batch-2); candidate
+  fix: add 1–2 more NL webshops with clean JSON endpoints (same pattern as e-pick).
 - Weekly price refresh (rerun TCGGO fetch + `update_prices_tcggo.py` + push) is cron-ready;
   free tier covers it (~30 calls/run at 30 req/min with sleeps).
-- `IMG-20260827-WA0021.jpg` (Manaphy XY113) price still from pokemontcg.io trend (source
-  now labeled `pokemontcg.io-fallback`) — recheck when TCGGO covers XY Black Star Promos.

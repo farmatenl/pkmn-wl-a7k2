@@ -1,0 +1,510 @@
+[
+ {
+  "id": 7501,
+  "name": "Mega Lopunny & Jigglypuff-GX",
+  "name_numbered": "Mega Lopunny & Jigglypuff-GX 165",
+  "slug": "mega-lopunny-jigglypuff-gx",
+  "card_code_number": "CEC 165",
+  "type": "singles",
+  "card_number": 165,
+  "hp": 240,
+  "rarity": "Rare Holo GX",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "sm12-165",
+  "cardmarket_id": 398489,
+  "tcgplayer_id": 201284,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 24,
+    "lowest_near_mint_EU_only": 24.98,
+    "lowest_near_mint_DE": 11.99,
+    "lowest_near_mint_DE_EU_only": 11.99,
+    "lowest_near_mint_FR": 21.99,
+    "lowest_near_mint_FR_EU_only": 21.99,
+    "lowest_near_mint_ES": 19.5,
+    "lowest_near_mint_ES_EU_only": 19.5,
+    "lowest_near_mint_IT": 5,
+    "lowest_near_mint_IT_EU_only": 5,
+    "30d_average": 22.09,
+    "7d_average": 36.92,
+    "available_items": 178,
+    "graded": {
+     "psa": {
+      "psa10": 274,
+      "psa9": 100
+     },
+     "cgc": {
+      "cgc9": 83,
+      "cgc8": 69
+     }
+    }
+   },
+   "ebay": {
+    "currency": "USD",
+    "graded": {
+     "ace": {
+      "10": {
+       "median_price": 55.57,
+       "sample_size": 3
+      },
+      "9": {
+       "median_price": 28.93,
+       "sample_size": 2
+      },
+      "8": {
+       "median_price": 15.96,
+       "sample_size": 1
+      }
+     },
+     "bgs": {
+      "8": {
+       "median_price": 15.24,
+       "sample_size": 1
+      }
+     },
+     "cgc": {
+      "10": {
+       "median_price": 132.92,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 26.72,
+       "sample_size": 3
+      },
+      "8": {
+       "median_price": 22.5,
+       "sample_size": 1
+      }
+     },
+     "psa": {
+      "10": {
+       "median_price": 161.68,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 47.08,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 17.84,
+       "sample_size": 5
+      },
+      "7": {
+       "median_price": 32.32,
+       "sample_size": 3
+      }
+     }
+    }
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 25.95,
+    "mid_price": 19.44
+   }
+  },
+  "episode": {
+   "id": 50,
+   "name": "Cosmic Eclipse",
+   "slug": "cosmic-eclipse",
+   "released_at": "2019-11-01",
+   "logo": "https://images.tcggo.com/tcggo/storage/7403/cosmic-eclipse-logo.png",
+   "code": "CEC",
+   "cards_total": 272,
+   "cards_printed_total": 236,
+   "prices": {
+    "cardmarket": {
+     "total": 4980.92,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 5690.05,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 4,
+    "name": "Sun & Moon",
+    "slug": "sun-moon"
+   }
+  },
+  "artist": {
+   "id": 375,
+   "name": "Mitsuhiro Arita",
+   "slug": "mitsuhiro-arita"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/7569/mega-lopunny-jigglypuff-gx-cec-165-cosmic-eclipse-pokemon.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/cosmic-eclipse/mega-lopunny-jigglypuff-gx-165",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/7501",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/7501"
+  }
+ },
+ {
+  "id": 7561,
+  "name": "Mega Lopunny & Jigglypuff-GX",
+  "name_numbered": "Mega Lopunny & Jigglypuff-GX 225",
+  "slug": "mega-lopunny-jigglypuff-gx",
+  "card_code_number": "CEC 225",
+  "type": "singles",
+  "card_number": 225,
+  "hp": 240,
+  "rarity": "Rare Ultra",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "sm12-225",
+  "cardmarket_id": 408719,
+  "tcgplayer_id": 201285,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 32,
+    "lowest_near_mint_EU_only": 32,
+    "lowest_near_mint_DE": 24.29,
+    "lowest_near_mint_DE_EU_only": 24.29,
+    "lowest_near_mint_FR": 35.01,
+    "lowest_near_mint_FR_EU_only": 35.01,
+    "lowest_near_mint_ES": 80,
+    "lowest_near_mint_ES_EU_only": 80,
+    "lowest_near_mint_IT": 25,
+    "lowest_near_mint_IT_EU_only": 25,
+    "30d_average": 29.43,
+    "7d_average": 46.57,
+    "available_items": 74,
+    "graded": []
+   },
+   "ebay": {
+    "currency": "USD",
+    "graded": {
+     "ace": {
+      "9": {
+       "median_price": 29.99,
+       "sample_size": 1
+      }
+     },
+     "bgs": {
+      "9": {
+       "median_price": 40.75,
+       "sample_size": 1
+      }
+     },
+     "psa": {
+      "10": {
+       "median_price": 195.72,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 38.88,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 45.54,
+       "sample_size": 2
+      }
+     },
+     "tag": {
+      "10": {
+       "median_price": 82.24,
+       "sample_size": 2
+      }
+     }
+    }
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 42.85,
+    "mid_price": 46.36
+   }
+  },
+  "episode": {
+   "id": 50,
+   "name": "Cosmic Eclipse",
+   "slug": "cosmic-eclipse",
+   "released_at": "2019-11-01",
+   "logo": "https://images.tcggo.com/tcggo/storage/7403/cosmic-eclipse-logo.png",
+   "code": "CEC",
+   "cards_total": 272,
+   "cards_printed_total": 236,
+   "prices": {
+    "cardmarket": {
+     "total": 4980.92,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 5690.05,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 4,
+    "name": "Sun & Moon",
+    "slug": "sun-moon"
+   }
+  },
+  "artist": {
+   "id": 371,
+   "name": "aky CG Works",
+   "slug": "aky-cg-works"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/7629/mega-lopunny-jigglypuff-gx-cec-225-cosmic-eclipse-pokemon.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/cosmic-eclipse/mega-lopunny-jigglypuff-gx-225",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/7561",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/7561"
+  }
+ },
+ {
+  "id": 7562,
+  "name": "Mega Lopunny & Jigglypuff-GX",
+  "name_numbered": "Mega Lopunny & Jigglypuff-GX 226",
+  "slug": "mega-lopunny-jigglypuff-gx",
+  "card_code_number": "CEC 226",
+  "type": "singles",
+  "card_number": 226,
+  "hp": 240,
+  "rarity": "Rare Ultra",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "sm12-226",
+  "cardmarket_id": 408724,
+  "tcgplayer_id": 201286,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 270,
+    "lowest_near_mint_EU_only": 296.99,
+    "lowest_near_mint_DE": 250,
+    "lowest_near_mint_DE_EU_only": 250,
+    "lowest_near_mint_FR": 219.99,
+    "lowest_near_mint_FR_EU_only": 219.99,
+    "lowest_near_mint_ES": 374.5,
+    "lowest_near_mint_ES_EU_only": 374.5,
+    "lowest_near_mint_IT": 140,
+    "lowest_near_mint_IT_EU_only": 140,
+    "30d_average": 168.89,
+    "7d_average": 134.85,
+    "available_items": 59,
+    "graded": {
+     "psa": {
+      "psa10": 1060,
+      "psa9": 480
+     }
+    }
+   },
+   "ebay": {
+    "currency": "USD",
+    "graded": {
+     "ace": {
+      "10": {
+       "median_price": 424.78,
+       "sample_size": 3
+      },
+      "9": {
+       "median_price": 168.38,
+       "sample_size": 4
+      }
+     },
+     "cgc": {
+      "10": {
+       "median_price": 358.57,
+       "sample_size": 3
+      }
+     },
+     "psa": {
+      "10": {
+       "median_price": 1061.55,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 265.34,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 176.92,
+       "sample_size": 5
+      },
+      "7": {
+       "median_price": 76.97,
+       "sample_size": 1
+      }
+     },
+     "tag": {
+      "9": {
+       "median_price": 265.38,
+       "sample_size": 1
+      },
+      "8": {
+       "median_price": 159.02,
+       "sample_size": 1
+      }
+     }
+    }
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 232.18,
+    "mid_price": 208.33
+   }
+  },
+  "episode": {
+   "id": 50,
+   "name": "Cosmic Eclipse",
+   "slug": "cosmic-eclipse",
+   "released_at": "2019-11-01",
+   "logo": "https://images.tcggo.com/tcggo/storage/7403/cosmic-eclipse-logo.png",
+   "code": "CEC",
+   "cards_total": 272,
+   "cards_printed_total": 236,
+   "prices": {
+    "cardmarket": {
+     "total": 4980.92,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 5690.05,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 4,
+    "name": "Sun & Moon",
+    "slug": "sun-moon"
+   }
+  },
+  "artist": {
+   "id": 440,
+   "name": "Shibuzoh.",
+   "slug": "shibuzoh"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/7631/mega-lopunny-jigglypuff-gx-cec-226-cosmic-eclipse-pokemon.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/cosmic-eclipse/mega-lopunny-jigglypuff-gx-226",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/7562",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/7562"
+  }
+ },
+ {
+  "id": 7597,
+  "name": "Mega Lopunny & Jigglypuff-GX",
+  "name_numbered": "Mega Lopunny & Jigglypuff-GX 261",
+  "slug": "mega-lopunny-jigglypuff-gx",
+  "card_code_number": "CEC 261",
+  "type": "singles",
+  "card_number": 261,
+  "hp": 240,
+  "rarity": "Rare Rainbow",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "sm12-261",
+  "cardmarket_id": 410634,
+  "tcgplayer_id": 201287,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 75,
+    "lowest_near_mint_EU_only": 75,
+    "lowest_near_mint_DE": 50,
+    "lowest_near_mint_DE_EU_only": 50,
+    "lowest_near_mint_FR": 48,
+    "lowest_near_mint_FR_EU_only": 48,
+    "lowest_near_mint_ES": 65,
+    "lowest_near_mint_ES_EU_only": 65,
+    "lowest_near_mint_IT": 28,
+    "lowest_near_mint_IT_EU_only": 28,
+    "30d_average": 38.45,
+    "7d_average": 51.24,
+    "available_items": 72,
+    "graded": []
+   },
+   "ebay": {
+    "currency": "USD",
+    "graded": {
+     "ace": {
+      "10": {
+       "median_price": 102.62,
+       "sample_size": 2
+      },
+      "9": {
+       "median_price": 57.42,
+       "sample_size": 1
+      }
+     },
+     "cgc": {
+      "10": {
+       "median_price": 66.97,
+       "sample_size": 4
+      }
+     },
+     "psa": {
+      "10": {
+       "median_price": 331.96,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 60.56,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 43.96,
+       "sample_size": 1
+      }
+     }
+    }
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 68.07,
+    "mid_price": 63.99
+   }
+  },
+  "episode": {
+   "id": 50,
+   "name": "Cosmic Eclipse",
+   "slug": "cosmic-eclipse",
+   "released_at": "2019-11-01",
+   "logo": "https://images.tcggo.com/tcggo/storage/7403/cosmic-eclipse-logo.png",
+   "code": "CEC",
+   "cards_total": 272,
+   "cards_printed_total": 236,
+   "prices": {
+    "cardmarket": {
+     "total": 4980.92,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 5690.05,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 4,
+    "name": "Sun & Moon",
+    "slug": "sun-moon"
+   }
+  },
+  "artist": {
+   "id": 371,
+   "name": "aky CG Works",
+   "slug": "aky-cg-works"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/7665/mega-lopunny-jigglypuff-gx-cec-261-cosmic-eclipse-pokemon.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/cosmic-eclipse/mega-lopunny-jigglypuff-gx-261",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/7597",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/7597"
+  }
+ }
+]

@@ -1,0 +1,295 @@
+[
+ {
+  "id": 10740,
+  "name": "Pikachu",
+  "name_numbered": "Pikachu 26",
+  "slug": "pikachu",
+  "card_code_number": "GEN 26",
+  "type": "singles",
+  "card_number": 26,
+  "hp": 60,
+  "rarity": "Common",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "g1-26",
+  "cardmarket_id": 288464,
+  "tcgplayer_id": 113684,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 3.25,
+    "lowest_near_mint_EU_only": 3.25,
+    "lowest_near_mint_DE": 4.5,
+    "lowest_near_mint_DE_EU_only": 4.5,
+    "lowest_near_mint_FR": 4,
+    "lowest_near_mint_FR_EU_only": 4,
+    "lowest_near_mint_ES": 1.95,
+    "lowest_near_mint_ES_EU_only": 1.95,
+    "lowest_near_mint_IT": 4.9,
+    "lowest_near_mint_IT_EU_only": 4.9,
+    "30d_average": 3.53,
+    "7d_average": 3.2,
+    "available_items": 385,
+    "graded": []
+   },
+   "ebay": {
+    "currency": "USD",
+    "graded": {
+     "ace": {
+      "10": {
+       "median_price": 347.76,
+       "sample_size": 1
+      },
+      "8": {
+       "median_price": 51.22,
+       "sample_size": 1
+      },
+      "7": {
+       "median_price": 69.43,
+       "sample_size": 1
+      }
+     },
+     "cgc": {
+      "10": {
+       "median_price": 286.61,
+       "sample_size": 4
+      },
+      "9": {
+       "median_price": 17.27,
+       "sample_size": 5
+      },
+      "7": {
+       "median_price": 3.55,
+       "sample_size": 1
+      }
+     },
+     "psa": {
+      "10": {
+       "median_price": 743.38,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 163.83,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 89.72,
+       "sample_size": 5
+      },
+      "7": {
+       "median_price": 35.77,
+       "sample_size": 5
+      }
+     },
+     "tag": {
+      "7": {
+       "median_price": 75.83,
+       "sample_size": 1
+      }
+     }
+    }
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 14.26,
+    "mid_price": 2.1
+   }
+  },
+  "episode": {
+   "id": 75,
+   "name": "Generations",
+   "slug": "generations",
+   "released_at": "2016-02-22",
+   "logo": "https://images.tcggo.com/tcggo/storage/10803/generations-logo.png",
+   "code": "GEN",
+   "cards_total": 117,
+   "cards_printed_total": 83,
+   "prices": {
+    "cardmarket": {
+     "total": 1147.41,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 1392.5,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 5,
+    "name": "XY",
+    "slug": "xy"
+   }
+  },
+  "artist": {
+   "id": 514,
+   "name": "Atsuko Nishida",
+   "slug": "atsuko-nishida"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/10830/pikachu-gen-26-generations-pokemon.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/generations/pikachu-26",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/10740",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/10740"
+  }
+ },
+ {
+  "id": 10828,
+  "name": "Pikachu",
+  "name_numbered": "Pikachu RC29",
+  "slug": "pikachu",
+  "card_code_number": "GEN RC29",
+  "type": "singles",
+  "card_number": "RC29",
+  "hp": 60,
+  "rarity": "Rare Ultra",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "g1-RC29",
+  "cardmarket_id": 288538,
+  "tcgplayer_id": 113771,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 85,
+    "lowest_near_mint_EU_only": 85,
+    "lowest_near_mint_DE": 90,
+    "lowest_near_mint_DE_EU_only": 91.91,
+    "lowest_near_mint_FR": 70,
+    "lowest_near_mint_FR_EU_only": 70,
+    "lowest_near_mint_ES": 50,
+    "lowest_near_mint_ES_EU_only": 50,
+    "lowest_near_mint_IT": 99,
+    "lowest_near_mint_IT_EU_only": 99,
+    "30d_average": 73.07,
+    "7d_average": 74.06,
+    "available_items": null,
+    "graded": {
+     "psa": {
+      "psa9": 315,
+      "psa8": 120
+     }
+    }
+   },
+   "ebay": {
+    "currency": "USD",
+    "graded": {
+     "ace": {
+      "9": {
+       "median_price": 150.42,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 93.58,
+       "sample_size": 5
+      },
+      "7": {
+       "median_price": 82.36,
+       "sample_size": 4
+      }
+     },
+     "bgs": {
+      "9": {
+       "median_price": 341.21,
+       "sample_size": 5
+      }
+     },
+     "cgc": {
+      "10": {
+       "median_price": 2172.12,
+       "sample_size": 2
+      },
+      "9": {
+       "median_price": 222.27,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 74.4,
+       "sample_size": 5
+      }
+     },
+     "psa": {
+      "10": {
+       "median_price": 7062.15,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 327.83,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 169.48,
+       "sample_size": 5
+      },
+      "7": {
+       "median_price": 118.57,
+       "sample_size": 5
+      }
+     },
+     "sgc": {
+      "9": {
+       "median_price": 400,
+       "sample_size": 1
+      }
+     },
+     "tag": {
+      "9": {
+       "median_price": 947.81,
+       "sample_size": 1
+      },
+      "8": {
+       "median_price": 137.9,
+       "sample_size": 1
+      }
+     }
+    }
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 76.47,
+    "mid_price": 88
+   }
+  },
+  "episode": {
+   "id": 75,
+   "name": "Generations",
+   "slug": "generations",
+   "released_at": "2016-02-22",
+   "logo": "https://images.tcggo.com/tcggo/storage/10803/generations-logo.png",
+   "code": "GEN",
+   "cards_total": 117,
+   "cards_printed_total": 83,
+   "prices": {
+    "cardmarket": {
+     "total": 1147.41,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 1392.5,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 5,
+    "name": "XY",
+    "slug": "xy"
+   }
+  },
+  "artist": {
+   "id": 484,
+   "name": "Kagemaru Himeno",
+   "slug": "kagemaru-himeno"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/10918/pikachu-gen-rc29-generations-pokemon.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/generations/pikachu-rc29",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/10828",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/10828"
+  }
+ }
+]

@@ -1,0 +1,159 @@
+[
+ {
+  "id": 1397,
+  "name": "Bulbasaur",
+  "name_numbered": "Bulbasaur 143",
+  "slug": "bulbasaur",
+  "card_code_number": "SCR 143",
+  "type": "singles",
+  "card_number": 143,
+  "hp": 70,
+  "rarity": "Illustration Rare",
+  "supertype": "Pok\u00e9mon",
+  "tcgid": "sv7-143",
+  "cardmarket_id": 785997,
+  "tcgplayer_id": 567418,
+  "prices": {
+   "cardmarket": {
+    "currency": "EUR",
+    "lowest_near_mint": 79.93,
+    "lowest_near_mint_EU_only": 79.94,
+    "lowest_near_mint_DE": 66.5,
+    "lowest_near_mint_DE_EU_only": 66.5,
+    "lowest_near_mint_FR": 67,
+    "lowest_near_mint_FR_EU_only": 67,
+    "lowest_near_mint_ES": 97,
+    "lowest_near_mint_ES_EU_only": 97,
+    "lowest_near_mint_IT": 52,
+    "lowest_near_mint_IT_EU_only": 52,
+    "30d_average": 84.66,
+    "7d_average": 93.97,
+    "available_items": 429,
+    "graded": {
+     "psa": {
+      "psa10": 139,
+      "psa9": 119,
+      "psa8": 59
+     },
+     "cgc": {
+      "cgc10": 250
+     }
+    }
+   },
+   "ebay": {
+    "currency": "USD",
+    "graded": {
+     "ace": {
+      "10": {
+       "median_price": 147.67,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 79.67,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 59.97,
+       "sample_size": 3
+      }
+     },
+     "bgs": {
+      "9": {
+       "median_price": 95.64,
+       "sample_size": 2
+      }
+     },
+     "cgc": {
+      "10": {
+       "median_price": 169.03,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 118.21,
+       "sample_size": 3
+      }
+     },
+     "psa": {
+      "10": {
+       "median_price": 284.91,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 82.54,
+       "sample_size": 5
+      },
+      "8": {
+       "median_price": 73.27,
+       "sample_size": 5
+      },
+      "7": {
+       "median_price": 78.62,
+       "sample_size": 1
+      }
+     },
+     "sgc": {
+      "10": {
+       "median_price": 141.45,
+       "sample_size": 3
+      }
+     },
+     "tag": {
+      "10": {
+       "median_price": 293.58,
+       "sample_size": 5
+      },
+      "9": {
+       "median_price": 133.45,
+       "sample_size": 5
+      }
+     }
+    }
+   },
+   "tcg_player": {
+    "currency": "EUR",
+    "market_price": 87.74,
+    "mid_price": 93.51
+   }
+  },
+  "episode": {
+   "id": 10,
+   "name": "Stellar Crown",
+   "slug": "stellar-crown",
+   "released_at": "2024-09-13",
+   "logo": "https://images.tcggo.com/tcggo/storage/1257/stellar-crown-logo.png",
+   "code": "SCR",
+   "cards_total": 175,
+   "cards_printed_total": 142,
+   "prices": {
+    "cardmarket": {
+     "total": 393.3,
+     "currency": "EUR"
+    },
+    "tcgplayer": {
+     "total": 533.76,
+     "currency": "EUR"
+    }
+   },
+   "game": {
+    "name": "Pok\u00e9mon",
+    "slug": "pokemon"
+   },
+   "series": {
+    "id": 1,
+    "name": "Scarlet & Violet",
+    "slug": "scarlet-violet"
+   }
+  },
+  "artist": {
+   "id": 365,
+   "name": "Orca",
+   "slug": "orca"
+  },
+  "image": "https://images.tcggo.com/tcggo/storage/1401/bulbasaur-scr-143-stellar-crown-pokemon.png",
+  "tcggo_url": "https://www.tcggo.com/pokemon/stellar-crown/bulbasaur-143",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/1397",
+   "tcgplayer": "https://www.tcggo.com/external/tcgplayer/1397"
+  }
+ }
+]
