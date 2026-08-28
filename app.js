@@ -14,6 +14,7 @@ function priceSourceLabel(src) {
   if (src === "pricecharting") return "PriceCharting ungraded (converted to EUR)";
   if (src === "cardmarket-tcggo") return "Cardmarket 7-day average (EU)";
   if (src === "e-pick retail") return "e-pick retail price (NL)";
+  if (src === "pokemontcg.io-fallback") return "pokemontcg.io Cardmarket trend (may lag)";
   return "Cardmarket trend (EU)";
 }
 
@@ -159,6 +160,9 @@ function openModal(card) {
       : p.source === "e-pick retail" ? "View at e-pick"
       : "View on Cardmarket";
     links.push(`<a class="btn" href="${p.url}" target="_blank" rel="noopener">${label}</a>`);
+  } else if (card.links && card.links.cardmarket) {
+    // owner-verified Cardmarket link stored on the card (price block has no url)
+    links.push(`<a class="btn" href="${card.links.cardmarket}" target="_blank" rel="noopener">View on Cardmarket</a>`);
   }
   if (card.epick && card.epick.matched) {
     const best = (card.epick.products || []).reduce((a, b) => (Number(a.price) <= Number(b.price) ? a : b));
@@ -179,6 +183,7 @@ function openModal(card) {
       ${sub1 ? `<p class="sub">${sub1}</p>` : ""}
       ${sub2 ? `<p class="sub">${sub2}</p>` : ""}
       <div class="price-rows">${rows.join("") || '<div><span class="k">Price</span><span class="v">not priced yet</span></div>'}</div>
+      ${p.note ? `<p class="note">${p.note}</p>` : ""}
       ${modalEpickLine(card)}
       ${card.notes ? `<p class="note">${card.notes}</p>` : ""}
       <div class="modal-actions">${links.join("")}</div>
