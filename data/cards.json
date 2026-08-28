@@ -149,12 +149,25 @@
   "priority": "high",
   "set": "Crown Zenith",
   "number": "14",
-  "rarity": "VSTAR",
+  "rarity": "Rare Holo VSTAR",
   "apiId": "swsh12pt5-14",
   "price": {
    "trend": 3.61,
+   "trendLabel": "Cardmarket 7-day average",
+   "lowNm": 2.9,
+   "lowNmLabel": "lowest offer, Near Mint (EU)",
+   "countries": {
+    "DE": 3,
+    "FR": 5,
+    "ES": 3.5,
+    "IT": 1.49
+   },
+   "available": 300,
    "currency": "EUR",
    "source": "cardmarket-tcggo",
+   "url": "https://www.tcggo.com/external/cm/3637",
+   "tcggoUrl": "https://www.tcggo.com/pokemon/crown-zenith/leafeon-vstar-14",
+   "cardmarketId": 691731,
    "asOf": "2026-08-27"
   },
   "epick": {
@@ -288,8 +301,7 @@
    "currency": "EUR",
    "source": "e-pick retail",
    "url": "https://store.e-pick.xyz/products/psyduck-53",
-   "asOf": "2026-08-27",
-   "note": "pokemontcg.io trend (may lag; not in TCGGO coverage)"
+   "asOf": "2026-08-27"
   },
   "notes": "Set released Aug 2026; no Cardmarket market data yet. Price shown is e-pick retail (in stock there).",
   "epick": {
@@ -810,7 +822,7 @@
    "avg7": 27.28,
    "low": 4.99,
    "currency": "EUR",
-   "source": "cardmarket",
+   "source": "pokemontcg.io-fallback",
    "url": "https://prices.pokemontcg.io/cardmarket/xyp-XY113",
    "asOf": "2026-08-27",
    "note": "pokemontcg.io trend (may lag; not in TCGGO coverage)"
@@ -830,13 +842,26 @@
   "price": {
    "trend": 13.09,
    "trendLabel": "Cardmarket 7-day average",
+   "lowNm": 20,
+   "lowNmLabel": "lowest offer, Near Mint (EU)",
+   "countries": {
+    "DE": 8.47,
+    "FR": 8,
+    "ES": 17,
+    "IT": 6
+   },
+   "available": 213,
    "currency": "EUR",
    "source": "cardmarket-tcggo",
+   "url": "https://www.tcggo.com/external/cm/3128",
+   "tcggoUrl": "https://www.tcggo.com/pokemon/paldea-evolved/tinkatuff-217",
+   "cardmarketId": 715692,
    "asOf": "2026-08-27"
   },
   "epick": {
    "matched": false
-  }
+  },
+  "rarity": "Illustration Rare"
  },
  {
   "id": "20260606-WA0020",
@@ -847,15 +872,28 @@
   "language": "English",
   "priority": "high",
   "price": {
-   "trend": 27.0,
+   "trend": 27,
    "trendLabel": "Cardmarket 7-day average",
+   "lowNm": 34.9,
+   "lowNmLabel": "lowest offer, Near Mint (EU)",
+   "countries": {
+    "DE": 24.5,
+    "FR": 23,
+    "ES": 45,
+    "IT": 15.99
+   },
+   "available": 542,
    "currency": "EUR",
    "source": "cardmarket-tcggo",
+   "url": "https://www.tcggo.com/external/cm/3188",
+   "tcggoUrl": "https://www.tcggo.com/pokemon/paldea-evolved/iono-269",
+   "cardmarketId": 715744,
    "asOf": "2026-08-27"
   },
   "epick": {
    "matched": false
-  }
+  },
+  "rarity": "Special Illustration Rare"
  },
  {
   "id": "20260606-WA0021",
@@ -868,13 +906,26 @@
   "price": {
    "trend": 32.48,
    "trendLabel": "Cardmarket 7-day average",
+   "lowNm": 28.9,
+   "lowNmLabel": "lowest offer, Near Mint (EU)",
+   "countries": {
+    "DE": 19.95,
+    "FR": 17,
+    "ES": 34,
+    "IT": 13
+   },
+   "available": 199,
    "currency": "EUR",
    "source": "cardmarket-tcggo",
+   "url": "https://www.tcggo.com/external/cm/3186",
+   "tcggoUrl": "https://www.tcggo.com/pokemon/paldea-evolved/tinkaton-ex-262",
+   "cardmarketId": 715737,
    "asOf": "2026-08-27"
   },
   "epick": {
    "matched": false
-  }
+  },
+  "rarity": "Special Illustration Rare"
  },
  {
   "id": "20260606-WA0024",
@@ -887,13 +938,26 @@
   "price": {
    "trend": 101.52,
    "trendLabel": "Cardmarket 7-day average",
+   "lowNm": 109.25,
+   "lowNmLabel": "lowest offer, Near Mint (EU)",
+   "countries": {
+    "DE": 80,
+    "FR": 105,
+    "ES": 92.94,
+    "IT": 60
+   },
+   "available": 468,
    "currency": "EUR",
    "source": "cardmarket-tcggo",
+   "url": "https://www.tcggo.com/external/cm/22060",
+   "tcggoUrl": "https://www.tcggo.com/pokemon/journey-together/lillies-clefairy-ex-184",
+   "cardmarketId": 817337,
    "asOf": "2026-08-27"
   },
   "epick": {
    "matched": false
-  }
+  },
+  "rarity": "Special Illustration Rare"
  },
  {
   "id": "20260606-WA0033",
@@ -906,13 +970,26 @@
   "price": {
    "trend": 7.11,
    "trendLabel": "Cardmarket 7-day average",
+   "lowNm": 7.9,
+   "lowNmLabel": "lowest offer, Near Mint (EU)",
+   "countries": {
+    "DE": 5.5,
+    "FR": 6.5,
+    "ES": 9.89,
+    "IT": 2
+   },
+   "available": 304,
    "currency": "EUR",
    "source": "cardmarket-tcggo",
+   "url": "https://www.tcggo.com/external/cm/3406",
+   "tcggoUrl": "https://www.tcggo.com/pokemon/scarlet-violet/pawmot-209",
+   "cardmarketId": 702505,
    "asOf": "2026-08-27"
   },
   "epick": {
    "matched": false
-  }
+  },
+  "rarity": "Illustration Rare"
  },
  {
   "id": "20260606-WA0035",
@@ -923,16 +1000,15 @@
   "language": "English",
   "priority": "high",
   "price": {
-   "trend": 6.59,
-   "trendLabel": "Cardmarket 7-day average",
-   "currency": "EUR",
-   "source": "pokemontcg.io-fallback",
-   "asOf": "2026-08-27"
+   "trend": null,
+   "currency": null,
+   "source": null,
+   "asOf": "2026-08-28"
   },
   "epick": {
    "matched": false
   },
-  "notes": "Batch-2. Price via pokemontcg.io Cardmarket avg (TCGGO lookup failed)."
+  "notes": "Batch-2. Price via pokemontcg.io Cardmarket avg (TCGGO lookup failed). Identity under re-verification: Black Bolt #091 is listed as Petilil on pokemontcg.io/TCGGO, not Deerling. Price removed 2026-08-28 until the photo is re-checked; the number belongs to the other card. Previous price \u20ac6.59 (for the other card's listing)."
  },
  {
   "id": "20260606-WA0038",
@@ -945,8 +1021,20 @@
   "price": {
    "trend": 7.99,
    "trendLabel": "Cardmarket 7-day average",
+   "lowNm": 7.49,
+   "lowNmLabel": "lowest offer, Near Mint (EU)",
+   "countries": {
+    "DE": 5.9,
+    "FR": 7.5,
+    "ES": 8.7,
+    "IT": 5.5
+   },
+   "available": 1322,
    "currency": "EUR",
    "source": "cardmarket-tcggo",
+   "url": "https://www.tcggo.com/external/cm/35115",
+   "tcggoUrl": "https://www.tcggo.com/pokemon/chaos-rising/froakie-88",
+   "cardmarketId": 886480,
    "asOf": "2026-08-27"
   },
   "epick": {
@@ -969,7 +1057,8 @@
      "live": null
     }
    ]
-  }
+  },
+  "rarity": "Illustration Rare"
  },
  {
   "id": "20260606-WA0041",
@@ -980,16 +1069,15 @@
   "language": "English",
   "priority": "high",
   "price": {
-   "trend": 61.91,
-   "trendLabel": "Cardmarket 7-day average",
-   "currency": "EUR",
-   "source": "pokemontcg.io-fallback",
-   "asOf": "2026-08-27"
+   "trend": null,
+   "currency": null,
+   "source": null,
+   "asOf": "2026-08-28"
   },
   "epick": {
    "matched": false
   },
-  "notes": "Batch-2. Price via pokemontcg.io Cardmarket avg (TCGGO lookup failed)."
+  "notes": "Batch-2. Price via pokemontcg.io Cardmarket avg (TCGGO lookup failed). Identity under re-verification: Unified Minds #239 is listed as Slowpoke & Psyduck-GX on pokemontcg.io/TCGGO, not Piplup. Price removed 2026-08-28 until the photo is re-checked; the number belongs to the other card. Previous price \u20ac61.91 (for the other card's listing)."
  },
  {
   "id": "20260606-WA0045",
@@ -1001,15 +1089,28 @@
   "priority": "high",
   "price": {
    "trend": 8.03,
+   "trendLabel": "Cardmarket 7-day average",
+   "lowNm": 5.95,
+   "lowNmLabel": "lowest offer, Near Mint (EU)",
+   "countries": {
+    "DE": 7.9,
+    "FR": 8.4,
+    "ES": 13,
+    "IT": 3.8
+   },
+   "available": 200,
    "currency": "EUR",
    "source": "cardmarket-tcggo",
+   "url": "https://www.tcggo.com/external/cm/6032",
+   "tcggoUrl": "https://www.tcggo.com/pokemon/shining-fates/poke-kid-70",
+   "cardmarketId": 539373,
    "asOf": "2026-08-27"
   },
   "epick": {
    "matched": false,
    "products": []
   },
-  "rarity": "Trainer",
+  "rarity": "Rare Ultra",
   "apiId": "swsh45-70",
   "links": {
    "cardmarket": "https://www.tcggo.com/external/cm/539373"
@@ -1025,15 +1126,15 @@
   "language": "English",
   "priority": "high",
   "price": {
-   "trend": 106.02,
-   "currency": "EUR",
-   "source": "pricecharting",
-   "asOf": "2026-08-27"
+   "trend": null,
+   "currency": null,
+   "source": null,
+   "asOf": "2026-08-28"
   },
   "epick": {
    "matched": false
   },
-  "notes": "PriceCharting ungraded $123.49 x 0.85874 (2026-08-27). Earlier 54.00 was a bad fallback default."
+  "notes": "PriceCharting ungraded $123.49 x 0.85874 (2026-08-27). Earlier 54.00 was a bad fallback default. Identity under re-verification: Generations #RC29 is listed as Pikachu on pokemontcg.io/TCGGO, not Flareon-EX. Price removed 2026-08-28 until the photo is re-checked; the number belongs to the other card. Previous price \u20ac106.02 (PriceCharting, looked up by name \u2014 may still be right for the card if only the printed number is wrong)."
  },
  {
   "id": "20260606-WA0058",
@@ -1044,16 +1145,15 @@
   "language": "English",
   "priority": "high",
   "price": {
-   "trend": 0.83,
-   "trendLabel": "Cardmarket 7-day average",
-   "currency": "EUR",
-   "source": "pokemontcg.io-fallback",
-   "asOf": "2026-08-27"
+   "trend": null,
+   "currency": null,
+   "source": null,
+   "asOf": "2026-08-28"
   },
   "epick": {
    "matched": false
   },
-  "notes": "Batch-2. Price via pokemontcg.io Cardmarket avg (TCGGO lookup failed)."
+  "notes": "Batch-2. Price via pokemontcg.io Cardmarket avg (TCGGO lookup failed). Identity under re-verification: Generations #RC23 is listed as Swablu on pokemontcg.io/TCGGO, not Pikachu. Price removed 2026-08-28 until the photo is re-checked; the number belongs to the other card. Previous price \u20ac0.83 (for the other card's listing)."
  },
  {
   "id": "20260606-WA0065",
@@ -1064,16 +1164,15 @@
   "language": "English",
   "priority": "high",
   "price": {
-   "trend": 0.02,
-   "trendLabel": "Cardmarket 7-day average",
-   "currency": "EUR",
-   "source": "pokemontcg.io-fallback",
-   "asOf": "2026-08-27"
+   "trend": null,
+   "currency": null,
+   "source": null,
+   "asOf": "2026-08-28"
   },
   "epick": {
    "matched": false
   },
-  "notes": "Batch-2. Price via pokemontcg.io Cardmarket avg (TCGGO lookup failed)."
+  "notes": "Batch-2. Price via pokemontcg.io Cardmarket avg (TCGGO lookup failed). Identity under re-verification: Black Bolt #013 is listed as Darumaka on pokemontcg.io/TCGGO, not Bulbasaur. Price removed 2026-08-28 until the photo is re-checked; the number belongs to the other card. Previous price \u20ac0.02 (for the other card's listing)."
  },
  {
   "id": "20260629-WA0021",
@@ -1093,7 +1192,8 @@
   "epick": {
    "matched": false
   },
-  "notes": "Batch-2. Price via pokemontcg.io Cardmarket avg (TCGGO lookup failed)."
+  "notes": "Batch-2. Price via pokemontcg.io Cardmarket avg (TCGGO lookup failed).",
+  "rarity": "Trainer Gallery Rare Holo"
  },
  {
   "id": "20260827-WA0028",
@@ -1106,8 +1206,20 @@
   "price": {
    "trend": 14.12,
    "trendLabel": "Cardmarket 7-day average",
+   "lowNm": 11,
+   "lowNmLabel": "lowest offer, Near Mint (EU)",
+   "countries": {
+    "DE": 7.4,
+    "FR": 14.9,
+    "ES": 10,
+    "IT": 6.98
+   },
+   "available": 884,
    "currency": "EUR",
    "source": "cardmarket-tcggo",
+   "url": "https://www.tcggo.com/external/cm/22038",
+   "tcggoUrl": "https://www.tcggo.com/pokemon/journey-together/wailord-162",
+   "cardmarketId": 817314,
    "asOf": "2026-08-27"
   },
   "epick": {
@@ -1122,7 +1234,8 @@
      "live": null
     }
    ]
-  }
+  },
+  "rarity": "Illustration Rare"
  },
  {
   "id": "20260827-WA0029",
@@ -1135,8 +1248,20 @@
   "price": {
    "trend": 24.84,
    "trendLabel": "Cardmarket 7-day average",
+   "lowNm": 30,
+   "lowNmLabel": "lowest offer, Near Mint (EU)",
+   "countries": {
+    "DE": 22,
+    "FR": 29,
+    "ES": 19.75,
+    "IT": 11.49
+   },
+   "available": 687,
    "currency": "EUR",
    "source": "cardmarket-tcggo",
+   "url": "https://www.tcggo.com/external/cm/22270",
+   "tcggoUrl": "https://www.tcggo.com/pokemon/destined-rivals/mistys-lapras-194",
+   "cardmarketId": 826068,
    "asOf": "2026-08-27"
   },
   "epick": {
@@ -1151,7 +1276,8 @@
      "live": null
     }
    ]
-  }
+  },
+  "rarity": "Illustration Rare"
  },
  {
   "id": "20260827-WA0030",
@@ -1164,13 +1290,26 @@
   "price": {
    "trend": 6.58,
    "trendLabel": "Cardmarket 7-day average",
+   "lowNm": 4,
+   "lowNmLabel": "lowest offer, Near Mint (EU)",
+   "countries": {
+    "DE": 6.1,
+    "FR": 5,
+    "ES": 3.7,
+    "IT": 2.99
+   },
+   "available": 238,
    "currency": "EUR",
    "source": "cardmarket-tcggo",
+   "url": "https://www.tcggo.com/external/cm/1713",
+   "tcggoUrl": "https://www.tcggo.com/pokemon/twilight-masquerade/applin-185",
+   "cardmarketId": 769359,
    "asOf": "2026-08-27"
   },
   "epick": {
    "matched": false
-  }
+  },
+  "rarity": "Illustration Rare"
  },
  {
   "id": "20260606-WA0039",
@@ -1192,7 +1331,8 @@
   "epick": {
    "matched": false
   },
-  "notes": "Batch-2."
+  "notes": "Batch-2.",
+  "rarity": "Trainer Gallery Rare Holo"
  },
  {
   "id": "20260606-WA0042",
@@ -1213,7 +1353,8 @@
   "epick": {
    "matched": false
   },
-  "notes": "Batch-2. Price from Cardmarket product page (owner-verified)."
+  "notes": "Batch-2. Price from Cardmarket product page (owner-verified).",
+  "rarity": "Illustration Rare"
  },
  {
   "id": "20260606-WA0043",
@@ -1234,7 +1375,8 @@
   "epick": {
    "matched": false
   },
-  "notes": "Batch-2. Price from Cardmarket product page (owner-verified)."
+  "notes": "Batch-2. Price from Cardmarket product page (owner-verified).",
+  "rarity": "Illustration Rare"
  },
  {
   "id": "20260606-WA0046",
@@ -1301,7 +1443,8 @@
   "epick": {
    "matched": false
   },
-  "notes": "Batch-2. Ungraded $133.36 converted at USD/EUR 0.85874 (2026-08-27)."
+  "notes": "Batch-2. Ungraded $133.36 converted at USD/EUR 0.85874 (2026-08-27).",
+  "rarity": "Rare Ultra"
  },
  {
   "id": "20260629-WA0020",
@@ -1333,6 +1476,7 @@
     }
    ]
   },
-  "notes": "Batch-2."
+  "notes": "Batch-2.",
+  "rarity": "Illustration Rare"
  }
 ]
