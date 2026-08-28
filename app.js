@@ -185,7 +185,6 @@ function openModal(card) {
       <div class="price-rows">${rows.join("") || '<div><span class="k">Price</span><span class="v">not priced yet</span></div>'}</div>
       ${p.note ? `<p class="note">${p.note}</p>` : ""}
       ${modalEpickLine(card)}
-      ${card.notes ? `<p class="note">${card.notes}</p>` : ""}
       <div class="modal-actions">${links.join("")}</div>
     </div>`;
   modal.showModal();
