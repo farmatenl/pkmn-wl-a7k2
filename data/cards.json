@@ -96,14 +96,14 @@
   },
   "epick": {
    "matched": true,
-   "verifiedBy": "hermes",
    "products": [
     {
+     "handle": "lapras-18",
      "url": "https://store.e-pick.xyz/products/lapras-18",
-     "title": "Lapras",
-     "price": "30.00",
+     "title": "Lapras GG05",
+     "price": 30.0,
      "available": false,
-     "condition": "Near Mint"
+     "live": null
     }
    ]
   }
@@ -147,32 +147,21 @@
   "name": "Leafeon VSTAR",
   "language": "English",
   "priority": "high",
-  "set": "Crown Zenith Galarian Gallery",
-  "number": "GG35",
-  "rarity": "Rare Holo VSTAR",
-  "apiId": "swsh12pt5gg-GG35",
+  "set": "Crown Zenith",
+  "number": "14",
+  "rarity": "VSTAR",
+  "apiId": "swsh12pt5-14",
   "price": {
-   "trend": 76.13,
-   "trendLabel": "Cardmarket 7-day average",
-   "lowNm": 75,
-   "lowNmLabel": "lowest offer, Near Mint (EU)",
-   "countries": {
-    "DE": 74.95,
-    "FR": 109.99,
-    "ES": 76.99,
-    "IT": 45
-   },
-   "available": 258,
+   "trend": 3.61,
    "currency": "EUR",
    "source": "cardmarket-tcggo",
-   "url": "https://www.tcggo.com/external/cm/3818",
-   "tcggoUrl": "https://www.tcggo.com/pokemon/crown-zenith/leafeon-vstar-gg35",
-   "cardmarketId": 691915,
    "asOf": "2026-08-27"
   },
   "epick": {
-   "matched": false
-  }
+   "matched": false,
+   "products": []
+  },
+  "notes": "Crown Zenith #14 per batch-1 visual disambiguation; e-pick stocks GG35 (different print), not this."
  },
  {
   "id": "20260626-WA0007",
@@ -961,7 +950,25 @@
    "asOf": "2026-08-27"
   },
   "epick": {
-   "matched": false
+   "matched": true,
+   "products": [
+    {
+     "handle": "froakie-3",
+     "url": "https://store.e-pick.xyz/products/froakie-3",
+     "title": "Froakie (NM)",
+     "price": 10.0,
+     "available": false,
+     "live": null
+    },
+    {
+     "handle": "froakie-4",
+     "url": "https://store.e-pick.xyz/products/froakie-4",
+     "title": "Froakie (M)",
+     "price": 10.0,
+     "available": false,
+     "live": null
+    }
+   ]
   }
  },
  {
@@ -987,21 +994,27 @@
  {
   "id": "20260606-WA0045",
   "image": "images/IMG-20260606-WA0045.jpg",
-  "name": "Poke Kid",
+  "name": "Pok\u00e9 Kid",
   "set": "Shining Fates",
-  "number": "070",
+  "number": "070/072",
   "language": "English",
   "priority": "high",
   "price": {
    "trend": 8.03,
-   "trendLabel": "Cardmarket 7-day average",
    "currency": "EUR",
    "source": "cardmarket-tcggo",
    "asOf": "2026-08-27"
   },
   "epick": {
-   "matched": false
-  }
+   "matched": false,
+   "products": []
+  },
+  "rarity": "Trainer",
+  "apiId": "swsh45-70",
+  "links": {
+   "cardmarket": "https://www.tcggo.com/external/cm/539373"
+  },
+  "notes": "Owner-confirmed Pok\u00e9 Kid 070/072 (Shining Fates). Cardmarket 7d avg EUR 8.03 via TCGGO (cm id 539373)."
  },
  {
   "id": "20260606-WA0055",
@@ -1012,16 +1025,15 @@
   "language": "English",
   "priority": "high",
   "price": {
-   "trend": 54.0,
-   "trendLabel": "Cardmarket 7-day average",
+   "trend": 106.02,
    "currency": "EUR",
-   "source": "pokemontcg.io-fallback",
+   "source": "pricecharting",
    "asOf": "2026-08-27"
   },
   "epick": {
    "matched": false
   },
-  "notes": "Batch-2. Price via pokemontcg.io Cardmarket avg (TCGGO lookup failed)."
+  "notes": "PriceCharting ungraded $123.49 x 0.85874 (2026-08-27). Earlier 54.00 was a bad fallback default."
  },
  {
   "id": "20260606-WA0058",
@@ -1099,7 +1111,17 @@
    "asOf": "2026-08-27"
   },
   "epick": {
-   "matched": false
+   "matched": true,
+   "products": [
+    {
+     "handle": "wailord-5",
+     "url": "https://store.e-pick.xyz/products/wailord-5",
+     "title": "Wailord JTG 162",
+     "price": 15.0,
+     "available": false,
+     "live": null
+    }
+   ]
   }
  },
  {
@@ -1118,7 +1140,17 @@
    "asOf": "2026-08-27"
   },
   "epick": {
-   "matched": false
+   "matched": true,
+   "products": [
+    {
+     "handle": "mistys-lapras-2",
+     "url": "https://store.e-pick.xyz/products/mistys-lapras-2",
+     "title": "Misty's Lapras DRI 194",
+     "price": 40.0,
+     "available": true,
+     "live": null
+    }
+   ]
   }
  },
  {
@@ -1209,46 +1241,46 @@
   "image": "images/IMG-20260606-WA0046.jpg",
   "name": "Mega Lopunny & Jigglypuff GX",
   "set": "Cosmic Eclipse",
-  "number": "226",
+  "number": "225/236",
   "language": "English",
   "priority": "high",
   "price": {
-   "trend": 134.85,
-   "trendLabel": "Cardmarket 7-day average",
+   "trend": 46.57,
    "currency": "EUR",
    "source": "cardmarket-tcggo",
-   "asOf": "2026-08-27",
-   "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Cosmic-Eclipse/Mega-Lopunny-Jigglypuff-GX-V3-CEC226",
-   "lowNm": 270.0,
-   "lowNmLabel": "lowest offer, Near Mint (EU)"
+   "asOf": "2026-08-27"
   },
   "epick": {
    "matched": false
   },
-  "notes": "Batch-2. Rainbow secret; TCGGO 7d matches Cardmarket page exactly."
+  "notes": "Half-art printing; printed number verified from photo 2026-08-27.",
+  "rarity": "Ultra Rare",
+  "links": {
+   "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Cosmic-Eclipse/Mega-Lopunny-Jigglypuff-GX-V2-CEC225"
+  }
  },
  {
   "id": "20260606-WA0047",
   "image": "images/IMG-20260606-WA0047.jpg",
   "name": "Mega Lopunny & Jigglypuff GX",
   "set": "Cosmic Eclipse",
-  "number": "225",
+  "number": "226/236",
   "language": "English",
   "priority": "high",
   "price": {
-   "trend": 46.57,
-   "trendLabel": "Cardmarket 7-day average",
+   "trend": 134.85,
    "currency": "EUR",
    "source": "cardmarket-tcggo",
-   "asOf": "2026-08-27",
-   "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Cosmic-Eclipse/Mega-Lopunny-Jigglypuff-GX-V2-CEC225",
-   "lowNm": 32.0,
-   "lowNmLabel": "lowest offer, Near Mint (EU)"
+   "asOf": "2026-08-27"
   },
   "epick": {
    "matched": false
   },
-  "notes": "Batch-2. Full art."
+  "notes": "Floral full art; printed number verified from photo 2026-08-27. CM 7-day EUR 134.85 matches TCGGO exactly.",
+  "rarity": "Alternate Art",
+  "links": {
+   "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Cosmic-Eclipse/Mega-Lopunny-Jigglypuff-GX-V3-CEC226"
+  }
  },
  {
   "id": "20260606-WA0051",
@@ -1289,7 +1321,17 @@
    "lowNmLabel": "lowest offer, Near Mint (EU)"
   },
   "epick": {
-   "matched": false
+   "matched": true,
+   "products": [
+    {
+     "handle": "stufful-1",
+     "url": "https://store.e-pick.xyz/products/stufful-1",
+     "title": "Stufful MEG 154",
+     "price": 6.0,
+     "available": false,
+     "live": null
+    }
+   ]
   },
   "notes": "Batch-2."
  }

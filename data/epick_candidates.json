@@ -1,0 +1,215 @@
+{
+ "20260606-WA0056": {
+  "card": "Lapras \u2014 Crown Zenith Galarian Gallery #GG05",
+  "candidates": [
+   {
+    "handle": "lapras-18",
+    "title": "Lapras",
+    "price": 0.3,
+    "available": false,
+    "url": "https://store.e-pick.xyz/products/lapras-18"
+   }
+  ]
+ },
+ "20260606-WA0063": {
+  "card": "Beedrill V \u2014 Astral Radiance #161",
+  "candidates": []
+ },
+ "20260608-WA0026": {
+  "card": "Leafeon VSTAR \u2014 Crown Zenith Galarian Gallery #GG35",
+  "candidates": [
+   {
+    "handle": "leafeon-vstar-7",
+    "title": "Leafeon VSTAR",
+    "price": 0.8,
+    "available": true,
+    "url": "https://store.e-pick.xyz/products/leafeon-vstar-7"
+   }
+  ]
+ },
+ "20260626-WA0007": {
+  "card": "Horsea \u2014 Shrouded Fable #67",
+  "candidates": []
+ },
+ "20260629-WA0025": {
+  "card": "Vaporeon \u2014 Brilliant Stars Trainer Gallery #TG02",
+  "candidates": []
+ },
+ "20260719-WA0003": {
+  "card": "Lisia's Appeal \u2014 Surging Sparks #246",
+  "candidates": []
+ },
+ "20260719-WA0005": {
+  "card": "Team Rocket's Meowth \u2014 Destined Rivals #203",
+  "candidates": []
+ },
+ "20260719-WA0007": {
+  "card": "Tepig \u2014 White Flare #96",
+  "candidates": []
+ },
+ "20260719-WA0010": {
+  "card": "Dwebble \u2014 Black Bolt #129",
+  "candidates": []
+ },
+ "20260803-WA0004": {
+  "card": "Marnie's Morpeko \u2014 Scarlet & Violet Promos #206",
+  "candidates": []
+ },
+ "20260803-WA0007": {
+  "card": "Pikachu \u2014 Scarlet & Violet Black Star Promos #88",
+  "candidates": []
+ },
+ "20260803-WA0012": {
+  "card": "Chansey \u2014 Twilight Masquerade #187",
+  "candidates": []
+ },
+ "20260827-WA0016": {
+  "card": "Foongus \u2014 Black Bolt #95",
+  "candidates": []
+ },
+ "20260827-WA0017": {
+  "card": "Whimsicott ex \u2014 White Flare #165",
+  "candidates": []
+ },
+ "20260827-WA0018": {
+  "card": "Maushold \u2014 Paldea Evolved #226",
+  "candidates": []
+ },
+ "20260827-WA0019": {
+  "card": "Dedenne GX \u2014 Unbroken Bonds #195",
+  "candidates": []
+ },
+ "20260827-WA0020": {
+  "card": "Mew \u2014 Crown Zenith Galarian Gallery #GG10",
+  "candidates": []
+ },
+ "20260827-WA0021": {
+  "card": "Manaphy \u2014 XY Black Star Promos #XY113",
+  "candidates": []
+ },
+ "20260606-WA0033": {
+  "card": "Pawmot \u2014 Scarlet & Violet #209",
+  "candidates": []
+ },
+ "20260606-WA0035": {
+  "card": "Deerling \u2014 Black Bolt #091",
+  "candidates": []
+ },
+ "20260606-WA0038": {
+  "card": "Froakie \u2014 Chaos Rising #088",
+  "candidates": [
+   {
+    "handle": "froakie-38",
+    "title": "Froakie",
+    "price": 0.1,
+    "available": false,
+    "url": "https://store.e-pick.xyz/products/froakie-38"
+   },
+   {
+    "handle": "froakie-34",
+    "title": "Froakie",
+    "price": 0.1,
+    "available": false,
+    "url": "https://store.e-pick.xyz/products/froakie-34"
+   },
+   {
+    "handle": "froakie-33",
+    "title": "Froakie",
+    "price": 0.1,
+    "available": false,
+    "url": "https://store.e-pick.xyz/products/froakie-33"
+   },
+   {
+    "handle": "froakie-32",
+    "title": "Froakie",
+    "price": 0.1,
+    "available": false,
+    "url": "https://store.e-pick.xyz/products/froakie-32"
+   }
+  ]
+ },
+ "20260606-WA0041": {
+  "card": "Piplup \u2014 Unified Minds #239",
+  "candidates": []
+ },
+ "20260606-WA0045": {
+  "card": "Poke Kid \u2014 Shining Fates #070",
+  "candidates": []
+ },
+ "20260606-WA0055": {
+  "card": "Flareon-EX \u2014 Generations #RC29",
+  "candidates": []
+ },
+ "20260606-WA0058": {
+  "card": "Pikachu \u2014 Generations #RC23",
+  "candidates": []
+ },
+ "20260606-WA0065": {
+  "card": "Bulbasaur \u2014 Black Bolt #013",
+  "candidates": []
+ },
+ "20260629-WA0021": {
+  "card": "Altaria \u2014 Crown Zenith Galarian Gallery #GG19",
+  "candidates": []
+ },
+ "20260827-WA0028": {
+  "card": "Wailord \u2014 Journey Together #162",
+  "candidates": [
+   {
+    "handle": "wailord-13",
+    "title": "Wailord",
+    "price": 0.15,
+    "available": false,
+    "url": "https://store.e-pick.xyz/products/wailord-13"
+   }
+  ]
+ },
+ "20260827-WA0029": {
+  "card": "Misty's Lapras \u2014 Destined Rivals #194",
+  "candidates": [
+   {
+    "handle": "mistys-lapras-4",
+    "title": "Misty's Lapras",
+    "price": 0.4,
+    "available": true,
+    "url": "https://store.e-pick.xyz/products/mistys-lapras-4"
+   }
+  ]
+ },
+ "20260827-WA0030": {
+  "card": "Applin \u2014 Twilight Masquerade #185",
+  "candidates": []
+ },
+ "20260606-WA0039": {
+  "card": "Keldeo \u2014 Crown Zenith Galarian Gallery #GG07",
+  "candidates": []
+ },
+ "20260606-WA0042": {
+  "card": "Lillipup \u2014 White Flare #154",
+  "candidates": []
+ },
+ "20260606-WA0043": {
+  "card": "Milcery \u2014 Stellar Crown #152",
+  "candidates": []
+ },
+ "20260606-WA0046": {
+  "card": "Mega Lopunny & Jigglypuff GX \u2014 Cosmic Eclipse #226",
+  "candidates": []
+ },
+ "20260606-WA0051": {
+  "card": "Sylveon-EX \u2014 Generations #RC32",
+  "candidates": []
+ },
+ "20260629-WA0020": {
+  "card": "Stufful \u2014 Mega Evolution #154",
+  "candidates": [
+   {
+    "handle": "stufful-12",
+    "title": "Stufful",
+    "price": 0.06,
+    "available": false,
+    "url": "https://store.e-pick.xyz/products/stufful-12"
+   }
+  ]
+ }
+}
